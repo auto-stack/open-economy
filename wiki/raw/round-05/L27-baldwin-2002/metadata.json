@@ -1,0 +1,23 @@
+{
+  "id": "L27-baldwin-2002",
+  "requested_url": "https://users.nber.org/~confer/2002/orgec02/baldwin.pdf",
+  "retrieved_at_utc": "2026-11-11T11:59:24.447630+00:00",
+  "status_code": 200,
+  "final_url": "https://users.nber.org/~confer/2002/orgec02/baldwin.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 176634,
+  "sha256": "757ee04d41fa0e0072d383e0561ce9a274d1da5b8eb83eeb9a5895d57232b334",
+  "pdf_pages": 46,
+  "download_status": "downloaded",
+  "extracted_chars": 118720,
+  "source_id": "L27",
+  "directory": "L27-baldwin-2002",
+  "author": "Carliss Y. Baldwin; Kim B. Clark",
+  "title": "Where Do Transactions Come From? A Perspective from Engineering Design",
+  "publication_year": 2002,
+  "archived_version": "NBER conference draft dated 2002-09-26; not Baldwin 2008 journal article",
+  "reading_scope": "Draft pp.1-2,10-12,19-24; transfers, transactions and encapsulation",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

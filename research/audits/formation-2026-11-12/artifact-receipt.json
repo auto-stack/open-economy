@@ -1,0 +1,132 @@
+{
+  "date_local": "2026-11-12",
+  "artifacts": [
+    {
+      "path": "README.md",
+      "sha256": "a1ff5ae4f5de9deb1aa40624d3a59c32c6df387a1b81cbbbafeafe5d5606d3a7",
+      "bytes": 8459
+    },
+    {
+      "path": "book/README.md",
+      "sha256": "e9d228d5923e71763ceb3a2037442ec4e65c1a24a486f8de48e2155593471ca4",
+      "bytes": 16626
+    },
+    {
+      "path": "book/outline.md",
+      "sha256": "54f1234e2cec1553bb1affd826476857b5452fee39bb851ee34b60d554fa5006",
+      "bytes": 10800
+    },
+    {
+      "path": "book/argument-map.md",
+      "sha256": "c61bd4ef45a3803d9f324476cb9761f8f5e9cd95e3c814365d7d4af0024cc801",
+      "bytes": 7284
+    },
+    {
+      "path": "docs/charter.md",
+      "sha256": "25a8d436f4cf3b1964c20d75d7c1fc4d7fc2e891a0e9a325f2da2c87051a531a",
+      "bytes": 17078
+    },
+    {
+      "path": "docs/research-dependencies.md",
+      "sha256": "9e9926066bdbe2878707a98e4220e1f80c5bb1e9b6c342296dbe0976f0c46e0c",
+      "bytes": 17156
+    },
+    {
+      "path": "shared/concept-interfaces.md",
+      "sha256": "696e2da0c3b06b39d6306f0fbe09c0dcd622f85dc9dc7290cbfeb374487ee98e",
+      "bytes": 7310
+    },
+    {
+      "path": "research/README.md",
+      "sha256": "7f5442641d37529e4e166e75cda5060d00ac1c39a6eb3e6da858f0a2ef5368ff",
+      "bytes": 22338
+    },
+    {
+      "path": "wiki/raw/README.md",
+      "sha256": "6cc98a3d705d90686708b3a7bd60a64f33ea74227f9cf870bc079e75b4e242cb",
+      "bytes": 9399
+    },
+    {
+      "path": "wiki/raw/round-34/README.md",
+      "sha256": "d6b2be50640b48bcc9f8e8fff9bdc0112c1ac83df16397aa7dfd86f358e410b3",
+      "bytes": 2249
+    },
+    {
+      "path": "research/reviews/34-formation-maintenance-and-chapter-revision.md",
+      "sha256": "4177d37404a7ab2d941bec114406d5dd7b38a78dc6990d1a7387a35bd9fddc4d",
+      "bytes": 3753
+    },
+    {
+      "path": "research/surveys/07-organization-formation/README.md",
+      "sha256": "768d11f76eb6d865fe0fe5b3f394c70d373b9804beb346d630e96ac43a4f8b7d",
+      "bytes": 7109
+    },
+    {
+      "path": "research/surveys/07-organization-formation/reading-notes.md",
+      "sha256": "971cb1020d5173494e35a6c571ef54e0b42367ab869f85b8423a48a3ff70263e",
+      "bytes": 2949
+    },
+    {
+      "path": "research/surveys/07-organization-formation/search-and-selection.md",
+      "sha256": "2e86d0cbf0a1e3adc8fde5072fe1820b10a68042448943d2b43d753e680a3355",
+      "bytes": 1985
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/protocol.md",
+      "sha256": "9b8ce6120a6f7e4f266c3a231290811ddb6e51b7bd9db2988b3bb574ad308ed3",
+      "bytes": 6091
+    },
+    {
+      "path": "research/surveys/01-organization-maintenance/protocol.md",
+      "sha256": "74335f0ed5663c993b9d175bec32fdeb51d59285e293bd6c5b17583b7206bb3b",
+      "bytes": 8010
+    },
+    {
+      "path": "research/surveys/01-organization-maintenance/presearch-2026-11-12/README.md",
+      "sha256": "7d66fb4e689c721f8cf5ab1d42011c02d76ca7d562c46d6b454147ce0215a961",
+      "bytes": 3636
+    },
+    {
+      "path": "book/part-03/01-cooperation-and-common-capabilities.md",
+      "sha256": "0a0620c7234d618508c24e738e6876ec3c52ab49b0ed7123ef80d1360c617268",
+      "bytes": 10835
+    },
+    {
+      "path": "book/part-03/02-revisable-shared-commitments.md",
+      "sha256": "d5bb2d555255d2f31721825ea76b9e8875af8f5951f344610e771e905a653b73",
+      "bytes": 7036
+    },
+    {
+      "path": "book/part-03/03-rules-power-and-common-purposes.md",
+      "sha256": "88a7bc79ad67c0bcf01657bf474c6cac5e8a2ba97922eb8a5b185c5b7cd37295",
+      "bytes": 7853
+    },
+    {
+      "path": "book/part-04/01-formation-and-continuity.md",
+      "sha256": "da0ebc3eb116fe7cd8cc04a79624b5350298bdf70edef3525f88b0e0b3ffc41d",
+      "bytes": 7115
+    },
+    {
+      "path": "book/argument-cards/part-03-01-cooperation-and-common-capabilities.md",
+      "sha256": "3bb7c1587bcbbeac4d70b69764b5fa3c4c584c9c5e73aaf030d8cb884896159c",
+      "bytes": 3555
+    },
+    {
+      "path": "book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "sha256": "14e4373dd51a364e15f9585025d3e74bc8d73b9c5cebeba780babc69aa7d1c1b",
+      "bytes": 2588
+    },
+    {
+      "path": "book/argument-cards/part-03-03-rules-power-and-common-purposes.md",
+      "sha256": "745254c3eeed607a35c7c8cd38434be9fde1c041e525991850b99e57296e9ae7",
+      "bytes": 2749
+    },
+    {
+      "path": "book/argument-cards/part-04-01-formation-and-continuity.md",
+      "sha256": "418008bf35e1de637138f1cddbee88ac756e6d3c1d911658107f602418779681",
+      "bytes": 2130
+    }
+  ],
+  "source_manifest": "wiki/raw/round-34/manifest.json",
+  "metadata_only_pilot_csv": "research/surveys/01-organization-maintenance/presearch-2026-11-12/candidate-records.csv"
+}

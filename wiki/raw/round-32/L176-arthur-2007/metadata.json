@@ -1,0 +1,29 @@
+{
+  "id": "L176-arthur-2007",
+  "title": "The Structure of Invention",
+  "authors": "W.Brian Arthur",
+  "publication": "ResearchPolicy36,2007,274-287;author institute copy",
+  "url": "https://sites.santafe.edu/~wbarthur/Papers/Invention-Arthur.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1abstract/intro,PDF2selections,PDF11interaction/section7opening;not all cases or priority claims",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 14,
+  "sha256": "6cbb8ce1bff83e1ae6c007878c4c4d1e7a20590b45ea95b5cb62c708fb5a753b",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://sites.santafe.edu/~wbarthur/Papers/Invention-Arthur.pdf",
+  "status_code": 200,
+  "bytes": 213786,
+  "retrieved_at_utc": "2026-11-12T06:49:12.353762+00:00",
+  "actual_version": "ResearchPolicy36,2007,274-287;14page author-institute journal copy",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 213786,
+    "sha256": "6cbb8ce1bff83e1ae6c007878c4c4d1e7a20590b45ea95b5cb62c708fb5a753b"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "L153-bloom-et-al-2010",
+  "title": "The Distinct Effects of Information Technology and Communication Technology on Firm Organization",
+  "authors": "Bloom; Garicano; Sadun; Van Reenen",
+  "publication": "Author-hosted PDF; actual internal version to inspect",
+  "url": "https://raffaellasadun.com/papers/bloom-et-al-2014-it-and-ct-firm-organization.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-3,7-9;PDF2 visually checked;empirical associations and IV direction from abstract only;not regression tables or identification details",
+  "selection_status": "targeted_original_working_paper_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 58,
+  "sha256": "8f7aa6fe211673fe3f9476b48b5178202ca3e64ca29626b060791ee2a0df818c",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_internal_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://raffaellasadun.com/papers/bloom-et-al-2014-it-and-ct-firm-organization.pdf",
+  "status_code": 200,
+  "bytes": 992476,
+  "retrieved_at_utc": "2026-11-12T05:45:44.934775+00:00",
+  "actual_version": "HBSWorkingPaper11-023;6September2010;58pages;author URL says2014 but file is2010",
+  "doi_of_later_journal_version": "10.1287/mnsc.2014.2013",
+  "later_journal_scope": "2014official abstract in discovery only;2014 original PDF failed",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/communication-reading-notes.md",
+  "knowledge_base_status": "raw provenance archived;not converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 992476,
+      "sha256": "8f7aa6fe211673fe3f9476b48b5178202ca3e64ca29626b060791ee2a0df818c"
+    }
+  ]
+}

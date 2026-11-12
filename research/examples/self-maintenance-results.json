@@ -1,0 +1,235 @@
+{
+  "kind": "project_constructed_model",
+  "empirical_data": false,
+  "parameters": {
+    "delta": 0.1,
+    "k": 1.0,
+    "d": 0.1,
+    "error_limit": 0.25
+  },
+  "integration": "RK4; dt=0.01; horizon=50 abstract time units",
+  "scope": "e is task error; q and m are bounded functional capacities, not material or energy quantities. g is an externally conditioned effective maintenance rate. No physical energy budget or biological implementation is modeled. Crossing the task limit is not death.",
+  "assumptions": "Maintenance of q by m and of m by q is stipulated. Gains saturate; losses are linear; external conditions and coefficients are fixed; error does not feed back into capacities.",
+  "results": [
+    {
+      "name": "regulation_without_maintenance",
+      "g": 0.3,
+      "mode": "none",
+      "initial": [
+        0.125,
+        0.8,
+        0.8
+      ],
+      "samples": [
+        {
+          "t": 0.0,
+          "error": 0.125,
+          "q": 0.8,
+          "m": 0.8
+        },
+        {
+          "t": 5.0,
+          "error": 0.17545560565597232,
+          "q": 0.48522452777010927,
+          "m": 0.48522452777010927
+        },
+        {
+          "t": 10.0,
+          "error": 0.2662891449444199,
+          "q": 0.2943035529371563,
+          "m": 0.2943035529371563
+        },
+        {
+          "t": 20.0,
+          "error": 0.5648996013086093,
+          "q": 0.10826822658929194,
+          "m": 0.10826822658929194
+        },
+        {
+          "t": 50.0,
+          "error": 2.52925963049726,
+          "q": 0.0053903575992685915,
+          "m": 0.0053903575992685915
+        }
+      ],
+      "first_error_limit_crossing_approx": 9.226793241178967,
+      "max_sample_difference_dt_002_vs_001": 1.5616674620133608e-12
+    },
+    {
+      "name": "mutual_maintenance",
+      "g": 0.3,
+      "mode": "mutual",
+      "initial": [
+        0.125,
+        0.8,
+        0.8
+      ],
+      "samples": [
+        {
+          "t": 0.0,
+          "error": 0.125,
+          "q": 0.8,
+          "m": 0.8
+        },
+        {
+          "t": 5.0,
+          "error": 0.13755500281635719,
+          "q": 0.7102120698978843,
+          "m": 0.7102120698978843
+        },
+        {
+          "t": 10.0,
+          "error": 0.14524805453052195,
+          "q": 0.6820509258724635,
+          "m": 0.6820509258724635
+        },
+        {
+          "t": 20.0,
+          "error": 0.14934735406291821,
+          "q": 0.6687079689468772,
+          "m": 0.6687079689468772
+        },
+        {
+          "t": 50.0,
+          "error": 0.14999837858313841,
+          "q": 0.6666717111414763,
+          "m": 0.6666717111414763
+        }
+      ],
+      "first_error_limit_crossing_approx": null,
+      "max_sample_difference_dt_002_vs_001": 4.008737786165284e-13
+    },
+    {
+      "name": "maintenance_below_losses",
+      "g": 0.08,
+      "mode": "mutual",
+      "initial": [
+        0.125,
+        0.8,
+        0.8
+      ],
+      "samples": [
+        {
+          "t": 0.0,
+          "error": 0.125,
+          "q": 0.8,
+          "m": 0.8
+        },
+        {
+          "t": 5.0,
+          "error": 0.16237996741012298,
+          "q": 0.5548935921937136,
+          "m": 0.5548935921937136
+        },
+        {
+          "t": 10.0,
+          "error": 0.21476809804794547,
+          "q": 0.414531057868458,
+          "m": 0.414531057868458
+        },
+        {
+          "t": 20.0,
+          "error": 0.3338618737290736,
+          "q": 0.26095490909423535,
+          "m": 0.26095490909423535
+        },
+        {
+          "t": 50.0,
+          "error": 0.8215875067684945,
+          "q": 0.09736169664453917,
+          "m": 0.09736169664453917
+        }
+      ],
+      "first_error_limit_crossing_approx": 13.128825891199337,
+      "max_sample_difference_dt_002_vs_001": 1.1833034552211075e-12
+    },
+    {
+      "name": "one_maintenance_path_removed",
+      "g": 0.3,
+      "mode": "cut_q",
+      "initial": [
+        0.125,
+        0.8,
+        0.8
+      ],
+      "samples": [
+        {
+          "t": 0.0,
+          "error": 0.125,
+          "q": 0.8,
+          "m": 0.8
+        },
+        {
+          "t": 5.0,
+          "error": 0.17545560565597232,
+          "q": 0.48522452777010927,
+          "m": 0.6781673756209875
+        },
+        {
+          "t": 10.0,
+          "error": 0.2662891449444199,
+          "q": 0.2943035529371563,
+          "m": 0.5760676045686454
+        },
+        {
+          "t": 20.0,
+          "error": 0.5648996013086093,
+          "q": 0.10826822658929194,
+          "m": 0.3817366682953924
+        },
+        {
+          "t": 50.0,
+          "error": 2.52925963049726,
+          "q": 0.0053903575992685915,
+          "m": 0.05859333872317702
+        }
+      ],
+      "first_error_limit_crossing_approx": 9.226793241178967,
+      "max_sample_difference_dt_002_vs_001": 1.5616674620133608e-12
+    },
+    {
+      "name": "no_initial_working_or_repair_capacity",
+      "g": 0.3,
+      "mode": "mutual",
+      "initial": [
+        0.125,
+        0.0,
+        0.0
+      ],
+      "samples": [
+        {
+          "t": 0.0,
+          "error": 0.125,
+          "q": 0.0,
+          "m": 0.0
+        },
+        {
+          "t": 5.0,
+          "error": 0.6250000000000004,
+          "q": 0.0,
+          "m": 0.0
+        },
+        {
+          "t": 10.0,
+          "error": 1.124999999999987,
+          "q": 0.0,
+          "m": 0.0
+        },
+        {
+          "t": 20.0,
+          "error": 2.124999999999877,
+          "q": 0.0,
+          "m": 0.0
+        },
+        {
+          "t": 50.0,
+          "error": 5.125000000000046,
+          "q": 0.0,
+          "m": 0.0
+        }
+      ],
+      "first_error_limit_crossing_approx": 1.249999999999999,
+      "max_sample_difference_dt_002_vs_001": 3.8813396940895473e-13
+    }
+  ]
+}

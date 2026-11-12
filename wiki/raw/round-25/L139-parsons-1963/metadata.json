@@ -1,0 +1,22 @@
+{
+  "id": "L139-parsons-1963",
+  "title": "On the Concept of Influence",
+  "authors": "Talcott Parsons",
+  "publication": "PublicOpinionQuarterly27(1),1963,37-62;publisher record,not assumed full text",
+  "url": "https://academic.oup.com/poq/article-abstract/27/1/37/1816851",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Official publisher abstract and bibliography via search batch3;no body or original HTML;UNAM1964translation not read.",
+  "selection_status": "abstract_only_context",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_failed_abstract_tool_text_only",
+  "original_downloaded": false,
+  "actual_version": "PublicOpinionQuarterly27(1),1963,37-62;DOI10.1086/267148;not full generalized-medium theory reading.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "web-tool-text.partial.txt",
+      "bytes": 2713,
+      "sha256": "41ff370ac72b68422a2acbe40dbf2a4093bba5b06787daf3983ee670a21e9869"
+    }
+  ]
+}

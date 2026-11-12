@@ -1,0 +1,87 @@
+{
+  "status": "assumed finite models,not empirical social measurements",
+  "context_rank_reversal": {
+    "actor_effect_vectors": {
+      "A": [
+        "4/5",
+        "1/10"
+      ],
+      "B": [
+        "1/10",
+        "4/5"
+      ]
+    },
+    "weighted_scores": {
+      "task1_priority": {
+        "A": "73/100",
+        "B": "17/100"
+      },
+      "task2_priority": {
+        "A": "17/100",
+        "B": "73/100"
+      }
+    }
+  },
+  "common_cause": {
+    "structural_model": "Z_t iid fair bits; X_t=Z_t; Y_(t+1)=Z_t; Y_t=Z_(t-1)",
+    "observed_te_bits": 1.0,
+    "te_conditioned_on_current_Z_bits": 0.0,
+    "p_Yfuture1_do_X1": "1/2",
+    "p_Yfuture1_do_X0": "1/2",
+    "causal_difference": 0,
+    "observationally_equivalent_alternative": "X_t iid fair bits; Y_(t+1)=X_t; same observed process,causal difference1",
+    "observed_joint": [
+      {
+        "Yfuture": 0,
+        "X": 0,
+        "Ypast": 0,
+        "probability": "1/4"
+      },
+      {
+        "Yfuture": 1,
+        "X": 1,
+        "Ypast": 0,
+        "probability": "1/4"
+      },
+      {
+        "Yfuture": 0,
+        "X": 0,
+        "Ypast": 1,
+        "probability": "1/4"
+      },
+      {
+        "Yfuture": 1,
+        "X": 1,
+        "Ypast": 1,
+        "probability": "1/4"
+      }
+    ]
+  },
+  "same_capacity_different_goal_effects": {
+    "copy": {
+      "mutual_information_at_uniform_input_bits": 1.0,
+      "capacity_bits": 1,
+      "p_target1_do_action1": 1,
+      "p_target1_do_action0": 0,
+      "target1_causal_difference": 1
+    },
+    "invert": {
+      "mutual_information_at_uniform_input_bits": 1.0,
+      "capacity_bits": 1,
+      "p_target1_do_action1": 0,
+      "p_target1_do_action0": 1,
+      "target1_causal_difference": -1
+    }
+  },
+  "local_resource_conversion": {
+    "assumed_response_functions": [
+      "I_1(m,r)=m+4r",
+      "I_2(m,r)=m+r/2"
+    ],
+    "money_equivalent_per_reputation_unit_for_same_target": [
+      "4",
+      "1/2"
+    ],
+    "scope": "Local stipulated task-response comparisons,not observed prices or trade rights; does not rule out flexible/context-specific numeraire models."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "L124-shapley-1952",
+  "title": "A Value for n-Person Games",
+  "authors": "Lloyd S.Shapley",
+  "publication": "RANDP295,1952; not1953book version",
+  "url": "https://www.rand.org/content/dam/rand/pubs/papers/2021/P295.pdf?download=1",
+  "research_date_local": "2026-11-12",
+  "read_scope": "RAND official catalogue title/year/pagecount/abstract only. PDF offered via web but no legible source pages inspected; failed local PDF attempts preserved. No axiomatic proof read.",
+  "selection_status": "bibliographic_lead_only",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_failed_partial_tool_text_only",
+  "original_downloaded": false,
+  "actual_version": "RANDP-295,1952,15pages; distinguish1953bookchapter.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "catalogue_url": "https://www.rand.org/pubs/papers/P295.html",
+  "source_files": [
+    {
+      "file": "web-tool-text.partial.txt",
+      "bytes": 6908,
+      "sha256": "81f8f5d9461c8ce98db5f56b78350753bb94d83aa8403892ce28ba18e1262079"
+    }
+  ]
+}

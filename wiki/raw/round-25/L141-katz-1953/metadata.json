@@ -1,0 +1,30 @@
+{
+  "id": "L141-katz-1953",
+  "title": "A New Status Index Derived from Sociometric Analysis",
+  "authors": "Leo Katz",
+  "publication": "Psychometrika18(1),1953,39-43;verify actual journal pages",
+  "url": "https://www.cs.cornell.edu/courses/cs6241/2019sp/readings/Katz-1953-status.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-5 definitions,conditions and example;PDF1 visually resolves OCR89as39;not independent recomputation of all original normalizers.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 5,
+  "sha256": "bfdaca18e2059437ebd4993f61699cf8425c43a40522ef1e1505ab4c91f1917b",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.cs.cornell.edu/courses/cs6241/2019sp/readings/Katz-1953-status.pdf",
+  "status_code": 200,
+  "bytes": 295493,
+  "retrieved_at_utc": "2026-11-12T05:14:32.530532+00:00",
+  "actual_version": "Psychometrika18(1),1953,39-43;5page teaching scan.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 295493,
+      "sha256": "bfdaca18e2059437ebd4993f61699cf8425c43a40522ef1e1505ab4c91f1917b"
+    }
+  ]
+}

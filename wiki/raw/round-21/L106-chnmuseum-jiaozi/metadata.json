@@ -1,0 +1,35 @@
+{
+  "id": "L106-chnmuseum-jiaozi",
+  "title": "宋代交子与纸币发行",
+  "authors": "National Museum of China",
+  "publication": "2016 Chinese Epic exhibition section; selected text on a large exhibition page",
+  "url": "https://en.chnmuseum.cn/Portals/0/web/exhibition/exhibitions/161120Chines-Epic/",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Song-dynasty jiaozi and paper issuance section: merchant coordination,regulation and separate1023decision/1024issuance dates; other exhibition sections excluded",
+  "selection_status": "selected_web_section",
+  "rights": "Original rights retained; local research archive. Downloaded catalogue/transcription/preview does not imply full work or redistribution permission.",
+  "format": "html",
+  "pages": null,
+  "sha256": "375adc7d4ebdb8594fc7728d4aac0dba23e49d9c39f8f92dcd626b626642b5ba",
+  "archived_file": "original.html",
+  "download_status": "downloaded_inspected_scope",
+  "original_downloaded": true,
+  "final_url": "https://en.chnmuseum.cn/Portals/0/web/exhibition/exhibitions/161120Chines-Epic/",
+  "status_code": 200,
+  "bytes": 335071,
+  "retrieved_at_utc": "2026-11-12T02:48:18.675494+00:00",
+  "evidence_type": "museum_historical_explanation",
+  "downloaded_document_scope": "Full2016 exhibition HTML; only designated section adopted; not a surviving Song instrument",
+  "original_files": [
+    {
+      "path": "original.html",
+      "bytes": 335071,
+      "sha256": "375adc7d4ebdb8594fc7728d4aac0dba23e49d9c39f8f92dcd626b626642b5ba",
+      "source_url": "https://en.chnmuseum.cn/Portals/0/web/exhibition/exhibitions/161120Chines-Epic/",
+      "document_scope": "Full2016 exhibition HTML; only designated section adopted; not a surviving Song instrument"
+    }
+  ],
+  "partial_tool_text_downloaded": false,
+  "full_text_of_target_research_work_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/case-reading-notes.md"
+}

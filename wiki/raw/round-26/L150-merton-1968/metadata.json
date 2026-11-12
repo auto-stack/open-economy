@@ -1,0 +1,23 @@
+{
+  "id": "L150-merton-1968",
+  "title": "The Matthew Effect in Science",
+  "authors": "Robert K.Merton",
+  "publication": "Science159,1968,56-63;university-hosted copy,target to inspect",
+  "url": "https://garfield.library.upenn.edu/merton/matthew1.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Introduction snippets andPDF3,7 visually read;PDF2,8 browsed only,not full reading;historical statistics not independently adopted.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 8,
+  "sha256": "95fc1cb4a84cf1c563b8085c0c8adca9f44c0162ae343368c688c1f5b64e5209",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://garfield.library.upenn.edu/merton/matthew1.pdf",
+  "status_code": 200,
+  "bytes": 2630812,
+  "retrieved_at_utc": "2026-11-12T05:31:44.439609+00:00",
+  "actual_version": "Science159,1968,56-63;8pageAAAScopyright offprint internally paginated1-8,not journal-page scan.",
+  "knowledge_base_status": "archived;not yet converted/imported into AutoDown"
+}

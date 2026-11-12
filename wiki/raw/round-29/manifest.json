@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-12",
+  "scope": "All round29 files except manifest,checksums,verification receipt",
+  "files": [
+    {
+      "path": "discovery/web-records.json",
+      "bytes": 102771,
+      "sha256": "1033cc26e6d6980b20728c7dc45576bb3830b7c67930dceea3c39e730365bb69"
+    },
+    {
+      "path": "L156-green-brock-2000/acquisition-log.json",
+      "bytes": 495,
+      "sha256": "791588b44139f771845cffa77e1d48941b654f7087fac2e3195ae58ddcdc1394"
+    },
+    {
+      "path": "L156-green-brock-2000/extracted.txt",
+      "bytes": 137532,
+      "sha256": "c08eb1bb6e381a891483bd50c67ccab7926e9eceb7acc52ecc9852c474a321a3"
+    },
+    {
+      "path": "L156-green-brock-2000/metadata.json",
+      "bytes": 1669,
+      "sha256": "6dab76565644c185894c45b78c560cfc4c23b583e6f3741658c79beb31391489"
+    },
+    {
+      "path": "L156-green-brock-2000/original.pdf",
+      "bytes": 2476008,
+      "sha256": "b8c4913ffa501f63b9d4856a89e73b175c0f7737c06b3ca9f42a4cfe7fbd6b5f"
+    },
+    {
+      "path": "L157-braddock-dillard-2016-record/acquisition-log.json",
+      "bytes": 441,
+      "sha256": "7d0d3f05d68b7d1b9e36a07564559b21e51bdad8367a27fe85b2f894f987e398"
+    },
+    {
+      "path": "L157-braddock-dillard-2016-record/extracted.txt",
+      "bytes": 7409,
+      "sha256": "5f2024ffe9740550b69103589c82d6cc71e7a9b946dabda953e82e69886bc0b0"
+    },
+    {
+      "path": "L157-braddock-dillard-2016-record/metadata.json",
+      "bytes": 1706,
+      "sha256": "1cd10215089b7a2d296f78e10dac3e628f9787512a5c5b78def58eee991ba244"
+    },
+    {
+      "path": "L157-braddock-dillard-2016-record/original.html",
+      "bytes": 47898,
+      "sha256": "7a0137b5c7dce613951bdcdf580dd329503d0341e929b1bf25721137bd76aba6"
+    },
+    {
+      "path": "L158-depetris-chauvin-et-al-2020/acquisition-log.json",
+      "bytes": 416,
+      "sha256": "7bd3bc3c72d2bcd480b5214b704f88d37b96c19b000abe6d6676388867944d54"
+    },
+    {
+      "path": "L158-depetris-chauvin-et-al-2020/extracted.txt",
+      "bytes": 115381,
+      "sha256": "55651c98b8f92004cbdfbeba835594ffb8d51cf479794a2fa5b029f0bf38fa89"
+    },
+    {
+      "path": "L158-depetris-chauvin-et-al-2020/metadata.json",
+      "bytes": 1713,
+      "sha256": "b3c3627dc9813bc21620db66d4dc3ae85d108c3b5a5107e2aebf6b45d28dcef9"
+    },
+    {
+      "path": "L158-depetris-chauvin-et-al-2020/original.pdf",
+      "bytes": 850082,
+      "sha256": "7a8fc341edb4d33a41194cff485480cf1bf9331fce3b66614ba657d920285840"
+    },
+    {
+      "path": "L159-juslin-vastfjall-2008/acquisition-log.json",
+      "bytes": 410,
+      "sha256": "37aea4a17c6336c09fae60c7f50189afac2bbcc77e55a53af7c9bc73d6560893"
+    },
+    {
+      "path": "L159-juslin-vastfjall-2008/extracted.txt",
+      "bytes": 482656,
+      "sha256": "693d9bfa05e41361e53fe0c247271f1f2a0363e24e7f6eceb29cee6f92465b00"
+    },
+    {
+      "path": "L159-juslin-vastfjall-2008/metadata.json",
+      "bytes": 1639,
+      "sha256": "7b7b6b412dfa25741f0a24ba13be95ce23f1e544d95f2c4bc62e41d973fa9dfe"
+    },
+    {
+      "path": "L159-juslin-vastfjall-2008/original.pdf",
+      "bytes": 760151,
+      "sha256": "1c33ff4951c2cc016274681b64535558455521402f237805d5e300e5f870d73a"
+    },
+    {
+      "path": "L160-campante-et-al-correction-2024/acquisition-log.json",
+      "bytes": 324,
+      "sha256": "ee0fe35e53ea16f8f71ad55fe8e93bdab25ae38af1e6f013dc46357b5dd0a69b"
+    },
+    {
+      "path": "L160-campante-et-al-correction-2024/extracted.txt",
+      "bytes": 30310,
+      "sha256": "8ab12e06d85ae2e24dd7b0f8fe2a895c4513ee4e4688e7a4a629c4e1afe3ab05"
+    },
+    {
+      "path": "L160-campante-et-al-correction-2024/metadata.json",
+      "bytes": 1557,
+      "sha256": "e0e1474c6691464dfb9a9b282e6d826cbf263ae084060cac7ec71cc8b152b1e0"
+    },
+    {
+      "path": "L160-campante-et-al-correction-2024/original.pdf",
+      "bytes": 743609,
+      "sha256": "a96322f1de4a524e296517c04138e7f15448fa339caade1dc27d65fa15a44071"
+    },
+    {
+      "path": "L161-delpeyrou-bertoli-2024/acquisition-log.json",
+      "bytes": 361,
+      "sha256": "f7ee0bcc14a57117e57ff7eb73cb7366d377e33149ab5eb71011893146396bfd"
+    },
+    {
+      "path": "L161-delpeyrou-bertoli-2024/extracted.txt",
+      "bytes": 186523,
+      "sha256": "3e05a5154d34c6ea599d342bbb2e3bc3ce88398e8171f53bae56ce90ae753a50"
+    },
+    {
+      "path": "L161-delpeyrou-bertoli-2024/metadata.json",
+      "bytes": 1596,
+      "sha256": "4bba2f4276b370c6abb286fb64b4bc3ddba865c3978beec0a700eaa8f3632a05"
+    },
+    {
+      "path": "L161-delpeyrou-bertoli-2024/original.pdf",
+      "bytes": 3374259,
+      "sha256": "87df2a6d5965ec8e873242bf1bbc484b46d93d3ec35c303b931594b4d8bc8bc6"
+    },
+    {
+      "path": "L162-campante-et-al-reply-2024/acquisition-log.json",
+      "bytes": 361,
+      "sha256": "21e0b542088216f6b6a0c04d62b97e7711a7357e7eb0164d071c29315d99d62f"
+    },
+    {
+      "path": "L162-campante-et-al-reply-2024/extracted.txt",
+      "bytes": 103891,
+      "sha256": "14a6a2cf204c5b294d8a8a4f3bbcfc7cfa12e7f195e4fe8d2ea12686cb49ba09"
+    },
+    {
+      "path": "L162-campante-et-al-reply-2024/metadata.json",
+      "bytes": 1648,
+      "sha256": "1ada9939d79ae61fd4834a8a1cb760962a95e8241921f9de8517f68e12049947"
+    },
+    {
+      "path": "L162-campante-et-al-reply-2024/original.pdf",
+      "bytes": 1245840,
+      "sha256": "b456e146271422ecc02cee7bb99edd1a1a0b149d2a30c72f914fe64dc89497d4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1740,
+      "sha256": "f2315dc998ecb5db8579defe22c5e96c9da3a6f896909764b5812c29b5e60307"
+    },
+    {
+      "path": "reuse-context.json",
+      "bytes": 1007,
+      "sha256": "76e6179d8f5389f402674986e98f5f17ac1e17ad644eb5e79f012fd9c0d737db"
+    }
+  ]
+}

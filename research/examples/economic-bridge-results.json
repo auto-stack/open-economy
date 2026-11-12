@@ -1,0 +1,458 @@
+{
+  "scope": "illustrative economic bridge models; no empirical estimates",
+  "maintenance": {
+    "self_regarding_equilibrium": {
+      "n": 4,
+      "benefit_per_person": 4.0,
+      "concern_for_others": 0.0,
+      "effort_per_person": 0.4752700850720347,
+      "total_effort": 1.9010803402881389,
+      "stationary_quality": 0.6553008249676123,
+      "material_payoff_per_person": 2.50826247298826,
+      "aggregate_material_surplus": 10.03304989195304
+    },
+    "equal_weight_planner": {
+      "n": 4,
+      "benefit_per_person": 4.0,
+      "concern_for_others": 1,
+      "effort_per_person": 0.8406606437360387,
+      "total_effort": 3.3626425749441546,
+      "stationary_quality": 0.770781130284825,
+      "material_payoff_per_person": 2.7297693621759542,
+      "aggregate_material_surplus": 10.919077448703817
+    },
+    "best_unilateral_deviation_from_planner": 0.2771368336212784,
+    "deviation_payoff": 2.9087218426891854,
+    "concern_sensitivity": [
+      {
+        "n": 4,
+        "benefit_per_person": 4.0,
+        "concern_for_others": 0,
+        "effort_per_person": 0.4752700850720347,
+        "total_effort": 1.9010803402881389,
+        "stationary_quality": 0.6553008249676123,
+        "material_payoff_per_person": 2.50826247298826,
+        "aggregate_material_surplus": 10.03304989195304
+      },
+      {
+        "n": 4,
+        "benefit_per_person": 4.0,
+        "concern_for_others": 0.25,
+        "effort_per_person": 0.6022886318452563,
+        "total_effort": 2.409154527381025,
+        "stationary_quality": 0.7066721405649458,
+        "material_payoff_per_person": 2.6453127642347676,
+        "aggregate_material_surplus": 10.58125105693907
+      },
+      {
+        "n": 4,
+        "benefit_per_person": 4.0,
+        "concern_for_others": 0.5,
+        "effort_per_person": 0.6969657742293427,
+        "total_effort": 2.7878630969173708,
+        "stationary_quality": 0.735998906398223,
+        "material_payoff_per_person": 2.701114980369338,
+        "aggregate_material_surplus": 10.804459921477353
+      },
+      {
+        "n": 4,
+        "benefit_per_person": 4.0,
+        "concern_for_others": 1,
+        "effort_per_person": 0.8406606437360387,
+        "total_effort": 3.3626425749441546,
+        "stationary_quality": 0.770781130284825,
+        "material_payoff_per_person": 2.7297693621759542,
+        "aggregate_material_surplus": 10.919077448703817
+      }
+    ]
+  },
+  "threshold_public_good": {
+    "values": [
+      6.0,
+      4.0,
+      2.0
+    ],
+    "real_cost": 9.0,
+    "contribution_grid": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "pure_equilibria": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        4,
+        2
+      ],
+      [
+        4,
+        3,
+        2
+      ],
+      [
+        4,
+        4,
+        1
+      ],
+      [
+        5,
+        2,
+        2
+      ],
+      [
+        5,
+        3,
+        1
+      ],
+      [
+        5,
+        4,
+        0
+      ],
+      [
+        6,
+        1,
+        2
+      ],
+      [
+        6,
+        2,
+        1
+      ],
+      [
+        6,
+        3,
+        0
+      ]
+    ],
+    "funded": {
+      "payments": [
+        5.0,
+        3.0,
+        1.0
+      ],
+      "user_surpluses": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "provider_surplus": 0.0,
+      "aggregate_surplus": 3.0,
+      "all_users_individually_willing_if_pivotal": true,
+      "provider_budget_nonnegative": true
+    },
+    "with_administration": {
+      "payments": [
+        5.5,
+        3.5,
+        1.5
+      ],
+      "user_surpluses": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "provider_surplus": 0.0,
+      "aggregate_surplus": 1.5,
+      "all_users_individually_willing_if_pivotal": true,
+      "provider_budget_nonnegative": true
+    },
+    "equal_split_hypothetical_provision": {
+      "payments": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "user_surpluses": [
+        3.0,
+        1.0,
+        -1.0
+      ],
+      "provider_surplus": 0.0,
+      "aggregate_surplus": 3.0,
+      "all_users_individually_willing_if_pivotal": false,
+      "provider_budget_nonnegative": true
+    },
+    "aggregate_surplus_with_admin_4": -1.0
+  },
+  "reporting": {
+    "truthful_reports": [
+      6,
+      4,
+      2
+    ],
+    "truthful_payments": [
+      4.5,
+      3.0,
+      1.5
+    ],
+    "deviating_reports": [
+      4,
+      4,
+      2
+    ],
+    "deviating_payments": [
+      3.6,
+      3.6,
+      1.8
+    ],
+    "true_payoffs_after_deviation": [
+      2.4,
+      0.4,
+      0.2
+    ]
+  },
+  "exclusion": [
+    {
+      "real_cost": 9.0,
+      "options": [
+        {
+          "price": 2.0,
+          "served": [
+            true,
+            true,
+            true
+          ],
+          "revenue": 6.0,
+          "provider_surplus": -3.0,
+          "aggregate_surplus_if_provided": 3.0
+        },
+        {
+          "price": 4.0,
+          "served": [
+            true,
+            true,
+            false
+          ],
+          "revenue": 8.0,
+          "provider_surplus": -1.0,
+          "aggregate_surplus_if_provided": 1.0
+        },
+        {
+          "price": 6.0,
+          "served": [
+            true,
+            false,
+            false
+          ],
+          "revenue": 6.0,
+          "provider_surplus": -3.0,
+          "aggregate_surplus_if_provided": -3.0
+        }
+      ],
+      "best_posted_price_if_operating": {
+        "price": 4.0,
+        "served": [
+          true,
+          true,
+          false
+        ],
+        "revenue": 8.0,
+        "provider_surplus": -1.0,
+        "aggregate_surplus_if_provided": 1.0
+      },
+      "can_finance_without_subsidy": false,
+      "open_access_aggregate_surplus_if_financed": 3.0
+    },
+    {
+      "real_cost": 7.0,
+      "options": [
+        {
+          "price": 2.0,
+          "served": [
+            true,
+            true,
+            true
+          ],
+          "revenue": 6.0,
+          "provider_surplus": -1.0,
+          "aggregate_surplus_if_provided": 5.0
+        },
+        {
+          "price": 4.0,
+          "served": [
+            true,
+            true,
+            false
+          ],
+          "revenue": 8.0,
+          "provider_surplus": 1.0,
+          "aggregate_surplus_if_provided": 3.0
+        },
+        {
+          "price": 6.0,
+          "served": [
+            true,
+            false,
+            false
+          ],
+          "revenue": 6.0,
+          "provider_surplus": -1.0,
+          "aggregate_surplus_if_provided": -1.0
+        }
+      ],
+      "best_posted_price_if_operating": {
+        "price": 4.0,
+        "served": [
+          true,
+          true,
+          false
+        ],
+        "revenue": 8.0,
+        "provider_surplus": 1.0,
+        "aggregate_surplus_if_provided": 3.0
+      },
+      "can_finance_without_subsidy": true,
+      "open_access_aggregate_surplus_if_financed": 5.0
+    }
+  ],
+  "hidden_effort": {
+    "success_probabilities": [
+      0.9,
+      0.4
+    ],
+    "costs": [
+      4.0,
+      0.0
+    ],
+    "payoff_per_success": 10.0,
+    "bonus_threshold": 8.0,
+    "cases": [
+      {
+        "kind": "fixed",
+        "payment_parameter": 4.0,
+        "administration": 0.0,
+        "provider_high_payoff": 0.0,
+        "provider_low_payoff": 4.0,
+        "high_weakly_incentivized": false,
+        "high_strictly_incentivized": false,
+        "provider_participation_if_high": true,
+        "expected_payment_if_high": 4.0,
+        "payer_surplus_if_high": 5.0,
+        "payer_surplus_if_low": 0.0,
+        "statewise_maximum_payment": 4.0
+      },
+      {
+        "kind": "fixed",
+        "payment_parameter": 4.0,
+        "administration": 2.0,
+        "provider_high_payoff": 0.0,
+        "provider_low_payoff": 4.0,
+        "high_weakly_incentivized": false,
+        "high_strictly_incentivized": false,
+        "provider_participation_if_high": true,
+        "expected_payment_if_high": 4.0,
+        "payer_surplus_if_high": 3.0,
+        "payer_surplus_if_low": -2.0,
+        "statewise_maximum_payment": 4.0
+      },
+      {
+        "kind": "success_bonus",
+        "payment_parameter": 8.0,
+        "administration": 0.0,
+        "provider_high_payoff": 3.2,
+        "provider_low_payoff": 3.2,
+        "high_weakly_incentivized": true,
+        "high_strictly_incentivized": false,
+        "provider_participation_if_high": true,
+        "expected_payment_if_high": 7.2,
+        "payer_surplus_if_high": 1.8,
+        "payer_surplus_if_low": 0.8,
+        "statewise_maximum_payment": 8.0
+      },
+      {
+        "kind": "success_bonus",
+        "payment_parameter": 8.0,
+        "administration": 2.0,
+        "provider_high_payoff": 3.2,
+        "provider_low_payoff": 3.2,
+        "high_weakly_incentivized": true,
+        "high_strictly_incentivized": false,
+        "provider_participation_if_high": true,
+        "expected_payment_if_high": 7.2,
+        "payer_surplus_if_high": -0.2,
+        "payer_surplus_if_low": -1.2,
+        "statewise_maximum_payment": 8.0
+      },
+      {
+        "kind": "success_bonus",
+        "payment_parameter": 8.2,
+        "administration": 0.0,
+        "provider_high_payoff": 3.38,
+        "provider_low_payoff": 3.28,
+        "high_weakly_incentivized": true,
+        "high_strictly_incentivized": true,
+        "provider_participation_if_high": true,
+        "expected_payment_if_high": 7.38,
+        "payer_surplus_if_high": 1.62,
+        "payer_surplus_if_low": 0.72,
+        "statewise_maximum_payment": 8.2
+      },
+      {
+        "kind": "success_bonus",
+        "payment_parameter": 8.2,
+        "administration": 2.0,
+        "provider_high_payoff": 3.38,
+        "provider_low_payoff": 3.28,
+        "high_weakly_incentivized": true,
+        "high_strictly_incentivized": true,
+        "provider_participation_if_high": true,
+        "expected_payment_if_high": 7.38,
+        "payer_surplus_if_high": -0.38,
+        "payer_surplus_if_low": -1.28,
+        "statewise_maximum_payment": 8.2
+      }
+    ],
+    "feasible_bonus_intervals": [
+      {
+        "administration": 0.0,
+        "minimum_bonus_IC": 8.0,
+        "maximum_bonus_payer_IR": 10.0,
+        "weakly_feasible": true,
+        "strictly_incentivized_and_payer_nonnegative_possible": true
+      },
+      {
+        "administration": 1.0,
+        "minimum_bonus_IC": 8.0,
+        "maximum_bonus_payer_IR": 8.88888888888889,
+        "weakly_feasible": true,
+        "strictly_incentivized_and_payer_nonnegative_possible": true
+      },
+      {
+        "administration": 1.8,
+        "minimum_bonus_IC": 8.0,
+        "maximum_bonus_payer_IR": 8.0,
+        "weakly_feasible": true,
+        "strictly_incentivized_and_payer_nonnegative_possible": false
+      },
+      {
+        "administration": 2.0,
+        "minimum_bonus_IC": 8.0,
+        "maximum_bonus_payer_IR": 7.777777777777778,
+        "weakly_feasible": false,
+        "strictly_incentivized_and_payer_nonnegative_possible": false
+      }
+    ]
+  },
+  "verification": [
+    "stationary maintenance balance",
+    "symmetric first order conditions",
+    "profitable unilateral deviation at planner allocation",
+    "all pure equilibria of stated finite contribution game",
+    "transfers cancel in aggregate accounting",
+    "profitable value underreporting example",
+    "exact rational incentive and participation inequalities"
+  ]
+}

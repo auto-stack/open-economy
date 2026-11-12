@@ -1,0 +1,22 @@
+{
+  "id": "L21-tong-statphys",
+  "requested_url": "https://www.damtp.cam.ac.uk/user/tong/statphys/one.pdf",
+  "retrieved_at_utc": "2026-11-11T11:37:14.067853+00:00",
+  "file": "original-native.pdf",
+  "bytes": 1055584,
+  "sha256": "8075bc90335044e8726fd11fdebb38dad628a977e33c81663384cb157076ae3d",
+  "pdf_pages": 37,
+  "download_status": "downloaded",
+  "acquisition_method": "PowerShell Invoke-WebRequest using native certificate validation",
+  "source_id": "L21",
+  "directory": "L21-tong-statphys",
+  "author": "David Tong",
+  "title": "Lectures on Statistical Physics: The Fundamentals of Statistical Mechanics",
+  "publication_year": null,
+  "archived_version": "University lecture chapter, publication year not verified",
+  "reading_scope": "Sections 1.2.1 and 1.3.3; printed pp. 5,22-24 / PDF pp. 11,28-30",
+  "reading_status": "targeted_passages_read",
+  "reading_method": "text_and_original",
+  "text_file": "extracted.txt",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

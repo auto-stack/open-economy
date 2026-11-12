@@ -1,0 +1,23 @@
+{
+  "id": "L73-hart-moore-1988",
+  "title": "Incomplete Contracts and Renegotiation",
+  "authors": "Oliver Hart; John Moore",
+  "doi": "10.2307/1912698",
+  "publication": "Econometrica 56(4) (1988),755-785",
+  "research_date_local": "2026-11-12",
+  "format": "pdf",
+  "source_url": "https://www.edegan.com/pdfs/Hart%20Moore%20%281988%29%20-%20Incomplete%20Contracts%20and%20Renegotiation.pdf",
+  "pages": 32,
+  "sha256": "904da91259e58c0e1c0c33217bee5715ed54a84b28b15f85e0d660c14db56ce8",
+  "read_scope": "PDF pp.2-6, Conclusions p.23 and opening p.24. Article pp.755-759,776-777; full proofs not reconstructed. p.6 visually checked.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://www.edegan.com/pdfs/Hart%20Moore%20%281988%29%20-%20Incomplete%20Contracts%20and%20Renegotiation.pdf",
+  "final_url": "https://www.edegan.com/pdfs/Hart%20Moore%20%281988%29%20-%20Incomplete%20Contracts%20and%20Renegotiation.pdf",
+  "status_code": 200,
+  "bytes": 784363,
+  "retrieved_at_utc": "2026-11-11T21:16:16.230417+00:00",
+  "validation": "PDF header and parser passed",
+  "version": "32-page scan of 1988 journal article including one JSTOR cover; not 1985 MIT working paper.",
+  "source_type": "formal theoretical model",
+  "reading_notes": "../../../../research/reviews/16-reading-notes.md"
+}

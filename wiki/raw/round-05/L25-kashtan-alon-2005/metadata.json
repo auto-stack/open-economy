@@ -1,0 +1,22 @@
+{
+  "requested_url": "https://www.nadavkashtan.com/_files/ugd/e65e7b_c9693c86ffca448f985f89dc0e604a0f.pdf",
+  "retrieved_at_utc": "2026-11-11T12:01:15.040644+00:00",
+  "status_code": 200,
+  "final_url": "https://www.nadavkashtan.com/_files/ugd/e65e7b_c9693c86ffca448f985f89dc0e604a0f.pdf",
+  "content_type": "application/pdf",
+  "file": "original-author.pdf",
+  "download_status": "downloaded",
+  "bytes": 637552,
+  "sha256": "a19adb7569e97ac50f738dd60459be9e5f952b0370e1e660ce76590f66f83210",
+  "pdf_pages": 6,
+  "source_id": "L25",
+  "directory": "L25-kashtan-alon-2005",
+  "id": "L25-kashtan-alon-2005",
+  "author": "Nadav Kashtan; Uri Alon",
+  "title": "Spontaneous Evolution of Modularity and Network Motifs",
+  "publication_year": 2005,
+  "archived_version": "Author-hosted PNAS 102(39),13773-13778 copy",
+  "reading_scope": "Methods, results and discussion; PDF pp.1-4,6; no replication or separate supporting information review",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

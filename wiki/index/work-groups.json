@@ -1,0 +1,1923 @@
+[
+  {
+    "work_id": "L01",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-01/L01-anderson-1972/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-01/L01-anderson-1972/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L02",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-01/L02-simon-1962/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-01/L02-simon-1962/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L03",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-01/L03-prigogine-1977/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-01/L03-prigogine-1977/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L04",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-01/L04-ashby-1956/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-01/L04-ashby-1956/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L05",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-01/L05-dipaolo-2005/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-01/L05-dipaolo-2005/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L06",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-01/L06-montevil-mossio-2015/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-01/L06-montevil-mossio-2015/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L07",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-01/L07-coase-1937/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-01/L07-coase-1937/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L08",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-01/L08-nasa-candle/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-01/L08-nasa-candle/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L09",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-02/L09-wimsatt/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-02/L09-wimsatt/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L10",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-02/L10-newman-girvan-2004/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-02/L10-newman-girvan-2004/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L11",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-02/L11-pearl-2009/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-02/L11-pearl-2009/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L12",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-02/L12-fortunato-barthelemy/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-02/L12-fortunato-barthelemy/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L13",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-03/L13-varela-maturana-uribe-1974/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-03/L13-varela-maturana-uribe-1974/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L14",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-03/L14-bich-et-al/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-03/L14-bich-et-al/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L15",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-04/L15-shannon-1948/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-04/L15-shannon-1948/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L16",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-04/L16-landauer-1961/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-04/L16-landauer-1961/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L17",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-04/L17-esposito-vandenbroeck-2011/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-04/L17-esposito-vandenbroeck-2011/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L18",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-04/L18-crutchfield-young-1989/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-04/L18-crutchfield-young-1989/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L19",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-04/L19-hazen-et-al-2007/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-04/L19-hazen-et-al-2007/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L20",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-04/L20-kolchinsky-wolpert-2018/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-04/L20-kolchinsky-wolpert-2018/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L21",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-04/L21-tong-statphys/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-04/L21-tong-statphys/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L22",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-04/L22-berut-et-al-2012/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-04/L22-berut-et-al-2012/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L23",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-05/L23-parnas-1972/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-05/L23-parnas-1972/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L24",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-05/L24-hartwell-et-al-1999/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-05/L24-hartwell-et-al-1999/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L25",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-05/L25-kashtan-alon-2005/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-05/L25-kashtan-alon-2005/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L26",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-05/L26-clune-et-al-2013/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-05/L26-clune-et-al-2013/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L27",
+    "record_count": 2,
+    "record_ids": [
+      "wiki/raw/round-05/L27-baldwin-2002/metadata.json",
+      "wiki/raw/round-05/L27-baldwin-2006/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-05/L27-baldwin-2002/metadata.json",
+    "version_choice_required": true,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L28",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-06/L28-kelly-1956/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-06/L28-kelly-1956/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L29",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-06/L29-bialek-et-al-2001/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-06/L29-bialek-et-al-2001/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L30",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-06/L30-rivoire-leibler-2011/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-06/L30-rivoire-leibler-2011/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L31",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-06/L31-still-et-al-2012/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-06/L31-still-et-al-2012/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L32",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-06/L32-krueger-1992/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-06/L32-krueger-1992/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L33",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-06/L33-reuse-survey-candidate/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-06/L33-reuse-survey-candidate/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L34",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-07/L34-samuelson-1954/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-07/L34-samuelson-1954/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L35",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-07/L35-hayek-1945/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-07/L35-hayek-1945/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L36",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-07/L36-north-1991/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-07/L36-north-1991/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L37",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-07/L37-ostrom-2010/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-07/L37-ostrom-2010/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L38",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-07/L38-holmstrom-1982/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-07/L38-holmstrom-1982/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L39",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-08/L39-andreoni-1990/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-08/L39-andreoni-1990/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L40",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-08/L40-bagnoli-lipman-1989/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-08/L40-bagnoli-lipman-1989/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L41",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-08/L41-tabarrok-1998/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-08/L41-tabarrok-1998/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L42",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-08/L42-vonhippel-vonkrogh-2002/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-08/L42-vonhippel-vonkrogh-2002/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L43",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-08/L43-riehle-2012/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-08/L43-riehle-2012/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L44",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-08/L44-conti-et-al-2023/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-08/L44-conti-et-al-2023/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L45",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-08/L45-zhang-et-al-2022/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-08/L45-zhang-et-al-2022/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L46",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-09/L46-douceur-2002/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-09/L46-douceur-2002/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L47",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-09/L47-w3c-prov-dm-2013/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-09/L47-w3c-prov-dm-2013/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L48",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-09/L48-stripe-separate-transfers/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-09/L48-stripe-separate-transfers/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L49",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-09/L49-open-collective-money/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-09/L49-open-collective-money/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L50",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-09/L50-open-collective-expenses/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-09/L50-open-collective-expenses/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L51",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-10/L51-nowak-2006/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-10/L51-nowak-2006/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L52",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-10/L52-ohtsuki-et-al-2006/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-10/L52-ohtsuki-et-al-2006/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L53",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-10/L53-supercooperators-publisher/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-10/L53-supercooperators-publisher/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L54",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-11/L54-sterling-2012/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-11/L54-sterling-2012/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L55",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-11/L55-deci-ryan-2000/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-11/L55-deci-ryan-2000/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L56",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-11/L56-west-et-al-2015/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-11/L56-west-et-al-2015/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L57",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-11/L57-tomasello-et-al-2005/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-11/L57-tomasello-et-al-2005/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L58",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-11/L58-henrich-et-al-2005/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-11/L58-henrich-et-al-2005/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L59",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-11/L59-fehr-gaechter-2002/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-11/L59-fehr-gaechter-2002/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L60",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-11/L60-herrmann-et-al-2008/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-11/L60-herrmann-et-al-2008/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L61",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-11/L61-ramsay-woods-2014/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-11/L61-ramsay-woods-2014/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L62",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-12/L62-sen-1980/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-12/L62-sen-1980/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L63",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-13/L63-garfinkel-et-al-2015/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-13/L63-garfinkel-et-al-2015/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L64",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-13/L64-berridge-robinson-2016/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-13/L64-berridge-robinson-2016/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L65",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-13/L65-schultz-dayan-montague-1997/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-13/L65-schultz-dayan-montague-1997/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L66",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-13/L66-desmedt-et-al-2018/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-13/L66-desmedt-et-al-2018/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L67",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-14/L67-shenhav-et-al-2013/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-14/L67-shenhav-et-al-2013/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L68",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-14/L68-shah-et-al-2002/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-14/L68-shah-et-al-2002/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L69",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-14/L69-wrosch-et-al-2003/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-14/L69-wrosch-et-al-2003/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L70",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-14/L70-gollwitzer-brandstaetter-1997/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-14/L70-gollwitzer-brandstaetter-1997/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L71",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-15/L71-bratman-1992/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-15/L71-bratman-1992/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L72",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-15/L72-ostrom-walker-gardner-1992/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-15/L72-ostrom-walker-gardner-1992/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L73",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-15/L73-hart-moore-1988/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-15/L73-hart-moore-1988/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L74",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-15/L74-hamann-et-al-2012/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-15/L74-hamann-et-al-2012/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L75",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-16/L75-tyler-2006/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-16/L75-tyler-2006/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L76",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-16/L76-wolf-2007/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-16/L76-wolf-2007/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L77",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-16/L77-martela-steger-2016/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-16/L77-martela-steger-2016/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L78",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-16/L78-martela-riekki-2018/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-16/L78-martela-riekki-2018/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L79",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-18/L79-acemoglu-restrepo-2019/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-18/L79-acemoglu-restrepo-2019/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L80",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-18/L80-ilo-2025/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-18/L80-ilo-2025/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L81",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-18/L81-brynjolfsson-li-raymond-2025/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-18/L81-brynjolfsson-li-raymond-2025/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L82",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-18/L82-ifr-2026/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-18/L82-ifr-2026/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L83",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-19/L83-smith-1776/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-19/L83-smith-1776/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L84",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-19/L84-romer-1990/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-19/L84-romer-1990/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L85",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L85-aristotle-politics/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L85-aristotle-politics/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L86",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L86-marx-capital-1867/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L86-marx-capital-1867/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L87",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L87-jevons-political-economy/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L87-jevons-political-economy/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L88",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L88-menger-1892/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L88-menger-1892/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L89",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L89-innes-1913/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L89-innes-1913/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L90",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L90-knapp-1924/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L90-knapp-1924/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L91",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L91-humphrey-1985/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L91-humphrey-1985/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L92",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L92-grierson-origins/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L92-grierson-origins/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L93",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L93-schmandt-besserat-accounting/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L93-schmandt-besserat-accounting/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L94",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L94-boe-money-2014/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L94-boe-money-2014/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L95",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L95-loc-cuneiform/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L95-loc-cuneiform/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L96",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L96-von-glahn-2005/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L96-von-glahn-2005/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L97",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L97-cantillon-1755/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L97-cantillon-1755/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L98",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L98-khm-ming-banknote/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L98-khm-ming-banknote/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L99",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-20/L99-vogel-currencies-preview/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-20/L99-vogel-currencies-preview/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L100",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L100-met-silver-loan/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L100-met-silver-loan/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L101",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L101-met-barley-account/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L101-met-barley-account/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L102",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L102-bm-electrum-coin/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L102-bm-electrum-coin/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L103",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L103-bm-money-gallery/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L103-bm-money-gallery/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L104",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L104-kroll-early-coinage/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L104-kroll-early-coinage/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L105",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L105-songshi-181/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L105-songshi-181/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L106",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L106-chnmuseum-jiaozi/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L106-chnmuseum-jiaozi/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L107",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L107-chnmuseum-huizi/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L107-chnmuseum-huizi/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L108",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L108-quinn-roberds-2010/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L108-quinn-roberds-2010/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L109",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-21/L109-vonglahn-2026-record/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-21/L109-vonglahn-2026-record/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L110",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-22/L110-songchaoshishi-15/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-22/L110-songchaoshishi-15/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L111",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-22/L111-guan-palma-wu-yuan/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-22/L111-guan-palma-wu-yuan/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L112",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-22/L112-kroll-agora-1993/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-22/L112-kroll-agora-1993/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L113",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-22/L113-stroud-silver-law-1974/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-22/L113-stroud-silver-law-1974/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L114",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-22/L114-thucydides-2-13/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-22/L114-thucydides-2-13/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L115",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-22/L115-jianyan-zaji-16/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-22/L115-jianyan-zaji-16/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L116",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L116-akerlof-1970/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L116-akerlof-1970/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L117",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L117-gabaix-laibson-2006/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L117-gabaix-laibson-2006/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L118",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L118-stigler-1971/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L118-stigler-1971/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L119",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L119-nobel-tirole-2014/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L119-nobel-tirole-2014/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L120",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L120-fcic-conclusions-2011/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L120-fcic-conclusions-2011/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L121",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L121-sec-ponzi/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L121-sec-ponzi/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L122",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L122-lerner-tirole-2000/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L122-lerner-tirole-2000/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L123",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L123-hoffmann-nagle-zhou-2024/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L123-hoffmann-nagle-zhou-2024/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L124",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L124-shapley-1952/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L124-shapley-1952/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L125",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L125-holmstrom-milgrom-1991/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L125-holmstrom-milgrom-1991/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L126",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L126-ftc-ai-partnerships-2025/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L126-ftc-ai-partnerships-2025/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L127",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L127-scheinkman-xiong-2003/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L127-scheinkman-xiong-2003/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L128",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-23/L128-fehr-schmidt-1999/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-23/L128-fehr-schmidt-1999/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L129",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L129-grossman-hart-1986/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L129-grossman-hart-1986/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L130",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L130-alchian-demsetz-1972/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L130-alchian-demsetz-1972/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L131",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L131-marx-gotha-1875/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L131-marx-gotha-1875/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L132",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L132-shapley-1953/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L132-shapley-1953/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L133",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L133-ghorbani-zou-2019/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L133-ghorbani-zou-2019/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L134",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L134-niso-credit/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L134-niso-credit/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L135",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L135-lazear-1996/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L135-lazear-1996/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L136",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L136-clark-1899/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L136-clark-1899/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L137",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-24/L137-ilo-care-2018/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-24/L137-ilo-care-2018/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L138",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L138-dahl-1957/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L138-dahl-1957/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L139",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L139-parsons-1963/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L139-parsons-1963/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L140",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L140-bourdieu-1986/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L140-bourdieu-1986/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L141",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L141-katz-1953/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L141-katz-1953/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L142",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L142-coleman-1972/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L142-coleman-1972/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L143",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L143-watts-dodds-2007/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L143-watts-dodds-2007/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L144",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L144-shalizi-thomas-2010/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L144-shalizi-thomas-2010/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L145",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L145-bond-et-al-2012/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L145-bond-et-al-2012/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L146",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L146-schreiber-2000/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L146-schreiber-2000/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L147",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L147-klyubin-polani-nehaniv-2005/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L147-klyubin-polani-nehaniv-2005/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L148",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-25/L148-stevens-1946/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-25/L148-stevens-1946/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L149",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-26/L149-french-raven-1959/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-26/L149-french-raven-1959/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L150",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-26/L150-merton-1968/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-26/L150-merton-1968/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L151",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-26/L151-salganik-dodds-watts-2006/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-26/L151-salganik-dodds-watts-2006/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L152",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-27/L152-garicano-2000/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-27/L152-garicano-2000/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L153",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-27/L153-bloom-et-al-2010/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-27/L153-bloom-et-al-2010/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L154",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-27/L154-dellacqua-et-al-2026/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-27/L154-dellacqua-et-al-2026/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L155",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-28/L155-brynjolfsson-rock-syverson-record/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-28/L155-brynjolfsson-rock-syverson-record/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L156",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-29/L156-green-brock-2000/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-29/L156-green-brock-2000/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L157",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-29/L157-braddock-dillard-2016-record/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-29/L157-braddock-dillard-2016-record/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L158",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-29/L158-depetris-chauvin-et-al-2020/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-29/L158-depetris-chauvin-et-al-2020/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L159",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-29/L159-juslin-vastfjall-2008/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-29/L159-juslin-vastfjall-2008/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L160",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-29/L160-campante-et-al-correction-2024/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-29/L160-campante-et-al-correction-2024/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L161",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-29/L161-delpeyrou-bertoli-2024/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-29/L161-delpeyrou-bertoli-2024/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L162",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-29/L162-campante-et-al-reply-2024/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-29/L162-campante-et-al-reply-2024/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L163",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-30/L163-couzin-et-al-2005/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-30/L163-couzin-et-al-2005/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L164",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-30/L164-lorenz-et-al-2011/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-30/L164-lorenz-et-al-2011/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L165",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-30/L165-list-elsholtz-seeley-2009/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-30/L165-list-elsholtz-seeley-2009/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L166",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L166-hermalin-1998/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L166-hermalin-1998/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L167",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L167-aghion-tirole-1997/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L167-aghion-tirole-1997/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L168",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L168-bagwell-2007/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L168-bagwell-2007/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L169",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L169-march-1991/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L169-march-1991/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L170",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L170-hansmann-kraakman-squire-2006/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L170-hansmann-kraakman-squire-2006/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L171",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L171-anderson-2017-record/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L171-anderson-2017-record/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L172",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L172-ferreras-2017-record/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L172-ferreras-2017-record/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L173",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L173-jager-schoefer-heining-2020/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L173-jager-schoefer-heining-2020/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L174",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-31/L174-burdin-2013/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-31/L174-burdin-2013/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L175",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-32/L175-lotka-1922/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-32/L175-lotka-1922/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L176",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-32/L176-arthur-2007/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-32/L176-arthur-2007/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L177",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-32/L177-bresnahan-trajtenberg-1992/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-32/L177-bresnahan-trajtenberg-1992/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L178",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-32/L178-david-1990/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-32/L178-david-1990/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L179",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-32/L179-boyd-richerson-henrich-2011/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-32/L179-boyd-richerson-henrich-2011/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L180",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-32/L180-mokyr-lever-of-riches-preview/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-32/L180-mokyr-lever-of-riches-preview/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L181",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-33/L181-bornstein-gneezy-nagel-2002/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-33/L181-bornstein-gneezy-nagel-2002/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L182",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-34/L182-kosfeld-okada-riedl-2009/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-34/L182-kosfeld-okada-riedl-2009/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L183",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-34/L183-multilab-replication-2023/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-34/L183-multilab-replication-2023/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L184",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-34/L184-rustagi-engel-kosfeld-2010/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-34/L184-rustagi-engel-kosfeld-2010/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L185",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-35/L185-nash-1950/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-35/L185-nash-1950/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L186",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-35/L186-smith-1962/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-35/L186-smith-1962/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L187",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-35/L187-keynes-1936/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-35/L187-keynes-1936/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L188",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-35/L188-fagereng-holm-natvik-2019/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-35/L188-fagereng-holm-natvik-2019/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L189",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-36/L189-stiglitz-weiss-1981/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-36/L189-stiglitz-weiss-1981/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L190",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-36/L190-holmstrom-tirole-1997/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-36/L190-holmstrom-tirole-1997/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L191",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-36/L191-mcdonald-siegel-1982/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-36/L191-mcdonald-siegel-1982/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  },
+  {
+    "work_id": "L192",
+    "record_count": 1,
+    "record_ids": [
+      "wiki/raw/round-36/L192-banerjee-duflo-2014/metadata.json"
+    ],
+    "display_record": "wiki/raw/round-36/L192-banerjee-duflo-2014/metadata.json",
+    "version_choice_required": false,
+    "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+  }
+]

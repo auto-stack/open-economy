@@ -1,0 +1,1 @@
+record_id,service_id,task_version,period,mechanism_version,actor_id,related_actor_ids,role,record_kind,counterparty_id,commitment_id,resource_kind,quantity,unit,currency,amount,cash_or_accrual,due_date,paid_date,opening_cash,closing_cash,quality_metric,quality_value,defect_severity,maintenance_object,handoff_status,access_rights,decision_rights,evidence_path,missing_reason

@@ -1,0 +1,66 @@
+{
+  "status": "assumed examples only;not empirical or thermodynamic validation",
+  "capacity_model": {
+    "no_input": [
+      10,
+      9.0,
+      8.1,
+      7.29,
+      6.561,
+      5.9049,
+      5.31441,
+      4.782969,
+      4.3046721,
+      3.87420489,
+      3.486784401
+    ],
+    "baseline": [
+      10,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "improved_conversion": [
+      10,
+      11.0,
+      11.9,
+      12.71,
+      13.439,
+      14.0951,
+      14.68559,
+      15.217031,
+      15.6953279,
+      16.12579511,
+      16.513215599
+    ]
+  },
+  "capacity_steady_states": {
+    "baseline": 10,
+    "improved_conversion": 20
+  },
+  "adoption_model": [
+    {
+      "periods": 2,
+      "baseline_new_units": 6.0,
+      "tool_new_units": 0.0
+    },
+    {
+      "periods": 5,
+      "baseline_new_units": 15.0,
+      "tool_new_units": 12.0
+    },
+    {
+      "periods": 10,
+      "baseline_new_units": 30.0,
+      "tool_new_units": 32.0
+    }
+  ],
+  "strict_adoption_advantage_condition": "T>8 under fixed stated assumptions"
+}

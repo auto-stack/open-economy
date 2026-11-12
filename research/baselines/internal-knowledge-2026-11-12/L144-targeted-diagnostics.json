@@ -1,0 +1,41 @@
+{
+  "source": "wiki/raw/round-25/L144-shalizi-thomas-2010/original.pdf",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "extracted_chars": 1702,
+      "notice": ""
+    },
+    {
+      "pdf_page": 2,
+      "extracted_chars": 2449,
+      "notice": "premature end of data in flate filter"
+    },
+    {
+      "pdf_page": 3,
+      "extracted_chars": 3469,
+      "notice": "premature end of data in flate filter"
+    },
+    {
+      "pdf_page": 4,
+      "extracted_chars": 3175,
+      "notice": "premature end of data in flate filter"
+    },
+    {
+      "pdf_page": 5,
+      "extracted_chars": 3512,
+      "notice": "premature end of data in flate filter"
+    },
+    {
+      "pdf_page": 6,
+      "extracted_chars": 2779,
+      "notice": "premature end of data in flate filter"
+    },
+    {
+      "pdf_page": 7,
+      "extracted_chars": 2449,
+      "notice": "premature end of data in flate filter"
+    }
+  ],
+  "scope": "Targeted inspection of prior adopted read pages, not whole PDF validation"
+}

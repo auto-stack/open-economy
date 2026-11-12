@@ -1,0 +1,31 @@
+{
+  "id": "L117-gabaix-laibson-2006",
+  "title": "Shrouded Attributes,Consumer Myopia,and Information Suppression in Competitive Markets",
+  "authors": "Xavier Gabaix; David Laibson",
+  "publication": "QJE121(2),2006,505-540",
+  "url": "https://pages.stern.nyu.edu/~xgabaix/papers/shrouded.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-4 (505-508),10-13 (514-517); PDF4 visually inspected. Proposition statement, not full proof independently checked.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 36,
+  "sha256": "45da2ce73fe04f90de56ac958e67acf27fe91c65b8e3633654f37771accdba1a",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://pages.stern.nyu.edu/~xgabaix/papers/shrouded.pdf",
+  "status_code": 200,
+  "bytes": 150594,
+  "retrieved_at_utc": "2026-11-12T03:32:48.468233+00:00",
+  "actual_version": "QJE121(2),2006,505-540; 36 PDF pages.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 150594,
+      "sha256": "45da2ce73fe04f90de56ac958e67acf27fe91c65b8e3633654f37771accdba1a"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "L115-jianyan-zaji-16",
+  "title": "建炎以來朝野雜記 甲集卷16",
+  "authors": "李心传；识典古籍电子转录",
+  "publication": "LiXinchuan,JianyanYilaiChaoyeZaji,Jia16;KanripoWYG transcription; distinct from initially located Cuiguzhai copy",
+  "url": "https://github.com/kanripo/KR2m0005/blob/master/KR2m0005_016.txt",
+  "research_date_local": "2026-11-12",
+  "read_scope": "WYG016-20b through23b DongnanHuizi;23b through27b selected regional,Sichuan and renewal discussion; digital transcription not checked to facsimile",
+  "selection_status": "complete_connector_transcription_selected_parts",
+  "rights": "Source rights and licence notices retained; local research archive, not blanket redistribution permission.",
+  "download_status": "complete_connector_text_and_response",
+  "original_downloaded": false,
+  "evidence_type": "historical_compilation_electronic_transcription",
+  "archived_documents": [
+    {
+      "path": "connector-volume.txt",
+      "bytes": 32829,
+      "sha256": "d30a8d15f97f31b34715ef7b8367b7c4f0750d3a73a68a61ac4fcf8f9108f848",
+      "source_url": "https://github.com/kanripo/KR2m0005/blob/master/KR2m0005_016.txt",
+      "transport": "full UTF-8 text returned by repository connector; not byte-identity verified against raw transport"
+    }
+  ],
+  "facsimile_read": false,
+  "complete_connector_text_obtained": true,
+  "notes": "../../../../research/surveys/02-wealth-money-history/deepening-reading-notes.md",
+  "format": "connector_utf8_text",
+  "original_byte_identity_verified": false,
+  "complete_book_obtained": false,
+  "sha256": "d30a8d15f97f31b34715ef7b8367b7c4f0750d3a73a68a61ac4fcf8f9108f848"
+}

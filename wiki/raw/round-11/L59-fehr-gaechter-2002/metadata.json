@@ -1,0 +1,32 @@
+{
+  "id": "L59-fehr-gaechter-2002",
+  "title": "Altruistic Punishment in Humans",
+  "authors": "Ernst Fehr; Simon Gaechter",
+  "doi": "10.1038/415137a",
+  "source_type": "primary experimental study",
+  "research_date_local": "2026-11-12",
+  "source_url": "https://econwpa.ub.uni-muenchen.de/econ-wp/mic/papers/0305/0305006.pdf",
+  "final_url": "https://econwpa.ub.uni-muenchen.de/econ-wp/mic/papers/0305/0305006.pdf",
+  "retrieved_at_utc": "2026-11-11T17:25:49.715313+00:00",
+  "format": "pdf",
+  "bytes": 99774,
+  "pages": 4,
+  "sha256": "fb692df5e96c383865ed15a90c10ee94c498c0b2308fe7414fa794a48b8a157f",
+  "read_scope": "PDF p.1 and Methods on pp.3-4, selected results/discussion passages on pp.2-3. No raw-data reanalysis.",
+  "attempts": [
+    {
+      "url": "https://econwpa.ub.uni-muenchen.de/econ-wp/mic/papers/0305/0305006.pdf",
+      "final_url": "https://econwpa.ub.uni-muenchen.de/econ-wp/mic/papers/0305/0305006.pdf",
+      "status_code": 200,
+      "content_type": "application/pdf",
+      "bytes": 99774,
+      "retrieved_at_utc": "2026-11-11T17:25:49.715313+00:00",
+      "validation": "pdf_header_and_parser_pass"
+    }
+  ],
+  "rights": "Original rights retained; research archive, not a redistribution licence.",
+  "version": "4-page Nature typeset article 415,137-140 (2002), LMU EconWPA deposit identifier dated 2003.",
+  "reading_method": "Targeted full-text passages; extraction alone does not count as reading.",
+  "reading_notes": "../../../../research/reviews/12-reading-notes.md",
+  "local_research_archive": true
+}

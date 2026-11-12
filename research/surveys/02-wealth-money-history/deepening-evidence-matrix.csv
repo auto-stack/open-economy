@@ -1,0 +1,10 @@
+﻿observation_id,case,source_ids,read_locator,mechanism,observation,evidence_type,limit
+C01,Song jiaozi,L110,015-5b-6b,Private issue and redemption,"Merchant signs,usage and failed redemptions described",Historical account in reconstructed edition,"No exact issuer count,full balance sheet or joint-liability contract"
+C02,Song jiaozi,L110,015-7a-8b,Issuance maintenance and fiscal diversion,"Registration,coin custody,returned-note cancellation,official procurement problem",Recorded rules and policy criticism,Normative rule differs from audited compliance
+C03,Southern Song huizi,L115,016-20b-23b,Fiscal acceptance and implementation,"Public payment arrangements,regional acceptance and local demands for cash",Historical compilation text,Digital variants; no unverified amount series
+C04,Yuan paper money,L111,PDF20-29,Measurement,"Issuance,official exchange ratios,stock assumptions and sparse price interpolation",Research data construction,Issuance not observed stock; prices not complete annual measurements
+C05,Yuan paper money,L111,PDF44-49;table4,War and issuance,Nominal and real specifications differ;94 observations;limited disaster significance,Historical statistical association,No universal causal identification or inevitable fiat failure
+A01,Athenian silver,L112,"PDF24-25,27-32",Excavation and circulation,"Loss,fill,forgery and hoard selection affect finds",Excavation catalogue,Find count not circulation share or total mint output
+A02,Athenian silver,L112;L113,"PDF32;PDF3-4,21,33",Verification and retirement,Cut plated coins considered alongside inscription procedure,Artifact plus inscription interpretation,Not every enforcement event observed;origin not established
+A03,Athenian silver,L113,"PDF1,3-6",Public service and authority,"375/4BCE law assigns testing,official duties,pay and sanctions",Inscription edition and translation,Restorations and foreign-coin interpretation not settled
+A04,Athenian public finance,L114,2.13.2-6,"Revenue,stored coin and expenditure","Tribute,coined stock,building and war costs distinguished",Ancient historiographical narrative,No audited full fiscal ledger or modern purchasing-power conversion

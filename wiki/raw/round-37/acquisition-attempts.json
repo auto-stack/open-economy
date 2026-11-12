@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://doi.org/10.7916/D8V12FT1",
+    "attempted_utc": "2026-11-12T12:52:42.198045+00:00",
+    "final_url": "https://academiccommons.columbia.edu/doi/10.7916/D8V12FT1",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 4371,
+    "file": "wiki/raw/round-37/L189-crosscheck/columbia-record.html",
+    "sha256": "26437372c5926a67e20d320bf997fd9a3b0e4c7514cb2323203285c7738eb840",
+    "content_classification": "verification_or_challenge_html",
+    "requested_article_obtained": false
+  },
+  {
+    "url": "https://www.jstor.org/stable/1802787",
+    "attempted_utc": "2026-11-12T12:52:43.699476+00:00",
+    "final_url": "https://www.jstor.org/stable/1802787",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 3038,
+    "file": "wiki/raw/round-37/L189-crosscheck/jstor-record.html",
+    "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea",
+    "content_classification": "verification_or_challenge_html",
+    "requested_article_obtained": false
+  },
+  {
+    "url": "https://pages.ucsd.edu/~aronatas/project/academic/Stiglitz%20credit.pdf",
+    "attempted_utc": "2026-11-12T12:56:17.375539+00:00",
+    "final_url": "https://pages.ucsd.edu/~aronatas/project/academic/Stiglitz%20credit.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 614897,
+    "file": "wiki/raw/round-37/L189-crosscheck/ucsd-copy.pdf",
+    "sha256": "ea4885ac208e7248c50ae163dfddc26a267d5d5ba4117353ff936a719952aa0f",
+    "content_classification": "article_pdf",
+    "requested_article_obtained": true
+  },
+  {
+    "url": "https://economics.mit.edu/people/faculty/bengt-holmstrom/publications",
+    "attempted_utc": "2026-11-12T12:56:28.339069+00:00",
+    "final_url": "https://economics.mit.edu/people/faculty/bengt-holmstrom/publications",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 126197,
+    "file": "wiki/raw/round-37/L190-crosscheck/mit-publications.html",
+    "sha256": "2c3cc54f2951e861590721dbb692ace2ce4cfa79da3235c348186e3d969c752a",
+    "content_classification": "author_bibliography_html",
+    "requested_article_obtained": false
+  },
+  {
+    "url": "https://www.jstor.org/stable/pdf/2951252.pdf",
+    "attempted_utc": "2026-11-12T12:57:00.721061+00:00",
+    "final_url": "https://www.jstor.org/stable/pdf/2951252.pdf",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 3038,
+    "file": "wiki/raw/round-37/L190-crosscheck/publisher-response.bin",
+    "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea",
+    "content_classification": "verification_or_challenge_html",
+    "requested_article_obtained": false
+  },
+  {
+    "url": "https://web.stanford.edu/~piazzesi/Reading/Holmstrom%26Tirole%20QJE%201997.pdf",
+    "attempted_utc": "2026-11-12T13:06:10.978110+00:00",
+    "final_url": "https://web.stanford.edu/~piazzesi/Reading/Holmstrom%26Tirole%20QJE%201997.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 188581,
+    "file": "wiki/raw/round-37/L190-crosscheck/stanford-copy.pdf",
+    "sha256": "b37f22b446712f9fb961cc7f519673d838cb57011863b0df0519cffd2c39933c",
+    "content_classification": "article_pdf",
+    "requested_article_obtained": true
+  }
+]

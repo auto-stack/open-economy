@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-12",
+  "scope": "All round30 files except manifest,checksums,verification",
+  "files": [
+    {
+      "path": "discovery/web-records.json",
+      "bytes": 120250,
+      "sha256": "1e4c525a886ce03a4e9e43f685692991be6b2b0b1bfd9b9ef5a1a867a6550073"
+    },
+    {
+      "path": "L163-couzin-et-al-2005/acquisition-log.json",
+      "bytes": 362,
+      "sha256": "c25309c9a3888036080f73d5830dad226dda133359bd14b4819316ccf79d7cac"
+    },
+    {
+      "path": "L163-couzin-et-al-2005/extracted.txt",
+      "bytes": 27408,
+      "sha256": "58859f8b549164f027e25b95b556cb42b1af87c6702486e82851d7f244a0b30d"
+    },
+    {
+      "path": "L163-couzin-et-al-2005/metadata.json",
+      "bytes": 1613,
+      "sha256": "eaac35c80d6e1a2d0c38cca2412b1940be4fc8feee4af13ef7650b56c19ffd2b"
+    },
+    {
+      "path": "L163-couzin-et-al-2005/original.pdf",
+      "bytes": 799855,
+      "sha256": "4a241b68148620398a9ff2cd4fb43bea73b7f9419c511f9fe1d6cc19695b28cf"
+    },
+    {
+      "path": "L164-lorenz-et-al-2011/acquisition-log.json",
+      "bytes": 434,
+      "sha256": "de8ebfafd88ebfb83c1b90ca7ddfb934a92b4ba42100d1824fc89ed1cb97d4c2"
+    },
+    {
+      "path": "L164-lorenz-et-al-2011/extracted.txt",
+      "bytes": 46975,
+      "sha256": "960e8613352c9a79d02fce76ee4fe7bb5dcde7f630fb440a42fb7fdf21048bdf"
+    },
+    {
+      "path": "L164-lorenz-et-al-2011/metadata.json",
+      "bytes": 1636,
+      "sha256": "08d457b4c43117afca074f5c103df5c0ea99b7f3a35bc4ed1a42b8671986bc0b"
+    },
+    {
+      "path": "L164-lorenz-et-al-2011/original.pdf",
+      "bytes": 482774,
+      "sha256": "6dd8b1618bfff671bcbda7b54496910e57cad7a627e7a357ad9be7e2ed296e12"
+    },
+    {
+      "path": "L165-list-elsholtz-seeley-2009/acquisition-log.json",
+      "bytes": 1211,
+      "sha256": "d61b892333c6322570b54c29611deffe41ece0a4de460080e91f7c62ba6cbe67"
+    },
+    {
+      "path": "L165-list-elsholtz-seeley-2009/failed-response-3.bin",
+      "bytes": 5590,
+      "sha256": "13adf1160c0d6eb1f0c9bf4f70f9823e2fb8b3bf2d5718aa3f20831ab039a721"
+    },
+    {
+      "path": "L165-list-elsholtz-seeley-2009/failed-xml-response.bin",
+      "bytes": 150,
+      "sha256": "fc51c50108e161ba3569602a672f2f55508be974d13f4a211845cd95138381fa"
+    },
+    {
+      "path": "L165-list-elsholtz-seeley-2009/metadata.json",
+      "bytes": 1253,
+      "sha256": "fe77b21fdd857b4e50737340abb7bddfd7815cc953d051034fbc406a71dadde7"
+    },
+    {
+      "path": "L165-list-elsholtz-seeley-2009/tool-return-record.partial.txt",
+      "bytes": 15295,
+      "sha256": "5b6dddfabe35d6f5e8a2a30f5ed58730954245f8af443087d981881bc53ff04f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1428,
+      "sha256": "e3ae75b909ea9a0cbd83d1a8074df15b68d3bdf92c1d5ff957beb30b6cd85bbc"
+    },
+    {
+      "path": "reuse-context.json",
+      "bytes": 1070,
+      "sha256": "f18432f31f3d1a6b32a5ece922ebb137f79da2a9d1ea0863a82f1fdc4392f9fe"
+    }
+  ]
+}

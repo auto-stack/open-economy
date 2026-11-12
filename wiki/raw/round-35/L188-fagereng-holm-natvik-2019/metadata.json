@@ -1,0 +1,27 @@
+{
+  "id": "L188-fagereng-holm-natvik-2019",
+  "title": "MPC Heterogeneity and Household Balance Sheets",
+  "authors": [
+    "Andreas Fagereng",
+    "Martin B. Holm",
+    "Gisle J. Natvik"
+  ],
+  "publication": "CESifo Working Paper7134;cover originalJune2018,this versionJune2019;internal abstract pageMay2019",
+  "related_final_publication": "AEJ:Macroeconomics13(4),2021,1–54;DOI10.1257/mac.20190211;not obtained or treated as identical file",
+  "url": "https://www.ifo.de/DocDL/cesifo1_wp7134_0.pdf",
+  "actual_version": "68-page2019 working-paper revision;not54-page2021journal or2016draft",
+  "read_scope": "PDF1,3–5,9,11,15;visual4;not all estimates, model, robustness or appendices",
+  "pages": 68,
+  "interpretation_limit": "Consumption imputed from administrative income and balance sheets; no independent replication or policy/macro effect inferred",
+  "research_date_local": "2026-11-12",
+  "reading_notes": "../../../../research/surveys/08-price-income-and-reinvestment/reading-notes.md",
+  "rights": "Original rights and license retained; local research archive is not blanket redistribution authorization.",
+  "knowledge_base_status": "Raw archived; not imported or converted into AutoDown.",
+  "archived_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 1010261,
+      "sha256": "98b231e8e404b2be05cd89c0a2a32403fd7d9e890be031dbbf359a83d25905d1"
+    }
+  ]
+}

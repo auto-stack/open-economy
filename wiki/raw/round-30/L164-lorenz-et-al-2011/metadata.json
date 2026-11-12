@@ -1,0 +1,29 @@
+{
+  "id": "L164-lorenz-et-al-2011",
+  "title": "How social influence can undermine the wisdom of crowd effect",
+  "authors": "Jan Lorenz; Heiko Rauhut; Frank Schweitzer; Dirk Helbing",
+  "publication": "PNAS108(22),2011,9020-9025;ETH-hosted article",
+  "url": "https://www.sg.ethz.ch/publications/2011/lorenz2011how-social-influence/PNAS-2011-Lorenz-9020-5.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1abstract/intro selections,PDF2design visually checked,PDF5discussion,PDF6Measures selections;not all results,data cleaning or SI reanalysis",
+  "selection_status": "targeted_original_experiment_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 6,
+  "sha256": "6dd8b1618bfff671bcbda7b54496910e57cad7a627e7a357ad9be7e2ed296e12",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.sg.ethz.ch/publications/2011/lorenz2011how-social-influence/PNAS-2011-Lorenz-9020-5.pdf",
+  "status_code": 200,
+  "bytes": 482774,
+  "retrieved_at_utc": "2026-11-12T06:09:57.826325+00:00",
+  "actual_version": "PNAS108(22),2011,9020-9025;ETH-hosted6page article",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/leadership-reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "sha256": "6dd8b1618bfff671bcbda7b54496910e57cad7a627e7a357ad9be7e2ed296e12",
+    "bytes": 482774
+  }
+}

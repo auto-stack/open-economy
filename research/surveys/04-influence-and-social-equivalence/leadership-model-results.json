@@ -1,0 +1,35 @@
+{
+  "status": "finite assumed examples only",
+  "matching": {
+    "independent_equal_choice": 0.5,
+    "shared_convention": 1
+  },
+  "judgment": {
+    "n": 5,
+    "individual_correct": 0.6,
+    "independent_majority": 0.68256,
+    "individual_wrong_bias": 0.4,
+    "wrong_biased_majority": 0.31744,
+    "perfectly_correlated_majority": 0.6
+  },
+  "direction": [
+    {
+      "A": 5,
+      "B": 5,
+      "alignment": 0.0,
+      "total_result": -45
+    },
+    {
+      "A": 10,
+      "B": 0,
+      "alignment": 1.0,
+      "total_result": -100
+    },
+    {
+      "A": 0,
+      "B": 10,
+      "alignment": 1.0,
+      "total_result": 10
+    }
+  ]
+}

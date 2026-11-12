@@ -1,0 +1,71 @@
+{
+  "status": "assumed two-period example,not measured parameters",
+  "n": 10,
+  "individual_search_success": 0.2,
+  "current_production_per_worker": 1,
+  "future_unchanged_production": 1,
+  "future_changed_with_discovery": 2,
+  "future_changed_without_discovery": 0,
+  "cases": [
+    {
+      "change_probability": 0,
+      "values": [
+        20.0,
+        19.0,
+        18.0,
+        17.0,
+        16.0,
+        15.0,
+        14.0,
+        13.0,
+        12.0,
+        11.0,
+        10.0
+      ],
+      "best_search_counts": [
+        0
+      ],
+      "best_expected_output": 20.0
+    },
+    {
+      "change_probability": 0.5,
+      "values": [
+        15.0,
+        16.0,
+        16.6,
+        16.88,
+        16.904,
+        16.7232,
+        16.37856,
+        15.902848,
+        15.3222784,
+        14.65782272,
+        13.92625818
+      ],
+      "best_search_counts": [
+        4
+      ],
+      "best_expected_output": 16.904
+    },
+    {
+      "change_probability": 1,
+      "values": [
+        10.0,
+        13.0,
+        15.2,
+        16.76,
+        17.808,
+        18.4464,
+        18.75712,
+        18.805696,
+        18.6445568,
+        18.31564544,
+        17.85251635
+      ],
+      "best_search_counts": [
+        7
+      ],
+      "best_expected_output": 18.805696
+    }
+  ]
+}

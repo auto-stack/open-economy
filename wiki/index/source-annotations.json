@@ -1,0 +1,65 @@
+[
+  {
+    "work_id": "L27",
+    "kind": "version_and_acquisition_relation",
+    "basis": "Both raw metadata records inspected",
+    "observation": "2006url request failed403; actual adopted record is2002conference draft with declared read pages",
+    "use": "Keep two records and cite the2002version when using its read scope; do not merge into two adopted works",
+    "raw_metadata_changed": false
+  },
+  {
+    "work_id": "L58",
+    "kind": "existing_proof_version_label_consistency_check",
+    "basis": "Baseline inspection/L58-page-01.png",
+    "observation": "First page has000–000 andP/C,C/E proofing margins; raw metadata already explicitly says62-page author proof with editorial queries and placeholder pagination",
+    "inference": "Sample visible markings agree with the pre-existing metadata; not an independently verified page-by-page comparison to final typeset version",
+    "use": "Retain original author-proof version label and PDF read pages; do not apply final journal pagination as though the local proof file were the final PDF",
+    "raw_metadata_changed": false
+  },
+  {
+    "work_id": "L144",
+    "kind": "parser_notice_and_targeted_render",
+    "basis": "L144-targeted-diagnostics.json and visual samples1,6,7",
+    "observation": "First-page render visible;pages2–7text extraction emitpremature-end-of-data notice;selected pages6–7render with visible text and causal diagrams",
+    "use": "Keep original; inspect extraction/figures before full-text import; sample visibility does not verify every page",
+    "raw_metadata_changed": false
+  },
+  {
+    "work_ids": [
+      "L185",
+      "L189",
+      "L190"
+    ],
+    "kind": "declared_scan_limits",
+    "basis": "Existing source metadata/read-scope and sampled text profiles",
+    "observation": "Original containers exist while selected body text layers are unusable or sparse",
+    "use": "Retain visual-read scope; OCR is a future derived artifact requiring checking, not a completed task",
+    "raw_metadata_changed": false
+  },
+  {
+    "work_ids": [
+      "L185",
+      "L189",
+      "L190"
+    ],
+    "kind": "cited_page_derived_text_after_baseline",
+    "date": "2026-11-12",
+    "basis": "All13 saved page images compared with local Windows OCR; see derived provenance and formula checks",
+    "observation": "Earlier declared_scan_limits entry records pre-OCR baseline. Partial cited-page OCR now exists for L185 printed155,157–159; L189393–395; L190663–668. Original scan text layers are unchanged.",
+    "use": "Use wiki/index/derived-text-catalog.jsonl to join source path and SHA256 to corrected text. Do not claim whole-paper OCR or rewrite frozen baseline results. L189395 body/footnote5 project-number direction issue remains unresolved.",
+    "derived_provenance": "wiki/derived/cited-page-text-2026-11-12/provenance.json",
+    "raw_metadata_changed": false,
+    "whole_work_ocr": false
+  },
+  {
+    "work_ids": [
+      "L189",
+      "L190"
+    ],
+    "kind": "financing_argument_followup_round37",
+    "date": "2026-11-12",
+    "observation": "Alternative copies reproduce two printed inconsistencies; no formal erratum obtained. L190 extension669–674 read visually; formulas checked, body OCR unverified.",
+    "use": "See wiki/index/source-followups.jsonl and new formula notes; do not rewrite older snapshots or infer whole-paper reading.",
+    "raw_metadata_changed": false
+  }
+]

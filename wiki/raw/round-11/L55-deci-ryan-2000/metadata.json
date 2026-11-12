@@ -1,0 +1,32 @@
+{
+  "id": "L55-deci-ryan-2000",
+  "title": "The What and Why of Goal Pursuits: Human Needs and the Self-Determination of Behavior",
+  "authors": "Edward L. Deci; Richard M. Ryan",
+  "doi": "10.1207/S15327965PLI1104_01",
+  "source_type": "theoretical framework and research synthesis",
+  "research_date_local": "2026-11-12",
+  "source_url": "https://selfdeterminationtheory.org/wp-content/uploads/2020/10/2000_DeciRyan_PIWhatWhy.pdf",
+  "final_url": "https://selfdeterminationtheory.org/wp-content/uploads/2020/10/2000_DeciRyan_PIWhatWhy.pdf",
+  "retrieved_at_utc": "2026-11-11T17:24:49.414445+00:00",
+  "format": "pdf",
+  "bytes": 366034,
+  "pages": 42,
+  "sha256": "ad0780fc806792a45ca2264ab45e9899a5868c473ea77dd0aadf4b82db2309b2",
+  "read_scope": "PDF pp.1,4,10,12,24-26; partial passages on pp.21-22,27. Targeted needs/internalization/evolution reading, not entire article.",
+  "attempts": [
+    {
+      "url": "https://selfdeterminationtheory.org/wp-content/uploads/2020/10/2000_DeciRyan_PIWhatWhy.pdf",
+      "final_url": "https://selfdeterminationtheory.org/wp-content/uploads/2020/10/2000_DeciRyan_PIWhatWhy.pdf",
+      "status_code": 200,
+      "content_type": "application/pdf",
+      "bytes": 366034,
+      "retrieved_at_utc": "2026-11-11T17:24:49.414445+00:00",
+      "validation": "pdf_header_and_parser_pass"
+    }
+  ],
+  "rights": "Original rights retained; research archive, not a redistribution licence.",
+  "version": "42-page journal target article, Psychological Inquiry 11(4), 227-268, from SDT website.",
+  "reading_method": "Targeted full-text passages; extraction alone does not count as reading.",
+  "reading_notes": "../../../../research/reviews/12-reading-notes.md",
+  "local_research_archive": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "L186-smith-1962",
+  "title": "An Experimental Study of Competitive Market Behavior",
+  "authors": [
+    "Vernon L. Smith"
+  ],
+  "publication": "Journal of Political Economy70(2),1962,111–137; embedded errata70(3),322–323",
+  "doi": "10.1086/258609",
+  "url": "https://stennek.se/onewebmedia/Teaching/AMT/Smith%201962%20JPE%2C%20An%20experimental%20study%20of%20competitive%20market%20behavior.pdf",
+  "actual_version": "31-page third-party teaching bundle: errata cover+2errata pages; article cover+27article pages; existing highlighting retained",
+  "read_scope": "PDF2 correction text;3figure location;5–7 procedure;28summary; visual7; selective location only8,27,31; not all analyses or figures",
+  "pages": 31,
+  "correction_scope": "Charts10/11 switched and part of chart11 omitted; bundled correction retained; not an independent reanalysis",
+  "research_date_local": "2026-11-12",
+  "reading_notes": "../../../../research/surveys/08-price-income-and-reinvestment/reading-notes.md",
+  "rights": "Original rights and license retained; local research archive is not blanket redistribution authorization.",
+  "knowledge_base_status": "Raw archived; not imported or converted into AutoDown.",
+  "archived_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 1388975,
+      "sha256": "c256d379d3c73764428c4aae6b4885b82c9dc85432101070dc68f09db5036b36"
+    },
+    {
+      "file": "repository-record.html",
+      "bytes": 31327,
+      "sha256": "272e72d38a3d06a1941d22412318ff2954107d214cc03875330e5d9c8f8bdb02"
+    }
+  ]
+}

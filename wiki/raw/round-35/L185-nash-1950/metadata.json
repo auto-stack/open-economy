@@ -1,0 +1,25 @@
+{
+  "id": "L185-nash-1950",
+  "title": "The Bargaining Problem",
+  "authors": [
+    "John F. Nash Jr."
+  ],
+  "publication": "Econometrica18(2),1950,155–162",
+  "doi": "10.2307/1907266",
+  "url": "https://jmvidal.cse.sc.edu/library/nash50a.pdf",
+  "actual_version": "9-page journal scan including cover; image-only or unusable text layer",
+  "read_scope": "Visual PDF2,4–6, printed155,157–159; not whole proof or examples; extracted text not usable as full text",
+  "pages": 9,
+  "text_status": "No usable OCR; extraction is not article text; future knowledge-base processing requires OCR and verification",
+  "research_date_local": "2026-11-12",
+  "reading_notes": "../../../../research/surveys/08-price-income-and-reinvestment/reading-notes.md",
+  "rights": "Original rights and license retained; local research archive is not blanket redistribution authorization.",
+  "knowledge_base_status": "Raw archived; not imported or converted into AutoDown.",
+  "archived_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 706860,
+      "sha256": "2819cd077194ff30af0852b78fdf0b085f08a972cc100b5152af20f8470ccfa5"
+    }
+  ]
+}

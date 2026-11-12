@@ -1,0 +1,31 @@
+{
+  "id": "L116-akerlof-1970",
+  "title": "The Market for Lemons: Quality Uncertainty and the Market Mechanism",
+  "authors": "George A.Akerlof",
+  "publication": "QJE84(3),1970,488-500; actual version to inspect",
+  "url": "https://web.pdx.edu/~nwallace/EHP/AkerlofLemons.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1 cover; PDF2-4 (488-490),12-14 (498-500). Text reading; not all article pages.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 14,
+  "sha256": "770b53e35e8043fcaa4dd170bce420d4902dee280facaa5363bb48817a179f58",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://web.pdx.edu/~nwallace/EHP/AkerlofLemons.pdf",
+  "status_code": 200,
+  "bytes": 496634,
+  "retrieved_at_utc": "2026-11-12T03:32:47.459543+00:00",
+  "actual_version": "Journal scan, QJE84(3),1970,488-500; 14 PDF pages including JSTOR cover.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 496634,
+      "sha256": "770b53e35e8043fcaa4dd170bce420d4902dee280facaa5363bb48817a179f58"
+    }
+  ]
+}

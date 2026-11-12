@@ -1,0 +1,39 @@
+{
+  "date_local": "2026-11-12",
+  "checks": {
+    "local_links_resolve": true,
+    "formal_register_sha_unchanged": true,
+    "formal_unique_ids_79": true,
+    "outline_28_candidate_units": true,
+    "existing_eight_chapters_retained": true,
+    "primary_pdf_25_pages": true,
+    "primary_sha_matches_metadata": true,
+    "raw_manifest_matches": true,
+    "five_baseline_questions_unrun": true,
+    "observation_template_no_invented_data": true
+  },
+  "status": "pass",
+  "scoped_markdown_files": 19,
+  "local_links_checked": 396,
+  "broken_links": [],
+  "archive_manifest_file_count": 8,
+  "new_adopted_sources": [
+    "L181"
+  ],
+  "formal_register_sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+  "formal_id_counts": {
+    "PROP": 20,
+    "DES": 3,
+    "HYP": 10,
+    "DEF": 18,
+    "ASS": 12,
+    "PAR": 6,
+    "BASE": 5,
+    "AX": 1,
+    "NORM": 4
+  },
+  "existing_chapter_files": 8,
+  "candidate_units": 28,
+  "new_data_or_experiment": false,
+  "checks_limit": "Document/link/archive/structure checks only; not scientific peer review, behavior evidence, retrieval benchmark execution, or AutoDown import."
+}

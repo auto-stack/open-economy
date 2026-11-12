@@ -1,0 +1,511 @@
+{
+  "schema_version": 1,
+  "batch": "round-04",
+  "scope": "Q3 entropy, information, statistical complexity, functional capability",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "id": "L15-shannon-1948",
+      "requested_url": "https://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf",
+      "retrieved_at_utc": "2026-11-11T11:33:12.763535+00:00",
+      "status_code": 200,
+      "final_url": "https://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 366296,
+      "sha256": "6e4e3411984f3edf99dbfe8b941cb5e8a321379ff0cae6ae5c1f592ad8882ca8",
+      "pdf_pages": 55,
+      "download_status": "downloaded",
+      "source_id": "L15",
+      "directory": "L15-shannon-1948",
+      "author": "Claude E. Shannon",
+      "title": "A Mathematical Theory of Communication",
+      "publication_year": 1948,
+      "archived_version": "Corrected reprint of Bell System Technical Journal 27, 379-423, 623-656",
+      "reading_scope": "Introduction and section 6; PDF pp. 1,10-12",
+      "reading_status": "targeted_passages_read",
+      "reading_method": "text_and_original",
+      "text_file": "extracted.txt",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L16-landauer-1961",
+      "requested_url": "https://www.cpt.univ-mrs.fr/~verga/pdfs/Landauer-1961uq.pdf",
+      "retrieved_at_utc": "2026-11-11T11:33:12.763784+00:00",
+      "status_code": 200,
+      "final_url": "https://www.cpt.univ-mrs.fr/~verga/pdfs/Landauer-1961uq.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 833997,
+      "sha256": "aca8682acbc592a2069ee525fec9c64499833c9b19902ba07720444e07b240cc",
+      "pdf_pages": 9,
+      "download_status": "downloaded",
+      "source_id": "L16",
+      "directory": "L16-landauer-1961",
+      "author": "Rolf Landauer",
+      "title": "Irreversibility and Heat Generation in the Computing Process",
+      "publication_year": 1961,
+      "archived_version": "2000 IBM reprint of 1961 paper; reprint pp. 261-269",
+      "reading_scope": "Sections 3-4; PDF pp. 4-5 / reprint pp. 264-265",
+      "reading_status": "targeted_passages_read",
+      "reading_method": "scan_visually_read",
+      "text_file": "extracted.txt",
+      "text_extraction_status": "scan_insufficient_use_rendered_original"
+    },
+    {
+      "id": "L17-esposito-vandenbroeck-2011",
+      "requested_url": "https://arxiv.org/pdf/1104.5165",
+      "retrieved_at_utc": "2026-11-11T11:35:15.340640+00:00",
+      "status_code": 200,
+      "final_url": "https://arxiv.org/pdf/1104.5165",
+      "content_type": "application/pdf",
+      "file": "original-arxiv.pdf",
+      "bytes": 162214,
+      "sha256": "ae680955c3f0d3e081d9897ddce7d77a7e6775e9b45e3ec5a924853668c40471",
+      "pdf_pages": 6,
+      "download_status": "downloaded",
+      "source_id": "L17",
+      "directory": "L17-esposito-vandenbroeck-2011",
+      "author": "Massimiliano Esposito; Christian Van den Broeck",
+      "title": "Second Law and Landauer Principle Far from Equilibrium",
+      "publication_year": 2011,
+      "archived_version": "arXiv:1104.5165v2, 2011-08-09; published EPL 95,40004",
+      "reading_scope": "Preprint pp. 1-3, equations 3-15",
+      "reading_status": "targeted_passages_read",
+      "reading_method": "text_and_original",
+      "text_file": "extracted.txt",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L18-crutchfield-young-1989",
+      "requested_url": "https://csc.ucdavis.edu/~cmg/papers/ISC.pdf",
+      "retrieved_at_utc": "2026-11-11T11:35:59.002398+00:00",
+      "status_code": 200,
+      "final_url": "https://csc.ucdavis.edu/~cmg/papers/ISC.pdf",
+      "content_type": "application/pdf",
+      "file": "original-author.pdf",
+      "bytes": 1234676,
+      "sha256": "d865ad8524b473a6417150a277a45b9806968c0546d8adae58308d9c0d1a58c6",
+      "pdf_pages": 4,
+      "download_status": "downloaded",
+      "extracted_chars": 82,
+      "source_id": "L18",
+      "directory": "L18-crutchfield-young-1989",
+      "author": "James P. Crutchfield; Karl Young",
+      "title": "Inferring Statistical Complexity",
+      "publication_year": 1989,
+      "archived_version": "Author-hosted scan of Physical Review Letters 63,105-108",
+      "reading_scope": "Journal pp. 105-107; PDF pp. 1-3",
+      "reading_status": "targeted_passages_read",
+      "reading_method": "scan_visually_read",
+      "text_file": "extracted.txt",
+      "text_extraction_status": "scan_insufficient_use_rendered_original"
+    },
+    {
+      "requested_url": "https://uwnxt.nationalacademies.org/read/11790/chapter/5",
+      "retrieved_at_utc": "2026-11-11T11:41:18.522412+00:00",
+      "status_code": 200,
+      "final_url": "https://uwnxt.nationalacademies.org/read/11790/chapter/5",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "original-chapter.html",
+      "bytes": 612401,
+      "sha256": "18f861ede2fc474244f51a170f1e14bdc5b92545d7f4a99f9b5946623b08ad69",
+      "download_status": "downloaded",
+      "source_id": "L19",
+      "directory": "L19-hazen-et-al-2007",
+      "id": "L19-hazen-et-al-2007",
+      "author": "Robert M. Hazen; Patrick L. Griffin; James M. Carothers; Jack W. Szostak",
+      "title": "Functional Information and the Emergence of Biocomplexity",
+      "publication_year": 2007,
+      "archived_version": "National Academies Press same-author same-title chapter; In the Light of Evolution Volume I, chapter 2; not PNAS PDF",
+      "reading_scope": "Book pp. 25-30; statistical definitions, no reproduction of Avida/RNA analyses",
+      "reading_status": "targeted_passages_read",
+      "reading_method": "html_text_formula_images_unavailable",
+      "text_file": "extracted-chapter.txt",
+      "journal_pdf_obtained": false,
+      "text_extraction_status": "HTML_equation_images_not_in_plain_text"
+    },
+    {
+      "id": "L20-kolchinsky-wolpert-2018",
+      "requested_url": "https://artemyk.github.io/assets/pdf/papers/Kolchinsky_Wolpert_2018_Semantic%20information%2C%20autonomous%20agency%20and%20non-equilibrium%20statistical%20physics.pdf",
+      "retrieved_at_utc": "2026-11-11T11:34:40.609450+00:00",
+      "status_code": 200,
+      "final_url": "https://artemyk.github.io/assets/pdf/papers/Kolchinsky_Wolpert_2018_Semantic%20information%2C%20autonomous%20agency%20and%20non-equilibrium%20statistical%20physics.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 613384,
+      "sha256": "96ec1360b30771bbd6dd54ce2e80f833072a9e40d9a74d3ee7bf27a2c9673e80",
+      "download_status": "downloaded",
+      "pdf_pages": 17,
+      "source_id": "L20",
+      "directory": "L20-kolchinsky-wolpert-2018",
+      "author": "Artemy Kolchinsky; David H. Wolpert",
+      "title": "Semantic Information, Autonomous Agency and Non-equilibrium Statistical Physics",
+      "publication_year": 2018,
+      "archived_version": "Author-hosted PDF; Interface Focus 8,20180041",
+      "reading_scope": "Sections 3-4, section 5 and 5.1.1; PDF pp. 5-7; introduction framing",
+      "reading_status": "targeted_passages_read",
+      "reading_method": "text_and_original",
+      "text_file": "extracted.txt",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L21-tong-statphys",
+      "requested_url": "https://www.damtp.cam.ac.uk/user/tong/statphys/one.pdf",
+      "retrieved_at_utc": "2026-11-11T11:37:14.067853+00:00",
+      "file": "original-native.pdf",
+      "bytes": 1055584,
+      "sha256": "8075bc90335044e8726fd11fdebb38dad628a977e33c81663384cb157076ae3d",
+      "pdf_pages": 37,
+      "download_status": "downloaded",
+      "acquisition_method": "PowerShell Invoke-WebRequest using native certificate validation",
+      "source_id": "L21",
+      "directory": "L21-tong-statphys",
+      "author": "David Tong",
+      "title": "Lectures on Statistical Physics: The Fundamentals of Statistical Mechanics",
+      "publication_year": null,
+      "archived_version": "University lecture chapter, publication year not verified",
+      "reading_scope": "Sections 1.2.1 and 1.3.3; printed pp. 5,22-24 / PDF pp. 11,28-30",
+      "reading_status": "targeted_passages_read",
+      "reading_method": "text_and_original",
+      "text_file": "extracted.txt",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L22-berut-et-al-2012",
+      "requested_url": "https://www.physics.rutgers.edu/~morozov/677_f2023/Physics_677_2023_files/Berut_Lutz_Nature2012.pdf",
+      "retrieved_at_utc": "2026-11-11T11:34:40.609370+00:00",
+      "status_code": 200,
+      "final_url": "https://www.physics.rutgers.edu/~morozov/677_f2023/Physics_677_2023_files/Berut_Lutz_Nature2012.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 242052,
+      "sha256": "a89df68dc614a99a26dcdd138124bd2c9fd50f0c8ee29211fe431bc1ade3bd9f",
+      "download_status": "downloaded",
+      "pdf_pages": 4,
+      "source_id": "L22",
+      "directory": "L22-berut-et-al-2012",
+      "author": "Antoine Berut; Artak Arakelyan; Artyom Petrosyan; Sergio Ciliberto; Raoul Dillenschneider; Eric Lutz",
+      "title": "Experimental Verification of Landauer’s Principle Linking Information and Thermodynamics",
+      "publication_year": 2012,
+      "archived_version": "University-hosted PDF, Nature 483,187-189",
+      "reading_scope": "Journal pp. 187-189; PDF pp. 1-3; experiment and average heat, no raw-data replication",
+      "reading_status": "targeted_passages_read",
+      "reading_method": "text_and_original",
+      "text_file": "extracted.txt",
+      "text_extraction_status": "search_aid_not_authoritative"
+    }
+  ],
+  "files": [
+    {
+      "path": "discovery-01.json",
+      "bytes": 1795,
+      "sha256": "f5cea7aaf092d038826f567349dd1ab556b3161cb183f3a961f5c94775416c9b"
+    },
+    {
+      "path": "discovery-02.json",
+      "bytes": 36478,
+      "sha256": "4f00b3e325cd0cf687be61a231bc7c7c67f59d8784c4b0fd33e4984eeacf00f2"
+    },
+    {
+      "path": "discovery-03.json",
+      "bytes": 34470,
+      "sha256": "72dfe311c2f1aa60a133b0ac97f75a638b0cad3bc070437589e2cf46e8eec7bb"
+    },
+    {
+      "path": "L15-shannon-1948/attempt-initial.json",
+      "bytes": 514,
+      "sha256": "4c14b34391352b97f80313ef53b84c5e5bf7394e2803c3baf9687f1f64fe3038"
+    },
+    {
+      "path": "L15-shannon-1948/extracted.txt",
+      "bytes": 158332,
+      "sha256": "f759688ffba9dee4bdedf8db52c7a42789ca4b765e5359513ba3abb5e1d3bbe5"
+    },
+    {
+      "path": "L15-shannon-1948/metadata.json",
+      "bytes": 1038,
+      "sha256": "c29f7dc8184ef92adaf5b2c657df8f73de35fff805143c2a819d64e0336e44d1"
+    },
+    {
+      "path": "L15-shannon-1948/original.pdf",
+      "bytes": 366296,
+      "sha256": "6e4e3411984f3edf99dbfe8b941cb5e8a321379ff0cae6ae5c1f592ad8882ca8"
+    },
+    {
+      "path": "L16-landauer-1961/attempt-initial.json",
+      "bytes": 500,
+      "sha256": "6be5f0689e5390a5d2550569a7bacc0d3bb4795fddfaa97bc994710d3e401fa1"
+    },
+    {
+      "path": "L16-landauer-1961/extracted.txt",
+      "bytes": 1337,
+      "sha256": "dd375f24a03f31e8e0a72a8e54d79d103dd215712c24e029651ed7973c8dc1c8"
+    },
+    {
+      "path": "L16-landauer-1961/metadata.json",
+      "bytes": 1039,
+      "sha256": "a178a394478c4149737ca15dad84562e63a6825c85652065d89cba87b89949a0"
+    },
+    {
+      "path": "L16-landauer-1961/original.pdf",
+      "bytes": 833997,
+      "sha256": "aca8682acbc592a2069ee525fec9c64499833c9b19902ba07720444e07b240cc"
+    },
+    {
+      "path": "L16-landauer-1961/read-p4.png",
+      "bytes": 744133,
+      "sha256": "7b9f57f403ebf9f634bfa861d8cf466413217733591f6ddbf40893de45478234"
+    },
+    {
+      "path": "L16-landauer-1961/read-p5.png",
+      "bytes": 752571,
+      "sha256": "9ab0bf9a2efb9173f5cecb83ad1c64afff8a7ff48ed407fdddeabedaec5e2614"
+    },
+    {
+      "path": "L16-landauer-1961/reading-pages.png",
+      "bytes": 2300017,
+      "sha256": "0f5a6de79b6ef3d67400c40555fd5bdd57742136403e9ec51f0d409c1e942e24"
+    },
+    {
+      "path": "L17-esposito-vandenbroeck-2011/attempt-initial.json",
+      "bytes": 536,
+      "sha256": "54193cd3a985c77aa9fa52ef5995ea8c402f49bef07afb9b6cde392d5607222c"
+    },
+    {
+      "path": "L17-esposito-vandenbroeck-2011/extracted.txt",
+      "bytes": 29333,
+      "sha256": "3e6f125ab0ae621875085c9960f59412ec9ac2dac90cff798ac120123d6cf033"
+    },
+    {
+      "path": "L17-esposito-vandenbroeck-2011/metadata-arxiv.json",
+      "bytes": 461,
+      "sha256": "678551812e60c8fcbd4c0b46b5d69d0ec1ed4d640ada60932f7af1ac0e9c996f"
+    },
+    {
+      "path": "L17-esposito-vandenbroeck-2011/metadata.json",
+      "bytes": 1018,
+      "sha256": "f1da230f136af2de9e9288cf341b35264b622acc3f0766531f1d48b38872d7a7"
+    },
+    {
+      "path": "L17-esposito-vandenbroeck-2011/original-arxiv.pdf",
+      "bytes": 162214,
+      "sha256": "ae680955c3f0d3e081d9897ddce7d77a7e6775e9b45e3ec5a924853668c40471"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/attempt-initial.json",
+      "bytes": 662,
+      "sha256": "8d247172b76aa3f19405f85be21ac117a010573e87868a3bdca361fa6615af88"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/extracted.txt",
+      "bytes": 92,
+      "sha256": "7209c91250bd7f0d8be0fb27234a41dd4299fd679e81f008bac227dc00b88d73"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/metadata-author.json",
+      "bytes": 509,
+      "sha256": "3d4db8d6f505fa3386252a07d2c11eee71e39ac3a39f0ec6562a101c26fcb49f"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/metadata.json",
+      "bytes": 1040,
+      "sha256": "ddc71631e68b5ccfc3d64cb143515fa25bc3df82bc6060e329b9a112e111a979"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/original-author.pdf",
+      "bytes": 1234676,
+      "sha256": "d865ad8524b473a6417150a277a45b9806968c0546d8adae58308d9c0d1a58c6"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/read-p1.png",
+      "bytes": 790570,
+      "sha256": "36353dc64411a1c7c09ad5b4f8aa1096051682215f630e64165dbe1ab5a0a9ae"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/read-p2.png",
+      "bytes": 1072216,
+      "sha256": "6740fe93a92f38a8b72c6a74e0ad5751d0acbbfe8643e61cd634fb85ac587b2a"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/read-p3.png",
+      "bytes": 915066,
+      "sha256": "bbfee6e5672f9f27a828a493626aec97c9875238344e52489ecf680a6de7e1f2"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/reading-pages.png",
+      "bytes": 4839722,
+      "sha256": "0f8a58006e85f802086ace46969e709c7f1572f7a9f921439766138aa6789f12"
+    },
+    {
+      "path": "L18-crutchfield-young-1989/response.html",
+      "bytes": 66,
+      "sha256": "54b2d27f7b1e75fc52b5b7e51ea2e5f8028bfac301b1d373e24f42a4231c0140"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/assets-attempt-01.json",
+      "bytes": 5491,
+      "sha256": "723949e773f7206e05c5dd6ac6a451b6fe9d1dfe63f300470c6ca3960b7a691a"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/assets-manifest.json",
+      "bytes": 5547,
+      "sha256": "b181c80171b7f105f9146c589b279d60862f167cdf03b586bb77d43bb0c07674"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/attempt-initial.json",
+      "bytes": 699,
+      "sha256": "b2b78b99babe04d4d685d16f4b5bfbf5ea231cd54aa2c847dd0ef48d12084c14"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/attempt-pmc-original-metadata.json",
+      "bytes": 477,
+      "sha256": "e0bd73ba23f4133f647444a79f1aed424765df7f66e9dc8b6bfe89c00535629d"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/extracted-chapter.txt",
+      "bytes": 71364,
+      "sha256": "ee38d0f31ae8804b276e21458b6f0d266d0069c85e1fb624b7db312a0d041ecc"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/extracted.txt",
+      "bytes": 169,
+      "sha256": "825352ed55dcbb5dfdab02300e700a6858fea58c12126537904ff1e5c369e4a0"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/metadata-author.json",
+      "bytes": 564,
+      "sha256": "ccb4427406b0f731697c8407e7153d063000ae667b17d190c4270820d11351d6"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/metadata-chapter.json",
+      "bytes": 556,
+      "sha256": "7d09827dbba6cf4c90d6b744253e3df3f2661f3912f94d8b4efa8bd794df39bd"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/metadata-pmc.json",
+      "bytes": 565,
+      "sha256": "91ecc853e194dbf9f8e432eae7eaf4eab053c9f6cbe698d506694b6447dbd393"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/metadata.json",
+      "bytes": 1249,
+      "sha256": "3f59eaff28d676c7ea49b78550ab6584fcca6193b7ead96e573d62cb66d09dc3"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/original-chapter.html",
+      "bytes": 612401,
+      "sha256": "18f861ede2fc474244f51a170f1e14bdc5b92545d7f4a99f9b5946623b08ad69"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/original-pmc.html",
+      "bytes": 21307,
+      "sha256": "2c8bdb8408166e0e6e52406f52bd9c7f12354d73aba1efd8ca7adb800c2e937b"
+    },
+    {
+      "path": "L19-hazen-et-al-2007/response.html",
+      "bytes": 7143,
+      "sha256": "2b66b134bafbbecbe8e677d2633346e4da29a66ee64d8044fb533829fbfcbcac"
+    },
+    {
+      "path": "L20-kolchinsky-wolpert-2018/attempt-initial.json",
+      "bytes": 727,
+      "sha256": "6a0087c47718d6c33a0ad829abb019c1cfdfff0a5f76ae72588c308e481cc3f8"
+    },
+    {
+      "path": "L20-kolchinsky-wolpert-2018/extracted.txt",
+      "bytes": 113134,
+      "sha256": "c02d21d14760f1e5259d848587465b07488fbecf882dad3df7833e6f2ad2a163"
+    },
+    {
+      "path": "L20-kolchinsky-wolpert-2018/metadata.json",
+      "bytes": 1320,
+      "sha256": "2756d6769b0cd11f20c03c7dcd6662d981a94ad23aa8f761bc7d23a9a26fa679"
+    },
+    {
+      "path": "L20-kolchinsky-wolpert-2018/original.pdf",
+      "bytes": 613384,
+      "sha256": "96ec1360b30771bbd6dd54ce2e80f833072a9e40d9a74d3ee7bf27a2c9673e80"
+    },
+    {
+      "path": "L21-tong-statphys/attempt-initial.json",
+      "bytes": 324,
+      "sha256": "c3f0c03dd7a32540da276392c56bf25009dc3dcf13cd5cd4ed7fa5f7286cdcea"
+    },
+    {
+      "path": "L21-tong-statphys/extracted.txt",
+      "bytes": 71839,
+      "sha256": "8d1d89cc056eddff50dcbcf1723f58aa3304c4d6512603b2f722c06f22316a3f"
+    },
+    {
+      "path": "L21-tong-statphys/metadata-chapter.json",
+      "bytes": 501,
+      "sha256": "d450b99b1f4ccb08a4811ecc058fe44180a0b90ca4cecacc0e3825a70bc97532"
+    },
+    {
+      "path": "L21-tong-statphys/metadata-native.json",
+      "bytes": 441,
+      "sha256": "53fd916815a472686134548504237d724ebbebb80c08a75dc48ccd7c0c1a6692"
+    },
+    {
+      "path": "L21-tong-statphys/metadata-system-trust.json",
+      "bytes": 346,
+      "sha256": "6a22d69c966bf937c6da11402d2607b1c41c5887dd4afea374ce012a2088c4af"
+    },
+    {
+      "path": "L21-tong-statphys/metadata.json",
+      "bytes": 1018,
+      "sha256": "480e3596cb0369eaea7cadd8a7b42a103e02839ef21672d09a558d920d2ca4e5"
+    },
+    {
+      "path": "L21-tong-statphys/original-native.pdf",
+      "bytes": 1055584,
+      "sha256": "8075bc90335044e8726fd11fdebb38dad628a977e33c81663384cb157076ae3d"
+    },
+    {
+      "path": "L22-berut-et-al-2012/attempt-initial.json",
+      "bytes": 583,
+      "sha256": "a19d0db2be34ab97237a51e01a4b8facaaf6f036eb332e4600d58d810c927bb7"
+    },
+    {
+      "path": "L22-berut-et-al-2012/extracted.txt",
+      "bytes": 26106,
+      "sha256": "3ea6f899ba69ae7573b156a259ead6de7e71f952e68830dcd23e2373ff66d616"
+    },
+    {
+      "path": "L22-berut-et-al-2012/metadata.json",
+      "bytes": 1259,
+      "sha256": "65a1618de1284987583bbc9e10b5eb1392a750ef32fd5cfa53df449d4583a99f"
+    },
+    {
+      "path": "L22-berut-et-al-2012/original.pdf",
+      "bytes": 242052,
+      "sha256": "a89df68dc614a99a26dcdd138124bd2c9fd50f0c8ee29211fe431bc1ade3bd9f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3811,
+      "sha256": "e90d8b62b5e26610d354b30666706c1722afae197e9f28cdf6af7fedfa67e15e"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 36085,
+      "sha256": "ea2a6d034d64410de1265e1d97dabec2d3783086789a5b16f028ac5ebb9ddef2"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 35990,
+      "sha256": "f5c181971ebb7df773c6cf3849be5f695c6af46bf92c6a6fa02dda87b4b33218"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 1302,
+      "sha256": "3d449ed04c69ea7aeb5001ce2c7d1a98d2c99597eacc5c9da1b5109afedfb246"
+    }
+  ],
+  "known_gaps": [
+    "L19 original journal PDF not obtained; same-author same-title NAP chapter HTML obtained",
+    "L19 external formula and figure images unavailable from attempted hosts; textual definitions retained",
+    "L16 and L18 PDF text layers inadequate; reading based on rendered source pages"
+  ]
+}

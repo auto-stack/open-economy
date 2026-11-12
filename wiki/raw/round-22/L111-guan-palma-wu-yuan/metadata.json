@@ -1,0 +1,34 @@
+{
+  "id": "L111-guan-palma-wu-yuan",
+  "title": "The rise and fall of paper money in Yuan China,1260-1368",
+  "authors": "Hanhui Guan; Nuno Palma; Meng Wu",
+  "publication": "85-page Manchester author accepted manuscript with appendix; cover links2024publication,DOI10.1111/ehr.13305; not publisher typeset article",
+  "url": "https://pure.manchester.ac.uk/ws/portalfiles/portal/282385467/Paper_money_in_Yuan_China_withappendix.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF pp1-3,7-14,17-18,20-29,39-42,44-49,57-58; p48 table4 visual check; no full replication or all85pages reading",
+  "selection_status": "complete_accepted_manuscript_selected_parts",
+  "rights": "Source rights and licence notices retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 85,
+  "sha256": "4f7f2ac1c9eb71705b7a0739a9d1711c13cf0f5e9d0de7ead283b071a50becb7",
+  "archived_file": "original.pdf",
+  "download_status": "downloaded_identity_and_scope_checked",
+  "original_downloaded": true,
+  "final_url": "https://pure.manchester.ac.uk/ws/portalfiles/portal/282385467/Paper_money_in_Yuan_China_withappendix.pdf",
+  "status_code": 200,
+  "bytes": 1319792,
+  "retrieved_at_utc": "2026-11-12T03:12:07.142216+00:00",
+  "evidence_type": "historical_econometric_research_accepted_manuscript",
+  "archived_documents": [
+    {
+      "path": "original.pdf",
+      "bytes": 1319792,
+      "sha256": "4f7f2ac1c9eb71705b7a0739a9d1711c13cf0f5e9d0de7ead283b071a50becb7",
+      "source_url": "https://pure.manchester.ac.uk/ws/portalfiles/portal/282385467/Paper_money_in_Yuan_China_withappendix.pdf",
+      "transport": "direct file download"
+    }
+  ],
+  "facsimile_read": null,
+  "complete_connector_text_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/deepening-reading-notes.md"
+}

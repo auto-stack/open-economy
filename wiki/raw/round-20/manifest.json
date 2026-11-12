@@ -1,0 +1,392 @@
+{
+  "research_date_local": "2026-11-12",
+  "generated_at_utc": "2026-11-12T02:42:21.254682+00:00",
+  "scope": "All files in round-20 except manifest.json and checksums.sha256; includes failures, excluded lecture and partial tool text distinctly labelled",
+  "files": [
+    {
+      "path": "discovery/moneyDownloadViews.json",
+      "bytes": 14195,
+      "sha256": "802e4ef7d6fcd10559fc1dd8e1242c4b1429d4213e6dda0774ff1d6dc0179ecd"
+    },
+    {
+      "path": "discovery/moneySearch-1.json",
+      "bytes": 16804,
+      "sha256": "71b42b325742838d7723cf8b1675c5a90c27d517105356efc3e720a787945070"
+    },
+    {
+      "path": "discovery/moneySearch-2.json",
+      "bytes": 17406,
+      "sha256": "050f3b11fe6fde5f436fab5e522df62bf2cae97a486a0d95ac29fe5723146fe4"
+    },
+    {
+      "path": "discovery/moneySearch-3.json",
+      "bytes": 14629,
+      "sha256": "fcd7896755a4ea3d41e7b64025137e865dc55796b85567e6bf9d1d19d2dac5a7"
+    },
+    {
+      "path": "discovery/moneySearch-4.json",
+      "bytes": 16786,
+      "sha256": "cbb561c16ab20e201c248de30078d1ffde17217521079edb036ed39b14d1df82"
+    },
+    {
+      "path": "discovery/moneySearch-5.json",
+      "bytes": 15806,
+      "sha256": "8ccc82cfb3c35af40672008f4e9cf174d1cdafd1dff2975f76823f27c0a37a31"
+    },
+    {
+      "path": "discovery/moneySearch-6.json",
+      "bytes": 13163,
+      "sha256": "83f51afe423ad567af64918f8f7f5cbba4bf758330b98de9c296edadf7f4587a"
+    },
+    {
+      "path": "discovery/moneySearch7.json",
+      "bytes": 34103,
+      "sha256": "863f669a34fe3be40128dd42a57ea4db2e0286cf854838bc01e6bf7c66d1b977"
+    },
+    {
+      "path": "discovery/moneyViews-1.json",
+      "bytes": 14222,
+      "sha256": "c3761602006a87f1d028d9001714602d75bdd10b3cd88af56865911a55fe94c6"
+    },
+    {
+      "path": "discovery/moneyViews-2.json",
+      "bytes": 7287,
+      "sha256": "1e4404c7f70a11eee31f21ab21db15b4c1f58e79d8b60176a39bde7a411e3118"
+    },
+    {
+      "path": "discovery/moneyViews-3.json",
+      "bytes": 6715,
+      "sha256": "e414b4468dd654d198b9be1909c8fb337b14c34daee8b93875e335a6714d3c5f"
+    },
+    {
+      "path": "discovery/moneyViews-4.json",
+      "bytes": 14032,
+      "sha256": "249c42c5c2b6ff564d7533aca339d85d7480b39e99245b155c7017179097a81a"
+    },
+    {
+      "path": "discovery/moneyViews-5.json",
+      "bytes": 15698,
+      "sha256": "d7a80a73822f4991b6664335f9f5ffad2fdef07f2235eb22b1d46d6d2cc96acd"
+    },
+    {
+      "path": "discovery/moneyViews6.json",
+      "bytes": 1240,
+      "sha256": "f173787a2a47e4d357381aee578f68163a843c1fc827fd66c47f10e2eb3148a3"
+    },
+    {
+      "path": "discovery/moneyViews7.json",
+      "bytes": 4975,
+      "sha256": "c9fd8385f3f1efaa23ed1f6fb946a0cbd0b0922b551ae2cb6c653a2ea074946e"
+    },
+    {
+      "path": "L85-aristotle-politics/acquisition-log.json",
+      "bytes": 363,
+      "sha256": "123a799c9fe9893f15413580feac6f7a06e4073f00a994dc003265aabfee98d2"
+    },
+    {
+      "path": "L85-aristotle-politics/extracted.txt",
+      "bytes": 50166,
+      "sha256": "d375422b9f29563c862a282f4b53d6401b585d5bde6ba722fa021a93133456da"
+    },
+    {
+      "path": "L85-aristotle-politics/metadata.json",
+      "bytes": 1341,
+      "sha256": "817a77c762476f60f502d3aa20a44bfea961e62927c3298ec8f9ebd15f33c9a2"
+    },
+    {
+      "path": "L85-aristotle-politics/original.html",
+      "bytes": 71168,
+      "sha256": "3d8b33ed8fb9668ebe7b3b82e23334b0744cafa2fb003a0fac41b08d5070704f"
+    },
+    {
+      "path": "L86-marx-capital-1867/acquisition-log.json",
+      "bytes": 1106,
+      "sha256": "30cf59a4128c2f9aeccc0d7d6c0f4e6ff99967eb5f0791545a1895ad9dbab423"
+    },
+    {
+      "path": "L86-marx-capital-1867/extracted.txt",
+      "bytes": 139424,
+      "sha256": "23e3f53c88d069d66e8aa1804dc97bde3fde1c489d20998b62097d10470b0ab9"
+    },
+    {
+      "path": "L86-marx-capital-1867/metadata.json",
+      "bytes": 1237,
+      "sha256": "72abdd95c6d399dfa85539d22b69446b72356851dbf2931f994fee76990fe6c6"
+    },
+    {
+      "path": "L86-marx-capital-1867/original.pdf",
+      "bytes": 563511,
+      "sha256": "bf1bc9ee44a272b5edf42fa82a75bae2ae7b81239acf889f71678f7372d1c5da"
+    },
+    {
+      "path": "L87-jevons-political-economy/acquisition-log.json",
+      "bytes": 1064,
+      "sha256": "8099204cd0556723b138743d4433f3a212f334d1f61e00b6aa60be5731185f5a"
+    },
+    {
+      "path": "L87-jevons-political-economy/extracted.txt",
+      "bytes": 534234,
+      "sha256": "3fa2b706401163e392016b6b11c457a137aec2e38c9c672947e28206331d6ad7"
+    },
+    {
+      "path": "L87-jevons-political-economy/failed-response-1.bin",
+      "bytes": 1260,
+      "sha256": "61389c0bea53ddd84b3fb6870c5f6e4bf961c614dd19e718969da59f0b16a2ac"
+    },
+    {
+      "path": "L87-jevons-political-economy/failed-response-2.bin",
+      "bytes": 919,
+      "sha256": "a34b0f37e468f1cfa0bc9a64a424001f79bf7f4b44e3613e9d5a44f4f0a2eb72"
+    },
+    {
+      "path": "L87-jevons-political-economy/metadata.json",
+      "bytes": 1384,
+      "sha256": "29e7b5b5f140af3f2af2b1102570eacbc3d303d3021764a8665989440c16ec52"
+    },
+    {
+      "path": "L87-jevons-political-economy/original.pdf",
+      "bytes": 1684434,
+      "sha256": "189a9b5bec41cf8ce939d9851ed7b9eb19ccdd0908b0da6b162c925c55774fb4"
+    },
+    {
+      "path": "L88-menger-1892/acquisition-log.json",
+      "bytes": 716,
+      "sha256": "19301a7e3ce6ed5c67e297e61609287512ada1a85d97b29dc3b29a1e264a26e7"
+    },
+    {
+      "path": "L88-menger-1892/extracted.txt",
+      "bytes": 52060,
+      "sha256": "448b4749f0f64a631b1e5fcc66f95f98b2d21e1ad5cdd5d3fe6aa011605aab24"
+    },
+    {
+      "path": "L88-menger-1892/failed-response-1.bin",
+      "bytes": 947,
+      "sha256": "360db7a83ffe0a101040a00f208eef63fef58d13f830f6cc90e2c3a690b0c721"
+    },
+    {
+      "path": "L88-menger-1892/metadata.json",
+      "bytes": 1304,
+      "sha256": "f834b4eeeeb7c45fb4f4eb83fc460b55f6769a690b05b9a6b791ebd20e96c67e"
+    },
+    {
+      "path": "L88-menger-1892/original.pdf",
+      "bytes": 1341232,
+      "sha256": "ae0073e11ffab901c55082541ca40a1ef557eac2868087e06302ab74dc928489"
+    },
+    {
+      "path": "L89-innes-1913/acquisition-log.json",
+      "bytes": 679,
+      "sha256": "d4a78633da681bce43de7c7297ea035b99955932fef9a53ef8f49309a26fb460"
+    },
+    {
+      "path": "L89-innes-1913/extracted.txt",
+      "bytes": 102404,
+      "sha256": "5d9dba7e5e449181df069d050d878603930804b1b5dd7edbd2c4b1a410ae4763"
+    },
+    {
+      "path": "L89-innes-1913/failed-response-1.bin",
+      "bytes": 5672,
+      "sha256": "ca1ecd176f5a1aee3f0bfc369e96b5b8b7e45169eca75fa14d0ac877a16f3ae6"
+    },
+    {
+      "path": "L89-innes-1913/metadata.json",
+      "bytes": 1312,
+      "sha256": "425f0cf19961f1fd1b93a7f649b88d8a2ee83f08bad62c4a9047e7f52cb185a3"
+    },
+    {
+      "path": "L89-innes-1913/original.html",
+      "bytes": 131941,
+      "sha256": "b9be6608c33a6f6824d68c6debecb546f123da2a278fadeb783e7574fb543b0e"
+    },
+    {
+      "path": "L90-knapp-1924/acquisition-log.json",
+      "bytes": 1398,
+      "sha256": "244ba428b08af03bdca746cf95093e32384713646e5ac736b0d7afd955a45f65"
+    },
+    {
+      "path": "L90-knapp-1924/failed-response-2.bin",
+      "bytes": 59351,
+      "sha256": "aad6ae8f1c032bfcf2832a8c83601153dba156956110cb6a260e063f346ee383"
+    },
+    {
+      "path": "L90-knapp-1924/metadata.json",
+      "bytes": 1121,
+      "sha256": "d98258e82b98aa2972fad3f454e2d81f5a26375139e2a342c16e7862e826309e"
+    },
+    {
+      "path": "L90-knapp-1924/partial-web-tool-text.txt",
+      "bytes": 17716,
+      "sha256": "44aa2b913f268b0231ff330585b99cf7948f7820f05429a9fa5cd6a8f4bdd5b5"
+    },
+    {
+      "path": "L91-humphrey-1985/acquisition-log.json",
+      "bytes": 475,
+      "sha256": "ea0e05cb9e2801862c06ba57417d4c937bc6a6e7fa07787427fdf2a9824dc276"
+    },
+    {
+      "path": "L91-humphrey-1985/extracted.txt",
+      "bytes": 96648,
+      "sha256": "f776b90f0bb01cada5aa189e2d5cd93ccd98cd396f16cdc4d9bdfdaaca9a68e4"
+    },
+    {
+      "path": "L91-humphrey-1985/metadata.json",
+      "bytes": 1440,
+      "sha256": "f9e61edc52c526e8d73359c9baa8142eb0a47ffbb52c45ab6bf7128070b8418a"
+    },
+    {
+      "path": "L91-humphrey-1985/original.pdf",
+      "bytes": 2248700,
+      "sha256": "b8b42ed7311f328c7e19dc3284bbafea52d42b47d77ffb018978337aaf299c54"
+    },
+    {
+      "path": "L92-grierson-origins/acquisition-log.json",
+      "bytes": 743,
+      "sha256": "1bfd2962209891eab048161316a265e8ba3c4f2fc9eb73a06f24f09b920d98d9"
+    },
+    {
+      "path": "L92-grierson-origins/failed-response-1.bin",
+      "bytes": 7226,
+      "sha256": "7edc66c5ec2a80cb6e02e231bc981ecf75cc523899db995866d40ce40e6fde53"
+    },
+    {
+      "path": "L92-grierson-origins/metadata.json",
+      "bytes": 947,
+      "sha256": "50a984d3f07f35d8178ab19ecda678100f548f8b55ffa572e44b6fd5d5355ba8"
+    },
+    {
+      "path": "L93-schmandt-besserat-accounting/acquisition-log.json",
+      "bytes": 381,
+      "sha256": "bbd9dc8c2b4edfa0fb5bd88b5978ef760809586eb289d23b0724b3b68e0f67eb"
+    },
+    {
+      "path": "L93-schmandt-besserat-accounting/extracted.txt",
+      "bytes": 21101,
+      "sha256": "74c7c92c8ccbcfc13002431bd2a2215bc695534eb9d6b0053f1125ee68b2d357"
+    },
+    {
+      "path": "L93-schmandt-besserat-accounting/metadata.json",
+      "bytes": 1370,
+      "sha256": "e2b1343d28c776e111dc85e13fe0ceb17d84a9917cb07813c6de1d46c3e89957"
+    },
+    {
+      "path": "L93-schmandt-besserat-accounting/original.html",
+      "bytes": 81051,
+      "sha256": "13fc7db3d445e627c8a2cd6c4f86783942bcdd023f67be2608f1c5c2cca42223"
+    },
+    {
+      "path": "L94-boe-money-2014/acquisition-log.json",
+      "bytes": 430,
+      "sha256": "084afdaf83e265b9eef6c0dd29b0bca5b143c016049ce30be20c0304a954be70"
+    },
+    {
+      "path": "L94-boe-money-2014/failed-response-1.bin",
+      "bytes": 517,
+      "sha256": "01a5f2568fef16e03020e7c582c1dcf30608c66d903c0252ec643577e4fbc495"
+    },
+    {
+      "path": "L94-boe-money-2014/metadata.json",
+      "bytes": 1172,
+      "sha256": "07c6ba781e19679e64a0026bdfabd1157415fe1ea31109d462e9d6c779a122d6"
+    },
+    {
+      "path": "L94-boe-money-2014/partial-web-tool-text.txt",
+      "bytes": 27280,
+      "sha256": "429ef886a6c7104ccbdfae0ae378dccf294c496386499ef818e579443d22a5a0"
+    },
+    {
+      "path": "L95-loc-cuneiform/acquisition-log.json",
+      "bytes": 347,
+      "sha256": "7b4ae9f1adc38a42609786904bec8df24d64da8962b3158a64e3432a05adb829"
+    },
+    {
+      "path": "L95-loc-cuneiform/failed-response-1.bin",
+      "bytes": 5679,
+      "sha256": "b950c518265e63daa35b10cfcce3502e90a8289aa7ebda36b4dd88f161080103"
+    },
+    {
+      "path": "L95-loc-cuneiform/metadata.json",
+      "bytes": 881,
+      "sha256": "c2d26ff4a227e9c6c8a22907d82538d34a61099910af69be1fd3f217fd235e08"
+    },
+    {
+      "path": "L96-von-glahn-2005/acquisition-log.json",
+      "bytes": 428,
+      "sha256": "fd2acebbeabbcb69702b120802522e5b7a362f6b345c6578c04f01925dc38ebf"
+    },
+    {
+      "path": "L96-von-glahn-2005/extracted-wrong-match.txt",
+      "bytes": 43446,
+      "sha256": "283df4330f29bec00a9593587aea52c969246d5825af71214867815cea6679b7"
+    },
+    {
+      "path": "L96-von-glahn-2005/metadata.json",
+      "bytes": 1305,
+      "sha256": "db8eeed12dc52ddbfecf67a377595411e7034b4b8ef4beee83395a4e284b3f25"
+    },
+    {
+      "path": "L96-von-glahn-2005/wrong-match-lecture.pdf",
+      "bytes": 32587875,
+      "sha256": "a0ad8c0a4f27ff209e1cddb71ea5f519f532ef3490f0fa7e4a0aafe9584c8829"
+    },
+    {
+      "path": "L97-cantillon-1755/acquisition-log.json",
+      "bytes": 815,
+      "sha256": "cc6a822d566766841c59517df0baf6e3d6f4242736abd521ca0565e4fe23eb52"
+    },
+    {
+      "path": "L97-cantillon-1755/extracted.txt",
+      "bytes": 462246,
+      "sha256": "77e8bdf95f1bf5338818a991874d8e754a862e46baaac75d8d23d85dfa4f7a14"
+    },
+    {
+      "path": "L97-cantillon-1755/metadata.json",
+      "bytes": 1394,
+      "sha256": "7fbf70cbbc2ccd8a76360e3a75b516ca8f2a40d5edb69ed31eeed9e2bad7177b"
+    },
+    {
+      "path": "L97-cantillon-1755/original.pdf",
+      "bytes": 752264,
+      "sha256": "5df451928130f279e573130ecf2b41eceb4c2194e00e7cacb6697e94671f2c5d"
+    },
+    {
+      "path": "L98-khm-ming-banknote/acquisition-log.json",
+      "bytes": 316,
+      "sha256": "8e1c6722a7d53802232a227823cc373285cd50555f0130079d80ad8159926ca3"
+    },
+    {
+      "path": "L98-khm-ming-banknote/extracted.txt",
+      "bytes": 6350,
+      "sha256": "8b35e190da359f6115875dadf06e53c5c2b67a105c8544558b0f88461e18a6ca"
+    },
+    {
+      "path": "L98-khm-ming-banknote/metadata.json",
+      "bytes": 1099,
+      "sha256": "51e8b52aa1f8da9e63a9497a52d53bc96b993d229fae6b4810e3517f8c029c03"
+    },
+    {
+      "path": "L98-khm-ming-banknote/original.html",
+      "bytes": 123466,
+      "sha256": "e011cf0b3c19f18aadf3a94ccf97546b881d502d214a7e417e2e086bd3d6462e"
+    },
+    {
+      "path": "L99-vogel-currencies-preview/acquisition-log.json",
+      "bytes": 306,
+      "sha256": "a64aaeaf04c4e6e57156f67477d4caa3ca0844f6e0687616026c3c6f3c2086b9"
+    },
+    {
+      "path": "L99-vogel-currencies-preview/metadata.json",
+      "bytes": 1008,
+      "sha256": "0989138f80405c4a1aafbae97a215b1258eb2390ada381a20b821b927633ecf8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4258,
+      "sha256": "d6d6b2b431e3a0458dc01473a4170cb2ffed6cd066c882af56fbd05164eb370a"
+    },
+    {
+      "path": "reuse-reading.json",
+      "bytes": 873,
+      "sha256": "740061fd8c470072653c8560c4271f061723ead37f74e4cd096f88ae9d3c9b2f"
+    }
+  ]
+}

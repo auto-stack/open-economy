@@ -1,0 +1,102 @@
+{
+  "date_local": "2026-11-12",
+  "artifacts": [
+    {
+      "path": "README.md",
+      "bytes": 8115,
+      "sha256": "2d13dcecb052bc5356d99e5897caf0fc6ad8275a7f41f5077d6933c06ac4df3b"
+    },
+    {
+      "path": "docs/charter.md",
+      "bytes": 16682,
+      "sha256": "fc14e8f5cc65d79d8b00bac9a84e2303d77efca371d78f434ecffe4a8badbf6b"
+    },
+    {
+      "path": "docs/research-dependencies.md",
+      "bytes": 16659,
+      "sha256": "645950785848dad13ac6d019a1362856ae0f7d1b34f0d4e4e1f0667dc384afbc"
+    },
+    {
+      "path": "shared/README.md",
+      "bytes": 6661,
+      "sha256": "b005d8582ab8702b6d77be0ff30bcd8419a5694e99f3b40e13aae8b58defba54"
+    },
+    {
+      "path": "shared/concept-interfaces.md",
+      "bytes": 6972,
+      "sha256": "c00f10fa2f46246991e0051e29892bc9e0ce3bde7a43271f4a4d1b197202dff4"
+    },
+    {
+      "path": "book/README.md",
+      "bytes": 16228,
+      "sha256": "a692a41bd8ed1df685a4140e7e553d0a3d39e25da0c58b7e4a7d4bfb2cb8dbc2"
+    },
+    {
+      "path": "book/argument-map.md",
+      "bytes": 6906,
+      "sha256": "3f460471d04e424421692cbe606be23c65125b97241259f7dce20c0648a02f67"
+    },
+    {
+      "path": "book/outline.md",
+      "bytes": 10678,
+      "sha256": "c2cea93d3fef0256cef3e98e5ceb2c2cdb2cc8d6fa3c0558f7a710a37b263513"
+    },
+    {
+      "path": "book/part-03/01-cooperation-and-common-capabilities.md",
+      "bytes": 9616,
+      "sha256": "9503d6b45a518e22926b66fe11e090f3fa6c2484a3b91b34679fef7d9d9bb462"
+    },
+    {
+      "path": "book/argument-cards/part-03-01-cooperation-and-common-capabilities.md",
+      "bytes": 3098,
+      "sha256": "c3e5bb7319fc5b4c327374b9673150c66a41603f75b4541ea00e62722a3e9956"
+    },
+    {
+      "path": "research/README.md",
+      "bytes": 21845,
+      "sha256": "24832ea3e1d49604eebed0fa84d61ee8634600f77be2edfb3aacfd06e65b1b0e"
+    },
+    {
+      "path": "research/reviews/33-framework-supplement-and-joint-interaction.md",
+      "bytes": 3787,
+      "sha256": "9d43477f94dfc9170ce8a222bb116e28b63d6f5d80d8ab6735ee5b5224c2cce5"
+    },
+    {
+      "path": "research/reviews/33-organization-and-economic-interfaces.md",
+      "bytes": 8078,
+      "sha256": "49aa7f2e338c57479054b1d00e9d5aaa01daa1e7afe0fd02d07968c96a66938a"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/README.md",
+      "bytes": 6093,
+      "sha256": "ea875542fd3606ef6d8f3b78c16e5497979c5556263f27ccda8ff9756f67ebaf"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/competition-cooperation-and-order.md",
+      "bytes": 6397,
+      "sha256": "60cd14026198bbfc5cfa1277c58c1d36f34dba74d436054f1c57ad0bf6b284e2"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md",
+      "bytes": 8970,
+      "sha256": "309b21b2fe443a0ad2d4105d3aec6169825933e00003565524b24a62dcc93514"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/contribution-research-design.md",
+      "bytes": 3818,
+      "sha256": "7e72f211a09962b781bcb921305e52f04022a85f9033f778a6f5ab10daf12212"
+    },
+    {
+      "path": "wiki/raw/README.md",
+      "bytes": 9311,
+      "sha256": "27e6318ca815f1fb2541e0f706eec4a1f6284524c4a6152c75b1a13c0a5af94d"
+    },
+    {
+      "path": "wiki/raw/round-33/README.md",
+      "bytes": 1849,
+      "sha256": "5591cc6f3708b37891c2131bba2e737eb67837caebb217b1a95adf5fd935928d"
+    }
+  ],
+  "new_archive_manifest": "wiki/raw/round-33/manifest.json",
+  "read_scope": "L181 PDF1–7; visual page4; prior source scopes retained"
+}

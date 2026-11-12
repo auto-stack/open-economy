@@ -1,0 +1,211 @@
+{
+  "date": "2026-11-12",
+  "empirical_data": false,
+  "parameters_are_policy": false,
+  "risk_direction": {
+    "kind": "own_two_point_example_not_author_erratum",
+    "rows": [
+      {
+        "y": 0.0,
+        "integrated_cdf_spread": 0.0,
+        "integrated_cdf_certain": 0.0
+      },
+      {
+        "y": 0.5,
+        "integrated_cdf_spread": 0.25,
+        "integrated_cdf_certain": 0.0
+      },
+      {
+        "y": 1.0,
+        "integrated_cdf_spread": 0.5,
+        "integrated_cdf_certain": 0.0
+      },
+      {
+        "y": 1.5,
+        "integrated_cdf_spread": 0.75,
+        "integrated_cdf_certain": 0.5
+      },
+      {
+        "y": 2.0,
+        "integrated_cdf_spread": 1.0,
+        "integrated_cdf_certain": 1.0
+      },
+      {
+        "y": 3.0,
+        "integrated_cdf_spread": 2.0,
+        "integrated_cdf_certain": 2.0
+      }
+    ],
+    "equal_mean": 1.0,
+    "spread_variance": 1.0,
+    "certain_variance": 0.0
+  },
+  "financing": {
+    "kind": "hypothetical_conditional_contract_not_full_equilibrium",
+    "parameters": {
+      "I": 100.0,
+      "A": 20.0,
+      "R": 150.0,
+      "pH": 0.8,
+      "pL": 0.4,
+      "B": 24.0,
+      "b": 8.0,
+      "c": 18.0,
+      "gamma": 1.0,
+      "beta_m": 2.2
+    },
+    "direct": {
+      "pledgeable_income": 72.0,
+      "external_funding_needed": 80.0,
+      "Abar": 28.0
+    },
+    "monitored_binding_bounds": {
+      "beta_min": 2.0,
+      "Im_min": 16.363636363636363,
+      "pledgeable_uninformed_income": 68.0,
+      "Aunder": 15.636363636363637
+    },
+    "strict_contract": {
+      "Rf": 25.25,
+      "Rm": 45.1,
+      "Ru": 79.65,
+      "Im": 16.4,
+      "Iu": 63.6,
+      "gains": {
+        "firm": 0.2,
+        "monitor": 1.68,
+        "uninformed": 0.12
+      }
+    },
+    "checks": {
+      "resource_funding": true,
+      "payoff_sum": true,
+      "firm_effort_strict": true,
+      "monitor_effort_strict": true,
+      "firm_participation_strict": true,
+      "monitor_participation_strict": true,
+      "uninformed_participation_strict": true,
+      "monitor_needed_for_chosen_contract": true,
+      "good_viable_before_monitoring": true,
+      "bad_not_viable_including_private_B": true,
+      "beta_exceeds_minimum": true,
+      "section_IV_optional_b_plus_c_exceeds_B": true,
+      "monitor_useful_at_minimum_beta": true
+    },
+    "printed_equation_3_inconsistency": {
+      "good_net": 20.0,
+      "printed_negative_rhs": -48.0,
+      "printed_condition_satisfied": false,
+      "positive_Abar_condition_satisfied": true
+    }
+  },
+  "cash_protocol": {
+    "months": 12,
+    "monthly_due": {
+      "maintenance": 8,
+      "platform": 4,
+      "contributor_contract": 2
+    },
+    "initial_cash": {
+      "maintenance": 8,
+      "platform": 4,
+      "contributor_contract": 2
+    },
+    "public_fee_share": 0.6,
+    "maintenance_share_within_public": 0.6666666666666666,
+    "earmarked_total_fractions": {
+      "maintenance": 0.4,
+      "platform": 0.4,
+      "contributor_contract": 0.2
+    },
+    "pooled_minimum_steady_inflow": 14,
+    "earmarked_minimum_steady_inflow": 20,
+    "legal_responsibility_or_actual_demand_inferred": false
+  },
+  "cash_summary": [
+    {
+      "scenario": "base",
+      "regime": "pooled",
+      "first_failure_month": null,
+      "forecast_final_total_without_repair": 134.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "base",
+      "regime": "earmarked",
+      "first_failure_month": null,
+      "forecast_final_total_without_repair": 134.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "base",
+      "regime": "earmarked_repair",
+      "first_failure_month": null,
+      "forecast_final_total_without_repair": 134.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "common_revenue_drop",
+      "regime": "pooled",
+      "first_failure_month": null,
+      "forecast_final_total_without_repair": 44.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "common_revenue_drop",
+      "regime": "earmarked",
+      "first_failure_month": 6,
+      "forecast_final_total_without_repair": 44.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "common_revenue_drop",
+      "regime": "earmarked_repair",
+      "first_failure_month": null,
+      "forecast_final_total_without_repair": 44.0,
+      "actual_total_transferred": 13.6
+    },
+    {
+      "scenario": "receipts_delayed",
+      "regime": "pooled",
+      "first_failure_month": 2,
+      "forecast_final_total_without_repair": 134.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "receipts_delayed",
+      "regime": "earmarked",
+      "first_failure_month": 2,
+      "forecast_final_total_without_repair": 134.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "receipts_delayed",
+      "regime": "earmarked_repair",
+      "first_failure_month": 2,
+      "forecast_final_total_without_repair": 134.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "no_receipts",
+      "regime": "pooled",
+      "first_failure_month": 2,
+      "forecast_final_total_without_repair": -154.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "no_receipts",
+      "regime": "earmarked",
+      "first_failure_month": 2,
+      "forecast_final_total_without_repair": -154.0,
+      "actual_total_transferred": 0.0
+    },
+    {
+      "scenario": "no_receipts",
+      "regime": "earmarked_repair",
+      "first_failure_month": 2,
+      "forecast_final_total_without_repair": -154.0,
+      "actual_total_transferred": 0.0
+    }
+  ]
+}

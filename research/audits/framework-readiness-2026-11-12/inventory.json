@@ -1,0 +1,158 @@
+{
+  "date_local": "2026-11-12",
+  "scope": "Read-only inventory and proposal writing; no index, commit, tag or remote mutation",
+  "git": {
+    "remote": "https://github.com/auto-stack/open-economy.git",
+    "head": "afc8e0517b5df4e0e932d1d4a50a5379cf19d247",
+    "branch": "main",
+    "tracked_files": [
+      "README.md"
+    ],
+    "tags": [],
+    "commit_count": 1,
+    "remote_visibility": "public",
+    "visibility_basis": "Connected GitHub get_repo metadata read2026-11-12; only visibility and repository URL retained"
+  },
+  "groups": {
+    "README.md": {
+      "files": 1,
+      "bytes": 10754
+    },
+    "book": {
+      "files": 27,
+      "bytes": 165649
+    },
+    "docs": {
+      "files": 8,
+      "bytes": 74099
+    },
+    "research/README.md": {
+      "files": 1,
+      "bytes": 24452
+    },
+    "research/audits": {
+      "files": 17,
+      "bytes": 91784
+    },
+    "research/baselines": {
+      "files": 25,
+      "bytes": 2518723
+    },
+    "research/examples": {
+      "files": 88,
+      "bytes": 1421502
+    },
+    "research/reviews": {
+      "files": 70,
+      "bytes": 495309
+    },
+    "research/surveys": {
+      "files": 175,
+      "bytes": 18137748
+    },
+    "research/tools": {
+      "files": 8,
+      "bytes": 78162
+    },
+    "shared": {
+      "files": 3,
+      "bytes": 39216
+    },
+    "wiki/derived": {
+      "files": 84,
+      "bytes": 15967712
+    },
+    "wiki/index": {
+      "files": 8,
+      "bytes": 580303
+    },
+    "wiki/raw": {
+      "files": 1204,
+      "bytes": 304780758
+    }
+  },
+  "extensions": {
+    ".bin": {
+      "files": 65,
+      "bytes": 696145
+    },
+    ".csv": {
+      "files": 32,
+      "bytes": 454169
+    },
+    ".empty-response": {
+      "files": 1,
+      "bytes": 0
+    },
+    ".html": {
+      "files": 60,
+      "bytes": 15056016
+    },
+    ".json": {
+      "files": 695,
+      "bytes": 9728708
+    },
+    ".jsonl": {
+      "files": 4,
+      "bytes": 1687688
+    },
+    ".md": {
+      "files": 240,
+      "bytes": 2105865
+    },
+    ".pdf": {
+      "files": 129,
+      "bytes": 235021547
+    },
+    ".png": {
+      "files": 164,
+      "bytes": 60370250
+    },
+    ".ps1": {
+      "files": 1,
+      "bytes": 2466
+    },
+    ".py": {
+      "files": 68,
+      "bytes": 349148
+    },
+    ".pyc": {
+      "files": 10,
+      "bytes": 58696
+    },
+    ".sha256": {
+      "files": 17,
+      "bytes": 60382
+    },
+    ".svg": {
+      "files": 5,
+      "bytes": 172821
+    },
+    ".txt": {
+      "files": 226,
+      "bytes": 18155276
+    },
+    ".xml": {
+      "files": 2,
+      "bytes": 466994
+    }
+  },
+  "large_files": [
+    {
+      "path": "wiki/raw/round-22/L112-kroll-agora-1993/original.pdf",
+      "bytes": 66210314,
+      "sha256": "086400b21ae6a83820ea53419272329d6b569e6ccf9580e98810bb4f6a7f8668"
+    },
+    {
+      "path": "wiki/raw/round-20/L96-von-glahn-2005/wrong-match-lecture.pdf",
+      "bytes": 32587875,
+      "sha256": "a0ad8c0a4f27ff209e1cddb71ea5f519f532ef3490f0fa7e4a0aafe9584c8829"
+    },
+    {
+      "path": "wiki/raw/round-19/L84-romer-1990/original.pdf",
+      "bytes": 7432288,
+      "sha256": "97fedcd0fa544a664cd4604b05638dbe3010d1746eb346ee79f81201185c0379"
+    }
+  ],
+  "timing": "Snapshot after writing readiness documents; individual raw and derived counts unchanged from initial inventory."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "L100-met-silver-loan",
+  "title": "Cuneiform tablet: loan of silver",
+  "authors": "Metropolitan Museum of Art",
+  "publication": "Object66.245.17a; ca20th-19th century BCE",
+  "url": "https://www.metmuseum.org/art/collection/search/325858",
+  "research_date_local": "2026-11-12",
+  "read_scope": "API identity/date/material/accession and curator paragraph on6minas,deferred repayment,monthly late interest,witnesses; no numerical rate or production outcome",
+  "selection_status": "selected_catalogue_and_partial_interpretation",
+  "rights": "Original rights retained; local research archive. Downloaded catalogue/transcription/preview does not imply full work or redistribution permission.",
+  "download_status": "original_catalogue_plus_partial_webpage",
+  "original_downloaded": true,
+  "evidence_type": "catalogue_and_curatorial_interpretation",
+  "downloaded_document_scope": "Official catalogue JSON plus partial curator webpage, not independent ancient-text reading",
+  "original_files": [
+    {
+      "path": "original.json",
+      "bytes": 1811,
+      "sha256": "eeb852dbbfb3cde024bd2596c53620eb3583c7d520e1fb54d4849a0ed3872285",
+      "source_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/325858",
+      "document_scope": "Official catalogue JSON plus partial curator webpage, not independent ancient-text reading"
+    }
+  ],
+  "partial_tool_text_downloaded": true,
+  "full_text_of_target_research_work_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/case-reading-notes.md",
+  "partial_tool_text": {
+    "path": "partial-web-tool-text.txt",
+    "sha256": "1b606546a1ad66b50f424606ccd00643835dab87c1064c01e1102e3139825f0f",
+    "is_original_file": false
+  },
+  "format": "json",
+  "sha256": "eeb852dbbfb3cde024bd2596c53620eb3583c7d520e1fb54d4849a0ed3872285"
+}

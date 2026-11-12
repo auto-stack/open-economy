@@ -1,0 +1,20 @@
+{
+  "id": "L10-newman-girvan-2004",
+  "requested_url": "https://arxiv.org/pdf/cond-mat/0308217",
+  "retrieved_at_utc": "2026-11-11T08:40:05.076930+00:00",
+  "status_code": 200,
+  "final_url": "https://arxiv.org/pdf/cond-mat/0308217",
+  "content_type": "application/pdf",
+  "file": "original-arxiv.pdf",
+  "bytes": 352803,
+  "sha256": "68a925e0204ece11d8378bcd91dbd56de0c4e50c34eb510d756f67f330b4b12b",
+  "pdf_pages": 16,
+  "download_status": "downloaded",
+  "author": "M. E. J. Newman; M. Girvan",
+  "title": "Finding and evaluating community structure in networks",
+  "publication_year": 2004,
+  "archived_version": "arXiv:cond-mat/0308217v1, 2003-08-11; not final journal typesetting",
+  "reading_scope": "PDF pages 1,7-8; section IV",
+  "reading_status": "targeted_passages_read",
+  "evidence_role": "source_material_not_project_conclusion"
+}

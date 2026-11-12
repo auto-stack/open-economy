@@ -1,0 +1,20 @@
+{
+  "id": "L09-wimsatt",
+  "requested_url": "https://philosophy.uchicago.edu/faculty/files/wimsatt/Wimsatt-reductionism.pdf",
+  "retrieved_at_utc": "2026-11-11T08:40:05.076658+00:00",
+  "status_code": 200,
+  "final_url": "https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2018-10/Wimsatt-reductionism.pdf",
+  "content_type": "application/pdf",
+  "file": "original-uchicago.pdf",
+  "bytes": 303557,
+  "sha256": "67556a39f49e0b7d042bbc8fc050a77f9ba22875780e44818877f05f5898d4a0",
+  "pdf_pages": 31,
+  "download_status": "downloaded",
+  "author": "William C. Wimsatt",
+  "title": "Reductionism and its heuristics: Making methodological reductionism honest",
+  "publication_year": 2006,
+  "archived_version": "University-hosted article; copyright 2006",
+  "reading_scope": "PDF pages 4,15-17; section 8",
+  "reading_status": "targeted_passages_read",
+  "evidence_role": "source_material_not_project_conclusion"
+}

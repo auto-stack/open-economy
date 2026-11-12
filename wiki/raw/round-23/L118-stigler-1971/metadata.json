@@ -1,0 +1,31 @@
+{
+  "id": "L118-stigler-1971",
+  "title": "The Theory of Economic Regulation",
+  "authors": "George J.Stigler",
+  "publication": "BellJournal2(1),1971,3-21; teaching-hosted copy",
+  "url": "https://publics22.classes.ryansafner.com/readings/Stigler-1971.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-3 (printed3-5); introduction, state resources and entry control; historical numerical claims not independently adopted.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 19,
+  "sha256": "41ffa09842d8c2b7e507b5047ff9e181cf884bb014c00c45458741ffaaf41f29",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://publics22.classes.ryansafner.com/readings/Stigler-1971.pdf",
+  "status_code": 200,
+  "bytes": 1242042,
+  "retrieved_at_utc": "2026-11-12T03:32:46.275062+00:00",
+  "actual_version": "Bell Journal2(1),1971,3-21; 19-page teaching-hosted scan.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 1242042,
+      "sha256": "41ffa09842d8c2b7e507b5047ff9e181cf884bb014c00c45458741ffaaf41f29"
+    }
+  ]
+}

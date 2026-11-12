@@ -1,0 +1,23 @@
+{
+  "id": "L65-schultz-dayan-montague-1997",
+  "title": "A Neural Substrate of Prediction and Reward",
+  "authors": "Wolfram Schultz; Peter Dayan; P. Read Montague",
+  "doi": "10.1126/science.275.5306.1593",
+  "publication": "Science 275(5306) (1997),1593-1599",
+  "research_date_local": "2026-11-12",
+  "source_url": "https://www.gatsby.ucl.ac.uk/~dayan/papers/sdm97.pdf",
+  "format": "pdf",
+  "pages": 7,
+  "sha256": "be98208b3d1d5c664af5ee9b8b1d45107a9c8595972ef3d5e0efc218463a7adb",
+  "read_scope": "PDF pp.1-3; Summary and Future Questions on p.5. Selected p.6 passages and p.7 boundaries located; not all remaining text read.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://www.gatsby.ucl.ac.uk/~dayan/papers/sdm97.pdf",
+  "final_url": "https://www.gatsby.ucl.ac.uk/~dayan/papers/sdm97.pdf",
+  "status_code": 200,
+  "bytes": 1442790,
+  "retrieved_at_utc": "2026-11-11T20:52:42.260727+00:00",
+  "validation": "PDF header and parser passed",
+  "version": "7-page Science typeset copy from UCL author website; adjacent articles at first/last page excluded.",
+  "source_type": "computational theory linked to reviewed physiological experiments",
+  "reading_notes": "../../../../research/reviews/14-reading-notes.md"
+}

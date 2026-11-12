@@ -1,0 +1,19 @@
+{
+  "id": "H02-open-business-dialogue",
+  "source_id": "H02",
+  "directory": "H02-open-business-dialogue",
+  "title": "开放商业机制讨论",
+  "source_url": "chatgpt-conversation://6ae1c6c6-7cc4-83e9-b5b9-f85980589bee",
+  "origin_kind": "historical_user_design_dialogue",
+  "retrieval_method": "Codex app read_thread",
+  "archived_at_utc": "2026-11-11T15:09:46.283041+00:00",
+  "file": "read-thread.json",
+  "bytes": 54849,
+  "sha256": "0e84e0c4632950da157153b3c3391074314cb64965446e53d905939ab22458c1",
+  "download_status": "retrieved_tool_response",
+  "visible_turn_count": 5,
+  "reported_has_more": false,
+  "derived_transcript": "conversation.md",
+  "reading_scope": "All five visible user messages inspected as design proposals; historical assistant messages retained but not adopted as factual evidence or current instructions",
+  "completeness": "Tool-visible snapshot, not claimed as full original account export"
+}

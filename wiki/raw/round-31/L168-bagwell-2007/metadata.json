@@ -1,0 +1,29 @@
+{
+  "id": "L168-bagwell-2007",
+  "title": "The Economic Analysis of Advertising",
+  "authors": "Kyle Bagwell",
+  "publication": "HandbookIndustrialOrganization3,Chapter28,2007;actual file extent to inspect",
+  "url": "https://felixmunozgarcia.com/wp-content/uploads/2019/09/ch28_econ_analysis_of_advertising_bagwell.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-2contents,4intro,8views,10persuasion opening,16information opening,20complementary,23limits/summary opening;PDF20visual;not full section2 or later models/evidence",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 145,
+  "sha256": "b63594baab0e48bce449617bdb5db76c45282b41da04f574d9fb0eb1564c10c8",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://felixmunozgarcia.com/wp-content/uploads/2019/09/ch28_econ_analysis_of_advertising_bagwell.pdf",
+  "status_code": 200,
+  "bytes": 949726,
+  "retrieved_at_utc": "2026-11-12T06:24:13.583115+00:00",
+  "actual_version": "HandbookIndustrialOrganization3,ch28,2007,1701-1844;145page file,last page no extracted body",
+  "reading_notes": "../../../../research/surveys/05-firm-authority-and-democracy/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 949726,
+    "sha256": "b63594baab0e48bce449617bdb5db76c45282b41da04f574d9fb0eb1564c10c8"
+  }
+}

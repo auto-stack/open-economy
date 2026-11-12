@@ -1,0 +1,405 @@
+{
+  "scope": "Illustrative Q8 design scenarios, no empirical or production claims",
+  "conventions": {
+    "service_fee_rate": 0.05,
+    "public_fee_share": 0.5,
+    "fee_is_additive_to_principal": true,
+    "costs_and_currency_units": "Hypothetical money equivalents; real settlement precision must be specified"
+  },
+  "fee_scope": {
+    "all_principal": {
+      "processed_principal": 10000.0,
+      "eligible_fraction": 1.0,
+      "eligible_principal": 10000.0,
+      "service_fee": 500.0,
+      "payer_total_excluding_external_extras": 10500.0,
+      "public_allocation": 250.0,
+      "platform_retained": 250.0,
+      "hypothetical_variable_cost": 100.0,
+      "fixed_cost": 180.0,
+      "operating_cash_surplus": -30.0,
+      "reserve_target": 20.0,
+      "cash_after_reserve_target": -50.0,
+      "positive_scale_margin": true,
+      "break_even_volume_including_reserve": 13333.333333333334
+    },
+    "promotion_sales_tips": {
+      "processed_principal": 10000.0,
+      "eligible_fraction": 0.9,
+      "eligible_principal": 9000.0,
+      "service_fee": 450.0,
+      "payer_total_excluding_external_extras": 10450.0,
+      "public_allocation": 225.0,
+      "platform_retained": 225.0,
+      "hypothetical_variable_cost": 100.0,
+      "fixed_cost": 180.0,
+      "operating_cash_surplus": -55.0,
+      "reserve_target": 20.0,
+      "cash_after_reserve_target": -75.0,
+      "positive_scale_margin": true,
+      "break_even_volume_including_reserve": 16000.0
+    },
+    "sales_tips_only": {
+      "processed_principal": 10000.0,
+      "eligible_fraction": 0.7,
+      "eligible_principal": 7000.0,
+      "service_fee": 350.0,
+      "payer_total_excluding_external_extras": 10350.0,
+      "public_allocation": 175.0,
+      "platform_retained": 175.0,
+      "hypothetical_variable_cost": 100.0,
+      "fixed_cost": 180.0,
+      "operating_cash_surplus": -105.0,
+      "reserve_target": 20.0,
+      "cash_after_reserve_target": -125.0,
+      "positive_scale_margin": true,
+      "break_even_volume_including_reserve": 26666.666666666668
+    }
+  },
+  "settlements": [
+    {
+      "event": "storage-period-1",
+      "accepted_new_settlement": true,
+      "charged_fee": 50.0
+    },
+    {
+      "event": "promotion-round-1",
+      "accepted_new_settlement": true,
+      "charged_fee": 100.0
+    },
+    {
+      "event": "sale-order-1",
+      "accepted_new_settlement": true,
+      "charged_fee": 350.0
+    },
+    {
+      "event": "sale-order-1",
+      "accepted_new_settlement": false,
+      "charged_fee": 0.0
+    }
+  ],
+  "beta_feasible_at_volume_10000_with_reserve": 0.4,
+  "volume_20000_all_scope": {
+    "processed_principal": 20000.0,
+    "eligible_fraction": 1.0,
+    "eligible_principal": 20000.0,
+    "service_fee": 1000.0,
+    "payer_total_excluding_external_extras": 21000.0,
+    "public_allocation": 500.0,
+    "platform_retained": 500.0,
+    "hypothetical_variable_cost": 200.0,
+    "fixed_cost": 180.0,
+    "operating_cash_surplus": 120.0,
+    "reserve_target": 20.0,
+    "cash_after_reserve_target": 100.0,
+    "positive_scale_margin": true,
+    "break_even_volume_including_reserve": 13333.333333333334
+  },
+  "nonpositive_scale_margin_examples": [
+    {
+      "processed_principal": 10000.0,
+      "eligible_fraction": 1.0,
+      "eligible_principal": 10000.0,
+      "service_fee": 500.0,
+      "payer_total_excluding_external_extras": 10500.0,
+      "public_allocation": 250.0,
+      "platform_retained": 250.0,
+      "hypothetical_variable_cost": 250.0,
+      "fixed_cost": 180.0,
+      "operating_cash_surplus": -180.0,
+      "reserve_target": 20.0,
+      "cash_after_reserve_target": -200.0,
+      "positive_scale_margin": false,
+      "break_even_volume_including_reserve": null
+    },
+    {
+      "processed_principal": 10000.0,
+      "eligible_fraction": 1.0,
+      "eligible_principal": 10000.0,
+      "service_fee": 500.0,
+      "payer_total_excluding_external_extras": 10500.0,
+      "public_allocation": 250.0,
+      "platform_retained": 250.0,
+      "hypothetical_variable_cost": 300.0,
+      "fixed_cost": 180.0,
+      "operating_cash_surplus": -230.0,
+      "reserve_target": 20.0,
+      "cash_after_reserve_target": -250.0,
+      "positive_scale_margin": false,
+      "break_even_volume_including_reserve": null
+    }
+  ],
+  "refunds": [
+    {
+      "released_early": false,
+      "vendor_recovered": false,
+      "public_recovered": false,
+      "ending_reserve": 30.0,
+      "reserve_consumed": 10.0,
+      "additional_funding_if_negative": 0.0,
+      "events": [
+        {
+          "event": "initial_reserve",
+          "delta": 40.0,
+          "cash_balance": 40.0
+        },
+        {
+          "event": "capture",
+          "delta": 1050.0,
+          "cash_balance": 1090.0
+        },
+        {
+          "event": "processing",
+          "delta": -10.0,
+          "cash_balance": 1080.0
+        },
+        {
+          "event": "refund_customer",
+          "delta": -1050.0,
+          "cash_balance": 30.0
+        }
+      ]
+    },
+    {
+      "released_early": true,
+      "vendor_recovered": true,
+      "public_recovered": false,
+      "ending_reserve": 5.0,
+      "reserve_consumed": 35.0,
+      "additional_funding_if_negative": 0.0,
+      "events": [
+        {
+          "event": "initial_reserve",
+          "delta": 40.0,
+          "cash_balance": 40.0
+        },
+        {
+          "event": "capture",
+          "delta": 1050.0,
+          "cash_balance": 1090.0
+        },
+        {
+          "event": "processing",
+          "delta": -10.0,
+          "cash_balance": 1080.0
+        },
+        {
+          "event": "vendor_payout",
+          "delta": -1000.0,
+          "cash_balance": 80.0
+        },
+        {
+          "event": "public_award_payout",
+          "delta": -25.0,
+          "cash_balance": 55.0
+        },
+        {
+          "event": "recover_vendor",
+          "delta": 1000.0,
+          "cash_balance": 1055.0
+        },
+        {
+          "event": "refund_customer",
+          "delta": -1050.0,
+          "cash_balance": 5.0
+        }
+      ]
+    },
+    {
+      "released_early": true,
+      "vendor_recovered": true,
+      "public_recovered": true,
+      "ending_reserve": 30.0,
+      "reserve_consumed": 10.0,
+      "additional_funding_if_negative": 0.0,
+      "events": [
+        {
+          "event": "initial_reserve",
+          "delta": 40.0,
+          "cash_balance": 40.0
+        },
+        {
+          "event": "capture",
+          "delta": 1050.0,
+          "cash_balance": 1090.0
+        },
+        {
+          "event": "processing",
+          "delta": -10.0,
+          "cash_balance": 1080.0
+        },
+        {
+          "event": "vendor_payout",
+          "delta": -1000.0,
+          "cash_balance": 80.0
+        },
+        {
+          "event": "public_award_payout",
+          "delta": -25.0,
+          "cash_balance": 55.0
+        },
+        {
+          "event": "recover_vendor",
+          "delta": 1000.0,
+          "cash_balance": 1055.0
+        },
+        {
+          "event": "recover_public_award",
+          "delta": 25.0,
+          "cash_balance": 1080.0
+        },
+        {
+          "event": "refund_customer",
+          "delta": -1050.0,
+          "cash_balance": 30.0
+        }
+      ]
+    },
+    {
+      "released_early": true,
+      "vendor_recovered": false,
+      "public_recovered": false,
+      "ending_reserve": -995.0,
+      "reserve_consumed": 1035.0,
+      "additional_funding_if_negative": 995.0,
+      "events": [
+        {
+          "event": "initial_reserve",
+          "delta": 40.0,
+          "cash_balance": 40.0
+        },
+        {
+          "event": "capture",
+          "delta": 1050.0,
+          "cash_balance": 1090.0
+        },
+        {
+          "event": "processing",
+          "delta": -10.0,
+          "cash_balance": 1080.0
+        },
+        {
+          "event": "vendor_payout",
+          "delta": -1000.0,
+          "cash_balance": 80.0
+        },
+        {
+          "event": "public_award_payout",
+          "delta": -25.0,
+          "cash_balance": 55.0
+        },
+        {
+          "event": "refund_customer",
+          "delta": -1050.0,
+          "cash_balance": -995.0
+        }
+      ]
+    }
+  ],
+  "contribution_metric_counterexample": {
+    "initial_public_pool": 250.0,
+    "honest_weights": [
+      80,
+      20
+    ],
+    "honest_awards_before": [
+      200.0,
+      50.0
+    ],
+    "fabricated_weight": 100.0,
+    "attacker_nonrecoverable_resource_cost": 1.0,
+    "attacker_service_fee": 0.05,
+    "self_added_public_pool": 0.025,
+    "total_pool_after": 250.025,
+    "awards_after": [
+      100.01,
+      25.0025,
+      125.0125
+    ],
+    "attacker_total_outlay": 1.05,
+    "attacker_net": 123.9625
+  },
+  "finite_pool": [
+    {
+      "eligible_contributors": 100,
+      "average_if_pool_250": 2.5,
+      "minimum_principal_to_fund_one_unit_each": 4000.0
+    },
+    {
+      "eligible_contributors": 250,
+      "average_if_pool_250": 1.0,
+      "minimum_principal_to_fund_one_unit_each": 10000.0
+    },
+    {
+      "eligible_contributors": 1000,
+      "average_if_pool_250": 0.25,
+      "minimum_principal_to_fund_one_unit_each": 40000.0
+    }
+  ],
+  "preservation": [
+    {
+      "supporters": 2,
+      "total_resource_cost": 12.6,
+      "equal_share": 6.3
+    },
+    {
+      "supporters": 4,
+      "total_resource_cost": 13.2,
+      "equal_share": 3.3
+    },
+    {
+      "supporters": 40,
+      "total_resource_cost": 24.0,
+      "equal_share": 0.6
+    },
+    {
+      "supporters": 400,
+      "total_resource_cost": 132.0,
+      "equal_share": 0.33
+    }
+  ],
+  "renewal_with_two_remaining_at_old_cap": {
+    "total_cost": 12.6,
+    "authorized_budget": 6.6,
+    "gap": 6.0
+  },
+  "promotion_quotes": [
+    {
+      "recipients": 100,
+      "resource_quote": 3.0,
+      "fee": 0.15,
+      "total_quote": 3.15,
+      "explicitly_authorized_budget": 3.0,
+      "executable": false
+    },
+    {
+      "recipients": 1000,
+      "resource_quote": 21.0,
+      "fee": 1.05,
+      "total_quote": 22.05,
+      "explicitly_authorized_budget": 12.0,
+      "executable": false
+    },
+    {
+      "recipients": 10000,
+      "resource_quote": 201.0,
+      "fee": 10.05,
+      "total_quote": 211.05,
+      "explicitly_authorized_budget": 0.0,
+      "executable": false
+    }
+  ],
+  "first_round_after_explicit_budget_adjustment": {
+    "principal": 3.0,
+    "fee": 0.15,
+    "authorized_budget": 3.15,
+    "executable": true
+  },
+  "verification": [
+    "fee allocation and principal conservation",
+    "same settlement not charged twice",
+    "cash-event refund reconciliation",
+    "reward pool conserves funds but admits profitable fabricated scores",
+    "resource renewal and fee-inclusive promotion authorization"
+  ]
+}

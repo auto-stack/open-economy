@@ -1,0 +1,22 @@
+{
+  "id": "L179-boyd-richerson-henrich-2011",
+  "title": "The Cultural Niche: Why Social Learning Is Essential for Human Adaptation",
+  "authors": "Robert Boyd; Peter Richerson; Joseph Henrich",
+  "publication": "PNAS2011 authorEarlyEdition8pages;notfinal page-numbered copy",
+  "url": "https://henrich.fas.harvard.edu/sites/g/files/omnuum5811/files/henrich/files/boyd_richerson_henrich_2011-2.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Tool-return PDF1abstract/problem framing only;not full article,archaeological dates or all cultural-evolution evidence",
+  "selection_status": "primary_paper_tool_selections_only",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_requests_failed_primary_tool_passages_only",
+  "original_downloaded": false,
+  "actual_version": "PNAS2011author8page EarlyEdition per tool;final citation108(26):10918-25 separately;old/new authorPDFrequestsfailed",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "format": "partial_tool_return",
+  "source_file": {
+    "file": "tool-return-selected.partial.txt",
+    "bytes": 29850,
+    "sha256": "1cd0d2fa7b7558c50b29ffe97f968a43f243257f377e740f49dc0a2b20cb18ce"
+  }
+}

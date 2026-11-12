@@ -1,0 +1,53 @@
+[
+  {
+    "work_id": "L24",
+    "source_path": "wiki/raw/round-05/L24-hartwell-et-al-1999/original.pdf",
+    "pdf_page": 1,
+    "rendered_image": "research/baselines/internal-knowledge-2026-11-12/inspection/L24-page-01.png",
+    "render_status": "sample_visually_reviewed",
+    "notice": "",
+    "prior_read_scope": "C47-C51 / PDF pp.1-5; emphasis C48 functional modules, insulation and connectivity",
+    "observed": "First page visible with title/text layout; does not validate all pages, extraction completeness or scientific claims",
+    "new_scientific_reading_claim": false
+  },
+  {
+    "work_id": "L58",
+    "source_path": "wiki/raw/round-11/L58-henrich-et-al-2005/original.pdf",
+    "pdf_page": 1,
+    "rendered_image": "research/baselines/internal-knowledge-2026-11-12/inspection/L58-page-01.png",
+    "render_status": "sample_visually_reviewed",
+    "notice": "",
+    "prior_read_scope": "PDF pp.1,5,9,11-14; main p.20 passages; Binmore commentary on p.23 plus p.24 ending; reply sections R1.1-R1.2 on pp.45-46 and adjacent passages. Not all commentaries or data read.",
+    "observed": "First page visible with title/text layout; does not validate all pages, extraction completeness or scientific claims",
+    "new_scientific_reading_claim": false
+  },
+  {
+    "work_id": "L144",
+    "source_path": "wiki/raw/round-25/L144-shalizi-thomas-2010/original.pdf",
+    "pdf_page": 1,
+    "rendered_image": "research/baselines/internal-knowledge-2026-11-12/inspection/L144-page-01.png",
+    "render_status": "sample_visually_reviewed",
+    "notice": "",
+    "prior_read_scope": "PDF1,6-7 section2.1 and causal-graph argument;not all subsequent examples or simulations.",
+    "observed": "First page visible with title/text layout; does not validate all pages, extraction completeness or scientific claims",
+    "new_scientific_reading_claim": false
+  },
+  {
+    "work_id": "L144",
+    "source_path": "wiki/raw/round-25/L144-shalizi-thomas-2010/original.pdf",
+    "pdf_page": 6,
+    "rendered_image": "research/baselines/internal-knowledge-2026-11-12/inspection/L144-page-06.png",
+    "render_status": "sample_visually_reviewed",
+    "observed": "Text and causal diagram/notation visible in selected page; no whole-document correctness claim",
+    "new_scientific_reading_claim": false
+  },
+  {
+    "work_id": "L144",
+    "source_path": "wiki/raw/round-25/L144-shalizi-thomas-2010/original.pdf",
+    "pdf_page": 7,
+    "rendered_image": "research/baselines/internal-knowledge-2026-11-12/inspection/L144-page-07.png",
+    "render_status": "sample_visually_reviewed",
+    "observed": "Text and causal diagram/notation visible in selected page; no whole-document correctness claim",
+    "new_scientific_reading_claim": false
+  }
+]

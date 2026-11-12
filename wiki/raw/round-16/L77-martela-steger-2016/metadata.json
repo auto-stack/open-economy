@@ -1,0 +1,22 @@
+{
+  "id": "L77-martela-steger-2016",
+  "title": "The Three Meanings of Meaning in Life: Distinguishing Coherence, Purpose, and Significance",
+  "authors": "Frank Martela; Michael F. Steger",
+  "doi": "10.1080/17439760.2015.1137623",
+  "publication": "The Journal of Positive Psychology 11(5) (2016),531-545",
+  "research_date_local": "2026-11-12",
+  "format": "pdf",
+  "pages": 16,
+  "sha256": "bc5cda5e1f7d7f990aaab061ac9237fcab351e07327ba7661b754780996d5180",
+  "read_scope": "PDF pp.2,5-6,8,12. Table 1 on p.5 rendered and visually checked; other sections only located; clinical claims and cited studies not adopted.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://www.its.caltech.edu/~squartz/Martela-Steger-JOPP.pdf",
+  "final_url": "https://www.its.caltech.edu/~squartz/Martela-Steger-JOPP.pdf",
+  "status_code": 200,
+  "bytes": 428368,
+  "retrieved_at_utc": "2026-11-11T21:28:54.326187+00:00",
+  "validation": "Expected content checked; PDF parser or HTML text extraction passed",
+  "version": "16-page journal typeset PDF including a download cover; article pp.531-545.",
+  "source_type": "conceptual theoretical review",
+  "reading_notes": "../../../../research/reviews/17-reading-notes.md"
+}

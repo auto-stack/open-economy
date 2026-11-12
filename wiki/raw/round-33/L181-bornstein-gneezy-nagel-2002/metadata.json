@@ -1,0 +1,20 @@
+{
+  "id": "L181-bornstein-gneezy-nagel-2002",
+  "title": "The effect of intergroup competition on group coordination: an experimental study",
+  "authors": ["Gary Bornstein", "Uri Gneezy", "Rosmarie Nagel"],
+  "year": 2002,
+  "publication": "Games and Economic Behavior 41(1), 1–25",
+  "doi": "10.1016/S0899-8256(02)00012-X",
+  "url": "https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/inter-group.pdf",
+  "actual_version": "2002 journal typeset article, author university copy, 25 pages; not the May 1999 working paper",
+  "archived_file": "original.pdf",
+  "original_downloaded": true,
+  "pages": 25,
+  "sha256": "36705c5ff3b26647c09bb2977008e317adf53c5f889fb3e8905e93323dc38fa4",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF/printed pages 1–7: abstract, introduction, initial experiment design and partial results. Visual inspection of PDF page 4. Pages 8–25 extracted and archived but not reviewed page by page; later bonus-treatment results not independently adopted.",
+  "adopted_scope": "One bounded experimental anchor for jointly considering between-group competition and within-group coordination. No generalized social welfare or Ordo effect, replication, or independent significance reanalysis.",
+  "reading_notes": "../../../../research/surveys/03-competition-cooperation-distribution/competition-cooperation-and-order.md",
+  "rights": "Original copyright retained; local research archive does not authorize redistribution.",
+  "knowledge_base_status": "Raw archived with extraction and metadata; not converted or imported into AutoDown."
+}

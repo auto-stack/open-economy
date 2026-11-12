@@ -1,0 +1,57 @@
+{
+  "research_date_local": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "generated_at_utc": "2026-11-11T20:48:21.444435+00:00",
+  "new_sources": 1,
+  "reused_sources": 1,
+  "files": [
+    {
+      "path": "L62-sen-1980/bibliography-attempt.json",
+      "bytes": 283,
+      "sha256": "ed89c3af7ca51a9f564c52596c7f4a1fc55cccd6a336b246e87a4e9b80834b8e"
+    },
+    {
+      "path": "L62-sen-1980/bibliography-response.html",
+      "bytes": 416,
+      "sha256": "9348b75afe2c628b45157038208ba69f2726a0c4a31e66a36d66665a5cf3f635"
+    },
+    {
+      "path": "L62-sen-1980/extracted.txt",
+      "bytes": 53667,
+      "sha256": "aecf2c775d04935e3e0662047ec4c15773c88c0caecceca8abe649714dc35b82"
+    },
+    {
+      "path": "L62-sen-1980/metadata.json",
+      "bytes": 1384,
+      "sha256": "77f5fa2f9ac7157527bb0d772015455063b8bdb32d928bee0079dbd6d27c0d0d"
+    },
+    {
+      "path": "L62-sen-1980/original.html",
+      "bytes": 97294,
+      "sha256": "b9b122f9135651a27f8efe9388da30799721fca2b0b881c92b172d5f397af6d4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2290,
+      "sha256": "83fcbbefbd84dc2fde432e0b3d996d4289aa745fe42a7c3368cd7160c5c8c2d9"
+    },
+    {
+      "path": "reused-sources.json",
+      "bytes": 453,
+      "sha256": "4c173aee0d9aad5ba8f748d641e1dd8bb4f511c3d14b1dd866094286dc2269ee"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 35057,
+      "sha256": "4c07a4a915a8ecfd9fd4e91cf09deabf09db9844ded0edc12d9d19401c10f575"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 34164,
+      "sha256": "20393fac4307a23c3a6b12ab9817fc38d93013e408386ab2b4af129907a5284a"
+    }
+  ],
+  "excludes": [
+    "manifest.json itself"
+  ]
+}

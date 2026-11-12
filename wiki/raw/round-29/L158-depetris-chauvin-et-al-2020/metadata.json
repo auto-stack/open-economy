@@ -1,0 +1,29 @@
+{
+  "id": "L158-depetris-chauvin-et-al-2020",
+  "title": "Building Nations through Shared Experiences: Evidence from African Football",
+  "authors": "Emilio Depetris-Chauvin; Ruben Durante; Filipe Campante",
+  "publication": "AER110(5),2020,1572-1602;author-hosted journal copy;2024 correction separate",
+  "url": "https://filipecampante.org/wp-content/uploads/2021/07/campante_BuildingNations_May2020.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-2,28conclusions;PDF32identified as appended citation list;not all regressions;read with2024correction and replication debate",
+  "selection_status": "targeted_original_read_with_correction_context",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 32,
+  "sha256": "7a8fc341edb4d33a41194cff485480cf1bf9331fce3b66614ba657d920285840",
+  "archived_file": "original.pdf",
+  "download_status": "original_source_file_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://filipecampante.org/wp-content/uploads/2021/07/campante_BuildingNations_May2020.pdf",
+  "status_code": 200,
+  "bytes": 850082,
+  "retrieved_at_utc": "2026-11-12T06:00:19.114646+00:00",
+  "actual_version": "AER110(5),2020,1572-1602;32page author file with31page article plus cited-by list",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 850082,
+    "sha256": "7a8fc341edb4d33a41194cff485480cf1bf9331fce3b66614ba657d920285840"
+  }
+}

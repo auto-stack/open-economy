@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "batch": "round-05",
+  "scope": "Q4 modularity, interfaces and hierarchy",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "id": "L23-parnas-1972",
+      "requested_url": "https://www.cs.tufts.edu/comp/150FP/archive/david-parnas/criteria.pdf",
+      "retrieved_at_utc": "2026-11-11T11:59:24.447315+00:00",
+      "status_code": 200,
+      "final_url": "https://www.cs.tufts.edu/comp/150FP/archive/david-parnas/criteria.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 589565,
+      "sha256": "7008fd6abc833ded750e52dbac4968e8eda339f66b462ca4427f1953f98df9c4",
+      "pdf_pages": 6,
+      "download_status": "downloaded",
+      "extracted_chars": 28804,
+      "source_id": "L23",
+      "directory": "L23-parnas-1972",
+      "author": "David L. Parnas",
+      "title": "On the Criteria To Be Used in Decomposing Systems into Modules",
+      "publication_year": 1972,
+      "archived_version": "University-hosted CACM 15(12),1053-1058 copy",
+      "reading_scope": "All 6 pages; emphasis pp.1054-1058 on criteria, changes, implementation, and hierarchy",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L24-hartwell-et-al-1999",
+      "requested_url": "https://www.cs.princeton.edu/~chazelle/courses/BIB/Hartwell.pdf",
+      "retrieved_at_utc": "2026-11-11T11:58:33.781414+00:00",
+      "status_code": 200,
+      "final_url": "https://www.cs.princeton.edu/~chazelle/courses/BIB/Hartwell.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 410696,
+      "sha256": "3a0bfad15c66acc758e58fd9c3c86c222127a7235127170552acf864734dba42",
+      "pdf_pages": 6,
+      "download_status": "downloaded",
+      "extracted_chars": 37828,
+      "source_id": "L24",
+      "directory": "L24-hartwell-et-al-1999",
+      "author": "Leland H. Hartwell; John J. Hopfield; Stanislas Leibler; Andrew W. Murray",
+      "title": "From Molecular to Modular Cell Biology",
+      "publication_year": 1999,
+      "archived_version": "University-hosted Nature 402 Supplement,C47-C52 copy",
+      "reading_scope": "C47-C51 / PDF pp.1-5; emphasis C48 functional modules, insulation and connectivity",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "requested_url": "https://www.nadavkashtan.com/_files/ugd/e65e7b_c9693c86ffca448f985f89dc0e604a0f.pdf",
+      "retrieved_at_utc": "2026-11-11T12:01:15.040644+00:00",
+      "status_code": 200,
+      "final_url": "https://www.nadavkashtan.com/_files/ugd/e65e7b_c9693c86ffca448f985f89dc0e604a0f.pdf",
+      "content_type": "application/pdf",
+      "file": "original-author.pdf",
+      "download_status": "downloaded",
+      "bytes": 637552,
+      "sha256": "a19adb7569e97ac50f738dd60459be9e5f952b0370e1e660ce76590f66f83210",
+      "pdf_pages": 6,
+      "source_id": "L25",
+      "directory": "L25-kashtan-alon-2005",
+      "id": "L25-kashtan-alon-2005",
+      "author": "Nadav Kashtan; Uri Alon",
+      "title": "Spontaneous Evolution of Modularity and Network Motifs",
+      "publication_year": 2005,
+      "archived_version": "Author-hosted PNAS 102(39),13773-13778 copy",
+      "reading_scope": "Methods, results and discussion; PDF pp.1-4,6; no replication or separate supporting information review",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L26-clune-et-al-2013",
+      "requested_url": "https://jeffclune.com/publications/2013-CluneEtAl-EvolutionaryOriginsModularity-RoyalSociety.pdf",
+      "retrieved_at_utc": "2026-11-11T11:59:24.447564+00:00",
+      "status_code": 200,
+      "final_url": "https://jeffclune.com/publications/2013-CluneEtAl-EvolutionaryOriginsModularity-RoyalSociety.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 4625201,
+      "sha256": "aefb8a012d960efced8d63694bc1567a7680e58d9ba8d9d5072b884814602f64",
+      "pdf_pages": 23,
+      "download_status": "downloaded",
+      "extracted_chars": 74015,
+      "source_id": "L26",
+      "directory": "L26-clune-et-al-2013",
+      "author": "Jeff Clune; Jean-Baptiste Mouret; Hod Lipson",
+      "title": "The Evolutionary Origins of Modularity",
+      "publication_year": 2013,
+      "archived_version": "Author-hosted 23-page file: publication cover, 9-page journal article and supplementary material",
+      "reading_scope": "Journal pp.1-7 / PDF pp.2-8; study design, results and method; supplementary material archived but not fully reviewed",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L27-baldwin-2002",
+      "requested_url": "https://users.nber.org/~confer/2002/orgec02/baldwin.pdf",
+      "retrieved_at_utc": "2026-11-11T11:59:24.447630+00:00",
+      "status_code": 200,
+      "final_url": "https://users.nber.org/~confer/2002/orgec02/baldwin.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 176634,
+      "sha256": "757ee04d41fa0e0072d383e0561ce9a274d1da5b8eb83eeb9a5895d57232b334",
+      "pdf_pages": 46,
+      "download_status": "downloaded",
+      "extracted_chars": 118720,
+      "source_id": "L27",
+      "directory": "L27-baldwin-2002",
+      "author": "Carliss Y. Baldwin; Kim B. Clark",
+      "title": "Where Do Transactions Come From? A Perspective from Engineering Design",
+      "publication_year": 2002,
+      "archived_version": "NBER conference draft dated 2002-09-26; not Baldwin 2008 journal article",
+      "reading_scope": "Draft pp.1-2,10-12,19-24; transfers, transactions and encapsulation",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    }
+  ],
+  "reused_sources": [
+    "L02",
+    "L10",
+    "L12"
+  ],
+  "files": [
+    {
+      "path": "discovery-01.json",
+      "bytes": 36883,
+      "sha256": "6880f770d15159fbcb497d99640b0b06d7fc7f3001412efdb4e8b86ae6e44be1"
+    },
+    {
+      "path": "discovery-02.json",
+      "bytes": 31481,
+      "sha256": "5779abe9e4421bd4ac78b2f495d81fd175016d29e1add689ea832e743b6989b3"
+    },
+    {
+      "path": "discovery-03.json",
+      "bytes": 11866,
+      "sha256": "04d66dfffce6494189f14ae4499763ae3c8400da13f584c5855051a7a2ac3802"
+    },
+    {
+      "path": "discovery-04.json",
+      "bytes": 15032,
+      "sha256": "7c834264eed8bc2dd145e56c3574109ac2b935e6118167127321e8a52c8f7f39"
+    },
+    {
+      "path": "L23-parnas-1972/attempt-initial.json",
+      "bytes": 495,
+      "sha256": "d334b4759e14f9fff5cc5ba4c548b86c869b7903a8525e07f9821495570ea906"
+    },
+    {
+      "path": "L23-parnas-1972/extracted.txt",
+      "bytes": 29430,
+      "sha256": "40bb6940b714fc68e206b451131baf40f8080cbb510a98c2cafbff84ab86d04e"
+    },
+    {
+      "path": "L23-parnas-1972/metadata.json",
+      "bytes": 1033,
+      "sha256": "9728899cde4b58b2bdbaea1b6acbaac39483d9c35fc8058b016e0c2f22ed4e1f"
+    },
+    {
+      "path": "L23-parnas-1972/original.pdf",
+      "bytes": 589565,
+      "sha256": "7008fd6abc833ded750e52dbac4968e8eda339f66b462ca4427f1953f98df9c4"
+    },
+    {
+      "path": "L23-parnas-1972/read-p5.png",
+      "bytes": 511410,
+      "sha256": "02a15e5fe23bbd13b3466b1bfe20b99a7fa58159ed06ef90155a7c6396716555"
+    },
+    {
+      "path": "L23-parnas-1972/read-p6.png",
+      "bytes": 242953,
+      "sha256": "a56f205c8fd5d5b4de45193cca714039ea8c4b3d63549cd61aa0953281612a57"
+    },
+    {
+      "path": "L23-parnas-1972/response.html",
+      "bytes": 9641,
+      "sha256": "6742019d1dd8a170bf434b65eee609aff5e482fde2ba7e4c92caada6ee0bea6a"
+    },
+    {
+      "path": "L24-hartwell-et-al-1999/extracted.txt",
+      "bytes": 38886,
+      "sha256": "96e93af845a7da3f2fca3fed6f3ee6240e2197ce4a6468ffd6c856af6ec3c698"
+    },
+    {
+      "path": "L24-hartwell-et-al-1999/metadata.json",
+      "bytes": 1075,
+      "sha256": "e89b26a9ae2abc6d91219eee223784e7176d0aab62234bdd6d22aac570523858"
+    },
+    {
+      "path": "L24-hartwell-et-al-1999/original.pdf",
+      "bytes": 410696,
+      "sha256": "3a0bfad15c66acc758e58fd9c3c86c222127a7235127170552acf864734dba42"
+    },
+    {
+      "path": "L24-hartwell-et-al-1999/read-p2.png",
+      "bytes": 486489,
+      "sha256": "814327680a9583acd3ab2c7e306fcda9a9d48658a18b6daff531035c5852003d"
+    },
+    {
+      "path": "L25-kashtan-alon-2005/attempt-initial.json",
+      "bytes": 461,
+      "sha256": "8ef57963f4546c4479bf73cbf4502ba2ef282ae4b31d115524ee6951cbe0b030"
+    },
+    {
+      "path": "L25-kashtan-alon-2005/attempt-native.json",
+      "bytes": 415,
+      "sha256": "36b308ba7b1d19c6ebf85c7e37cf3d8af98ea90eee3a11cac75f1ede688657ab"
+    },
+    {
+      "path": "L25-kashtan-alon-2005/extracted.txt",
+      "bytes": 41468,
+      "sha256": "2431b131987358913c844a2e6c5bff4556355c9cab23a26392f2371267ac4bb6"
+    },
+    {
+      "path": "L25-kashtan-alon-2005/metadata.json",
+      "bytes": 1067,
+      "sha256": "03327cc4d3794cfb82e8c6e4214e14e539a6300ba3a6d886d9d77d3c9b396247"
+    },
+    {
+      "path": "L25-kashtan-alon-2005/original-author.pdf",
+      "bytes": 637552,
+      "sha256": "a19adb7569e97ac50f738dd60459be9e5f952b0370e1e660ce76590f66f83210"
+    },
+    {
+      "path": "L25-kashtan-alon-2005/read-p3.png",
+      "bytes": 527250,
+      "sha256": "ac11c6d83a6b9afce5b8936dd029402400a221fde57ff0f5231db4fa6718944f"
+    },
+    {
+      "path": "L26-clune-et-al-2013/extracted.txt",
+      "bytes": 85490,
+      "sha256": "cb3dd9fd9db104e6add8169a1eac9479fa782dc251b05dd45e5bbfda3d266643"
+    },
+    {
+      "path": "L26-clune-et-al-2013/metadata.json",
+      "bytes": 1187,
+      "sha256": "8d59c1bb98bf98d348263907dbd42a5c2cd3713855496841ef5cd3f4b9be917c"
+    },
+    {
+      "path": "L26-clune-et-al-2013/original.pdf",
+      "bytes": 4625201,
+      "sha256": "aefb8a012d960efced8d63694bc1567a7680e58d9ba8d9d5072b884814602f64"
+    },
+    {
+      "path": "L26-clune-et-al-2013/read-p5.png",
+      "bytes": 476327,
+      "sha256": "d63c2a55ed263013f4dc273b42127f19ccce48a6bccb2ca2cc8c0f7c287600b1"
+    },
+    {
+      "path": "L27-baldwin-2002/extracted.txt",
+      "bytes": 121908,
+      "sha256": "362de9a6ea484de7b8c9fca5bad3faa07dd66d027153a5a96153400910ec6baa"
+    },
+    {
+      "path": "L27-baldwin-2002/metadata.json",
+      "bytes": 1043,
+      "sha256": "6ac50388fbb82fad7ce874d87384e8d95846b289ac35f4912a007f0e9cebebbb"
+    },
+    {
+      "path": "L27-baldwin-2002/original.pdf",
+      "bytes": 176634,
+      "sha256": "757ee04d41fa0e0072d383e0561ce9a274d1da5b8eb83eeb9a5895d57232b334"
+    },
+    {
+      "path": "L27-baldwin-2002/read-p11.png",
+      "bytes": 159685,
+      "sha256": "9ba765fd8199b43047d114a3fffea984b4d380e92709b537c3680dc032884edc"
+    },
+    {
+      "path": "L27-baldwin-2006/metadata.json",
+      "bytes": 467,
+      "sha256": "c030c709545796e0dd3ba921c9bf8d38ce1e587bde391e7b089275c6897ebd40"
+    },
+    {
+      "path": "L27-baldwin-2006/response.html",
+      "bytes": 30178,
+      "sha256": "2c7bfd520ffc15e6d831e71d8523d06316a27000819c39594c9cd6adeae97d29"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3077,
+      "sha256": "539c62d8828fda60aba636a00a6c1ef7a4866ab05e98c83999ef6b281823f9c5"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 37001,
+      "sha256": "5c40d95d8bb9e41d976c821b24adbbe81a44af47e7213cb48a371a0e227d41bd"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 35314,
+      "sha256": "de1b49373bccba9ead321d7d51520035950396dcc80ad6f45ff8858be1fd23e3"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 33697,
+      "sha256": "bc95c6ebebfd6a6a50ba8fe96f42c1375c597c532400a54d593311913b65a4a8"
+    },
+    {
+      "path": "search-04.json",
+      "bytes": 35494,
+      "sha256": "854ec817ed20774bfea5eb1c7336319d27ea4b84f507164fa2b8c9ccf7aadc6b"
+    },
+    {
+      "path": "search-05.json",
+      "bytes": 12459,
+      "sha256": "2d68043d429fd94909c08406261a3a64dcefcebea50f544626df5116518b00f2"
+    }
+  ],
+  "version_notes": [
+    "L27 is 2002 Baldwin and Clark draft, not 2008 Baldwin journal paper",
+    "2006 HBS request is failure-only directory, not a sixth adopted source",
+    "L26 file includes supplements; targeted reading of main article only"
+  ]
+}

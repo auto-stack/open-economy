@@ -1,0 +1,29 @@
+{
+  "id": "L178-david-1990",
+  "title": "The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox",
+  "authors": "Paul A.David",
+  "publication": "AER80(2),1990,355-361;third-party copy of original article",
+  "url": "https://gwern.net/doc/economics/automation/1990-david.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1,3-4electrification/unit-drive/layout passages;PDF4visual;not all measurement discussion or independent historical-data audit",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 7,
+  "sha256": "11291f658da048e3486e2474b31ee07cfc8fb0d1711222e90f90a1d9fe98494d",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://gwern.net/doc/economics/automation/1990-david.pdf",
+  "status_code": 200,
+  "bytes": 178607,
+  "retrieved_at_utc": "2026-11-12T06:48:55.571686+00:00",
+  "actual_version": "AER80(2),1990,355-361;7page original article on third-party host",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 178607,
+    "sha256": "11291f658da048e3486e2474b31ee07cfc8fb0d1711222e90f90a1d9fe98494d"
+  }
+}

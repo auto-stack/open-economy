@@ -1,0 +1,157 @@
+{
+  "research_date_local": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "generated_at_utc": "2026-11-11T21:12:41.254725+00:00",
+  "new_full_originals": 3,
+  "bibliographic_leads_without_article": 1,
+  "originals": [
+    {
+      "path": "L67-shenhav-et-al-2013/original.pdf",
+      "bytes": 2024847,
+      "sha256": "f6456cb572b1c6852ba3ff29b195e5409410d745ec1e34b9c9fcdc37f3cf7c99"
+    },
+    {
+      "path": "L69-wrosch-et-al-2003/original.pdf",
+      "bytes": 226558,
+      "sha256": "3882a6270d6602bf9229a59ecbd22057d0b351f07f3c9246f9e6f64df7c441c0"
+    },
+    {
+      "path": "L70-gollwitzer-brandstaetter-1997/original.pdf",
+      "bytes": 1381775,
+      "sha256": "05a5efe78b7d76bb9403e2f5f81f2a28976badeb75f2314207dd546d90657570"
+    }
+  ],
+  "bibliographic_leads": [
+    {
+      "path": "L68-shah-et-al-2002/author-index.html",
+      "bytes": 460619,
+      "sha256": "613e79c968f75c09364e3fe3815edb1a005d1bd51f530f5e2208a3de8833b82d"
+    }
+  ],
+  "files": [
+    {
+      "path": "L67-shenhav-et-al-2013/acquisition-log.json",
+      "bytes": 383,
+      "sha256": "9b84c8e0caf7a67d8c475d5fcbc971750ff0dbd595a3a817f1e61cfafebaba28"
+    },
+    {
+      "path": "L67-shenhav-et-al-2013/extracted.txt",
+      "bytes": 164431,
+      "sha256": "2788e1a4309890f467ac9b23eb11cbbea447fe220158a3a79e16f66fffea6ace"
+    },
+    {
+      "path": "L67-shenhav-et-al-2013/metadata.json",
+      "bytes": 1450,
+      "sha256": "6a265afae36876974a9b2de785b2e0bde3df44bf49ac9a003eccc63380976c5f"
+    },
+    {
+      "path": "L67-shenhav-et-al-2013/original.pdf",
+      "bytes": 2024847,
+      "sha256": "f6456cb572b1c6852ba3ff29b195e5409410d745ec1e34b9c9fcdc37f3cf7c99"
+    },
+    {
+      "path": "L67-shenhav-et-al-2013/reading-page.png",
+      "bytes": 156303,
+      "sha256": "f9d7f1ad47862454ac424f3b551cf693c6ea73c9d4e0923004dd8e216f52e2b1"
+    },
+    {
+      "path": "L68-shah-et-al-2002/attempt-publisher.json",
+      "bytes": 262,
+      "sha256": "06876aa9c95463b45118072bb28ecb119ee12afc8c13b7385afc7316834fc888"
+    },
+    {
+      "path": "L68-shah-et-al-2002/author-index.html",
+      "bytes": 460619,
+      "sha256": "613e79c968f75c09364e3fe3815edb1a005d1bd51f530f5e2208a3de8833b82d"
+    },
+    {
+      "path": "L68-shah-et-al-2002/author-index.txt",
+      "bytes": 9699,
+      "sha256": "a02c0cc606e6f05afc64e4b2cd66ce7587df93e98b78ea2ee3c443299cf0749e"
+    },
+    {
+      "path": "L68-shah-et-al-2002/metadata.json",
+      "bytes": 1148,
+      "sha256": "7fb9758b41ccc71598ed6a373cf6b08041146d1341aeb6cc6bcface7e322c5af"
+    },
+    {
+      "path": "L68-shah-et-al-2002/publisher-response.bin",
+      "bytes": 963,
+      "sha256": "7f5b6828085a700e3f6cd219eee9985167c2abf5296add5628dea14cf4c14f31"
+    },
+    {
+      "path": "L69-wrosch-et-al-2003/acquisition-log.json",
+      "bytes": 322,
+      "sha256": "f541adb77b5be5fb146fbda80b0e47fd72661b59b7df71e0ea57fb236ff47d31"
+    },
+    {
+      "path": "L69-wrosch-et-al-2003/extracted.txt",
+      "bytes": 80625,
+      "sha256": "487bd0855311670de9077c7546d26c1630ac2335006e358a1ab93d0a7fe3d762"
+    },
+    {
+      "path": "L69-wrosch-et-al-2003/metadata.json",
+      "bytes": 1503,
+      "sha256": "fb55883fe91f8fad72f0c5a9b4f53aeb12d69de0754a50ede6e226e04450415e"
+    },
+    {
+      "path": "L69-wrosch-et-al-2003/original.pdf",
+      "bytes": 226558,
+      "sha256": "3882a6270d6602bf9229a59ecbd22057d0b351f07f3c9246f9e6f64df7c441c0"
+    },
+    {
+      "path": "L69-wrosch-et-al-2003/reading-page.png",
+      "bytes": 184020,
+      "sha256": "a24d16b74530f049855fa2a202f23ef6935034fd6ac75f6d3e789a7604b42a81"
+    },
+    {
+      "path": "L70-gollwitzer-brandstaetter-1997/acquisition-log.json",
+      "bytes": 429,
+      "sha256": "bb21e4320018257a2341cf2efcbe82f37406b2124ce763fd069f876265894e75"
+    },
+    {
+      "path": "L70-gollwitzer-brandstaetter-1997/extracted.txt",
+      "bytes": 96369,
+      "sha256": "c45bd5a4bacab210733277efb188666986f0a7a7b0ae5166ec0e1a3cb2541f9b"
+    },
+    {
+      "path": "L70-gollwitzer-brandstaetter-1997/metadata.json",
+      "bytes": 1630,
+      "sha256": "6e98a6c0395a8fb03a85a6392bb241bfc8390b7da8bc4cb51e3a8cfbad85e6f5"
+    },
+    {
+      "path": "L70-gollwitzer-brandstaetter-1997/original.pdf",
+      "bytes": 1381775,
+      "sha256": "05a5efe78b7d76bb9403e2f5f81f2a28976badeb75f2314207dd546d90657570"
+    },
+    {
+      "path": "L70-gollwitzer-brandstaetter-1997/reading-page.png",
+      "bytes": 311438,
+      "sha256": "d108b96f89b4e5576878a32aff7951cb531e6e0a3a3b42d2bb2c382f6d466ec5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2499,
+      "sha256": "2014e07ea6d84e6571a6fb904d4281f82dd1a4da263d370bd79a15bb24004209"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 35951,
+      "sha256": "1bab2fa08c4cb48ec7557965b3cd5ed29dbb8bc794c5490aa6aaf9fc0afaad6d"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 32447,
+      "sha256": "b7fdfe8405e3d2ebd565392171eb96e7b25645c4c86b1070e846768105f0282c"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 34129,
+      "sha256": "cb85b528a778f7f5a2811031a19e9d7591b4d2856fa9ac380646ca8b57c24a7a"
+    }
+  ],
+  "excludes": [
+    "manifest.json itself",
+    "__pycache__ contents"
+  ]
+}

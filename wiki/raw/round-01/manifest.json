@@ -1,0 +1,374 @@
+{
+  "schema_version": 1,
+  "batch": "round-01",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "source_id": "L01",
+      "directory": "L01-anderson-1972",
+      "id": "L01-anderson-1972",
+      "requested_url": "https://www.rpgroup.caltech.edu/embl_pboc_2023/assets/pdfs/anderson1972.pdf",
+      "retrieved_at_utc": "2026-11-11T06:53:49.958588+00:00",
+      "status_code": 200,
+      "final_url": "https://www.rpgroup.caltech.edu/embl_pboc_2023/assets/pdfs/anderson1972.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 1022610,
+      "sha256": "39a61c405542ce4817e0e4c4f05eb4f9651f2e1f118c6c1d28d782db2af535b0",
+      "download_status": "downloaded",
+      "pdf_pages": 5,
+      "author": "P. W. Anderson",
+      "title": "More Is Different",
+      "publication_year": "1972",
+      "reading_status": "targeted_passages_read",
+      "reading_scope": "pp. 393-396; PDF pages 1-4, relevant passages",
+      "role": "core_targeted_reading",
+      "extracted_text_status": "search_aid_not_authoritative"
+    },
+    {
+      "source_id": "L02",
+      "directory": "L02-simon-1962",
+      "id": "L02-simon-1962",
+      "requested_url": "https://www2.econ.iastate.edu/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf",
+      "retrieved_at_utc": "2026-11-11T06:53:49.958864+00:00",
+      "status_code": 200,
+      "final_url": "https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 561727,
+      "sha256": "cad628f8f6773fb46efdf782838c68e23923e174210b332e77d21f273cb8c70d",
+      "download_status": "downloaded",
+      "pdf_pages": 17,
+      "author": "Herbert A. Simon",
+      "title": "The Architecture of Complexity",
+      "publication_year": "1962",
+      "reading_status": "targeted_passages_read",
+      "reading_scope": "pp. 467-468, 470-471, 474-475; Iowa text-layer copy",
+      "role": "core_targeted_reading",
+      "extracted_text_status": "search_aid_not_authoritative"
+    },
+    {
+      "source_id": "L03",
+      "directory": "L03-prigogine-1977",
+      "id": "L03-prigogine-1977",
+      "requested_url": "https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf",
+      "retrieved_at_utc": "2026-11-11T06:53:49.959616+00:00",
+      "status_code": 200,
+      "final_url": "https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 418667,
+      "sha256": "dd356bdf285adabdff7a602b6c14d58b6462e0d40272dc023b12956fc33f97d1",
+      "download_status": "downloaded",
+      "pdf_pages": 23,
+      "author": "Ilya Prigogine",
+      "title": "Time, Structure and Fluctuations",
+      "publication_year": "1977",
+      "reading_status": "targeted_passages_read",
+      "reading_scope": "Sections 1-4; pp. 263-272; PDF pages 1-10",
+      "role": "core_targeted_reading",
+      "extracted_text_status": "search_aid_not_authoritative"
+    },
+    {
+      "source_id": "L04",
+      "directory": "L04-ashby-1956",
+      "id": "L04-ashby-1956",
+      "requested_url": "https://ashby.info/Ashby-Introduction-to-Cybernetics.pdf",
+      "retrieved_at_utc": "2026-11-11T06:53:49.959718+00:00",
+      "status_code": 200,
+      "final_url": "https://ashby.info/Ashby-Introduction-to-Cybernetics.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 2023477,
+      "sha256": "26bd434d9b5d8e430c9b6aea107983249a7196b438502d4624847ab7b8c15da6",
+      "download_status": "downloaded",
+      "pdf_pages": 156,
+      "author": "W. Ross Ashby",
+      "title": "An Introduction to Cybernetics",
+      "publication_year": "1956; archived impression 1957",
+      "reading_status": "targeted_passages_read",
+      "reading_scope": "Sections 3/11, 4/6-4/11, 5/1-5/6, 10/4-10/6",
+      "role": "core_targeted_reading",
+      "extracted_text_status": "search_aid_not_authoritative"
+    },
+    {
+      "source_id": "L05",
+      "directory": "L05-dipaolo-2005",
+      "id": "L05-dipaolo-2005",
+      "requested_url": "https://ezequieldipaolo.net/wp-content/uploads/2011/10/autopoiesis_teleology_2005.pdf",
+      "retrieved_at_utc": "2026-11-11T06:53:49.959683+00:00",
+      "status_code": 200,
+      "final_url": "https://ezequieldipaolo.net/wp-content/uploads/2011/10/autopoiesis_teleology_2005.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 172265,
+      "sha256": "576e825142860f3b0fe2585cf43fa5baceab593bf78e08cf79d5c69c733a833b",
+      "download_status": "downloaded",
+      "pdf_pages": 24,
+      "author": "Ezequiel A. Di Paolo",
+      "title": "Autopoiesis, Adaptivity, Teleology, Agency",
+      "publication_year": "2005",
+      "reading_status": "targeted_passages_read",
+      "reading_scope": "pp. 434-440; PDF pages 6-12",
+      "role": "core_targeted_reading",
+      "extracted_text_status": "search_aid_not_authoritative"
+    },
+    {
+      "source_id": "L06",
+      "directory": "L06-montevil-mossio-2015",
+      "id": "L06-montevil-mossio-2015",
+      "requested_url": "https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/",
+      "retrieved_at_utc": "2026-11-11T06:53:49.959752+00:00",
+      "status_code": 200,
+      "final_url": "https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "original.html",
+      "bytes": 1473113,
+      "sha256": "4b3d1fdf0454614227ce97a4df7283c0a2922ac5f88f52adaf6b018addd06a21",
+      "download_status": "downloaded",
+      "author": "Mael Montevil; Matteo Mossio",
+      "title": "Biological Organisation as Closure of Constraints",
+      "publication_year": "2015",
+      "reading_status": "targeted_passages_read",
+      "reading_scope": "Author full-text HTML sections 1-6.1",
+      "role": "core_targeted_reading",
+      "extracted_text_status": "search_aid_not_authoritative"
+    },
+    {
+      "source_id": "L07",
+      "directory": "L07-coase-1937",
+      "id": "L07-coase-1937",
+      "requested_url": "https://msuweb.montclair.edu/~lebelp/coasenatfirmec1937.pdf",
+      "retrieved_at_utc": "2026-11-11T06:53:49.959837+00:00",
+      "status_code": 200,
+      "final_url": "https://msuweb.montclair.edu/~lebelp/coasenatfirmec1937.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 1771423,
+      "sha256": "643ef9bd0c253cf91735610abddc5232abcaee1b085e0325df09553a957e845a",
+      "download_status": "downloaded",
+      "pdf_pages": 21,
+      "author": "R. H. Coase",
+      "title": "The Nature of the Firm",
+      "publication_year": "1937",
+      "reading_status": "targeted_passages_read",
+      "reading_scope": "Visual reading pp. 387-394; PDF pages 3-10",
+      "role": "core_targeted_reading",
+      "extracted_text_status": "scan_requires_ocr"
+    },
+    {
+      "source_id": "L08",
+      "directory": "L08-nasa-candle",
+      "id": "L08-nasa-candle",
+      "requested_url": "https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/",
+      "retrieved_at_utc": "2026-11-11T06:57:46.603292+00:00",
+      "status_code": 200,
+      "final_url": "https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "original.html",
+      "bytes": 277926,
+      "sha256": "2f7404f83ea570b988282fe70a90c10206fd24f9763c6452d25d506a7a9d75f5",
+      "download_status": "downloaded",
+      "author": "NASA Biological and Physical Sciences",
+      "title": "Why NASA Is Studying Flames in Space",
+      "publication_year": null,
+      "reading_status": "targeted_passages_read",
+      "reading_scope": "What causes flames to behave differently in space?",
+      "role": "case_supplement",
+      "extracted_text_status": "search_aid_not_authoritative"
+    }
+  ],
+  "historical_source": "H01-historical-dialogue/metadata.json",
+  "files": [
+    {
+      "path": "acquisition-attempts.json",
+      "bytes": 943,
+      "sha256": "a69f7fb0d398be561d2cc153926448e2a18e1420d45cb1c2d255a55c1d44f77c"
+    },
+    {
+      "path": "H01-historical-dialogue/metadata.json",
+      "bytes": 493,
+      "sha256": "b81bb854df10b6c23da953a591ab8e883a4c2cdda0069f3e6f1fee2eb75cec2e"
+    },
+    {
+      "path": "H01-historical-dialogue/original.md",
+      "bytes": 508991,
+      "sha256": "95c037b4c19f052446aa7a8a61d520b95333c5beacfee2860067afec7dae546a"
+    },
+    {
+      "path": "L01-anderson-1972/extracted.txt",
+      "bytes": 28239,
+      "sha256": "5da115c9319bb48d2ac3c1102a189f0a8c7b0687f9df511123ba2e854fecc9e9"
+    },
+    {
+      "path": "L01-anderson-1972/metadata.json",
+      "bytes": 838,
+      "sha256": "458988ba617836127a1b1da740136d7928e857a499772ec0188ec823d8fc0237"
+    },
+    {
+      "path": "L01-anderson-1972/original.pdf",
+      "bytes": 1022610,
+      "sha256": "39a61c405542ce4817e0e4c4f05eb4f9651f2e1f118c6c1d28d782db2af535b0"
+    },
+    {
+      "path": "L02-simon-1962/extracted-cmu.txt",
+      "bytes": 387,
+      "sha256": "f2d08ac96963dec9154f7432ea84636a3e0e38ff868be075324681fbb6373933"
+    },
+    {
+      "path": "L02-simon-1962/extracted.txt",
+      "bytes": 81412,
+      "sha256": "d466e8199a341d03ecb2a37b5ce9f48f2a556f46c431f2017652ac87bc8619d2"
+    },
+    {
+      "path": "L02-simon-1962/metadata-cmu.json",
+      "bytes": 579,
+      "sha256": "241b19ff73f825d18394dc30c360240c362c1e81cf57347f2a8c048c6e52a629"
+    },
+    {
+      "path": "L02-simon-1962/metadata.json",
+      "bytes": 883,
+      "sha256": "04340d683bfc0324322a828ee3728db3300cd9897870606b2fc3713bd1c24d5e"
+    },
+    {
+      "path": "L02-simon-1962/original-cmu.pdf",
+      "bytes": 2594390,
+      "sha256": "18500628dca4f5b27a15e13dbc3ac2559e38beb60355f102af32b4dfa7615d5a"
+    },
+    {
+      "path": "L02-simon-1962/original.pdf",
+      "bytes": 561727,
+      "sha256": "cad628f8f6773fb46efdf782838c68e23923e174210b332e77d21f273cb8c70d"
+    },
+    {
+      "path": "L03-prigogine-1977/extracted.txt",
+      "bytes": 46819,
+      "sha256": "630c823633957bf4f4a102f261fee7eb82fd8974861c2ce6169cac319504991b"
+    },
+    {
+      "path": "L03-prigogine-1977/metadata.json",
+      "bytes": 828,
+      "sha256": "41ac78b941e62d92e7a178e86a237be2aadc8a9f8247aa096ca2eb1916209a1c"
+    },
+    {
+      "path": "L03-prigogine-1977/original.pdf",
+      "bytes": 418667,
+      "sha256": "dd356bdf285adabdff7a602b6c14d58b6462e0d40272dc023b12956fc33f97d1"
+    },
+    {
+      "path": "L04-ashby-1956/extracted.txt",
+      "bytes": 639110,
+      "sha256": "48bfc9391f2991d62bc3c8a74cef26a3f8c08b92100d2ba268e50c1b55ab1e09"
+    },
+    {
+      "path": "L04-ashby-1956/metadata.json",
+      "bytes": 835,
+      "sha256": "a4df6cbec757c8e1b0771e16884885dde557e415e5a2cd8d026ee894ace81842"
+    },
+    {
+      "path": "L04-ashby-1956/original.pdf",
+      "bytes": 2023477,
+      "sha256": "26bd434d9b5d8e430c9b6aea107983249a7196b438502d4624847ab7b8c15da6"
+    },
+    {
+      "path": "L05-dipaolo-2005/extracted.txt",
+      "bytes": 76410,
+      "sha256": "fdb601c9d6593462c81963cb73545031f97895e3b082f17271699223859803b6"
+    },
+    {
+      "path": "L05-dipaolo-2005/metadata.json",
+      "bytes": 870,
+      "sha256": "a8c6f3e86790437a73bc26e3a001b5aa1d1a3f51c6aa87660b481e72b09b3f32"
+    },
+    {
+      "path": "L05-dipaolo-2005/original.pdf",
+      "bytes": 172265,
+      "sha256": "576e825142860f3b0fe2585cf43fa5baceab593bf78e08cf79d5c69c733a833b"
+    },
+    {
+      "path": "L06-montevil-mossio-2015/extracted.txt",
+      "bytes": 100271,
+      "sha256": "afb0a237d3d2c576ae255e285de125653d03137a528f052b31f9a4534aebd13d"
+    },
+    {
+      "path": "L06-montevil-mossio-2015/metadata-manuscript.json",
+      "bytes": 358,
+      "sha256": "0210b63c10d542b6a068426d12046e3ca8a411877deb8b9e9ab1b9b0987d89d1"
+    },
+    {
+      "path": "L06-montevil-mossio-2015/metadata.json",
+      "bytes": 891,
+      "sha256": "9418960ed6424870425a987f83769f6f728735d5c4a6e3a87f1b9dc32309bd32"
+    },
+    {
+      "path": "L06-montevil-mossio-2015/original.html",
+      "bytes": 1473113,
+      "sha256": "4b3d1fdf0454614227ce97a4df7283c0a2922ac5f88f52adaf6b018addd06a21"
+    },
+    {
+      "path": "L07-coase-1937/extracted.txt",
+      "bytes": 512,
+      "sha256": "a179230dc1fc87e1b3c2c2ded902c38e154b6cd17ec60ff0686fb502ca7979da"
+    },
+    {
+      "path": "L07-coase-1937/metadata.json",
+      "bytes": 792,
+      "sha256": "5e3637000aa22b0315d8b98d0df81835aaaf2bef0a836d34d465113a8560b2a7"
+    },
+    {
+      "path": "L07-coase-1937/original.pdf",
+      "bytes": 1771423,
+      "sha256": "643ef9bd0c253cf91735610abddc5232abcaee1b085e0325df09553a957e845a"
+    },
+    {
+      "path": "L07-coase-1937/reading-pages-3-6.png",
+      "bytes": 1281886,
+      "sha256": "0c231a1c7e4b05fbd60f4529f80f8856d2ba2482c0ac6b193e11d99b30063260"
+    },
+    {
+      "path": "L07-coase-1937/reading-pages-7-10.png",
+      "bytes": 1209414,
+      "sha256": "57b2388a3c6728db04a31bf06ad3f164874b76c5e55aceab3b6d80c3ab8d8f0d"
+    },
+    {
+      "path": "L07-coase-1937/web-extraction.json",
+      "bytes": 331,
+      "sha256": "2bd8d2bab555d964b1f249bce3487ab88ff2f5bfed682eb95d131e4cea397778"
+    },
+    {
+      "path": "L08-nasa-candle/extracted.txt",
+      "bytes": 11305,
+      "sha256": "8f0758dcccde93c2af9dc13510f55a1d523b182388f9480cfdaba2abae278344"
+    },
+    {
+      "path": "L08-nasa-candle/metadata.json",
+      "bytes": 947,
+      "sha256": "2d74ecc5dbfea10c78e4f82d12970c46bac3cbb86cfbe2d64ba6a351bd92451b"
+    },
+    {
+      "path": "L08-nasa-candle/original.html",
+      "bytes": 277926,
+      "sha256": "2f7404f83ea570b988282fe70a90c10206fd24f9763c6452d25d506a7a9d75f5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2776,
+      "sha256": "6e8c3c3bd6ee1869bc161ef36b30c9a05dc1959f4ceaacb5ba5b8e1bf4809d40"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 34196,
+      "sha256": "dda2fea19160bec81b62d42714d34a5f71b43d116e66b1400afcbeaeb2bfa83c"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 35363,
+      "sha256": "d7ede3d948681128765363b48060f554d4c094593c2101b21618e2545bf14001"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 35397,
+      "sha256": "18da642a7aa8e4875d59eda8e95f14cf50bd8c827dff1f553ffab655b2476204"
+    }
+  ]
+}

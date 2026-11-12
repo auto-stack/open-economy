@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-12",
+  "scope": "All round23 files except manifest/checksums; reused originals separately listed in reuse-reading.json",
+  "files": [
+    {
+      "path": "discovery/supplementary-observations.json",
+      "bytes": 973,
+      "sha256": "23a664eaea8de010b59fdc10ae0db3d0a7ae9e2e046ff0c7509ef664dcc9b787"
+    },
+    {
+      "path": "discovery/web-records.json",
+      "bytes": 346076,
+      "sha256": "595f418c10630c82e9b12e35d2629bb7860a090ce9f3569ec38b9b946ec18ae0"
+    },
+    {
+      "path": "L116-akerlof-1970/acquisition-log.json",
+      "bytes": 338,
+      "sha256": "dd76b320dda67db9fffb835c2bf0c0845fc321ac049f32be6724ca32e749b225"
+    },
+    {
+      "path": "L116-akerlof-1970/extracted.txt",
+      "bytes": 35174,
+      "sha256": "70a656349c87621532cc140435f48ccdcd52f83074efa775334f016435398a1e"
+    },
+    {
+      "path": "L116-akerlof-1970/metadata.json",
+      "bytes": 1462,
+      "sha256": "f43daa98c9e3d57e0f4983714e1ed5893d12e0526a11dd48b314ea22241a35ae"
+    },
+    {
+      "path": "L116-akerlof-1970/original.pdf",
+      "bytes": 496634,
+      "sha256": "770b53e35e8043fcaa4dd170bce420d4902dee280facaa5363bb48817a179f58"
+    },
+    {
+      "path": "L117-gabaix-laibson-2006/acquisition-log.json",
+      "bytes": 348,
+      "sha256": "46a068afeb9eaf7b45a219aa529060a45f82d8e57294dc73d2a76b6c4f01b544"
+    },
+    {
+      "path": "L117-gabaix-laibson-2006/extracted.txt",
+      "bytes": 91553,
+      "sha256": "58b6bd8d88843f24a1e55d8d132ee0342edf2b11e7f57cb12b9b80ef77e3de50"
+    },
+    {
+      "path": "L117-gabaix-laibson-2006/metadata.json",
+      "bytes": 1486,
+      "sha256": "83451129a8a506e335fd69593014bce7c28411ec46565f7eae9d7200c6afda4b"
+    },
+    {
+      "path": "L117-gabaix-laibson-2006/original.pdf",
+      "bytes": 150594,
+      "sha256": "45da2ce73fe04f90de56ac958e67acf27fe91c65b8e3633654f37771accdba1a"
+    },
+    {
+      "path": "L118-stigler-1971/acquisition-log.json",
+      "bytes": 369,
+      "sha256": "b3258b4b393506cd05ef71b598c009e70b41e1533fe7080c420e1e1ac2578a24"
+    },
+    {
+      "path": "L118-stigler-1971/extracted.txt",
+      "bytes": 59631,
+      "sha256": "bdb498fc86dc4d136cae6379e261471d676d39d61c15c13e0f0d090d6d7557c9"
+    },
+    {
+      "path": "L118-stigler-1971/metadata.json",
+      "bytes": 1486,
+      "sha256": "48507f420efa9d9333df2f5144576375b5ba601ce4a3501784416d8d5dc50ec0"
+    },
+    {
+      "path": "L118-stigler-1971/original.pdf",
+      "bytes": 1242042,
+      "sha256": "41ffa09842d8c2b7e507b5047ff9e181cf884bb014c00c45458741ffaaf41f29"
+    },
+    {
+      "path": "L119-nobel-tirole-2014/acquisition-log.json",
+      "bytes": 793,
+      "sha256": "613874500b488d213bd4d83b8e51844891513d6c6e68294937afcf38a1085bae"
+    },
+    {
+      "path": "L119-nobel-tirole-2014/failed-response-1.bin",
+      "bytes": 4550,
+      "sha256": "6df15e356afdaa9493d619783023889467b4532f8e0924ed96d0ad9d4c947602"
+    },
+    {
+      "path": "L119-nobel-tirole-2014/failed-response-2.bin",
+      "bytes": 4550,
+      "sha256": "05b81ad9cc6d93bda3f88b69d2da9c6e4a92ddf5d70acb3ea85a31c71ec6501a"
+    },
+    {
+      "path": "L119-nobel-tirole-2014/metadata.json",
+      "bytes": 1370,
+      "sha256": "64625569d32fe21e57e9ace5f29d9c36fb33e79e8f8d64051f0ada2e51ca898f"
+    },
+    {
+      "path": "L119-nobel-tirole-2014/web-tool-text.partial.txt",
+      "bytes": 2917,
+      "sha256": "c65335b73a15fef15437805c789cd3c0260ed8c488cfe66bd6b45dce72166421"
+    },
+    {
+      "path": "L120-fcic-conclusions-2011/acquisition-log.json",
+      "bytes": 422,
+      "sha256": "06aaff9caed85bbf8b1f358110eb26cd492e797eaabbbc5c8f6b374725c78f53"
+    },
+    {
+      "path": "L120-fcic-conclusions-2011/extracted.txt",
+      "bytes": 46093,
+      "sha256": "4bf3c4ced57d5d0aa3f1a2dd1810ce32751e7ef40e2d61c8337f9cee2f89f105"
+    },
+    {
+      "path": "L120-fcic-conclusions-2011/metadata.json",
+      "bytes": 1564,
+      "sha256": "f25c4f1ff2c84281d1d8217bb54b44fefd1c5c639c6f9515e627213287c68370"
+    },
+    {
+      "path": "L120-fcic-conclusions-2011/original.pdf",
+      "bytes": 108963,
+      "sha256": "192ddd25976bd29d1f5f9a4589f17620cb381139cb661031e1a89a43ae0d9d34"
+    },
+    {
+      "path": "L121-sec-ponzi/acquisition-log.json",
+      "bytes": 835,
+      "sha256": "ca8376c1dd1ff5fc8f8e44728725d3d2ef999b83d2e9ce3d4d74e9dd842a304d"
+    },
+    {
+      "path": "L121-sec-ponzi/failed-response-1.bin",
+      "bytes": 453,
+      "sha256": "b51aa293aaed757651c3004280278f645c048d64882d94bceaa9e01f2a862dca"
+    },
+    {
+      "path": "L121-sec-ponzi/failed-response-2.bin",
+      "bytes": 458,
+      "sha256": "de5430c808f8c2625c0cd14f89cc7e07acbb20c0eeb1a0332720677eaa9fc965"
+    },
+    {
+      "path": "L121-sec-ponzi/metadata.json",
+      "bytes": 1162,
+      "sha256": "fdebe9737828ecba1766e183fceb920e86d1f504de5637c2ae09e9b96d8760ec"
+    },
+    {
+      "path": "L121-sec-ponzi/web-tool-text.partial.txt",
+      "bytes": 8727,
+      "sha256": "08a19c80e063f267f916ede7eefb1e94210035faf4583a91431883d614959bee"
+    },
+    {
+      "path": "L122-lerner-tirole-2000/acquisition-log.json",
+      "bytes": 364,
+      "sha256": "8f8c366e67a007dc8f66467191201477915ef022f286431b6afb1058815823a6"
+    },
+    {
+      "path": "L122-lerner-tirole-2000/extracted.txt",
+      "bytes": 77780,
+      "sha256": "ee19887cfb0bf042b6b7676acc7717818d798d887cc39a0ebf6087abe0425c3e"
+    },
+    {
+      "path": "L122-lerner-tirole-2000/metadata.json",
+      "bytes": 1494,
+      "sha256": "2aeaddd0ba3162f8f8906f5988277dc5880bf098ff4f331aa224f94eb273b56c"
+    },
+    {
+      "path": "L122-lerner-tirole-2000/original.pdf",
+      "bytes": 294038,
+      "sha256": "e3ff55e06bb363905174cbe8b377cb9e62324809ce3af93e690d1cbfcaa71c4d"
+    },
+    {
+      "path": "L123-hoffmann-nagle-zhou-2024/acquisition-log.json",
+      "bytes": 418,
+      "sha256": "9ce62cfb96126652391ee12e8e9ef35d2ed72f0172b38ec8f7069df7fd8a535f"
+    },
+    {
+      "path": "L123-hoffmann-nagle-zhou-2024/extracted.txt",
+      "bytes": 92458,
+      "sha256": "0f8de6c90f318e1e5c13bcd29f1ea42b19f7e9f6daaf84ce033fafcf897dbbcc"
+    },
+    {
+      "path": "L123-hoffmann-nagle-zhou-2024/metadata.json",
+      "bytes": 1613,
+      "sha256": "10f67d5183581ef44acf10165cefd3f1dee127ac38c594769cc520f93a562619"
+    },
+    {
+      "path": "L123-hoffmann-nagle-zhou-2024/original.pdf",
+      "bytes": 947645,
+      "sha256": "b432e743aea8330420bced21d2c6d6212e80f85a18c7dc792d3b86ac03c4f0a2"
+    },
+    {
+      "path": "L124-shapley-1952/acquisition-log.json",
+      "bytes": 767,
+      "sha256": "be7c988b2adb654ced6d20c6f18f48bcf8da1892721b8db7a773820a72995621"
+    },
+    {
+      "path": "L124-shapley-1952/failed-response-1.bin",
+      "bytes": 919,
+      "sha256": "ee42e4335469e06357656f0362c499f5c4bcd1471c3bbdd08fd0fb2a83b050bf"
+    },
+    {
+      "path": "L124-shapley-1952/failed-response-2.bin",
+      "bytes": 919,
+      "sha256": "28c72cf72e8d5c3e7c2921a44e051638632d78cc778d23d88cb92061a1a646bc"
+    },
+    {
+      "path": "L124-shapley-1952/metadata.json",
+      "bytes": 1265,
+      "sha256": "0f1b5c85acbc1ffda5654f28f14c630345442be9085cd140ef20c9efe131ba01"
+    },
+    {
+      "path": "L124-shapley-1952/web-tool-text.partial.txt",
+      "bytes": 6908,
+      "sha256": "81f8f5d9461c8ce98db5f56b78350753bb94d83aa8403892ce28ba18e1262079"
+    },
+    {
+      "path": "L125-holmstrom-milgrom-1991/acquisition-log.json",
+      "bytes": 406,
+      "sha256": "533e557052ae7f3c65a42545808e4841b7ea19b29520947f20cb8c6f82e028f8"
+    },
+    {
+      "path": "L125-holmstrom-milgrom-1991/extracted.txt",
+      "bytes": 422,
+      "sha256": "59666b585b5dee60171e39b3e8f884fb4adb7c0fae5ec5c28a560f747b576612"
+    },
+    {
+      "path": "L125-holmstrom-milgrom-1991/metadata.json",
+      "bytes": 1594,
+      "sha256": "4fb16bc7bb329faa7e332a38d918bedb514fb96f85c755a4a4ecd3ff1ca6e437"
+    },
+    {
+      "path": "L125-holmstrom-milgrom-1991/original.pdf",
+      "bytes": 320059,
+      "sha256": "3f02e533d3fdff61dca5ffab381c56710e23a4b222409b7825f526da8190fc71"
+    },
+    {
+      "path": "L126-ftc-ai-partnerships-2025/acquisition-log.json",
+      "bytes": 839,
+      "sha256": "c3beffc1af8e25b621fd76201e2b6e875f6e4a2bbd0e64610834635a18d445ac"
+    },
+    {
+      "path": "L126-ftc-ai-partnerships-2025/extracted.txt",
+      "bytes": 150403,
+      "sha256": "5248c7d0cbcbaebf68854e16bd4a44f64ed9df82827074580c5dbf0b2536ec3c"
+    },
+    {
+      "path": "L126-ftc-ai-partnerships-2025/failed-response-1.bin",
+      "bytes": 454,
+      "sha256": "66f4ab0ec2ec9442babea2f7f6a0323ea94b50c841540e401ed946b5ffeef284"
+    },
+    {
+      "path": "L126-ftc-ai-partnerships-2025/metadata.json",
+      "bytes": 1627,
+      "sha256": "1182f4eb8844984a666889ae7cf9f2d982425b946396fee288518a502dd5336a"
+    },
+    {
+      "path": "L126-ftc-ai-partnerships-2025/original.pdf",
+      "bytes": 4311834,
+      "sha256": "8e29ce178ca1174533dc2c7e14fe40c377d7ccf8eac66e730c6bf3f1cfd4b427"
+    },
+    {
+      "path": "L127-scheinkman-xiong-2003/acquisition-log.json",
+      "bytes": 338,
+      "sha256": "a7f2ffb35c036b3cfd48d8c3374eae1a3677c709a8c1fe711306e7223e02984d"
+    },
+    {
+      "path": "L127-scheinkman-xiong-2003/extracted.txt",
+      "bytes": 87243,
+      "sha256": "3cb2d4108ffa0193e25c1212ac90ad4e6cd7adbd741889132e1fea35b8674a55"
+    },
+    {
+      "path": "L127-scheinkman-xiong-2003/metadata.json",
+      "bytes": 1426,
+      "sha256": "3175f0c0e4556a1dbbcf44fca4e9999697699d0dd15c9605f5668497b3f9a960"
+    },
+    {
+      "path": "L127-scheinkman-xiong-2003/original.pdf",
+      "bytes": 274498,
+      "sha256": "f9bb74d8c15c7161bfdcf8ba212a37647eeee5868bd0764693bda6196dc03e27"
+    },
+    {
+      "path": "L128-fehr-schmidt-1999/acquisition-log.json",
+      "bytes": 338,
+      "sha256": "9dfab5a352261ca41ff575228b14b1b01ddc79089419df6a143b8513af59179c"
+    },
+    {
+      "path": "L128-fehr-schmidt-1999/failed-response-1.bin",
+      "bytes": 146,
+      "sha256": "32f2fa940d4b4fe19aca1e53a24e5aac29c57b7c5ee78588325b87f1b649c864"
+    },
+    {
+      "path": "L128-fehr-schmidt-1999/metadata.json",
+      "bytes": 995,
+      "sha256": "c2d445217d158a6f4462c58146d70c55f1de544b39102cb723efbc83a30d1467"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2336,
+      "sha256": "887902a3f04c4e9806ad222ff811b14d8d3bfe1c4016cec55dface06e56f9599"
+    },
+    {
+      "path": "reuse-reading.json",
+      "bytes": 3002,
+      "sha256": "c4fbcb16e373bf76eaf8917b400653a6477588cf9564987842b3c0797d7df57f"
+    }
+  ]
+}

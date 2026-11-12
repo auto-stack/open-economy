@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "batch": "round-02",
+  "scope": "organization identification follow-up",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "source_id": "L09",
+      "directory": "L09-wimsatt",
+      "id": "L09-wimsatt",
+      "requested_url": "https://philosophy.uchicago.edu/faculty/files/wimsatt/Wimsatt-reductionism.pdf",
+      "retrieved_at_utc": "2026-11-11T08:40:05.076658+00:00",
+      "status_code": 200,
+      "final_url": "https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2018-10/Wimsatt-reductionism.pdf",
+      "content_type": "application/pdf",
+      "file": "original-uchicago.pdf",
+      "bytes": 303557,
+      "sha256": "67556a39f49e0b7d042bbc8fc050a77f9ba22875780e44818877f05f5898d4a0",
+      "pdf_pages": 31,
+      "download_status": "downloaded",
+      "author": "William C. Wimsatt",
+      "title": "Reductionism and its heuristics: Making methodological reductionism honest",
+      "publication_year": 2006,
+      "archived_version": "University-hosted article; copyright 2006",
+      "reading_scope": "PDF pages 4,15-17; section 8",
+      "reading_status": "targeted_passages_read",
+      "evidence_role": "source_material_not_project_conclusion"
+    },
+    {
+      "source_id": "L10",
+      "directory": "L10-newman-girvan-2004",
+      "id": "L10-newman-girvan-2004",
+      "requested_url": "https://arxiv.org/pdf/cond-mat/0308217",
+      "retrieved_at_utc": "2026-11-11T08:40:05.076930+00:00",
+      "status_code": 200,
+      "final_url": "https://arxiv.org/pdf/cond-mat/0308217",
+      "content_type": "application/pdf",
+      "file": "original-arxiv.pdf",
+      "bytes": 352803,
+      "sha256": "68a925e0204ece11d8378bcd91dbd56de0c4e50c34eb510d756f67f330b4b12b",
+      "pdf_pages": 16,
+      "download_status": "downloaded",
+      "author": "M. E. J. Newman; M. Girvan",
+      "title": "Finding and evaluating community structure in networks",
+      "publication_year": 2004,
+      "archived_version": "arXiv:cond-mat/0308217v1, 2003-08-11; not final journal typesetting",
+      "reading_scope": "PDF pages 1,7-8; section IV",
+      "reading_status": "targeted_passages_read",
+      "evidence_role": "source_material_not_project_conclusion"
+    },
+    {
+      "source_id": "L11",
+      "directory": "L11-pearl-2009",
+      "id": "L11-pearl-2009",
+      "requested_url": "https://www.cs.columbia.edu/~blei/fogm/2018F/materials/Pearl2009a.pdf",
+      "retrieved_at_utc": "2026-11-11T08:39:29.116689+00:00",
+      "status_code": 200,
+      "final_url": "https://www.cs.columbia.edu/~blei/fogm/2018F/materials/Pearl2009a.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 634625,
+      "sha256": "928337e627d0e8bb0646f5f1be457cf2dfdd0c684e7797fe844d00091e3a4f21",
+      "pdf_pages": 51,
+      "download_status": "downloaded",
+      "author": "Judea Pearl",
+      "title": "Causal inference in statistics: An overview",
+      "publication_year": 2009,
+      "archived_version": "University-hosted journal PDF",
+      "reading_scope": "Print pages 99-100,107-109; sections 2.1-2.3 and 3.2-3.2.1",
+      "reading_status": "targeted_passages_read",
+      "evidence_role": "source_material_not_project_conclusion"
+    },
+    {
+      "source_id": "L12",
+      "directory": "L12-fortunato-barthelemy",
+      "id": "L12",
+      "requested_url": "https://snap.stanford.edu/class/cs224w-readings/fortunato06community.pdf",
+      "retrieved_at_utc": "2026-11-11T08:40:51.451651+00:00",
+      "status_code": 200,
+      "final_url": "https://snap.stanford.edu/class/cs224w-readings/fortunato06community.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 551364,
+      "sha256": "ae642cd3dadd484dd7d6ef259806de3d6a04d7b48f487e5a0a706fe23d1bc508",
+      "pdf_pages": 8,
+      "download_status": "downloaded",
+      "author": "Santo Fortunato; Marc Barthelemy",
+      "title": "Resolution limit in community detection",
+      "publication_year": 2007,
+      "archived_version": "Archive header arXiv:physics/0607100v2 2006-07-14; body typesetting date 2008-02-02; not final journal typesetting",
+      "reading_scope": "PDF pages 1-5; sections I-II,IV-V",
+      "reading_status": "targeted_passages_read",
+      "evidence_role": "source_material_not_project_conclusion"
+    }
+  ],
+  "files": [
+    {
+      "path": "L09-wimsatt/attempt-philsci.json",
+      "bytes": 368,
+      "sha256": "94e8721e06850b4589279c05e71f7d02b285ed53e66f993f403a5c435469b747"
+    },
+    {
+      "path": "L09-wimsatt/extracted.txt",
+      "bytes": 120020,
+      "sha256": "95c7d1dea216868e9f75d0f08bc38b60e758b40016cd11e974105ef0fd3c1d8d"
+    },
+    {
+      "path": "L09-wimsatt/metadata-uchicago.json",
+      "bytes": 560,
+      "sha256": "4ecd0a24764c65da81105f638f6b2432116123a82b7222712cf1a8e57de370eb"
+    },
+    {
+      "path": "L09-wimsatt/metadata.json",
+      "bytes": 943,
+      "sha256": "915668a7c16cebeca9da3f654e27f3cb718436bd4ba245e9dcffb2f729a019c2"
+    },
+    {
+      "path": "L09-wimsatt/original-uchicago.pdf",
+      "bytes": 303557,
+      "sha256": "67556a39f49e0b7d042bbc8fc050a77f9ba22875780e44818877f05f5898d4a0"
+    },
+    {
+      "path": "L10-newman-girvan-2004/attempt-pku.json",
+      "bytes": 624,
+      "sha256": "18ebcddbf46e5c656f6ceb51c4b8aabc0bbaebc05d45ac4d825e3cf0609b43ce"
+    },
+    {
+      "path": "L10-newman-girvan-2004/extracted.txt",
+      "bytes": 77854,
+      "sha256": "c9b07c360aeedad93321a2d11f7bce257be0f41cd2b482808ddf195a36c64f4f"
+    },
+    {
+      "path": "L10-newman-girvan-2004/metadata-arxiv.json",
+      "bytes": 468,
+      "sha256": "49e3f553a05f44280d0e6b54b19f61b5a0a793eaa18edc3b10d698752cd12b37"
+    },
+    {
+      "path": "L10-newman-girvan-2004/metadata.json",
+      "bytes": 864,
+      "sha256": "588894df1c2ec8940e1779e66adc1095e662fd5b4ea841d6f5d0f6196e780bd9"
+    },
+    {
+      "path": "L10-newman-girvan-2004/original-arxiv.pdf",
+      "bytes": 352803,
+      "sha256": "68a925e0204ece11d8378bcd91dbd56de0c4e50c34eb510d756f67f330b4b12b"
+    },
+    {
+      "path": "L11-pearl-2009/extracted.txt",
+      "bytes": 152307,
+      "sha256": "6c90942e9e9763373160e6d7a979395cf151975e475d8e3e16e3eb4560f3d752"
+    },
+    {
+      "path": "L11-pearl-2009/metadata.json",
+      "bytes": 879,
+      "sha256": "5b0e7b82fe29abe831c888589463dc5ab2171ba933a654d2a0e2bd5fa9ba0f43"
+    },
+    {
+      "path": "L11-pearl-2009/original.pdf",
+      "bytes": 634625,
+      "sha256": "928337e627d0e8bb0646f5f1be457cf2dfdd0c684e7797fe844d00091e3a4f21"
+    },
+    {
+      "path": "L12-fortunato-barthelemy/extracted.txt",
+      "bytes": 38338,
+      "sha256": "cc9d02a3c5bc1ee97242344ff3dd7c64493c12dd43e46992fbbe5177f98bc6ed"
+    },
+    {
+      "path": "L12-fortunato-barthelemy/metadata.json",
+      "bytes": 950,
+      "sha256": "2850411ff37219cc02ec508fbc9da839e65689541b1c5ba9ab072ed34f85dc53"
+    },
+    {
+      "path": "L12-fortunato-barthelemy/original.pdf",
+      "bytes": 551364,
+      "sha256": "ae642cd3dadd484dd7d6ef259806de3d6a04d7b48f487e5a0a706fe23d1bc508"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2064,
+      "sha256": "545299919e7ad064510464f70608e1cecd27c6d574bcbb430fb14b796337d8cc"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 35567,
+      "sha256": "db07ae9cc9ed6eef6cc2b0dbec371018e7a3200aabf6e397818397748bb9c310"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 34019,
+      "sha256": "cbcb79214486b02ffc6948d134633a73406723474bfdb32229174565f95ede85"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 34396,
+      "sha256": "92fa0ce244a3d24b7be70d4d08f32c0a5ef5a7e2d940d3f77c1b778f39639418"
+    }
+  ]
+}

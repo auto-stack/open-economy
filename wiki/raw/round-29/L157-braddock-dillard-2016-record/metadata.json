@@ -1,0 +1,29 @@
+{
+  "id": "L157-braddock-dillard-2016-record",
+  "title": "Meta-analytic evidence for the persuasive effect of narratives on beliefs, attitudes, intentions, and behaviors",
+  "authors": "Kurt Braddock; James Price Dillard",
+  "publication": "PennState official research record and abstract;not paper body",
+  "url": "https://pure.psu.edu/en/publications/meta-analytic-evidence-for-the-persuasive-effect-of-narratives-on/",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Title,abstract,bibliography;no full meta-analysis methods,bias analysis or recalculation",
+  "selection_status": "official_record_abstract_only",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "html",
+  "pages": null,
+  "sha256": "7a0137b5c7dce613951bdcdf580dd329503d0341e929b1bf25721137bd76aba6",
+  "archived_file": "original.html",
+  "download_status": "original_source_file_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://pure.psu.edu/en/publications/meta-analytic-evidence-for-the-persuasive-effect-of-narratives-on/",
+  "status_code": 200,
+  "bytes": 47898,
+  "retrieved_at_utc": "2026-11-12T06:00:17.719456+00:00",
+  "actual_version": "PennState original record HTML and abstract of2016CommunicationMonographs83(4):446-467;not paper body",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.html",
+    "bytes": 47898,
+    "sha256": "7a0137b5c7dce613951bdcdf580dd329503d0341e929b1bf25721137bd76aba6"
+  }
+}

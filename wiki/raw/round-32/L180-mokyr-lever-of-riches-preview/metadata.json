@@ -1,0 +1,29 @@
+{
+  "id": "L180-mokyr-lever-of-riches-preview",
+  "title": "The Lever of Riches: Technological Creativity and Economic Progress: publisher preview",
+  "authors": "Joel Mokyr",
+  "publication": "1990firstpublication,1992paperback;preview not full book",
+  "url": "https://api.pageplace.de/preview/DT0400.9780199762712_A23609510/preview-9780199762712_A23609510.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF4-5title/copyright,PDF12contents,PDF16-18intro selections;PDF17visual;not all preface,ancient technology chapter or later historical comparison",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 37,
+  "sha256": "90f7ba3a8c93013679955b169a6b1692a911f3db1a3679ff68cee6bd2e630b76",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://api.pageplace.de/preview/DT0400.9780199762712_A23609510/preview-9780199762712_A23609510.pdf",
+  "status_code": 200,
+  "bytes": 1437647,
+  "retrieved_at_utc": "2026-11-12T06:49:01.935043+00:00",
+  "actual_version": "37page publisher preview;copyright1990firstpublication/1992paperback;mainIntroPDF16printed3,lastPDF37printed24;not full book",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 1437647,
+    "sha256": "90f7ba3a8c93013679955b169a6b1692a911f3db1a3679ff68cee6bd2e630b76"
+  }
+}

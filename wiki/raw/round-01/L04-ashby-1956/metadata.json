@@ -1,0 +1,20 @@
+{
+  "id": "L04-ashby-1956",
+  "requested_url": "https://ashby.info/Ashby-Introduction-to-Cybernetics.pdf",
+  "retrieved_at_utc": "2026-11-11T06:53:49.959718+00:00",
+  "status_code": 200,
+  "final_url": "https://ashby.info/Ashby-Introduction-to-Cybernetics.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 2023477,
+  "sha256": "26bd434d9b5d8e430c9b6aea107983249a7196b438502d4624847ab7b8c15da6",
+  "download_status": "downloaded",
+  "pdf_pages": 156,
+  "author": "W. Ross Ashby",
+  "title": "An Introduction to Cybernetics",
+  "publication_year": "1956; archived impression 1957",
+  "reading_status": "targeted_passages_read",
+  "reading_scope": "Sections 3/11, 4/6-4/11, 5/1-5/6, 10/4-10/6",
+  "role": "core_targeted_reading",
+  "extracted_text_status": "search_aid_not_authoritative"
+}

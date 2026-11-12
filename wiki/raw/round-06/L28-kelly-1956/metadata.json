@@ -1,0 +1,23 @@
+{
+  "id": "L28-kelly-1956",
+  "requested_url": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/7/36891/files/2017/07/Kelly1956-1uwz47o.pdf",
+  "retrieved_at_utc": "2026-11-11T12:52:48.532777+00:00",
+  "status_code": 200,
+  "final_url": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/7/36891/files/2017/07/Kelly1956-1uwz47o.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 99343,
+  "sha256": "9b7bac58c171a586eb21f7367fdc4b5d889721fcf9dd7fded122b40a8c654c6f",
+  "pdf_pages": 10,
+  "download_status": "downloaded",
+  "extracted_chars": 17435,
+  "source_id": "L28",
+  "directory": "L28-kelly-1956",
+  "author": "John L. Kelly, Jr.",
+  "title": "A New Interpretation of Information Rate",
+  "publication_year": 1956,
+  "archived_version": "University-course reprint of Bell System Technical Journal 35(4),917-926",
+  "reading_scope": "Journal pp.917-922 / PDF pp.1-6: assumptions, binary example and fair-odds general case",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

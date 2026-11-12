@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-12",
+  "new_external_read_pages": 0,
+  "new_literature_ids": 0,
+  "source_type": "existing_project_analyses_reused_with_original_scopes_not_primary_sources_reread",
+  "files": [
+    {
+      "path": "shared/theory-register.md",
+      "sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5"
+    },
+    {
+      "path": "shared/concept-interfaces.md",
+      "sha256": "d29016243d3dfc3c527c268d643c56d8f9b5fc8b98ea0e2e9f17c8402d28c2ce"
+    },
+    {
+      "path": "research/reviews/02-organization-criteria.md",
+      "sha256": "4cf298fcfb4d367fe1f46a06d760e571dead0c279ee2472fc0ae95c03fd79f84"
+    },
+    {
+      "path": "research/reviews/03-maintenance-model.md",
+      "sha256": "73bcf5c25035e06ea13791b96e69bb73568b6de53cd019a66f3f7a4ed46f52ad"
+    },
+    {
+      "path": "research/reviews/04-measures-and-bridges.md",
+      "sha256": "c00ec666f3a08c188abaad6666b94e6406b9409ee680126b7dc838328763cded"
+    },
+    {
+      "path": "research/reviews/05-modularity-models.md",
+      "sha256": "316c9d42becf9bff10acd0201027c94d59ca93fdd5adb6d14475e5fe68a4d4b5"
+    },
+    {
+      "path": "research/reviews/06-memory-reuse-models.md",
+      "sha256": "f7b0c5f5339556324072b1a9fcfe5f34b0c25d277c22bbde75402687800d1d8d"
+    },
+    {
+      "path": "research/reviews/07-economic-bridge.md",
+      "sha256": "04863c226e619cdbc5b3f6b273079d715b0b245f01f370612b69b2a01b0be61e"
+    },
+    {
+      "path": "research/reviews/33-organization-and-economic-interfaces.md",
+      "sha256": "49aa7f2e338c57479054b1d00e9d5aaa01daa1e7afe0fd02d07968c96a66938a"
+    },
+    {
+      "path": "research/surveys/06-technological-levers-and-organizational-evolution/README.md",
+      "sha256": "84d0a6b838f274b8407c3282df4778dc244ede6ab4b91b1459b969618d1e21c6"
+    },
+    {
+      "path": "research/surveys/05-firm-authority-and-democracy/firm-power-and-democratic-governance.md",
+      "sha256": "26d4997c8330430de9fb67089f88e6ce0ba2b8b75ec909c2c203b3577554b443"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/financing-argument-map.md",
+      "sha256": "c5ae9495a8986bea63630f276ed69a732802e38cc299bf39c32a863e29b3e99d"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "scope": "analytic finite examples; not observations of real organizations",
+  "channels": [
+    {
+      "sensor_correct_probability": 1.0,
+      "sensor_entropy_bits": 1.0,
+      "mutual_information_bits": 1.0,
+      "fixed_copy_policy_success": 1.0,
+      "optimal_binary_decoder_success": 1.0
+    },
+    {
+      "sensor_correct_probability": 0.75,
+      "sensor_entropy_bits": 1.0,
+      "mutual_information_bits": 0.18872187554086706,
+      "fixed_copy_policy_success": 0.75,
+      "optimal_binary_decoder_success": 0.75
+    },
+    {
+      "sensor_correct_probability": 0.5,
+      "sensor_entropy_bits": 1.0,
+      "mutual_information_bits": 0.0,
+      "fixed_copy_policy_success": 0.5,
+      "optimal_binary_decoder_success": 0.5
+    },
+    {
+      "sensor_correct_probability": 0.25,
+      "sensor_entropy_bits": 1.0,
+      "mutual_information_bits": 0.18872187554086706,
+      "fixed_copy_policy_success": 0.25,
+      "optimal_binary_decoder_success": 0.75
+    },
+    {
+      "sensor_correct_probability": 0.0,
+      "sensor_entropy_bits": 1.0,
+      "mutual_information_bits": 1.0,
+      "fixed_copy_policy_success": 0.0,
+      "optimal_binary_decoder_success": 1.0
+    }
+  ],
+  "processes": [
+    {
+      "name": "constant_zero",
+      "symbol_entropy_bits": -0.0,
+      "block_entropy_bits": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0,
+        "8": 0.0
+      },
+      "entropy_rate_bits_per_step": 0.0,
+      "predictive_state_entropy_bits": -0.0
+    },
+    {
+      "name": "alternating_random_phase",
+      "symbol_entropy_bits": 1.0,
+      "block_entropy_bits": {
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0,
+        "8": 1.0
+      },
+      "entropy_rate_bits_per_step": 0.0,
+      "predictive_state_entropy_bits": 1.0
+    },
+    {
+      "name": "iid_fair_bit",
+      "symbol_entropy_bits": 1.0,
+      "block_entropy_bits": {
+        "1": 1.0,
+        "2": 2.0,
+        "4": 4.0,
+        "8": 8.0
+      },
+      "entropy_rate_bits_per_step": 1.0,
+      "predictive_state_entropy_bits": -0.0
+    }
+  ],
+  "xor_policy_score_counts": {
+    "0.0": 1,
+    "0.25": 4,
+    "0.5": 6,
+    "0.75": 4,
+    "1.0": 1
+  },
+  "functional_information": [
+    {
+      "threshold_inclusive": 0.5,
+      "achieving_policies": 11,
+      "total_policies": 16,
+      "reference": "uniform over policies",
+      "fraction": 0.6875,
+      "functional_information_bits": 0.5405683813627028
+    },
+    {
+      "threshold_inclusive": 0.75,
+      "achieving_policies": 5,
+      "total_policies": 16,
+      "reference": "uniform over policies",
+      "fraction": 0.3125,
+      "functional_information_bits": 1.6780719051126376
+    },
+    {
+      "threshold_inclusive": 1.0,
+      "achieving_policies": 1,
+      "total_policies": 16,
+      "reference": "uniform over policies",
+      "fraction": 0.0625,
+      "functional_information_bits": 4.0
+    }
+  ],
+  "weighted_reference_variant": {
+    "reference": "mass 1/2 on XOR, remaining 1/2 uniform on other 15 maps",
+    "threshold_inclusive": 1.0,
+    "achieving_probability": 0.5,
+    "negative_log_probability_bits": 1.0
+  },
+  "two_level_canonical_probabilities": [
+    0.7310585786300049,
+    0.2689414213699951
+  ],
+  "two_level_system": [
+    {
+      "name": "ground_certain",
+      "probabilities": [
+        1.0,
+        0.0
+      ],
+      "entropy_over_kB": -0.0,
+      "mean_energy_over_kBT": 0.0,
+      "free_energy_over_kBT": 0.0,
+      "excess_free_energy_over_kBT": 0.31326168751822286,
+      "kl_to_canonical_nats": 0.31326168751822286,
+      "kl_to_uniform_nats": 0.6931471805599453
+    },
+    {
+      "name": "excited_certain",
+      "probabilities": [
+        0.0,
+        1.0
+      ],
+      "entropy_over_kB": -0.0,
+      "mean_energy_over_kBT": 1.0,
+      "free_energy_over_kBT": 1.0,
+      "excess_free_energy_over_kBT": 1.3132616875182228,
+      "kl_to_canonical_nats": 1.3132616875182228,
+      "kl_to_uniform_nats": 0.6931471805599453
+    },
+    {
+      "name": "canonical",
+      "probabilities": [
+        0.7310585786300049,
+        0.2689414213699951
+      ],
+      "entropy_over_kB": 0.582203108888218,
+      "mean_energy_over_kBT": 0.2689414213699951,
+      "free_energy_over_kBT": -0.3132616875182229,
+      "excess_free_energy_over_kBT": -5.551115123125783e-17,
+      "kl_to_canonical_nats": 0.0,
+      "kl_to_uniform_nats": 0.11094407167172735
+    },
+    {
+      "name": "uniform",
+      "probabilities": [
+        0.5,
+        0.5
+      ],
+      "entropy_over_kB": 0.6931471805599453,
+      "mean_energy_over_kBT": 0.5,
+      "free_energy_over_kBT": -0.1931471805599453,
+      "excess_free_energy_over_kBT": 0.12011450695827758,
+      "kl_to_canonical_nats": 0.12011450695827758,
+      "kl_to_uniform_nats": 0.0
+    }
+  ],
+  "ideal_erasure_energy": [
+    {
+      "temperature_K": 273.15,
+      "ideal_erasure_lower_bound_J": 2.6140262748641777e-21,
+      "one_kWh_divided_by_lower_bound": 1.3771858510439237e+27,
+      "interpretation": "ideal unbiased-bit erasure count; not stored bits, power, or value"
+    },
+    {
+      "temperature_K": 300.0,
+      "ideal_erasure_lower_bound_J": 2.870978885078724e-21,
+      "one_kWh_divided_by_lower_bound": 1.2539277173754923e+27,
+      "interpretation": "ideal unbiased-bit erasure count; not stored bits, power, or value"
+    }
+  ],
+  "checks": "binary channel identity, exact policy counts, canonical free-energy/KL identity, uniform-reference identity"
+}

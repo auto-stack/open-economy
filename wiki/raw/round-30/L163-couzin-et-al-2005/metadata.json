@@ -1,0 +1,29 @@
+{
+  "id": "L163-couzin-et-al-2005",
+  "title": "Effective leadership and decision-making in animal groups on the move",
+  "authors": "Iain D.Couzin; Jens Krause; Nigel R.Franks; Simon A.Levin",
+  "publication": "Nature433,2005,513-516;university-hosted article",
+  "url": "https://hal.elte.hu/~vicsek/downloads/papers/Couzinetal2005.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF2intro/rules;PDF4discussion/method opening visually checked;PDF5group-direction/uncertainty/starting selections;not all plots or SI",
+  "selection_status": "targeted_original_model_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 5,
+  "sha256": "4a241b68148620398a9ff2cd4fb43bea73b7f9419c511f9fe1d6cc19695b28cf",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://hal.elte.hu/~vicsek/downloads/papers/Couzinetal2005.pdf",
+  "status_code": 200,
+  "bytes": 799855,
+  "retrieved_at_utc": "2026-11-12T06:09:57.981203+00:00",
+  "actual_version": "Nature433,2005,513-516;5page file includes cover plus4article pages;next article begins on final page",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/leadership-reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "sha256": "4a241b68148620398a9ff2cd4fb43bea73b7f9419c511f9fe1d6cc19695b28cf",
+    "bytes": 799855
+  }
+}

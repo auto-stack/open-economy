@@ -1,0 +1,30 @@
+{
+  "id": "L145-bond-et-al-2012",
+  "title": "A 61-million-person experiment in social influence and political mobilization",
+  "authors": "Robert M.Bond and coauthors",
+  "publication": "Nature489,2012,295-298;university-hosted article",
+  "url": "https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/bond_et_al._2012_-_a_61-million-person_experiment_in_social_influence_political_mobilization.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-2 andPDF4discussion;PDF3estimation/discussion browsed,SI not obtained or independently checked;PDF2Figure1 visual inspection.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 4,
+  "sha256": "0ee638c78e4f55e4076f46a417b197a0e2eec03d6da12e10c83453df9b334e2c",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/bond_et_al._2012_-_a_61-million-person_experiment_in_social_influence_political_mobilization.pdf",
+  "status_code": 200,
+  "bytes": 381109,
+  "retrieved_at_utc": "2026-11-12T05:14:28.586977+00:00",
+  "actual_version": "Nature489,2012,295-298,4pages;study2Nov2010;full randomized users differ from6.3million matched voting subset.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 381109,
+      "sha256": "0ee638c78e4f55e4076f46a417b197a0e2eec03d6da12e10c83453df9b334e2c"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "batch": "round-03",
+  "scope": "self-maintenance and mechanism maintenance",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "source_id": "L13",
+      "directory": "L13-varela-maturana-uribe-1974",
+      "id": "L13-varela-maturana-uribe-1974",
+      "requested_url": "https://users.sussex.ac.uk/~inmanh/adsys10/Readings/Varela_etal_-_1974_-_Autopoiesis_the_organization_of_the_living_characterization_n_model_-_Biosystems.pdf",
+      "retrieved_at_utc": "2026-11-11T11:21:07.006018+00:00",
+      "status_code": 200,
+      "final_url": "https://users.sussex.ac.uk/~inmanh/adsys10/Readings/Varela_etal_-_1974_-_Autopoiesis_the_organization_of_the_living_characterization_n_model_-_Biosystems.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 568779,
+      "sha256": "6577272c541d1f20c2502e6dbe8ab74d5500f6e396cf67a777644203983189da",
+      "download_status": "downloaded",
+      "pdf_pages": 10,
+      "author": "Francisco G. Varela; Humberto R. Maturana; R. Uribe",
+      "title": "Autopoiesis: The organization of living systems, its characterization and a model",
+      "publication_year": 1974,
+      "archived_version": "University-hosted scan of BioSystems 5(4), 187-196",
+      "reading_scope": "Sections 2-7 and 9; relevant passages PDF pages 2-7; appendix not replicated",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "OCR_errors_use_original_for_exact_claims"
+    },
+    {
+      "source_id": "L14",
+      "directory": "L14-bich-et-al",
+      "id": "L14-bich-et-al",
+      "requested_url": "https://leonardobich.wordpress.com/wp-content/uploads/2015/08/bich-mossio-ruiz-mirazo-moreno-2015-biological_regulation-controlling-the-system-from-within-biology-philosophy.pdf",
+      "retrieved_at_utc": "2026-11-11T11:21:07.006203+00:00",
+      "status_code": 200,
+      "final_url": "https://leonardobich.wordpress.com/wp-content/uploads/2015/08/bich-mossio-ruiz-mirazo-moreno-2015-biological_regulation-controlling-the-system-from-within-biology-philosophy.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 1295718,
+      "sha256": "6a563bebd448f61dc8dea63ab3967c3dd04789c4caf75ce4b50e752ffb71e226",
+      "download_status": "downloaded",
+      "pdf_pages": 27,
+      "author": "Leonardo Bich; Matteo Mossio; Kepa Ruiz-Mirazo; Alvaro Moreno",
+      "title": "Biological regulation: controlling the system from within",
+      "publication_year": 2016,
+      "archived_version": "Author manuscript hosted under 2015 path; journal volume 31(2), 237-265 is 2016",
+      "reading_scope": "Sections 1-2, section 4 framing and section 5; manuscript pages 2-5,15-18",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    }
+  ],
+  "files": [
+    {
+      "path": "L13-varela-maturana-uribe-1974/extracted.txt",
+      "bytes": 28561,
+      "sha256": "e21c9ae1e14a45fad9c902e0fe3318c69191fee3479f1c0a3b11f277b9a04ec0"
+    },
+    {
+      "path": "L13-varela-maturana-uribe-1974/metadata.json",
+      "bytes": 1199,
+      "sha256": "f862f31bf3531e713ad8ef7fe7b77b59ffadaebed2b8dea0788f30ef072e5af1"
+    },
+    {
+      "path": "L13-varela-maturana-uribe-1974/original.pdf",
+      "bytes": 568779,
+      "sha256": "6577272c541d1f20c2502e6dbe8ab74d5500f6e396cf67a777644203983189da"
+    },
+    {
+      "path": "L14-bich-et-al/extracted.txt",
+      "bytes": 102647,
+      "sha256": "e064b22e64c758e827ed7bbb2b40fb4017ffe2734c6dc92185775e134903b3e8"
+    },
+    {
+      "path": "L14-bich-et-al/metadata.json",
+      "bytes": 1224,
+      "sha256": "ffa5c2899b2f4878f2ad75b0002557588c08d4ec31bc8e173dc933bbb4f20b69"
+    },
+    {
+      "path": "L14-bich-et-al/original.pdf",
+      "bytes": 1295718,
+      "sha256": "6a563bebd448f61dc8dea63ab3967c3dd04789c4caf75ce4b50e752ffb71e226"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1459,
+      "sha256": "295d9c73c85fbeadcd84e9e3183fae3b1472437e7104c871ea5f6c7d46c0ba67"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 36472,
+      "sha256": "37140d62b0cc3bad3437ee989e3828458dca68b7f5240810f6584a032b57ea8a"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 13614,
+      "sha256": "926709eb0165d3232c93de492396a6954c9963a58c88f299e726ad6f96e21def"
+    }
+  ]
+}

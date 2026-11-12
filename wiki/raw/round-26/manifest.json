@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-12",
+  "scope": "All round26 files except self-manifest/checksums",
+  "files": [
+    {
+      "path": "discovery/web-records.json",
+      "bytes": 132946,
+      "sha256": "14e60ec506ba3ff8d0d7a8b4baec374f892e84e0241b79ca8ec0ef8e846c0074"
+    },
+    {
+      "path": "L149-french-raven-1959/acquisition-log.json",
+      "bytes": 966,
+      "sha256": "89f9291e57a7df5ba78f81e074685a2b6c268fe0b0381fe885812922d10a6bda"
+    },
+    {
+      "path": "L149-french-raven-1959/failed-response-1.bin",
+      "bytes": 74810,
+      "sha256": "d85696358bb24e3de04e93f88cddb8b4e2db42d9fe7089d9c9e0f167c7ab405a"
+    },
+    {
+      "path": "L149-french-raven-1959/metadata.json",
+      "bytes": 950,
+      "sha256": "da0e0ac7b7063d7d8ccb799fb88d0bce63045751e4e04fea954c964e864dabf9"
+    },
+    {
+      "path": "L150-merton-1968/acquisition-log.json",
+      "bytes": 345,
+      "sha256": "2ac3f2843f0e288d19eab899b65bee116e41783fd0a405b2f532370f74f22709"
+    },
+    {
+      "path": "L150-merton-1968/extracted.txt",
+      "bytes": 71345,
+      "sha256": "105fabd3522d65df4e2cf0cf7184dd113afbde730d4f899807762136e615d7e6"
+    },
+    {
+      "path": "L150-merton-1968/metadata.json",
+      "bytes": 1231,
+      "sha256": "7cef3dbe61cc1b8ee8aa359e76a3201117e5468ae1f442f490920d621bd24cfb"
+    },
+    {
+      "path": "L150-merton-1968/original.pdf",
+      "bytes": 2630812,
+      "sha256": "95fc1cb4a84cf1c563b8085c0c8adca9f44c0162ae343368c688c1f5b64e5209"
+    },
+    {
+      "path": "L151-salganik-dodds-watts-2006/acquisition-log.json",
+      "bytes": 362,
+      "sha256": "74187fc79f57801be6e4d0e4208377356d5160bc5cd52c2784d6c40768197e07"
+    },
+    {
+      "path": "L151-salganik-dodds-watts-2006/extracted.txt",
+      "bytes": 53496,
+      "sha256": "2275c4a6593e839e4e2690f1036370195ab9c160bada91c907d178a28cfed29c"
+    },
+    {
+      "path": "L151-salganik-dodds-watts-2006/metadata.json",
+      "bytes": 1319,
+      "sha256": "7a45b711ae5d3dc6839d20de4dcd4d564d50c680e646691bf53fd249eddd46d8"
+    },
+    {
+      "path": "L151-salganik-dodds-watts-2006/original.pdf",
+      "bytes": 611366,
+      "sha256": "8f2195f297d4f294806fb82e251513a39a6c55eefddb0c010e78094bbca018a5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1425,
+      "sha256": "b6f271dae0002774e1f0b240b745b54260379adfdb8ee0372121a5f62f59366e"
+    },
+    {
+      "path": "reuse-context.json",
+      "bytes": 922,
+      "sha256": "b662270e0ee67b733e42ad710d2173209ab04d4f28553d7ab92533e43e504f85"
+    }
+  ]
+}

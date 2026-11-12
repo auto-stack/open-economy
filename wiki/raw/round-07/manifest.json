@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "batch": "round-07",
+  "scope": "Q6 socioeconomic bridge: actors, goods, institutions, participation and incentives",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "id": "L34-samuelson-1954",
+      "requested_url": "https://publics22.classes.ryansafner.com/readings/Samuelson-1954.pdf",
+      "retrieved_at_utc": "2026-11-11T13:19:47.263745+00:00",
+      "status_code": 200,
+      "final_url": "https://publics22.classes.ryansafner.com/readings/Samuelson-1954.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 451833,
+      "sha256": "a79d99ca7726158c5e9597ff2e99133e5fc7e6e3f0e745c47f8bdddfb5a7f62a",
+      "pdf_pages": 4,
+      "download_status": "downloaded",
+      "extracted_chars": 1378,
+      "author": "Paul A. Samuelson",
+      "title": "The Pure Theory of Public Expenditure",
+      "publication_year": 1954,
+      "publication": "The Review of Economics and Statistics 36(4):387-389",
+      "archived_version": "Journal reprint hosted by a university course; 4 PDF pages including cover",
+      "reading_scope": "PDF pp.2-4 / journal pp.387-389; all three body pages read visually",
+      "text_extraction_status": "Body scanned; extracted text mainly cover; not a usable body transcription",
+      "source_id": "L34",
+      "directory": "L34-samuelson-1954",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original copyright and license notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L35-hayek-1945",
+      "requested_url": "https://www.laits.utexas.edu/~mbs31415/HayekUseOfKnowledgeInSociety.pdf",
+      "retrieved_at_utc": "2026-11-11T13:19:47.264439+00:00",
+      "status_code": 200,
+      "final_url": "https://www.laits.utexas.edu/~mbs31415/HayekUseOfKnowledgeInSociety.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 1757638,
+      "sha256": "9f5b6bde418bc3e60e888c882372dfd9c47ec31d3eecbc925064c62c7dc3c835",
+      "pdf_pages": 13,
+      "download_status": "downloaded",
+      "extracted_chars": 35191,
+      "author": "Friedrich A. Hayek",
+      "title": "The Use of Knowledge in Society",
+      "publication_year": 1945,
+      "publication": "American Economic Review 35(4):519-530",
+      "archived_version": "University-hosted journal reprint; 13 PDF pages including cover",
+      "reading_scope": "Targeted PDF pp.2-4 and 6-9 / journal pp.519-521 and 523-526",
+      "text_extraction_status": "Search aid; original layout authoritative",
+      "source_id": "L35",
+      "directory": "L35-hayek-1945",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original copyright and license notices retained; no new redistribution license inferred"
+    },
+    {
+      "requested_url": "https://web.stanford.edu/~avner/Greif_228_2005/North%20JEP%201991.pdf",
+      "retrieved_at_utc": "2026-11-11T13:21:04.324775+00:00",
+      "status_code": 200,
+      "final_url": "https://web.stanford.edu/~avner/Greif_228_2005/North%20JEP%201991.pdf",
+      "content_type": "application/pdf",
+      "file": "original-university.pdf",
+      "download_status": "downloaded",
+      "bytes": 1794159,
+      "sha256": "723391623ca379a7ca8443927a0100b6b5d74d776c9c9183cebe5e0a3e5d2ec4",
+      "pdf_pages": 17,
+      "extracted_chars": 363,
+      "author": "Douglass C. North",
+      "title": "Institutions",
+      "publication_year": 1991,
+      "publication": "Journal of Economic Perspectives 5(1):97-112",
+      "doi": "10.1257/jep.5.1.97",
+      "archived_version": "Stanford-hosted journal reprint scan; 17 PDF pages including cover",
+      "reading_scope": "PDF pp.2-3 / journal pp.97-98 read visually; remaining body not counted as read",
+      "text_extraction_status": "Body scanned; extraction insufficient; use rendered pages",
+      "id": "L36-north-1991",
+      "source_id": "L36",
+      "directory": "L36-north-1991",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original copyright and license notices retained; no new redistribution license inferred"
+    },
+    {
+      "requested_url": "https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf",
+      "retrieved_at_utc": "2026-11-11T13:21:04.324982+00:00",
+      "status_code": 200,
+      "final_url": "https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf",
+      "content_type": "application/pdf",
+      "file": "original-university.pdf",
+      "download_status": "downloaded",
+      "bytes": 1398436,
+      "sha256": "2ca43cc3b526c54d0a5f8881ef08d4e4aa41b6be0665da8d8db84185c8b50b46",
+      "pdf_pages": 54,
+      "extracted_chars": 201559,
+      "author": "Elinor Ostrom",
+      "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+      "publication_year": 2010,
+      "publication": "American Economic Review 100(3):641-672",
+      "doi": "10.1257/aer.100.3.641",
+      "archived_version": "Portland State-hosted published 2010 journal article based on 2009 Nobel lecture; not the lecture PDF or draft",
+      "article_pdf_pages": 32,
+      "appended_pages": "PDF pp.33-54 are publisher-added citing-article listings, not article body",
+      "reading_scope": "Targeted PDF pp.1-2,4-7,19-21 / journal pp.641-642,644-647,659-661",
+      "text_extraction_status": "Search aid includes appended citing-article listings; separate them on future import",
+      "id": "L37-ostrom-2010",
+      "source_id": "L37",
+      "directory": "L37-ostrom-2010",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original copyright and license notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L38-holmstrom-1982",
+      "requested_url": "https://people.duke.edu/~qc2/BA532/1982%20Rand%20Holmstrom%20team.pdf",
+      "retrieved_at_utc": "2026-11-11T13:19:47.265992+00:00",
+      "status_code": 200,
+      "final_url": "https://people.duke.edu/~qc2/BA532/1982%20Rand%20Holmstrom%20team.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 2134104,
+      "sha256": "f46c4b7821e5016f1dca5c24263d52bdaac0f0b7621264c316d69239535a242b",
+      "pdf_pages": 18,
+      "download_status": "downloaded",
+      "extracted_chars": 385,
+      "author": "Bengt Holmstrom",
+      "title": "Moral Hazard in Teams",
+      "publication_year": 1982,
+      "publication": "The Bell Journal of Economics 13(2):324-340",
+      "archived_version": "Duke-hosted journal reprint scan; 18 PDF pages including cover",
+      "reading_scope": "PDF pp.2-4 / journal pp.324-326 visually read; cover also checked; subsequent sections not counted as read",
+      "text_extraction_status": "Body scanned; extraction mainly page markers; use rendered pages",
+      "source_id": "L38",
+      "directory": "L38-holmstrom-1982",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original copyright and license notices retained; no new redistribution license inferred"
+    }
+  ],
+  "files": [
+    {
+      "path": "discovery-01.json",
+      "bytes": 290,
+      "sha256": "7a9fd80f6d8092c406d9d5b6470dd3a77cadbd6f1d45a242d7a66e60491bbcfc"
+    },
+    {
+      "path": "discovery-02.json",
+      "bytes": 3973,
+      "sha256": "682e52c05d426efad5b6aac66616d9ac001ed804ca3a49bbd382df8ad86e8f5a"
+    },
+    {
+      "path": "discovery-03.json",
+      "bytes": 16288,
+      "sha256": "118eca1e73b10477eea3392216906e36f96095c49b0b96f6f169db96ff07ee03"
+    },
+    {
+      "path": "discovery-04.json",
+      "bytes": 16969,
+      "sha256": "375e1889c113df19502fd30d11174efa4ef93fb25c472c4803a637c23227da5b"
+    },
+    {
+      "path": "L34-samuelson-1954/extracted.txt",
+      "bytes": 1406,
+      "sha256": "8a5254bb7ef8e7c0bebdad1370edb58cdca0630fc37d67a1c3731dda751a59a9"
+    },
+    {
+      "path": "L34-samuelson-1954/metadata.json",
+      "bytes": 1258,
+      "sha256": "855e200791f2c0e50e514688f824af48972a88f95ffffb6bdbd7f4ad0977f674"
+    },
+    {
+      "path": "L34-samuelson-1954/original.pdf",
+      "bytes": 451833,
+      "sha256": "a79d99ca7726158c5e9597ff2e99133e5fc7e6e3f0e745c47f8bdddfb5a7f62a"
+    },
+    {
+      "path": "L34-samuelson-1954/read-p2.png",
+      "bytes": 475379,
+      "sha256": "daa1c74819b94d2ae6d65fcc02307c7c7390c56391f9143e348adff316f54ebf"
+    },
+    {
+      "path": "L34-samuelson-1954/read-p3.png",
+      "bytes": 561431,
+      "sha256": "a5c8a3c4a1920d18efe18a5c4a0d8b255283acc9373e070760a95daafb3e9df4"
+    },
+    {
+      "path": "L34-samuelson-1954/read-p4.png",
+      "bytes": 295186,
+      "sha256": "dd1680a8dfccb940feaf044adb3886e2965891e4098f725700931a7f4857c894"
+    },
+    {
+      "path": "L35-hayek-1945/extracted.txt",
+      "bytes": 35800,
+      "sha256": "4a1c007cc19aa21cb27d95500bb1ddce0d945737db1855b640b58c8be7c50aaf"
+    },
+    {
+      "path": "L35-hayek-1945/metadata.json",
+      "bytes": 1189,
+      "sha256": "bc2d3e49a386ec0b656d17573d11ea127fdc91fef552251dda07321aeac550de"
+    },
+    {
+      "path": "L35-hayek-1945/original.pdf",
+      "bytes": 1757638,
+      "sha256": "9f5b6bde418bc3e60e888c882372dfd9c47ec31d3eecbc925064c62c7dc3c835"
+    },
+    {
+      "path": "L36-north-1991/attempt-initial.json",
+      "bytes": 473,
+      "sha256": "ebd59d5ed482a5bb2ccf31923e7d380265172e5fbd95d17e7771085c5caf09d1"
+    },
+    {
+      "path": "L36-north-1991/extracted.txt",
+      "bytes": 412,
+      "sha256": "4c836c720b9d6343d62187597ef4f2823eab95efb65d5bb4256ab44c4045a768"
+    },
+    {
+      "path": "L36-north-1991/metadata.json",
+      "bytes": 1250,
+      "sha256": "b1a417c934883c9955e21974a93bdb4143a613f6a1b97910b23fe54c98770859"
+    },
+    {
+      "path": "L36-north-1991/original-university.pdf",
+      "bytes": 1794159,
+      "sha256": "723391623ca379a7ca8443927a0100b6b5d74d776c9c9183cebe5e0a3e5d2ec4"
+    },
+    {
+      "path": "L36-north-1991/read-p2.png",
+      "bytes": 198505,
+      "sha256": "529644ea1d3f6f9eeb27ba9a5cdb0d7ede38eec11e273cdbefdedd83b07c734e"
+    },
+    {
+      "path": "L36-north-1991/read-p3.png",
+      "bytes": 290449,
+      "sha256": "415deaf201e1e5c3449da5d582ec00c32f5f6fe2dcce8ac4af00b573e37eaf73"
+    },
+    {
+      "path": "L36-north-1991/read-p4.png",
+      "bytes": 290030,
+      "sha256": "318eba67e79437ea0e685aeb619e481214b6c40c23c3aeecc38545fa28dae420"
+    },
+    {
+      "path": "L36-north-1991/response.html",
+      "bytes": 5558,
+      "sha256": "6b3222e443aaaf7d7ad0a7ad27c73931f2aa3be5a98a68991f4a7bc1b37611e3"
+    },
+    {
+      "path": "L37-ostrom-2010/attempt-initial.json",
+      "bytes": 468,
+      "sha256": "6a900f70e36adc04e8f651d4f4b0c1e34312220aee274242d1af4eaaaad93f64"
+    },
+    {
+      "path": "L37-ostrom-2010/extracted.txt",
+      "bytes": 205701,
+      "sha256": "bcc3025447e5b72db1bf71fcefc1f59d7760c47be44a4af7053a79ad3056c09c"
+    },
+    {
+      "path": "L37-ostrom-2010/metadata-draft.json",
+      "bytes": 317,
+      "sha256": "b32ba65e4565cdaa45642832c611d5a33e38b80bb5250ead33e0ff689551a060"
+    },
+    {
+      "path": "L37-ostrom-2010/metadata.json",
+      "bytes": 1463,
+      "sha256": "9399f7861e50c3d3cd9464f39bb1f416298c9d29a21a1e5b90a723f2a0366d93"
+    },
+    {
+      "path": "L37-ostrom-2010/original-university.pdf",
+      "bytes": 1398436,
+      "sha256": "2ca43cc3b526c54d0a5f8881ef08d4e4aa41b6be0665da8d8db84185c8b50b46"
+    },
+    {
+      "path": "L37-ostrom-2010/read-p19.png",
+      "bytes": 232019,
+      "sha256": "41be7438d5a1bea645d5aafa85bb2a83d515cc356f94ad5161844da01b90f33f"
+    },
+    {
+      "path": "L37-ostrom-2010/read-p5.png",
+      "bytes": 190478,
+      "sha256": "300abbc566d3a9d4eeee69b4fd60a93f78e688bf7108e5d03cedccce13f9ab93"
+    },
+    {
+      "path": "L37-ostrom-2010/read-p7.png",
+      "bytes": 181699,
+      "sha256": "ea506f14c052cf4395f604b2d51a56f0b8cc727bc3a1c1105640eac7b459f4cc"
+    },
+    {
+      "path": "L37-ostrom-2010/response.html",
+      "bytes": 4550,
+      "sha256": "b86a48fe9fcf5b1bc3e44ec2ebed36e180dc5754adf799aca365c46dff903d17"
+    },
+    {
+      "path": "L38-holmstrom-1982/extracted.txt",
+      "bytes": 437,
+      "sha256": "8cbaa870d4b56e0e100842a9b7d715c2c4d4517627710d883b3c16f790dfcb05"
+    },
+    {
+      "path": "L38-holmstrom-1982/metadata.json",
+      "bytes": 1251,
+      "sha256": "6854154e9421c4c15ebeb821c05622817dea4a7e60d85788f92b54666eb85e36"
+    },
+    {
+      "path": "L38-holmstrom-1982/original.pdf",
+      "bytes": 2134104,
+      "sha256": "f46c4b7821e5016f1dca5c24263d52bdaac0f0b7621264c316d69239535a242b"
+    },
+    {
+      "path": "L38-holmstrom-1982/read-p1.png",
+      "bytes": 152200,
+      "sha256": "094b6641baa3114fd1812e5912ae2c1ec0345b157725ab4e5ec0a1188f79748a"
+    },
+    {
+      "path": "L38-holmstrom-1982/read-p2.png",
+      "bytes": 343236,
+      "sha256": "b1825deae3431a4f715fc1da39e70eebe8304a4cfb914b5cd12a241358819d11"
+    },
+    {
+      "path": "L38-holmstrom-1982/read-p3.png",
+      "bytes": 424062,
+      "sha256": "d5b1f80038ae7569def10fcdcbfaf8d5739667598ee0ad4445f0465d6bd4b35c"
+    },
+    {
+      "path": "L38-holmstrom-1982/read-p4.png",
+      "bytes": 259010,
+      "sha256": "74ba4d61aad0f4e36ee497e920615eef4a0324f32d65c11b0500723739d10d5c"
+    },
+    {
+      "path": "L38-holmstrom-1982/read-p5.png",
+      "bytes": 349699,
+      "sha256": "6d718207cac428158b7afe1ee377ca181879ccff6547acf58a3680f7d04066af"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2902,
+      "sha256": "178513854c80c7be3a192dbd3196930ed21b32e768b6a2ce1d5e68aa60a9fe41"
+    },
+    {
+      "path": "reused-L07-p4.png",
+      "bytes": 213889,
+      "sha256": "3a4e0f90599d32428820ebd3f67f09d9950a681e2931dfa473337b1ec4aaaf5c"
+    },
+    {
+      "path": "reused-L07-p5.png",
+      "bytes": 219295,
+      "sha256": "aecc57c4c0089b150d89cfbbcf5b3beee447bc4027680545c7ebb206d2082be7"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 34340,
+      "sha256": "844e5b6db02c3c8f3fe8a8d383509aa48f180e9816974c23d0ee0fa731e530ce"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 36478,
+      "sha256": "14c2724b29d76514719f686f3448726bb78264583ce480ffb7ae92daf36f496b"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 33752,
+      "sha256": "45d12e04f01c75805a9221d3ef1ddead7f7193af2287422ac19526ad0f09e81d"
+    },
+    {
+      "path": "search-04.json",
+      "bytes": 33678,
+      "sha256": "948fad39407d6fe4e6cc89852b28fb4b7b1d96e6ee7486ed0c2222a87db07b2f"
+    },
+    {
+      "path": "search-05.json",
+      "bytes": 30667,
+      "sha256": "fa273bd1bed47a93be4269ed2455c391baa0cebebe18f0bc415350550f2499f3"
+    }
+  ],
+  "excludes": [
+    "manifest.json itself"
+  ]
+}

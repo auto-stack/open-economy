@@ -1,0 +1,24 @@
+{
+  "id": "L105-songshi-181",
+  "title": "Song Shi, Siku Quanshu transcription, volume181",
+  "authors": "Tuotuo and other Yuan compilers; Wikisource transcription",
+  "publication": "Retrospective dynastic history; electronic transcription not checked against facsimile",
+  "url": "https://zh.wikisource.org/zh/宋史_(四庫全書本)/卷181",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Selected beginning hui-zi/jiao-zi discussion: iron coins,16households,default,public office,regional conditions,redemption and backing; not whole volume or quantitative chronology",
+  "selection_status": "selected_partial_transcription",
+  "rights": "Original rights retained; local research archive. Downloaded catalogue/transcription/preview does not imply full work or redistribution permission.",
+  "download_status": "partial_tool_transcription_only",
+  "original_downloaded": false,
+  "evidence_type": "retrospective_dynastic_history_transcription",
+  "downloaded_document_scope": "Partial web-tool transcription only; no original HTML/raw or facsimile",
+  "original_files": [],
+  "partial_tool_text_downloaded": true,
+  "full_text_of_target_research_work_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/case-reading-notes.md",
+  "partial_tool_text": {
+    "path": "partial-web-tool-text.txt",
+    "sha256": "87ecac99dd5da0dced41317a104e02007e0beefb943219f423fd07865c07bbbe",
+    "is_original_file": false
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "research_date_local": "2026-11-12",
+  "generated_at_utc": "2026-11-12T03:26:37.346759+00:00",
+  "scope": "All round22 files except manifest.json and checksums.sha256,including connector responses,failures and text copies distinguished",
+  "files": [
+    {
+      "path": "discovery/search-1.json",
+      "bytes": 30280,
+      "sha256": "e1e8b5029e39b3e11867e16316c6c4655d074c5524de6a8736a0880c03b02546"
+    },
+    {
+      "path": "discovery/search-2.json",
+      "bytes": 29202,
+      "sha256": "2689cddbc9b461245d4515876b82fb8fc3a6f6b1cbe0f9126f9da0897c119bee"
+    },
+    {
+      "path": "discovery/search-3.json",
+      "bytes": 21540,
+      "sha256": "b4122c6aecd0c9ff371caafae17e35c4343bbdf4643ef830f7f303cfb8080f3d"
+    },
+    {
+      "path": "discovery/search-4.json",
+      "bytes": 15841,
+      "sha256": "8f4f929febd82c185071eb863f785e32fa5f9fea7af3dbd3fa804b1212d59c2f"
+    },
+    {
+      "path": "discovery/search-5.json",
+      "bytes": 26411,
+      "sha256": "867e42821022d9e287d30ee88834a6dddbefebc54b2522a41fb06bb3c068a783"
+    },
+    {
+      "path": "discovery/search-6.json",
+      "bytes": 20318,
+      "sha256": "aaf27589d36cb0d2f3cc7b496181f2b6a437240c6314e8cb5be8eee3833702c0"
+    },
+    {
+      "path": "discovery/views-1.json",
+      "bytes": 10336,
+      "sha256": "ebc63e06fa222be5319df222f23706c7a1fdc3a28cde3fa37e13a8de4d6a25bd"
+    },
+    {
+      "path": "discovery/views-2.json",
+      "bytes": 9776,
+      "sha256": "626a10b5e7dd8e54f6ce55d11098a23a6fcaa240e80e36b27fb1b7b7debf4b3b"
+    },
+    {
+      "path": "discovery/views-3.json",
+      "bytes": 945,
+      "sha256": "c68e3a92ac11e4ff3e6725ed64c40e90d7313b3affaed8bd9b0632289ff66b57"
+    },
+    {
+      "path": "discovery/views-4.json",
+      "bytes": 12857,
+      "sha256": "3073bb93236ae4c01fce46e45bbe72d172bcd990aba49b0550b5312460f6301a"
+    },
+    {
+      "path": "L110-songchaoshishi-15/acquisition-log.json",
+      "bytes": 623,
+      "sha256": "59251392cb4bc158b7bb8e1b88eae00cf2eabcb5a2940656b02f305188832da0"
+    },
+    {
+      "path": "L110-songchaoshishi-15/connector-preface.txt",
+      "bytes": 4979,
+      "sha256": "d1aef0a655c22cb31a08b4721e6e908df8ca54c41887c6e7b7e41a45219715ad"
+    },
+    {
+      "path": "L110-songchaoshishi-15/connector-volume.txt",
+      "bytes": 16736,
+      "sha256": "3f55e33c8b06b3315b01a56ffd8c99998d76a6cd1198fabe0c4db94699d01b6d"
+    },
+    {
+      "path": "L110-songchaoshishi-15/extracted.txt",
+      "bytes": 15464,
+      "sha256": "63b53a53f6e5af73642d8ea9a9778be48b213f22a326cce8239f6798ad287bbe"
+    },
+    {
+      "path": "L110-songchaoshishi-15/failed-kanripo-page.bin",
+      "bytes": 5361,
+      "sha256": "cfb41ed82e80583e0e1de412045ded358e5d1280c1cf4db0492f375d4fc5982d"
+    },
+    {
+      "path": "L110-songchaoshishi-15/github-contents-response.json",
+      "bytes": 34130,
+      "sha256": "85f83df762cc70c21d9bd84dee863eee1453446a9bf0daced5e562baf29a853e"
+    },
+    {
+      "path": "L110-songchaoshishi-15/github-preface-response-retry.json",
+      "bytes": 10616,
+      "sha256": "f971f565827a6b2e47fa2e389731450a8f9182a75d3d8a383ffee51f0945bb7b"
+    },
+    {
+      "path": "L110-songchaoshishi-15/github-preface-response.json",
+      "bytes": 654,
+      "sha256": "91aa615993f834c6d9ba2d08e49454386a46adc76543e5226c16af40bb98a51b"
+    },
+    {
+      "path": "L110-songchaoshishi-15/metadata.json",
+      "bytes": 2046,
+      "sha256": "d231c0658e76298f263ccd3a7ab84e0876c28441de7300829fddeb110d329276"
+    },
+    {
+      "path": "L110-songchaoshishi-15/partial-web-tool-text.txt",
+      "bytes": 4971,
+      "sha256": "7c09e6e74e38f7c4f45661e9386cd62aae87a59d2643077b832ad7e5c4a6c99d"
+    },
+    {
+      "path": "L111-guan-palma-wu-yuan/acquisition-log.json",
+      "bytes": 445,
+      "sha256": "0944b3161749dcc180bb69895c0c5339ec1618d5202f57f0b996f693fb0af7fc"
+    },
+    {
+      "path": "L111-guan-palma-wu-yuan/extracted.txt",
+      "bytes": 109079,
+      "sha256": "62ce769ccd51a0808284493244f730c4dda8a99d2e231f734f90d5b5bded9e08"
+    },
+    {
+      "path": "L111-guan-palma-wu-yuan/metadata.json",
+      "bytes": 1886,
+      "sha256": "d7a5945db83cc561786e9c6dcb8315c63f99d617cb2952e8ca34364d21d96bba"
+    },
+    {
+      "path": "L111-guan-palma-wu-yuan/original.pdf",
+      "bytes": 1319792,
+      "sha256": "4f7f2ac1c9eb71705b7a0739a9d1711c13cf0f5e9d0de7ead283b071a50becb7"
+    },
+    {
+      "path": "L112-kroll-agora-1993/acquisition-log.json",
+      "bytes": 382,
+      "sha256": "d708bea4b7fbc2b6cdddfa39b26d02191c30cd8c8d1ba8b3c8c2032e63383bcb"
+    },
+    {
+      "path": "L112-kroll-agora-1993/extracted.txt",
+      "bytes": 999358,
+      "sha256": "26685eba32eb86f81ac4c0e4eba0b44652c8ef9aa634b5a1aa30419b9d8bbbb4"
+    },
+    {
+      "path": "L112-kroll-agora-1993/metadata.json",
+      "bytes": 1726,
+      "sha256": "c86c3772e6aa41aa0cd74f9f6382cc69945d495529b6a4ba610ce4646f9438c0"
+    },
+    {
+      "path": "L112-kroll-agora-1993/original.pdf",
+      "bytes": 66210314,
+      "sha256": "086400b21ae6a83820ea53419272329d6b569e6ccf9580e98810bb4f6a7f8668"
+    },
+    {
+      "path": "L113-stroud-silver-law-1974/acquisition-log.json",
+      "bytes": 353,
+      "sha256": "019cfe9e0e452bd9cc4e76d19e649445da58715a3dfffc9d3e610ffc5b5e7bd5"
+    },
+    {
+      "path": "L113-stroud-silver-law-1974/extracted.txt",
+      "bytes": 112787,
+      "sha256": "adfec58e98f5105783388d2ee5b40324d385862595557f335a3ad1cfe6d0244b"
+    },
+    {
+      "path": "L113-stroud-silver-law-1974/metadata.json",
+      "bytes": 1704,
+      "sha256": "676c4342ff16c5057e652ff1129177885024f6965144139913022a6199855405"
+    },
+    {
+      "path": "L113-stroud-silver-law-1974/original.pdf",
+      "bytes": 2845400,
+      "sha256": "84fe9f2d9314dc0e945b26a6eb2303f55d7aad69165881a01f875bbbc8d80fea"
+    },
+    {
+      "path": "L114-thucydides-2-13/acquisition-log.json",
+      "bytes": 410,
+      "sha256": "54019da949259e69b8ee184ba1f173dcba9a439475f68452e70fc59f7050cca6"
+    },
+    {
+      "path": "L114-thucydides-2-13/extracted.txt",
+      "bytes": 66960,
+      "sha256": "b6f8312fa8e476578f343b7e9499092291864e485efdd364d1a5857573929c5f"
+    },
+    {
+      "path": "L114-thucydides-2-13/metadata.json",
+      "bytes": 1764,
+      "sha256": "af06cb0cf5af3f4e8d32e8b96f557bad8c5cc1e382a24ea4f4fb98523907551e"
+    },
+    {
+      "path": "L114-thucydides-2-13/original.html",
+      "bytes": 396628,
+      "sha256": "399059c71c8b02c769be03ad0a36bd08508a1ce740b1e2d60952ad1187690e0f"
+    },
+    {
+      "path": "L115-jianyan-zaji-16/acquisition-log.json",
+      "bytes": 736,
+      "sha256": "b98cc146c47150af7fa6935924b310e7d7c767a0d26ce08fc131d90a49f96719"
+    },
+    {
+      "path": "L115-jianyan-zaji-16/connector-volume.txt",
+      "bytes": 32829,
+      "sha256": "d30a8d15f97f31b34715ef7b8367b7c4f0750d3a73a68a61ac4fcf8f9108f848"
+    },
+    {
+      "path": "L115-jianyan-zaji-16/extracted.txt",
+      "bytes": 30439,
+      "sha256": "a6fc6a0f8ec6ec4f4c5c1f553aa63bf861d666f076ec7d0d0c3b419493473854"
+    },
+    {
+      "path": "L115-jianyan-zaji-16/failed-kanripo-page.bin",
+      "bytes": 5361,
+      "sha256": "d1a6559730121e164c6e7bb183a29deb6b656d0f6c72394d5affaa3e520a8aba"
+    },
+    {
+      "path": "L115-jianyan-zaji-16/failed-response-1.bin",
+      "bytes": 115,
+      "sha256": "7b7a9fb87a35f32dcea6142cf1eac57e01dbc39fc5c0117f32dd0182782dd5a5"
+    },
+    {
+      "path": "L115-jianyan-zaji-16/github-contents-response.json",
+      "bytes": 66316,
+      "sha256": "df3f2ca5968623c73406f31488b022c59358ee184cd4c9c7560dbb57132d22d7"
+    },
+    {
+      "path": "L115-jianyan-zaji-16/metadata.json",
+      "bytes": 1696,
+      "sha256": "f164d782068ecc521db7202f6c50d24cf976f14cee5c7539d5e4eba81047d54f"
+    },
+    {
+      "path": "L115-jianyan-zaji-16/partial-web-tool-text.txt",
+      "bytes": 13243,
+      "sha256": "2de35313ff384e6627a6500ed0bed60edf60cd848ed113642b09f7219b99a648"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3433,
+      "sha256": "750992da1d81d2c06d1dc52431d5d9c8d1d00e9cab358c57e9a4338e7efd47b5"
+    }
+  ]
+}

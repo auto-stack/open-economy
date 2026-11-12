@@ -1,0 +1,13 @@
+{
+  "api_calls": 4,
+  "branches": 3,
+  "adaptive_refinement": 1,
+  "exported_records": 20,
+  "unique_dois": 20,
+  "provisional_title_exclusions": 7,
+  "await_abstract_or_fulltext": 13,
+  "new_fulltexts_reviewed_for_formal_survey": 0,
+  "formal_inclusions": 0,
+  "second_reviewer": false,
+  "metadata_titles_screened_once": true
+}

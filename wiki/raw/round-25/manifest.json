@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-12",
+  "scope": "All round25 files except manifest/checksums;old project-context digests listed separately",
+  "files": [
+    {
+      "path": "discovery/web-records.json",
+      "bytes": 223171,
+      "sha256": "c241f33e6a7315304e05280858e8d38e77ca5692ec104e04e5f884e6b9b2ea2e"
+    },
+    {
+      "path": "L138-dahl-1957/acquisition-log.json",
+      "bytes": 728,
+      "sha256": "e008b122595c0e51e954428dd3c2dd10f9d2766920f85f001edc07c2ab88a357"
+    },
+    {
+      "path": "L138-dahl-1957/extracted.txt",
+      "bytes": 61693,
+      "sha256": "3dfa1c5ba3ef141daeef356f590ecef094dde82ccb7160ffc879600bbb0856f6"
+    },
+    {
+      "path": "L138-dahl-1957/failed-response-1.bin",
+      "bytes": 2420,
+      "sha256": "fd3cd429daeebfc79ebbbb076c72b8148d5a3f762271afb5105a158be67e4f95"
+    },
+    {
+      "path": "L138-dahl-1957/metadata.json",
+      "bytes": 1363,
+      "sha256": "6bf249773c19b3a671cf8e7ca986cd23d66a8588a23f03d04ec9a16668292093"
+    },
+    {
+      "path": "L138-dahl-1957/original.pdf",
+      "bytes": 1299161,
+      "sha256": "adb61cd0837997c120dee9adad9b09f0a18b8128c4d79d85e11b2110be9c4d30"
+    },
+    {
+      "path": "L139-parsons-1963/acquisition-log.json",
+      "bytes": 372,
+      "sha256": "de98fb6291d150b0ab2cc05dfe9b628996550b2ab3915015a5e6b5752c9f1aab"
+    },
+    {
+      "path": "L139-parsons-1963/failed-response-1.bin",
+      "bytes": 5547,
+      "sha256": "f988e459aa893521e1a4a6f1ad369b15de1620bd6aabe73ce4562b99434a977f"
+    },
+    {
+      "path": "L139-parsons-1963/metadata.json",
+      "bytes": 1130,
+      "sha256": "2e08cab247780e61acd22169923b6cc5b7cae3e2c6d39283e23c9e585a07c9f0"
+    },
+    {
+      "path": "L139-parsons-1963/translation-record-request.json",
+      "bytes": 345,
+      "sha256": "758dcfd46d7a3c4cd80b0c575b54acef5aa3748ab84bf5840ef50035303c752d"
+    },
+    {
+      "path": "L139-parsons-1963/web-tool-text.partial.txt",
+      "bytes": 2713,
+      "sha256": "41ff370ac72b68422a2acbe40dbf2a4093bba5b06787daf3983ee670a21e9869"
+    },
+    {
+      "path": "L140-bourdieu-1986/acquisition-log.json",
+      "bytes": 374,
+      "sha256": "d61ed2da3a6f279c1bb8dca14926224ebca8deb38a379fa4f889373fe103406f"
+    },
+    {
+      "path": "L140-bourdieu-1986/extracted.txt",
+      "bytes": 62531,
+      "sha256": "424a2093c5fd22701af5d0ca0a44bf4d7482aed5c8f91dfa7643fdd243ce0b22"
+    },
+    {
+      "path": "L140-bourdieu-1986/metadata.json",
+      "bytes": 1501,
+      "sha256": "d1a9a0f85d9c1c17550472c21d1dc9c64d26b26cd35f93805e6ee580757a6fbe"
+    },
+    {
+      "path": "L140-bourdieu-1986/original.pdf",
+      "bytes": 146231,
+      "sha256": "7f49276ddeb6fa4dc4783627c147c44b0ac0061192e59b3653e51cb18179ceb3"
+    },
+    {
+      "path": "L141-katz-1953/acquisition-log.json",
+      "bytes": 392,
+      "sha256": "b69dc20651cb9c18277a5adfe69c1332530c80f583e5192404ee5589414bb537"
+    },
+    {
+      "path": "L141-katz-1953/extracted.txt",
+      "bytes": 12493,
+      "sha256": "121620f0ce01427fe5e8a9053efb5e8f6c723810779ddaf3e13179fc7548219c"
+    },
+    {
+      "path": "L141-katz-1953/metadata.json",
+      "bytes": 1442,
+      "sha256": "1dbd5a82bebe58a0b44116aa57445d17caa5f8abacfb1b2fb7a84c2cb42a1cc3"
+    },
+    {
+      "path": "L141-katz-1953/original.pdf",
+      "bytes": 295493,
+      "sha256": "bfdaca18e2059437ebd4993f61699cf8425c43a40522ef1e1505ab4c91f1917b"
+    },
+    {
+      "path": "L142-coleman-1972/acquisition-log.json",
+      "bytes": 380,
+      "sha256": "dbf9818f09fa447591852977db1aea0024cf7b275dcbad05117917c7563ee979"
+    },
+    {
+      "path": "L142-coleman-1972/failed-response-1.bin",
+      "bytes": 5617,
+      "sha256": "ece399d47413a3f90212386e5aaae46cba050894071006da4230ec3e4da10dbf"
+    },
+    {
+      "path": "L142-coleman-1972/metadata.json",
+      "bytes": 1152,
+      "sha256": "9aee17ac7105182f5470ca57e1eff6798504e9bdc153ab07df8c94dd6f1ca369"
+    },
+    {
+      "path": "L142-coleman-1972/web-tool-text.partial.txt",
+      "bytes": 1606,
+      "sha256": "d24f8dcffd7caf64c187ce1ac1a44d73bcf134777010c92f66b0a99192e36e68"
+    },
+    {
+      "path": "L143-watts-dodds-2007/acquisition-log.json",
+      "bytes": 372,
+      "sha256": "a1f29163694949a1ffd10bbcefb3ce920cc2b49f8c50b3297eaed2601665496f"
+    },
+    {
+      "path": "L143-watts-dodds-2007/extracted.txt",
+      "bytes": 81492,
+      "sha256": "79ef64ef0fe5a5b02eec345edf14601c04e9d66f99cc2ae978934c6189b8f9f2"
+    },
+    {
+      "path": "L143-watts-dodds-2007/metadata.json",
+      "bytes": 1465,
+      "sha256": "6ba5869bff7bddd89c0448e936d3cda1ae79b42520d6a925f7e6e654aa4551ca"
+    },
+    {
+      "path": "L143-watts-dodds-2007/original.pdf",
+      "bytes": 886585,
+      "sha256": "f6ccc79c8e19e239dfbd1b8ad5e89cb3d98909b9a9cb28f4edbb94c630a162d1"
+    },
+    {
+      "path": "L144-shalizi-thomas-2010/acquisition-log.json",
+      "bytes": 494,
+      "sha256": "d05a642c37d5a307f2bcbe0fdcf0d48602c82757adb587b63b71be00571f5b4e"
+    },
+    {
+      "path": "L144-shalizi-thomas-2010/extracted.txt",
+      "bytes": 72152,
+      "sha256": "8a46a76d3b40be9203324f6af279bd4e9b908ec969fe9d03dc85ab31b8c742fb"
+    },
+    {
+      "path": "L144-shalizi-thomas-2010/metadata.json",
+      "bytes": 1653,
+      "sha256": "12db7a1faf754e0b422c43e1681971b97850e3012b21fef8061d1ffeaf82a02f"
+    },
+    {
+      "path": "L144-shalizi-thomas-2010/original.pdf",
+      "bytes": 711320,
+      "sha256": "bad41d7cad28fb6e6b5412d68ff184f307c21c77a056878d7bf9eec8ef082915"
+    },
+    {
+      "path": "L145-bond-et-al-2012/acquisition-log.json",
+      "bytes": 568,
+      "sha256": "7bd9e9a8a4c3f4635be7c43070d7fb39e075859903d36ee030edbc6ed2016a5b"
+    },
+    {
+      "path": "L145-bond-et-al-2012/extracted.txt",
+      "bytes": 27720,
+      "sha256": "250c57a94a581e5f10c23875c914c7885f4b0fc59b1d3728831bab0599feb89a"
+    },
+    {
+      "path": "L145-bond-et-al-2012/metadata.json",
+      "bytes": 1716,
+      "sha256": "f726df3a7da1a776e6c50180c245000ecb8964af739d30b8a6097838f5829fdf"
+    },
+    {
+      "path": "L145-bond-et-al-2012/original.pdf",
+      "bytes": 381109,
+      "sha256": "0ee638c78e4f55e4076f46a417b197a0e2eec03d6da12e10c83453df9b334e2c"
+    },
+    {
+      "path": "L146-schreiber-2000/acquisition-log.json",
+      "bytes": 707,
+      "sha256": "019646380d05ddc2e55cd44f355c47189c6aace4eae29c43c885c84319d04a64"
+    },
+    {
+      "path": "L146-schreiber-2000/extracted.txt",
+      "bytes": 20274,
+      "sha256": "15771494f4ef451bc4baf9742ea451273b09619d797e96c11d8fc2e2da1984e2"
+    },
+    {
+      "path": "L146-schreiber-2000/failed-response-1.bin",
+      "bytes": 66,
+      "sha256": "ac43b3be4a30f6a274ab5aba8089c415e16efeee7ef2dfbbb91e0b0dede74cad"
+    },
+    {
+      "path": "L146-schreiber-2000/metadata.json",
+      "bytes": 1435,
+      "sha256": "b09668a12646a355bbad4c29a6b3edef63533d41b35b2b22ceb06742ede19f70"
+    },
+    {
+      "path": "L146-schreiber-2000/original.pdf",
+      "bytes": 122840,
+      "sha256": "7f1ac77dbdabe04d2dc6039c28aa8bc15ce826f1f70d06d228873e3aebfb2e63"
+    },
+    {
+      "path": "L147-klyubin-polani-nehaniv-2005/acquisition-log.json",
+      "bytes": 923,
+      "sha256": "caf8ec9b6588dea0c392f555feb55627a99c2f2d5a4f20c6d33e922536d17cd6"
+    },
+    {
+      "path": "L147-klyubin-polani-nehaniv-2005/extracted.txt",
+      "bytes": 39861,
+      "sha256": "c2e5193d13759de9a1745790381fc3f75f864b37049604152c2e61ea22997d90"
+    },
+    {
+      "path": "L147-klyubin-polani-nehaniv-2005/metadata.json",
+      "bytes": 1487,
+      "sha256": "aa9f98b1d0f634a0b6e55ed3a42eda3c331eb659e82727015b5bab1fb966e401"
+    },
+    {
+      "path": "L147-klyubin-polani-nehaniv-2005/original.pdf",
+      "bytes": 1697921,
+      "sha256": "19bd4594ea68f6aafd44ce2c929de315ab78c5b14d82a4c930b3cbe76bc47ba6"
+    },
+    {
+      "path": "L148-stevens-1946/acquisition-log.json",
+      "bytes": 459,
+      "sha256": "a38107a8c1d434566ce096b796fd63cee929a673f7748f89eb5691052a0e6e64"
+    },
+    {
+      "path": "L148-stevens-1946/failed-response-1.bin",
+      "bytes": 146,
+      "sha256": "55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0"
+    },
+    {
+      "path": "L148-stevens-1946/metadata.json",
+      "bytes": 919,
+      "sha256": "04921352db58f32bd085a11bdcb422930d171ae6c6cc50174d3303e6f5c10fcc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2257,
+      "sha256": "67c728bd2eb5516e60fa6524733605b8fc90976b18120d3ec492ffdc8c6f21c7"
+    },
+    {
+      "path": "reuse-context.json",
+      "bytes": 941,
+      "sha256": "ab44a8ce3a0fbf8f6700654933092cf25c9ea563267bcb39a8404ea1bd65f43c"
+    }
+  ]
+}

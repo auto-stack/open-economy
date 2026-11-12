@@ -1,0 +1,22 @@
+{
+  "id": "L84-romer-1990",
+  "title": "Endogenous Technological Change",
+  "authors": "Paul M. Romer",
+  "doi": "10.1086/261725",
+  "publication": "Journal of Political Economy 98(5, Part 2) (1990),S71-S102",
+  "research_date_local": "2026-11-12",
+  "format": "pdf",
+  "pages": 32,
+  "sha256": "97fedcd0fa544a664cd4604b05638dbe3010d1746eb346ee79f81201185c0379",
+  "read_scope": "PDF pp.1-4 / journal S71-S74. p.4 rivalry/excludability visually checked. No reconstruction of later equilibrium, welfare or trade proofs; no claim all execution costs are zero or private provision of public goods is universally impossible.",
+  "rights": "Original rights and distribution notices retained; see source file.",
+  "url": "https://paulromer.net/posts/2015/pdf/Endogenous.pdf",
+  "final_url": "https://paulromer.net/posts/2015/pdf/Endogenous.pdf",
+  "status_code": 200,
+  "bytes": 7432288,
+  "retrieved_at_utc": "2026-11-12T01:48:40.282646+00:00",
+  "validation": "Expected format and parse checked",
+  "version": "32-page journal typeset PDF from author site; 1990 JPE article, not 1989 NBER working paper.",
+  "source_type": "formal endogenous-growth model",
+  "reading_notes": "../../../../research/reviews/19-reading-notes.md"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-12",
+  "sources": [
+    {
+      "work_id": "L185",
+      "metadata": "wiki/raw/round-35/L185-nash-1950/metadata.json",
+      "read_scope": "Previously read155,157–159; no new pages this round"
+    },
+    {
+      "work_id": "L190",
+      "metadata": "wiki/raw/round-36/L190-holmstrom-tirole-1997/metadata.json",
+      "read_scope": "Extension specified separately; old source and metadata unchanged"
+    },
+    {
+      "work_id": "L42",
+      "metadata": "wiki/raw/round-08/L42-vonhippel-vonkrogh-2002/metadata.json",
+      "read_scope": "Reused previous2002draft cover and16–18 only; no new reading"
+    },
+    {
+      "work_id": "L43",
+      "metadata": "wiki/raw/round-08/L43-riehle-2012/metadata.json",
+      "read_scope": "Reused previous author-copy1,3–6 only; no new reading"
+    }
+  ]
+}

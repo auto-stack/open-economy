@@ -1,0 +1,46 @@
+{
+  "date_local": "2026-11-12",
+  "self_excluded": true,
+  "artifacts": [
+    {
+      "path": "README.md",
+      "bytes": 10754,
+      "sha256": "de61e4a35a16840eb8ce278cda56685f19ebc29a32a03b8307234f5eb24bc2d8"
+    },
+    {
+      "path": "research/README.md",
+      "bytes": 24452,
+      "sha256": "4e18b671d12afffbbdb08a608055de9a94fd7261fadbbbc6c983a2f40a02221d"
+    },
+    {
+      "path": "docs/research-dependencies.md",
+      "bytes": 18311,
+      "sha256": "4d0165ff9d31970a3755bba370a2cdb39f56989afcd244eeb38c18f4204b66bd"
+    },
+    {
+      "path": "docs/framework-baseline-readiness.md",
+      "bytes": 5847,
+      "sha256": "3d917820191e899ecac967fe0dd4e7caa7b3eefb4dae14efd66823f419db4918"
+    },
+    {
+      "path": "docs/versioning-and-archive-policy.md",
+      "bytes": 6063,
+      "sha256": "64d411e2d719b8dd3f487ae58e37cee6c67b4eb3daaad5a6db63cdbe57aac8bb"
+    },
+    {
+      "path": "research/reviews/40-framework-baseline-readiness-and-versioning.md",
+      "bytes": 1574,
+      "sha256": "7f9920e3f3a0a72428cd86987aaa5dfdc5c32e26df25e09ab805261cb0ba6dba"
+    },
+    {
+      "path": "research/audits/framework-readiness-2026-11-12/inventory.json",
+      "bytes": 3442,
+      "sha256": "0612a5d61959e937919914d7a44d50d07fd7439a8be2f5c963f0d08aaf95ba10"
+    },
+    {
+      "path": "research/audits/framework-readiness-2026-11-12/verification.json",
+      "bytes": 518,
+      "sha256": "06d2e5e35b89a93a2daa563b454b25a99a658bac5138d1e2a19841d1ef958d3f"
+    }
+  ]
+}

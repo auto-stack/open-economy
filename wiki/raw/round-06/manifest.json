@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "batch": "round-06",
+  "scope": "Q5 memory, prediction, value of information and reuse",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "id": "L28-kelly-1956",
+      "requested_url": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/7/36891/files/2017/07/Kelly1956-1uwz47o.pdf",
+      "retrieved_at_utc": "2026-11-11T12:52:48.532777+00:00",
+      "status_code": 200,
+      "final_url": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/7/36891/files/2017/07/Kelly1956-1uwz47o.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 99343,
+      "sha256": "9b7bac58c171a586eb21f7367fdc4b5d889721fcf9dd7fded122b40a8c654c6f",
+      "pdf_pages": 10,
+      "download_status": "downloaded",
+      "extracted_chars": 17435,
+      "source_id": "L28",
+      "directory": "L28-kelly-1956",
+      "author": "John L. Kelly, Jr.",
+      "title": "A New Interpretation of Information Rate",
+      "publication_year": 1956,
+      "archived_version": "University-course reprint of Bell System Technical Journal 35(4),917-926",
+      "reading_scope": "Journal pp.917-922 / PDF pp.1-6: assumptions, binary example and fair-odds general case",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L29-bialek-et-al-2001",
+      "requested_url": "https://www.its.caltech.edu/~theory/bialek_nemenman_tishby_01.pdf",
+      "retrieved_at_utc": "2026-11-11T12:52:48.533094+00:00",
+      "status_code": 200,
+      "final_url": "https://www.its.caltech.edu/~theory/bialek_nemenman_tishby_01.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 552841,
+      "sha256": "f196f718b940f880f2d0c7bc6a614003d5947bff1d301fdf695b09d19acc6bac",
+      "pdf_pages": 55,
+      "download_status": "downloaded",
+      "extracted_chars": 149167,
+      "source_id": "L29",
+      "directory": "L29-bialek-et-al-2001",
+      "author": "William Bialek; Ilya Nemenman; Naftali Tishby",
+      "title": "Predictability, Complexity, and Learning",
+      "publication_year": 2001,
+      "archived_version": "University-hosted journal PDF, Neural Computation 13(11),2409-2463",
+      "reading_scope": "Section 3 targeted passages: pp.2416-2417,2421 / PDF pp.8-9,13; not all learning asymptotics",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L30-rivoire-leibler-2011",
+      "requested_url": "https://arxiv.org/pdf/1010.5092",
+      "retrieved_at_utc": "2026-11-11T12:52:48.533367+00:00",
+      "status_code": 200,
+      "final_url": "https://arxiv.org/pdf/1010.5092",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 974794,
+      "sha256": "0778270a6185bda574f9ea72d84510dae3c1f3566dc0226b3c5779e9dc8fe05a",
+      "pdf_pages": 32,
+      "download_status": "downloaded",
+      "extracted_chars": 127209,
+      "source_id": "L30",
+      "directory": "L30-rivoire-leibler-2011",
+      "author": "Olivier Rivoire; Stanislas Leibler",
+      "title": "The Value of Information for Populations in Varying Environments",
+      "publication_year": 2011,
+      "archived_version": "arXiv:1010.5092v1, submitted 2010-10-25; downloaded PDF prints 2018-10-25; related journal publication 2011",
+      "reading_scope": "Preprint p.5 assumptions; sections IV-VI pp.10-15; p.20 implementation costs",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    },
+    {
+      "id": "L31-still-et-al-2012",
+      "requested_url": "https://arxiv.org/pdf/1203.3271",
+      "retrieved_at_utc": "2026-11-11T12:52:48.533423+00:00",
+      "status_code": 200,
+      "final_url": "https://arxiv.org/pdf/1203.3271",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 341536,
+      "sha256": "feb70cf23efa7d99087aa462fe914e0993f73d5a380b04068cdc67a2f2babedb",
+      "pdf_pages": 5,
+      "download_status": "downloaded",
+      "extracted_chars": 23477,
+      "source_id": "L31",
+      "directory": "L31-still-et-al-2012",
+      "author": "Susanne Still; David A. Sivak; Anthony J. Bell; Gavin E. Crooks",
+      "title": "The Thermodynamics of Prediction",
+      "publication_year": 2012,
+      "archived_version": "arXiv:1203.3271v3, revised 2012-10-05; related Phys Rev Lett 109,120604",
+      "reading_scope": "PDF pp.1-4, setup and equations 11-18 with discussion",
+      "reading_status": "targeted_passages_read",
+      "text_extraction_status": "search_aid_not_authoritative"
+    }
+  ],
+  "reused_sources": [
+    "L02",
+    "L20",
+    "L23"
+  ],
+  "not_adopted_source_ids": [
+    "L32",
+    "L33"
+  ],
+  "files": [
+    {
+      "path": "discovery-01.json",
+      "bytes": 15245,
+      "sha256": "a9d5ffc150de09bf5dfcdd7d3fa6b6644835a53b418df2fe184435be9dc038ef"
+    },
+    {
+      "path": "discovery-02.json",
+      "bytes": 32246,
+      "sha256": "b30d9035a2da6870f16f23864f752e66fdc71ac82bb9177901d5feb2af119422"
+    },
+    {
+      "path": "L28-kelly-1956/extracted.txt",
+      "bytes": 18324,
+      "sha256": "48502ca2e5d3d6112bf6c912f5ebbcc3af623e3af30679ec6da53a4e56adb108"
+    },
+    {
+      "path": "L28-kelly-1956/metadata.json",
+      "bytes": 1079,
+      "sha256": "0cc60e5329706f421e87602007837bba14b5db9ab4afba3950a572a839104099"
+    },
+    {
+      "path": "L28-kelly-1956/original.pdf",
+      "bytes": 99343,
+      "sha256": "9b7bac58c171a586eb21f7367fdc4b5d889721fcf9dd7fded122b40a8c654c6f"
+    },
+    {
+      "path": "L28-kelly-1956/read-p6.png",
+      "bytes": 82949,
+      "sha256": "b1ca674e04e253418f850a532f1bba2efb85d8f1bf37622c313602486e5baa82"
+    },
+    {
+      "path": "L29-bialek-et-al-2001/extracted.txt",
+      "bytes": 153799,
+      "sha256": "3bc7012485c94a3b0f47e4325cb399e2297015d19de1a792cf6a019c6b839732"
+    },
+    {
+      "path": "L29-bialek-et-al-2001/metadata.json",
+      "bytes": 1075,
+      "sha256": "4d92a68c2190f2d671d1ca0a1f219527bb9f48766f1441236416394659393101"
+    },
+    {
+      "path": "L29-bialek-et-al-2001/original.pdf",
+      "bytes": 552841,
+      "sha256": "f196f718b940f880f2d0c7bc6a614003d5947bff1d301fdf695b09d19acc6bac"
+    },
+    {
+      "path": "L29-bialek-et-al-2001/read-p8.png",
+      "bytes": 129680,
+      "sha256": "d936be9db4bd9cb08f1ca6bcd11bbc9727ec4263a8e897256acafdc1770ea49b"
+    },
+    {
+      "path": "L30-rivoire-leibler-2011/extracted.txt",
+      "bytes": 135624,
+      "sha256": "6e328e2b33b1a8ee15ddde3b8eccc58b26669ecb4ace70b090849289c100077a"
+    },
+    {
+      "path": "L30-rivoire-leibler-2011/metadata.json",
+      "bytes": 1051,
+      "sha256": "efe9d76cc52cf58afa0f80aa9c2d6adf983e8b3175b775e526192557413f8f1e"
+    },
+    {
+      "path": "L30-rivoire-leibler-2011/original.pdf",
+      "bytes": 974794,
+      "sha256": "0778270a6185bda574f9ea72d84510dae3c1f3566dc0226b3c5779e9dc8fe05a"
+    },
+    {
+      "path": "L30-rivoire-leibler-2011/read-p11.png",
+      "bytes": 211384,
+      "sha256": "4eff9e08678edffbe4ccab2bbe7035e1c37afbdafbd817e40d2339f691f6b431"
+    },
+    {
+      "path": "L31-still-et-al-2012/extracted.txt",
+      "bytes": 24745,
+      "sha256": "31c570ab52f21cb774213a2f654864753bca23c32c715811c24a3922b9e83c3f"
+    },
+    {
+      "path": "L31-still-et-al-2012/metadata.json",
+      "bytes": 979,
+      "sha256": "47cfbb0abb4c75d2699dcd2a89e8ab6a919c4b5720580c3e94fbf0bdec3ede03"
+    },
+    {
+      "path": "L31-still-et-al-2012/original.pdf",
+      "bytes": 341536,
+      "sha256": "feb70cf23efa7d99087aa462fe914e0993f73d5a380b04068cdc67a2f2babedb"
+    },
+    {
+      "path": "L31-still-et-al-2012/read-p3.png",
+      "bytes": 286908,
+      "sha256": "77356c58844ed7d078832b36ccaea728a1f61d5045e1dd2e59401fd5cd75089b"
+    },
+    {
+      "path": "L32-krueger-1992/attempt-native.json",
+      "bytes": 299,
+      "sha256": "c397618f191b23ea5589a44f08c6abd6870846b28260af8a9b8dbf4d12b4feba"
+    },
+    {
+      "path": "L32-krueger-1992/metadata-publisher.json",
+      "bytes": 452,
+      "sha256": "e4c88ad1be17524f5bc3451898984b02520775d11664d290b9c0ff9d61a33a9e"
+    },
+    {
+      "path": "L32-krueger-1992/metadata-wm.json",
+      "bytes": 471,
+      "sha256": "21957a7f193ea11c7f9b58e0dcdb4c1024057165187bed6e049bba3a26f93e50"
+    },
+    {
+      "path": "L32-krueger-1992/metadata.json",
+      "bytes": 452,
+      "sha256": "0560868da4b3944d0ec7e5822a3efb5e7d4baaea6df072da4329d9dbc572e747"
+    },
+    {
+      "path": "L32-krueger-1992/response-publisher.html",
+      "bytes": 5540,
+      "sha256": "492a292562f099293daa17b7f86af0dfe6d94e2074e0ad0ad41348139522ec30"
+    },
+    {
+      "path": "L32-krueger-1992/response-wm.html",
+      "bytes": 196,
+      "sha256": "80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880"
+    },
+    {
+      "path": "L33-reuse-survey-candidate/metadata.json",
+      "bytes": 265,
+      "sha256": "9e4cfd9b7b678befcea590807f9c756c31e58f7de3f62ec1c222b8da298469f6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2849,
+      "sha256": "6f3324d5436479c150aee959271640a7090560d59bd445cc4d6bc700156e47b9"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 35524,
+      "sha256": "cb0a30be4cd83fe8746481bc5537fbb64878df08c2e9f10c7a2543ccbb692e1b"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 32431,
+      "sha256": "b42500401a5fbbd4a946cc25c01c47b28f647a53fd9526f4cc554f89ef355cf0"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 31844,
+      "sha256": "06d7169ad06c2f7f019f9c3dafc5d825df3e3101577c0d01219062cae4df24fe"
+    },
+    {
+      "path": "search-04.json",
+      "bytes": 29717,
+      "sha256": "9d4e27d55e81237fc45a5a0b26d5c66fcdd049933bcc5b83470801f1676cd66a"
+    },
+    {
+      "path": "search-05.json",
+      "bytes": 32146,
+      "sha256": "55d6fb539e315c538bf9037a32c36a4c16ea84ae32c820c1d50726c553babe33"
+    }
+  ],
+  "known_gaps": [
+    "L32 and L33 full texts not obtained; software-reuse survey incomplete",
+    "L30 downloaded preprint header date differs from arXiv submission date; dates preserved separately"
+  ]
+}

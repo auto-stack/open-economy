@@ -1,0 +1,29 @@
+{
+  "id": "L170-hansmann-kraakman-squire-2006",
+  "title": "Law and the Rise of the Firm",
+  "authors": "Henry Hansmann; Reinier Kraakman; Richard Squire",
+  "publication": "HarvardLawReview119,2006,1333-1403;Yale copy extent to inspect",
+  "url": "https://law.yale.edu/sites/default/files/documents/pdf/Faculty/Hansmann_Law_and_the_Rise_of_the_Firm.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-2abstract/introduction;PDF1visual;not detailed historical chapters or current legal requirements",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 69,
+  "sha256": "99d42ac3fbba6355743bffd135e6c16dd4aaf452aa445efc8b1374771b5401bf",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://law.yale.edu/sites/default/files/documents/pdf/Faculty/Hansmann_Law_and_the_Rise_of_the_Firm.pdf",
+  "status_code": 200,
+  "bytes": 4735393,
+  "retrieved_at_utc": "2026-11-12T06:24:15.584868+00:00",
+  "actual_version": "HarvardLawReview119,2006,bibliography1333-1403;69page Yale file actually1335-1403;2013postingstamp not publication",
+  "reading_notes": "../../../../research/surveys/05-firm-authority-and-democracy/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 4735393,
+    "sha256": "99d42ac3fbba6355743bffd135e6c16dd4aaf452aa445efc8b1374771b5401bf"
+  }
+}

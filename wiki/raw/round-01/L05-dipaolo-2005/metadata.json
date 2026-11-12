@@ -1,0 +1,20 @@
+{
+  "id": "L05-dipaolo-2005",
+  "requested_url": "https://ezequieldipaolo.net/wp-content/uploads/2011/10/autopoiesis_teleology_2005.pdf",
+  "retrieved_at_utc": "2026-11-11T06:53:49.959683+00:00",
+  "status_code": 200,
+  "final_url": "https://ezequieldipaolo.net/wp-content/uploads/2011/10/autopoiesis_teleology_2005.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 172265,
+  "sha256": "576e825142860f3b0fe2585cf43fa5baceab593bf78e08cf79d5c69c733a833b",
+  "download_status": "downloaded",
+  "pdf_pages": 24,
+  "author": "Ezequiel A. Di Paolo",
+  "title": "Autopoiesis, Adaptivity, Teleology, Agency",
+  "publication_year": "2005",
+  "reading_status": "targeted_passages_read",
+  "reading_scope": "pp. 434-440; PDF pages 6-12",
+  "role": "core_targeted_reading",
+  "extracted_text_status": "search_aid_not_authoritative"
+}

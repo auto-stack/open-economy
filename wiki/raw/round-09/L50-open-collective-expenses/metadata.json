@@ -1,0 +1,22 @@
+{
+  "id": "L50-open-collective-expenses",
+  "requested_url": "https://documentation.opencollective.com/getting-started/understanding-expenses",
+  "retrieved_at_utc": "2026-11-11T14:55:26.484013+00:00",
+  "status_code": 200,
+  "final_url": "https://documentation.opencollective.com/getting-started/understanding-expenses",
+  "content_type": "text/html; charset=utf-8",
+  "file": "original.html",
+  "bytes": 750284,
+  "sha256": "c8bb757a6341f000e12494081672b70cea35d962a8ba6cf7b43bea1c98918ff6",
+  "download_status": "downloaded",
+  "extracted_chars": 3402,
+  "author": "Open Collective",
+  "title": "Understanding Expenses",
+  "archived_version": "Official documentation snapshot retrieved 2026-11-11",
+  "reading_scope": "Body: submission, collective review, host review and actual payment; no legal conclusions",
+  "text_extraction_status": "Main-text search aid; no endorsement of particular organizational structure",
+  "source_id": "L50",
+  "directory": "L50-open-collective-expenses",
+  "reading_status": "targeted_passages_read",
+  "copyright_notice": "Original notices retained; no new redistribution license inferred"
+}

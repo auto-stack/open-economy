@@ -1,0 +1,30 @@
+{
+  "id": "L146-schreiber-2000",
+  "title": "Measuring Information Transfer",
+  "authors": "Thomas Schreiber",
+  "publication": "arXivnlin/0001042;actual version to inspect;publisher target failed",
+  "url": "https://arxiv.org/pdf/nlin/0001042",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1intro selections,PDF2definition and conditioning,PDF4common-driver caveat and conclusion;PDF2visually inspected;not numerical reproduction.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 4,
+  "sha256": "7f1ac77dbdabe04d2dc6039c28aa8bc15ce826f1f70d06d228873e3aebfb2e63",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://arxiv.org/pdf/nlin/0001042",
+  "status_code": 200,
+  "bytes": 122840,
+  "retrieved_at_utc": "2026-11-12T05:16:42.146420+00:00",
+  "actual_version": "arXivnlin/0001042v1 stamp19Jan2000,4pages;titledate26Nov2024also visible,reason not verified;not downloaded PRL typeset.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 122840,
+      "sha256": "7f1ac77dbdabe04d2dc6039c28aa8bc15ce826f1f70d06d228873e3aebfb2e63"
+    }
+  ]
+}

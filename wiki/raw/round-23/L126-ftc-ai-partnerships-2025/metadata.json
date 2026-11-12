@@ -1,0 +1,31 @@
+{
+  "id": "L126-ftc-ai-partnerships-2025",
+  "title": "Partnerships Between Cloud Service Providers and AI Developers",
+  "authors": "FTC Office of Technology staff",
+  "publication": "January2025report,43pages",
+  "url": "https://search.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1,4-6 (cover,printed1-3 executive summary); PDF5 visually inspected; remaining substantive sections not read.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 43,
+  "sha256": "8e29ce178ca1174533dc2c7e14fe40c377d7ccf8eac66e730c6bf3f1cfd4b427",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://search.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted.pdf",
+  "status_code": 200,
+  "bytes": 4311834,
+  "retrieved_at_utc": "2026-11-12T03:39:52.995849+00:00",
+  "actual_version": "FTC Office of Technology staff January2025,43pages; submissions throughSeptember2024 and public information throughJanuary2025.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 4311834,
+      "sha256": "8e29ce178ca1174533dc2c7e14fe40c377d7ccf8eac66e730c6bf3f1cfd4b427"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "discovery/web-records.json",
+    "bytes": 60776,
+    "sha256": "b612e6e3e2b3e7f1c719ed0e1414242511872068dff5c7094f6d4e45aaf023da"
+  },
+  {
+    "path": "L181-bornstein-gneezy-nagel-2002/download-log.json",
+    "bytes": 311,
+    "sha256": "72f1f28b1430667f2a1d098e6cd257c858ac31e3082eb944196b305164ab77f0"
+  },
+  {
+    "path": "L181-bornstein-gneezy-nagel-2002/extracted.txt",
+    "bytes": 59369,
+    "sha256": "b7e5123ead1da14d20aa2a068a887d74a0de94233d6b97adde1c79a3efdbc516"
+  },
+  {
+    "path": "L181-bornstein-gneezy-nagel-2002/metadata.json",
+    "bytes": 1581,
+    "sha256": "080db2cbe464fca3f3c2e39b8c3f6b4d16a4bd2a84721d14abb73c0b8474a594"
+  },
+  {
+    "path": "L181-bornstein-gneezy-nagel-2002/original.pdf",
+    "bytes": 152202,
+    "sha256": "36705c5ff3b26647c09bb2977008e317adf53c5f889fb3e8905e93323dc38fa4"
+  },
+  {
+    "path": "L181-bornstein-gneezy-nagel-2002/selected-pages-1-7.txt",
+    "bytes": 17631,
+    "sha256": "2d94a2866e871e80427ee2e8eadf745fd7f616771b3116b028f49ad46c6374b9"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1849,
+    "sha256": "5591cc6f3708b37891c2131bba2e737eb67837caebb217b1a95adf5fd935928d"
+  },
+  {
+    "path": "reuse-context.json",
+    "bytes": 2144,
+    "sha256": "d573e317c12ff688cd1f9922231db485656cf7001b0f15a594d4f063dfd103b4"
+  }
+]

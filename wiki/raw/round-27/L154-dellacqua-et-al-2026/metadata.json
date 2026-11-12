@@ -1,0 +1,26 @@
+{
+  "id": "L154-dellacqua-et-al-2026",
+  "title": "Navigating the Jagged Technological Frontier",
+  "authors": "DellAcqua et al.",
+  "publication": "Organization Science37(2),2026,403-423; target ePDF",
+  "url": "https://pubsonline.informs.org/doi/epdf/10.1287/orsc.2025.21838",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Official ePDF text returned in web batch9:PDF1abstract and metadata;PDF2-4intro/context selections;no full methods,tables,appendix or actual visual screenshot reading",
+  "selection_status": "adopted_partial_official_tool_text",
+  "rights": "Official2026 first-page tool text states CCBY4.0;attribute DOI/authors/journal;do not transfer this license to2023 working paper or other sources",
+  "download_status": "original_requests_failed_partial_tool_text_only",
+  "original_downloaded": false,
+  "actual_version": "OrganizationScience37(2),2026,403-423;online11March2026;partial official tool-return only,not2023 working paper",
+  "doi": "10.1287/orsc.2025.21838",
+  "source_pdf_pages_reported_by_tool": 21,
+  "format": "partial_tool_return",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/communication-reading-notes.md",
+  "knowledge_base_status": "raw provenance archived;not converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "tool-return-selected.txt",
+      "bytes": 30938,
+      "sha256": "68e27e06de5266d19e2f5df2193496868b616847b944015aba212f00d0101ff6"
+    }
+  ]
+}

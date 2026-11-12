@@ -1,0 +1,22 @@
+{
+  "id": "L83-smith-1776",
+  "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "authors": "Adam Smith",
+  "doi": null,
+  "publication": "First published 1776; Project Gutenberg ebook 3300, later text edition",
+  "research_date_local": "2026-11-12",
+  "format": "html",
+  "pages": null,
+  "sha256": "5f4ecf657221105e0eb1d6ab8977c9eda092df9bb88a29e0848ea252b1df2e52",
+  "read_scope": "Book I Chapter I opening through the paragraph listing dexterity, time saved switching tasks, and machinery as three mechanisms. Not the complete chapter or book; historical quantitative and cross-country claims not adopted.",
+  "rights": "Original rights and distribution notices retained; see source file.",
+  "url": "https://www.gutenberg.org/files/3300/3300-h/3300-h.htm",
+  "final_url": "https://www.gutenberg.org/files/3300/3300-h/3300-h.htm",
+  "status_code": 200,
+  "bytes": 2287518,
+  "retrieved_at_utc": "2026-11-12T01:48:37.966182+00:00",
+  "validation": "Expected format and parse checked",
+  "version": "Project Gutenberg ebook 3300 English transcription of a later text edition; first publication 1776, not a first-edition facsimile.",
+  "source_type": "historical primary economic text",
+  "reading_notes": "../../../../research/reviews/19-reading-notes.md"
+}

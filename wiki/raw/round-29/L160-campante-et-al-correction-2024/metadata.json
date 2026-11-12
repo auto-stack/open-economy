@@ -1,0 +1,29 @@
+{
+  "id": "L160-campante-et-al-correction-2024",
+  "title": "Correction to Building Nations through Shared Experiences: Evidence from African Football",
+  "authors": "Filipe Campante; Emilio Depetris-Chauvin; Ruben Durante",
+  "publication": "November2024 correction;AEA official file",
+  "url": "https://www.aeaweb.org/content/file?id=21819",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-3abstract,intro,data errors,interpretation and sampling clarification;no recalculation of updated tables",
+  "selection_status": "targeted_correction_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 18,
+  "sha256": "a96322f1de4a524e296517c04138e7f15448fa339caade1dc27d65fa15a44071",
+  "archived_file": "original.pdf",
+  "download_status": "original_source_file_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.aeaweb.org/content/file?id=21819",
+  "status_code": 200,
+  "bytes": 743609,
+  "retrieved_at_utc": "2026-11-12T06:01:11.435004+00:00",
+  "actual_version": "AEA official18page correction;coverNovember2024,publisherlisting3December2024",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 743609,
+    "sha256": "a96322f1de4a524e296517c04138e7f15448fa339caade1dc27d65fa15a44071"
+  }
+}

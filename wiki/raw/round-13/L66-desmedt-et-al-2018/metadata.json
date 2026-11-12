@@ -1,0 +1,23 @@
+{
+  "id": "L66-desmedt-et-al-2018",
+  "title": "The Heartbeat Counting Task Largely Involves Non-Interoceptive Processes: Evidence from Both the Original and an Adapted Counting Task",
+  "authors": "Olivier Desmedt; Olivier Luminet; Olivier Corneille",
+  "doi": "10.1016/j.biopsycho.2018.09.004",
+  "publication": "Biological Psychology 138 (2018),185-188",
+  "research_date_local": "2026-11-12",
+  "source_url": "https://www.uclep.be/labs/ARL/publications/Desmedt%20et%20al._2018.pdf",
+  "format": "pdf",
+  "pages": 5,
+  "sha256": "d74cbaa917f1cd676a37f4f2b6e1853c7dd87b0b3a75f493f7102ed1517a1454",
+  "read_scope": "PDF pp.2-4 full article text and appendix ending on p.5; references not adopted as separately read sources.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://www.uclep.be/labs/ARL/publications/Desmedt%20et%20al._2018.pdf",
+  "final_url": "https://www.uclep.be/labs/ARL/publications/Desmedt%20et%20al._2018.pdf",
+  "status_code": 200,
+  "bytes": 312431,
+  "retrieved_at_utc": "2026-11-11T20:52:41.084295+00:00",
+  "validation": "PDF header and parser passed",
+  "version": "5-page PDF from author laboratory: one ResearchGate cover plus four typeset pages.",
+  "source_type": "primary within-participant experiment with fixed task order",
+  "reading_notes": "../../../../research/reviews/14-reading-notes.md"
+}

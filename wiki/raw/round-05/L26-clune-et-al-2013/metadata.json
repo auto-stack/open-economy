@@ -1,0 +1,23 @@
+{
+  "id": "L26-clune-et-al-2013",
+  "requested_url": "https://jeffclune.com/publications/2013-CluneEtAl-EvolutionaryOriginsModularity-RoyalSociety.pdf",
+  "retrieved_at_utc": "2026-11-11T11:59:24.447564+00:00",
+  "status_code": 200,
+  "final_url": "https://jeffclune.com/publications/2013-CluneEtAl-EvolutionaryOriginsModularity-RoyalSociety.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 4625201,
+  "sha256": "aefb8a012d960efced8d63694bc1567a7680e58d9ba8d9d5072b884814602f64",
+  "pdf_pages": 23,
+  "download_status": "downloaded",
+  "extracted_chars": 74015,
+  "source_id": "L26",
+  "directory": "L26-clune-et-al-2013",
+  "author": "Jeff Clune; Jean-Baptiste Mouret; Hod Lipson",
+  "title": "The Evolutionary Origins of Modularity",
+  "publication_year": 2013,
+  "archived_version": "Author-hosted 23-page file: publication cover, 9-page journal article and supplementary material",
+  "reading_scope": "Journal pp.1-7 / PDF pp.2-8; study design, results and method; supplementary material archived but not fully reviewed",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

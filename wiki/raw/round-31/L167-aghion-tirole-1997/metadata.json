@@ -1,0 +1,29 @@
+{
+  "id": "L167-aghion-tirole-1997",
+  "title": "Formal and Real Authority in Organizations",
+  "authors": "Philippe Aghion; Jean Tirole",
+  "publication": "JPE105(1),1997,1-29;university teaching copy",
+  "url": "https://people.duke.edu/~qc2/BA532/1997%20JPE%20Aghion%20and%20Tirole.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF2-4abstract/introduction;not all model conditions or comparative statics",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 30,
+  "sha256": "fee6f7c66bb8a00aaf38f712f0d65aa156accc7e29c63314ef57c3c8f7aa6a68",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://people.duke.edu/~qc2/BA532/1997%20JPE%20Aghion%20and%20Tirole.pdf",
+  "status_code": 200,
+  "bytes": 3084442,
+  "retrieved_at_utc": "2026-11-12T06:24:30.693197+00:00",
+  "actual_version": "JPE105(1),1997,1-29;30pages includingJSTORcover",
+  "reading_notes": "../../../../research/surveys/05-firm-authority-and-democracy/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 3084442,
+    "sha256": "fee6f7c66bb8a00aaf38f712f0d65aa156accc7e29c63314ef57c3c8f7aa6a68"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "L23-parnas-1972",
+  "requested_url": "https://www.cs.tufts.edu/comp/150FP/archive/david-parnas/criteria.pdf",
+  "retrieved_at_utc": "2026-11-11T11:59:24.447315+00:00",
+  "status_code": 200,
+  "final_url": "https://www.cs.tufts.edu/comp/150FP/archive/david-parnas/criteria.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 589565,
+  "sha256": "7008fd6abc833ded750e52dbac4968e8eda339f66b462ca4427f1953f98df9c4",
+  "pdf_pages": 6,
+  "download_status": "downloaded",
+  "extracted_chars": 28804,
+  "source_id": "L23",
+  "directory": "L23-parnas-1972",
+  "author": "David L. Parnas",
+  "title": "On the Criteria To Be Used in Decomposing Systems into Modules",
+  "publication_year": 1972,
+  "archived_version": "University-hosted CACM 15(12),1053-1058 copy",
+  "reading_scope": "All 6 pages; emphasis pp.1054-1058 on criteria, changes, implementation, and hierarchy",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

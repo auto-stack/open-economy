@@ -1,0 +1,23 @@
+{
+  "id": "L121-sec-ponzi",
+  "title": "Ponzi Scheme",
+  "authors": "SEC Investor.gov",
+  "publication": "Official educational webpage, retrieved 2026-11-12",
+  "url": "https://www.investor.gov/protect-your-investments/fraud/types-fraud/ponzi-scheme?research=1",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Web tool lines100-105: definition, financing and collapse; not all page navigation or warnings adopted.",
+  "selection_status": "adopted_partial_official_web_text",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_failed_partial_tool_text_only",
+  "original_downloaded": false,
+  "actual_version": "SEC Investor.gov official educational page; retrieved2026-11-12.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "web-tool-text.partial.txt",
+      "bytes": 8727,
+      "sha256": "08a19c80e063f267f916ede7eefb1e94210035faf4583a91431883d614959bee"
+    }
+  ]
+}

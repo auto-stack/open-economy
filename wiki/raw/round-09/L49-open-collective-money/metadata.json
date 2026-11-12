@@ -1,0 +1,22 @@
+{
+  "id": "L49-open-collective-money",
+  "requested_url": "https://documentation.opencollective.com/collectives/managing-money",
+  "retrieved_at_utc": "2026-11-11T14:55:26.483887+00:00",
+  "status_code": 200,
+  "final_url": "https://documentation.opencollective.com/collectives/managing-money",
+  "content_type": "text/html; charset=utf-8",
+  "file": "original.html",
+  "bytes": 714835,
+  "sha256": "cc8b6b3c1da82ea67d0b2d2302f3f6480f936ee68e73150c75300c0380a8f651",
+  "download_status": "downloaded",
+  "extracted_chars": 1750,
+  "author": "Open Collective",
+  "title": "Managing Money",
+  "archived_version": "Official documentation snapshot retrieved 2026-11-11; relative last-updated text not treated as an absolute publication date",
+  "reading_scope": "Body on roles, financial decision-making, budgets, expenses and privacy of personal details",
+  "text_extraction_status": "Main-text search aid; no fee schedules adopted",
+  "source_id": "L49",
+  "directory": "L49-open-collective-money",
+  "reading_status": "targeted_passages_read",
+  "copyright_notice": "Original notices retained; no new redistribution license inferred"
+}

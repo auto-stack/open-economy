@@ -1,0 +1,35 @@
+{
+  "id": "L104-kroll-early-coinage",
+  "title": "The Monetary Background of Early Coinage — publisher preview",
+  "authors": "John H. Kroll",
+  "publication": "JohnH.Kroll in WilliamE.Metcalf(ed.),OxfordHandbookofGreekandRomanCoinage,2012,33-42; complete chapter within71-page preview",
+  "url": "https://api.pageplace.de/preview/DT0400.9780199719334_A24395225/preview-9780199719334_A24395225.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF p5 version; pp52-61 = printed33-42, complete target chapter including bibliography; p58 rendered and inspected; other chapters not adopted",
+  "selection_status": "selected_target_chapter_complete",
+  "rights": "Original rights retained; local research archive. Downloaded catalogue/transcription/preview does not imply full work or redistribution permission.",
+  "format": "pdf",
+  "pages": 71,
+  "sha256": "c7dfd0436efac8a0d7b3e90fac882fcbec1b891b18c093bc950447b4c14380ef",
+  "archived_file": "original.pdf",
+  "download_status": "downloaded_inspected_scope",
+  "original_downloaded": true,
+  "final_url": "https://api.pageplace.de/preview/DT0400.9780199719334_A24395225/preview-9780199719334_A24395225.pdf",
+  "status_code": 200,
+  "bytes": 2853662,
+  "retrieved_at_utc": "2026-11-12T02:48:18.237593+00:00",
+  "evidence_type": "historical_scholarly_reconstruction",
+  "downloaded_document_scope": "71-page publisher preview containing complete target chapter, not complete book",
+  "original_files": [
+    {
+      "path": "original.pdf",
+      "bytes": 2853662,
+      "sha256": "c7dfd0436efac8a0d7b3e90fac882fcbec1b891b18c093bc950447b4c14380ef",
+      "source_url": "https://api.pageplace.de/preview/DT0400.9780199719334_A24395225/preview-9780199719334_A24395225.pdf",
+      "document_scope": "71-page publisher preview containing complete target chapter, not complete book"
+    }
+  ],
+  "partial_tool_text_downloaded": false,
+  "full_text_of_target_research_work_obtained": true,
+  "notes": "../../../../research/surveys/02-wealth-money-history/case-reading-notes.md"
+}

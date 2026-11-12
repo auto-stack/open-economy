@@ -1,0 +1,30 @@
+{
+  "id": "L144-shalizi-thomas-2010",
+  "title": "Homophily and Contagion Are Generically Confounded in Observational Social Network Studies",
+  "authors": "Cosma Rohilla Shalizi; Andrew C.Thomas",
+  "publication": "arXiv1004.4704v3,Nov30-Dec1 2010 draft;not automatically2011published version",
+  "url": "https://www.stat.cmu.edu/~brian/780/bibliography/01%20homophily%20and%20contagion/shalizi-thomas-homophily-contagion-2011-SMR.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1,6-7 section2.1 and causal-graph argument;not all subsequent examples or simulations.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 27,
+  "sha256": "bad41d7cad28fb6e6b5412d68ff184f307c21c77a056878d7bf9eec8ef082915",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.stat.cmu.edu/~brian/780/bibliography/01%20homophily%20and%20contagion/shalizi-thomas-homophily-contagion-2011-SMR.pdf",
+  "status_code": 200,
+  "bytes": 711320,
+  "retrieved_at_utc": "2026-11-12T05:15:20.017563+00:00",
+  "actual_version": "arXiv1004.4704v3 stamp30Nov2010,lastLATEX1Dec2010,27pages;path2011doesnot make it final journal typeset.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 711320,
+      "sha256": "bad41d7cad28fb6e6b5412d68ff184f307c21c77a056878d7bf9eec8ef082915"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "L112-kroll-agora-1993",
+  "title": "The Greek Coins,The Athenian Agora XXVI",
+  "authors": "John H.Kroll; contributions Alan S.Walker",
+  "publication": "JohnH.Kroll with AlanS.Walker,TheGreekCoins,AgoraXXVI,ASCSA1993;433-page PDF including plates",
+  "url": "https://www.ascsa.edu.gr/uploads/media/oa_ebooks/oa_agora/Agora_XXVI.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF pp1-2 version,4-6 prefatory locators,24-25 introduction,27-32 silver coins; p32 visual check; not complete book reading",
+  "selection_status": "complete_book_selected_parts",
+  "rights": "Source rights and licence notices retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 433,
+  "sha256": "086400b21ae6a83820ea53419272329d6b569e6ccf9580e98810bb4f6a7f8668",
+  "archived_file": "original.pdf",
+  "download_status": "downloaded_identity_and_scope_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.ascsa.edu.gr/uploads/media/oa_ebooks/oa_agora/Agora_XXVI.pdf",
+  "status_code": 200,
+  "bytes": 66210314,
+  "retrieved_at_utc": "2026-11-12T03:12:15.343329+00:00",
+  "evidence_type": "excavation_catalogue_and_numismatic_analysis",
+  "archived_documents": [
+    {
+      "path": "original.pdf",
+      "bytes": 66210314,
+      "sha256": "086400b21ae6a83820ea53419272329d6b569e6ccf9580e98810bb4f6a7f8668",
+      "source_url": "https://www.ascsa.edu.gr/uploads/media/oa_ebooks/oa_agora/Agora_XXVI.pdf",
+      "transport": "direct file download"
+    }
+  ],
+  "facsimile_read": null,
+  "complete_connector_text_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/deepening-reading-notes.md"
+}

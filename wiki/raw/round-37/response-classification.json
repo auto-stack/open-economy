@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://doi.org/10.7916/D8V12FT1",
+    "status": 200,
+    "file": "wiki/raw/round-37/L189-crosscheck/columbia-record.html",
+    "content_classification": "verification_or_challenge_html",
+    "requested_article_obtained": false
+  },
+  {
+    "url": "https://www.jstor.org/stable/1802787",
+    "status": 200,
+    "file": "wiki/raw/round-37/L189-crosscheck/jstor-record.html",
+    "content_classification": "verification_or_challenge_html",
+    "requested_article_obtained": false
+  },
+  {
+    "url": "https://pages.ucsd.edu/~aronatas/project/academic/Stiglitz%20credit.pdf",
+    "status": 200,
+    "file": "wiki/raw/round-37/L189-crosscheck/ucsd-copy.pdf",
+    "content_classification": "article_pdf",
+    "requested_article_obtained": true
+  },
+  {
+    "url": "https://economics.mit.edu/people/faculty/bengt-holmstrom/publications",
+    "status": 200,
+    "file": "wiki/raw/round-37/L190-crosscheck/mit-publications.html",
+    "content_classification": "author_bibliography_html",
+    "requested_article_obtained": false
+  },
+  {
+    "url": "https://www.jstor.org/stable/pdf/2951252.pdf",
+    "status": 200,
+    "file": "wiki/raw/round-37/L190-crosscheck/publisher-response.bin",
+    "content_classification": "verification_or_challenge_html",
+    "requested_article_obtained": false
+  },
+  {
+    "url": "https://web.stanford.edu/~piazzesi/Reading/Holmstrom%26Tirole%20QJE%201997.pdf",
+    "status": 200,
+    "file": "wiki/raw/round-37/L190-crosscheck/stanford-copy.pdf",
+    "content_classification": "article_pdf",
+    "requested_article_obtained": true
+  }
+]

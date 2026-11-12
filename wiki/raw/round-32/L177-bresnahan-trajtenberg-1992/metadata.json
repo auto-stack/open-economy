@@ -1,0 +1,29 @@
+{
+  "id": "L177-bresnahan-trajtenberg-1992",
+  "title": "General Purpose Technologies: Engines of Growth?",
+  "authors": "Timothy F.Bresnahan; Manuel Trajtenberg",
+  "publication": "NBERWP4148,August1992;not1995journalversion",
+  "url": "https://www.nber.org/system/files/working_papers/w4148/w4148.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1cover,PDF2abstract,PDF3intro opening;no later model,equilibrium,equations or microprocessor-table analysis",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 43,
+  "sha256": "25b0439e55d717d1472901785e621266864e89022480c34673a0140fb3e53292",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.nber.org/system/files/working_papers/w4148/w4148.pdf",
+  "status_code": 200,
+  "bytes": 331812,
+  "retrieved_at_utc": "2026-11-12T06:48:55.569450+00:00",
+  "actual_version": "NBERWP4148,August1992,43pages;not1995journaltypeset",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 331812,
+    "sha256": "25b0439e55d717d1472901785e621266864e89022480c34673a0140fb3e53292"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "L143-watts-dodds-2007",
+  "title": "Influentials, Networks, and Public Opinion Formation",
+  "authors": "Duncan J.Watts; Peter Sheridan Dodds",
+  "publication": "JConsumerResearch34(4),2007,441-458",
+  "url": "https://pdodds.w3.uvm.edu/research/papers/others/2007/watts2007a.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1,3-4,15;selected threshold/network model and discussion;not all simulation sections or independent reproduction.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 18,
+  "sha256": "f6ccc79c8e19e239dfbd1b8ad5e89cb3d98909b9a9cb28f4edbb94c630a162d1",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://pdodds.w3.uvm.edu/research/papers/others/2007/watts2007a.pdf",
+  "status_code": 200,
+  "bytes": 886585,
+  "retrieved_at_utc": "2026-11-12T05:15:27.254327+00:00",
+  "actual_version": "JConsumerResearch34(4),2007,441-458;18pages;simulation study not population prevalence evidence.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 886585,
+      "sha256": "f6ccc79c8e19e239dfbd1b8ad5e89cb3d98909b9a9cb28f4edbb94c630a162d1"
+    }
+  ]
+}

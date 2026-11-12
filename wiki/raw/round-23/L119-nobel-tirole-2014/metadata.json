@@ -1,0 +1,24 @@
+{
+  "id": "L119-nobel-tirole-2014",
+  "title": "2014 Economics Prize: Press release (Scientific Background attempt failed)",
+  "authors": "Royal Swedish Academy of Sciences",
+  "publication": "13 October 2014 press release; different from attempted scientific background",
+  "url": "https://www.nobelprize.org/prizes/economic-sciences/2014/press-release/",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Official press-release body in web search batch8; scientific-background PDF NOT obtained/read.",
+  "selection_status": "adopted_partial_official_press_release",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_failed_partial_tool_text_only",
+  "original_downloaded": false,
+  "actual_version": "13October2014 official press release; different from failed Scientific Background target.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "adopted_url": "https://www.nobelprize.org/prizes/economic-sciences/2014/press-release/",
+  "source_files": [
+    {
+      "file": "web-tool-text.partial.txt",
+      "bytes": 2917,
+      "sha256": "c65335b73a15fef15437805c789cd3c0260ed8c488cfe66bd6b45dce72166421"
+    }
+  ]
+}

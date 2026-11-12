@@ -1,0 +1,6 @@
+{
+  "requested_url": "https://sunnyday.mit.edu/16.355/kruger.pdf",
+  "retrieved_at_utc": "2026-11-11T12:54:06.515316+00:00",
+  "download_status": "failed",
+  "error": "HTTPSConnectionPool(host='sunnyday.mit.edu', port=443): Max retries exceeded with url: /16.355/kruger.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='sunnyday.mit.edu', port=443) at 0x250f5653620>, 'Connection to sunnyday.mit.edu timed out. (connect timeout=18)'))"
+}

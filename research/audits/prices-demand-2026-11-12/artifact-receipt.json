@@ -1,0 +1,122 @@
+{
+  "date_local": "2026-11-12",
+  "artifacts": [
+    {
+      "path": "README.md",
+      "sha256": "bc0e2c72d5494ebe4a5049e656d58234a5d1d9ea6126d1f9ae317e31dba7ea7d",
+      "bytes": 8805
+    },
+    {
+      "path": "book/README.md",
+      "sha256": "ed7530d6db72e01b3cf56fef25b208188a83242a7a0382cf308ab356b2c9f96d",
+      "bytes": 17063
+    },
+    {
+      "path": "book/outline.md",
+      "sha256": "cf85809ebd94adc329019bcb58e7cb419c8fb6c702b16d1b2a68798c515c30ee",
+      "bytes": 10907
+    },
+    {
+      "path": "book/argument-map.md",
+      "sha256": "fa1f4060726d9a61bc0d090effd4252e0300c77c306491892b47f970b612181c",
+      "bytes": 7415
+    },
+    {
+      "path": "docs/charter.md",
+      "sha256": "cb6b3f79fb9727a32b1c7b3dcf3a788a88687c3be5e963b96fdccd50c5ae0ade",
+      "bytes": 17162
+    },
+    {
+      "path": "docs/research-dependencies.md",
+      "sha256": "a9d326fc9722d38b5774436f94e04bbb34a195b186d70fb311ace4d31b3299db",
+      "bytes": 17497
+    },
+    {
+      "path": "research/README.md",
+      "sha256": "334abd30af8dc22a9a6d3de041dcb2a9e98fd6800cbdfd3e11c2bf85189b452a",
+      "bytes": 22711
+    },
+    {
+      "path": "wiki/raw/README.md",
+      "sha256": "8ba9126f14454ffd6eda42837d7be5bfd06bc107793bba3aff776f472eb59d33",
+      "bytes": 9414
+    },
+    {
+      "path": "wiki/raw/round-35/README.md",
+      "sha256": "047ba8b1ac8a21271c0f63216a2ab42dbd1df31d98c6e1373061f0dac6b82474",
+      "bytes": 2026
+    },
+    {
+      "path": "research/reviews/35-prices-income-demand-and-book-revision.md",
+      "sha256": "1f90b2da76dfb2cb0b4aad4ef5652b17c47ae5eaf2ba25cde5c7678969881cc1",
+      "bytes": 3530
+    },
+    {
+      "path": "research/surveys/02-wealth-money-history/narrative-options.md",
+      "sha256": "38f6a880d34997d99d51eddbdc431f9f430af81e497375f917b4968a4c0456e4",
+      "bytes": 6708
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/protocol.md",
+      "sha256": "bd0230684372d39552b6ea1087fdd866907685c908d689a4b35dc78755ac883f",
+      "bytes": 6155
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/README.md",
+      "sha256": "aeef6c78aafdf69b48e4f2ce69fda1c093e5e5def3e8f4071ff31495750b2075",
+      "bytes": 8074
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/reading-notes.md",
+      "sha256": "bd44c72237f310df54a603ff8a8d9d1a9a99202dae93b506f8d5775b7d5d11ab",
+      "bytes": 3412
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/models.md",
+      "sha256": "d07b0d7adae7d323be948154659cb43289db95ca615c9cd52a076c20f7a1e4b5",
+      "bytes": 3728
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/chapter-interfaces.md",
+      "sha256": "a55ba71f2937238c7c14498db137e24e6a1371e1584d47e886bc452357acd429",
+      "bytes": 2301
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/search-and-selection.md",
+      "sha256": "b1b67282eba08eb933625e4767c56250acb7740a3791c1b207a873405a17f0fe",
+      "bytes": 2378
+    },
+    {
+      "path": "book/part-05/04-transactions-prices-and-market-rules.md",
+      "sha256": "fa1565f19ecc5a65df6c861f2e737c0bc4b4424bb6ae81318d8018e2e8f7f42e",
+      "bytes": 8403
+    },
+    {
+      "path": "book/argument-cards/part-05-04-transactions-prices-and-market-rules.md",
+      "sha256": "304ba2005da5514728d707cac929ab0ffc1d3236b3d8a1b0d68c20cf75b0d64e",
+      "bytes": 2461
+    },
+    {
+      "path": "research/examples/price-demand-models.py",
+      "sha256": "c1cc32c047b75381cea82995248254f961c3e5e70a3a0f09737078c248eab26e",
+      "bytes": 3549
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/model-results.json",
+      "sha256": "e69493bd2187c8229a1910a24570014d926fdbcbdce8b27ad4191572e4e0d53b",
+      "bytes": 1912
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/selection.csv",
+      "sha256": "3e182233ade71ec302751d19d6140e669b5785785ecdc7f03e022762fdc44920",
+      "bytes": 1089
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/mechanism-matrix.csv",
+      "sha256": "054955ba88802e0689f44f37275730e36ce8db5dcbe2c04a894a39f7c60e1486",
+      "bytes": 1423
+    }
+  ],
+  "raw_manifest": "wiki/raw/round-35/manifest.json",
+  "source_reading_scope": "See each metadata.json and research/surveys/08-price-income-and-reinvestment/reading-notes.md"
+}

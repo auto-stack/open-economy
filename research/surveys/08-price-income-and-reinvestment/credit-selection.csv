@@ -1,0 +1,9 @@
+record,work,decision,actual_version,scope
+L189,Credit Rationing in Markets with Imperfect Information,adopt_targeted,1981期刊扫描含封面及附加链接页,目视393至395
+L190,Financial Intermediation Loanable Funds and the Real Sector,adopt_targeted,1997期刊扫描含封面,目视663至668
+L191,The Value of Waiting to Invest,adopt_targeted,1982NBERWP1019共38页,PDF1至4非1986最终版
+L192,Do Firms Want to Borrow More,adopt_targeted,2014期刊排印36页,572至574非随机授信
+V01,HolmstromTirole1994或95工作稿,version_location_only,机构书目,未当作已读1997结果
+V02,McDonaldSiegel1986最终版,publication_record_only,PDF403及书目,未获最终原文不重建其定理
+R94,Money Creation in the Modern Economy,reuse_partial_no_new_fulltext,旧2014官方部分工具文字及本轮403,旧读页不扩大
+X01,其他论文参考文献中的命中,not_evidence_this_round,搜索记录,没有把被引文献算作原文阅读

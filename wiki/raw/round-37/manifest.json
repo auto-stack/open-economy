@@ -1,0 +1,132 @@
+[
+  {
+    "path": "acquisition-attempts.json",
+    "bytes": 3358,
+    "sha256": "c3140c32eaa8fc1fb17d64c0401892bf36a09e1cb623583c692821c68e4de78b"
+  },
+  {
+    "path": "discovery/copy-and-errata-search-results.txt",
+    "bytes": 30309,
+    "sha256": "8e7c4465057553b32e6113b580e0aef497b8de49082f3f01fffe04a4ae08dc1e"
+  },
+  {
+    "path": "discovery/equation-and-footnote-search-results.txt",
+    "bytes": 34198,
+    "sha256": "ffac657fc399b4df5cf06b5c0cbcc1e5e905b1de9ebe4c489bfa5a5059f3749f"
+  },
+  {
+    "path": "discovery/first-search-tool-results.txt",
+    "bytes": 35392,
+    "sha256": "eea957f20b10e4c5958b73afa79b81965b925ff180bcb294bc2e82ac525201a3"
+  },
+  {
+    "path": "discovery/initial-queries-repeated-results.txt",
+    "bytes": 31325,
+    "sha256": "35c6e1687f5fd5a8227f50f008829cc8b2635b1475f5bd44f6ba69ec7fbf5bdd"
+  },
+  {
+    "path": "discovery/primary-open-tool-results.txt",
+    "bytes": 624,
+    "sha256": "c977ebf9aaf7d3bfebed36c69b311d712761bfabf73eea81c3cc91ae21a9fa06"
+  },
+  {
+    "path": "discovery/publisher-search-results.txt",
+    "bytes": 33207,
+    "sha256": "d5fde7b85150d04624743266afcfa22a06b00547e2108e52770eea8ea7332f88"
+  },
+  {
+    "path": "discovery/search-log.json",
+    "bytes": 1366,
+    "sha256": "9743b3c19a0565b129e7b2072ec3e517f3eec467dc7bba3bbf78bae6d702e1f8"
+  },
+  {
+    "path": "L189-crosscheck/columbia-record.html",
+    "bytes": 4371,
+    "sha256": "26437372c5926a67e20d320bf997fd9a3b0e4c7514cb2323203285c7738eb840"
+  },
+  {
+    "path": "L189-crosscheck/crosscheck-metadata.json",
+    "bytes": 807,
+    "sha256": "d6f1ee5c7bbea703f2d0d5d82c0c6386cc3a06ab6f4453d768c12fb72755ab13"
+  },
+  {
+    "path": "L189-crosscheck/extraction-page04.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "L189-crosscheck/jstor-record.html",
+    "bytes": 3038,
+    "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea"
+  },
+  {
+    "path": "L189-crosscheck/ucsd-copy.pdf",
+    "bytes": 614897,
+    "sha256": "ea4885ac208e7248c50ae163dfddc26a267d5d5ba4117353ff936a719952aa0f"
+  },
+  {
+    "path": "L189-crosscheck/ucsd-pdf04-print395.png",
+    "bytes": 760687,
+    "sha256": "44a09ebbae4c2655842edc3713fd83c0c116921c5632b1be40c0600037ddb14e"
+  },
+  {
+    "path": "L190-crosscheck/crosscheck-metadata.json",
+    "bytes": 1355,
+    "sha256": "468ee7f1bfa7e6e3b6c5db9140741954195889afb6b39f10a0b26d876b205606"
+  },
+  {
+    "path": "L190-crosscheck/mit-publications.html",
+    "bytes": 126197,
+    "sha256": "2c3cc54f2951e861590721dbb692ace2ce4cfa79da3235c348186e3d969c752a"
+  },
+  {
+    "path": "L190-crosscheck/publisher-response.bin",
+    "bytes": 3038,
+    "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea"
+  },
+  {
+    "path": "L190-crosscheck/stanford-copy.pdf",
+    "bytes": 188581,
+    "sha256": "b37f22b446712f9fb961cc7f519673d838cb57011863b0df0519cffd2c39933c"
+  },
+  {
+    "path": "L190-crosscheck/stanford-pdf09-print671-extracted.txt",
+    "bytes": 2253,
+    "sha256": "9b2333ca90e774338344b1b2aea55dbdd59775815d9394dc2293087fae31f029"
+  },
+  {
+    "path": "L190-crosscheck/stanford-pdf09-print671.png",
+    "bytes": 308402,
+    "sha256": "ecd5979035bb76f767c9652ed17e4c1473765c9cda9eaedb1321ebe2f7946363"
+  },
+  {
+    "path": "L190-crosscheck/stanford-pdf10-print672-preview-extracted.txt",
+    "bytes": 2067,
+    "sha256": "9cb494e146f5ec495ff3c8be58d9522ed3a8ad567a450fcc29183eaf26ef37c1"
+  },
+  {
+    "path": "L190-crosscheck/stanford-pdf10-print672-preview.png",
+    "bytes": 296574,
+    "sha256": "6dbd9501eaddbe5f8844f9876d00db4d0805494ea540f843d01d0fe7038cb81e"
+  },
+  {
+    "path": "L190-extension/read-scope-extension.json",
+    "bytes": 4584,
+    "sha256": "c18e1d5fc25dc8ff18fe17600cc2bbe015eaf5301067393928368b7afcb5de8e"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3357,
+    "sha256": "8735b736fabfb0bfd3cfb172a31c3e1e7e7e349c61fb3ce0169ee6d0a2f08730"
+  },
+  {
+    "path": "response-classification.json",
+    "bytes": 1623,
+    "sha256": "b83670ce9a964ae319abfaf306aac80bf14175339c9b8333b483bc358e3bd275"
+  },
+  {
+    "path": "source-reuse.json",
+    "bytes": 846,
+    "sha256": "d077ef18e19374cf72a5349c88d8e1b8d9a16e7ee689c15b6d10f2653018bd4f"
+  }
+]

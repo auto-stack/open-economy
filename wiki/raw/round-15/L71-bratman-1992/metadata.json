@@ -1,0 +1,17 @@
+{
+  "id": "L71-bratman-1992",
+  "title": "Shared Cooperative Activity",
+  "authors": "Michael E. Bratman",
+  "doi": "10.2307/2185537",
+  "publication": "The Philosophical Review 101(2) (1992),327-341",
+  "research_date_local": "2026-11-12",
+  "format": "bibliographic_lead_with_failed_acquisition",
+  "original_article_downloaded": false,
+  "article_body_read": false,
+  "adopted_for_substantive_claims": false,
+  "read_scope": "Course PDF requests failed; web tool returned 401. Search cover/bibliographic material only; no article body read.",
+  "acquisition_log": "acquisition-log.json",
+  "search_records": "../search-*.json",
+  "web_tool_record": "../web-views.json",
+  "reading_notes": "../../../../research/reviews/16-reading-notes.md"
+}

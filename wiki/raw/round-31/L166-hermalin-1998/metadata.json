@@ -1,0 +1,29 @@
+{
+  "id": "L166-hermalin-1998",
+  "title": "Toward an Economic Theory of Leadership: Leading by Example",
+  "authors": "Benjamin E.Hermalin",
+  "publication": "AER88(5),1998,1188-1206;university teaching copy",
+  "url": "https://people.duke.edu/~qc2/BA532/1998%20AER%20Hermalin.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF2-4abstract/introduction;not model proofs or optimal shares",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 20,
+  "sha256": "58560dfca06c523d49a507559ed273a419459ed578b211dae953ce8cd555b252",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://people.duke.edu/~qc2/BA532/1998%20AER%20Hermalin.pdf",
+  "status_code": 200,
+  "bytes": 721193,
+  "retrieved_at_utc": "2026-11-12T06:24:23.189375+00:00",
+  "actual_version": "AER88(5),1998,1188-1206;20pages includingJSTORcover",
+  "reading_notes": "../../../../research/surveys/05-firm-authority-and-democracy/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 721193,
+    "sha256": "58560dfca06c523d49a507559ed273a419459ed578b211dae953ce8cd555b252"
+  }
+}

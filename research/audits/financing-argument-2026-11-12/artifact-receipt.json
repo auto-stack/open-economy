@@ -1,0 +1,366 @@
+{
+  "date_local": "2026-11-12",
+  "self_excluded": true,
+  "artifacts": [
+    {
+      "path": "book/argument-cards/part-05-06-investment-income-and-reinvestment.md",
+      "bytes": 3720,
+      "sha256": "896ad222c250fa7445b70f472057b7f3fce5a22b7492e0ab85d027749959cfff"
+    },
+    {
+      "path": "book/part-05/06-investment-income-and-reinvestment.md",
+      "bytes": 12271,
+      "sha256": "e594bfd7303c57aa4c3ee9f1ec3a153f1f7f698218999c36eda54d02140e48c5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10360,
+      "sha256": "d80a4650ea76505ed7cb2ced658ef19abec292d07d15e5e6a6dc6b391455ac39"
+    },
+    {
+      "path": "research/audits/financing-argument-2026-11-12/verification.json",
+      "bytes": 1819,
+      "sha256": "114e06e368af783d695d499d8349bd89e427fa2172edb72b79d437a125cc86c2"
+    },
+    {
+      "path": "research/examples/financing-open-business-audit.py",
+      "bytes": 9075,
+      "sha256": "4c9dec4242807e24ff6399591e552ff9efddc62a6e59d8d0d86abd4139dd60a5"
+    },
+    {
+      "path": "research/README.md",
+      "bytes": 24139,
+      "sha256": "9035215808b2746e1998a39feebc5c85b112edcefc653354f0197280d3e0cb5a"
+    },
+    {
+      "path": "research/reviews/39-financing-open-business-argument-audit.md",
+      "bytes": 5808,
+      "sha256": "15c0ebcbddc60c4f146bdda35c898cf01658d3064be9c8eb8cc444181ef9b1b0"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/institutional-financing-comparison.md",
+      "bytes": 7541,
+      "sha256": "b86bbe66f2f08d9d08927e3b914630c58afe17e912f7549fc03c567db56aa655"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/open-business-finance-and-maintenance.md",
+      "bytes": 7638,
+      "sha256": "04e6938a76ef83fc0ca200da4a5eba96687fb3ff879c7486236aa694acc130a7"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md",
+      "bytes": 9716,
+      "sha256": "d11f76fa85824b970a6ad3f80d2bbb289528b78ea6caca9492e5dbc8b275c56e"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/credit-reading-notes.md",
+      "bytes": 5216,
+      "sha256": "6f76090e66e955872844b5e22da15c5068f698aa96470afcf02f02c538037766"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/financing-argument-map.md",
+      "bytes": 5672,
+      "sha256": "c5ae9495a8986bea63630f276ed69a732802e38cc299bf39c32a863e29b3e99d"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/financing-argument-model-results.json",
+      "bytes": 5774,
+      "sha256": "4ee1fa79cf53c6766aa5d2c3cf1905405d22c35627afe382d9f55e0800aadcab"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/financing-argument-models.md",
+      "bytes": 6878,
+      "sha256": "b92f679861c7fb561777317c3d224efa81753ddee05c55cf83c4e304215d26a5"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/institution-cash-scenarios.csv",
+      "bytes": 10673,
+      "sha256": "6d708dc906d353ceb297026e930d66b813cd37685997b3b862538a216c566ace"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/README.md",
+      "bytes": 8863,
+      "sha256": "e277158de1bf7cbaff6712efa7f2c85412ebf01891a6e100cb6d8823b3146e03"
+    },
+    {
+      "path": "research/tools/finalize-financing-followup.py",
+      "bytes": 16499,
+      "sha256": "f0a985d1f15dd3594793f2e33c42dfcf44bb600264abaeb3cbccabbb1dd29580"
+    },
+    {
+      "path": "research/tools/financing-followup-acquire.py",
+      "bytes": 3175,
+      "sha256": "79c9fde0df74c1b6e8801fe672010bc8303d50e5403e0b487a827cd2b47d3df7"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/detail-671-equation3.png",
+      "bytes": 157220,
+      "sha256": "6be4674fd14e2e107fa5c6098be9cfc113fc0288e1ecc5c1e221e5d2c92b03fe"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-08-print-669.ocr.json",
+      "bytes": 165195,
+      "sha256": "8363a7f314c5c5c1fad055bd45682b9cfb3bc227d6d49933da472a16c55149c9"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-08-print-669.png",
+      "bytes": 676870,
+      "sha256": "f933952bd6715f46429e13ea8838d539a38364e4f272e3dfe09e92a6bbe80fb7"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-08-print-669.raw.txt",
+      "bytes": 2700,
+      "sha256": "360ea3dbb05bdfdb9d83cf5a5c85932bda32944f1bf6b57ef57aca0b4531bcaa"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-09-print-670.ocr.json",
+      "bytes": 124229,
+      "sha256": "434b77866ba514f2b4ad67330c0a308d8688f4952250e069b2679757d670840b"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-09-print-670.png",
+      "bytes": 487124,
+      "sha256": "6f34e6b987b60916243cebfa2e97818fa79d27edeccdc7f32fe65ed6b56f19d4"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-09-print-670.raw.txt",
+      "bytes": 1900,
+      "sha256": "0ae3b71e1ae77441160d919c47b40f6d6ad4b31f19ccb8300939a5e8e6d950f0"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-10-print-671.ocr.json",
+      "bytes": 127697,
+      "sha256": "5bc24f45844ab266a2216aef71834c25da542626d5a92df626ccc661d78d8e4d"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-10-print-671.png",
+      "bytes": 505256,
+      "sha256": "07f0c5f8295a91128a25f378172da6973ec384a833869ff1c3ebd41ff008088e"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-10-print-671.raw.txt",
+      "bytes": 2044,
+      "sha256": "a37daf0cf48104f66396f12673f7a3b409f554a124d076f32812a4b5712a102b"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-11-print-672.ocr.json",
+      "bytes": 118796,
+      "sha256": "912cb2732b8ae98eb6a44e54259d8716410fe6aeab1f62ed5ea6961701b76950"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-11-print-672.png",
+      "bytes": 514166,
+      "sha256": "f98c35711d276df0803a70edd55a48de05ea1dc3b12937a94ab094f778b65e74"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-11-print-672.raw.txt",
+      "bytes": 1882,
+      "sha256": "3d292c355a928567c084cadb7b51cb08c2df40f8402f2dd260570ae0411f485d"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-12-print-673.ocr.json",
+      "bytes": 145091,
+      "sha256": "e3cd083d1608a141e117fc394687be2829986b130b13efb15d7f89f8c15a37b9"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-12-print-673.png",
+      "bytes": 574403,
+      "sha256": "292400dd7763fd699e46df4b7ceadfbc861c26faaf40ec9bf2c14e80f23a5a36"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-12-print-673.raw.txt",
+      "bytes": 2173,
+      "sha256": "dda2d918a2fc7669c3485a14e149f4c14d8761c9a2f34f401307362c4ed55584"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-13-print-674.ocr.json",
+      "bytes": 164630,
+      "sha256": "608c359b9fdc94d6b18ea2f9388ac88c9549b5650a69083ef5905855399e25b6"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-13-print-674.png",
+      "bytes": 602043,
+      "sha256": "c3c45cc411989be1218685cf1f58e9421e92ccfcf3acda5f95549ac03fc22989"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/L190/pdf-13-print-674.raw.txt",
+      "bytes": 2532,
+      "sha256": "e8cdc6b7341f7567adc3e041db193c8a10a8d9014ad096eda36e539913331f7d"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/README.md",
+      "bytes": 1599,
+      "sha256": "d2889a6afb2a921d41e88d23cea420fdc636842c32fc1690973b2fc3a6a94266"
+    },
+    {
+      "path": "wiki/derived/financing-followup-2026-11-12/verified-formulas.md",
+      "bytes": 6023,
+      "sha256": "6a83861e3a3fd9db2f135ba1196d0f1e8129ba77cf37cb811bff03b8a666d1ae"
+    },
+    {
+      "path": "wiki/index/derived-text-catalog.jsonl",
+      "bytes": 2650,
+      "sha256": "e3d8a2adb2202fd2d5b3fe623ffea6090de6bff4f748276f18c1d96806faf786"
+    },
+    {
+      "path": "wiki/index/README.md",
+      "bytes": 2777,
+      "sha256": "63b41652449c4c667f25e828b629d4aa8f22d6e18fc49fc27ab8bfd44a9da3da"
+    },
+    {
+      "path": "wiki/index/source-annotations.json",
+      "bytes": 3456,
+      "sha256": "97ad4536d19cf0913dff4e311c2569a79e3d3b72b9a4c6392a37712ca756c4e1"
+    },
+    {
+      "path": "wiki/index/source-followups.jsonl",
+      "bytes": 830,
+      "sha256": "44c97a7695bd6dcf3c9f25946bee7a942c7f985b450cf7d08fb19564480c8175"
+    },
+    {
+      "path": "wiki/index/SOURCES.md",
+      "bytes": 82839,
+      "sha256": "fc239f8aa19b8171cb3e901201028ab0e456efce8e543ce90d432c36d772cafa"
+    },
+    {
+      "path": "wiki/raw/README.md",
+      "bytes": 9709,
+      "sha256": "f7336bca477172d787d1ff47bdff7573a8d683ec90b716cddc2d50b683c7e832"
+    },
+    {
+      "path": "wiki/raw/round-37/acquisition-attempts.json",
+      "bytes": 3358,
+      "sha256": "c3140c32eaa8fc1fb17d64c0401892bf36a09e1cb623583c692821c68e4de78b"
+    },
+    {
+      "path": "wiki/raw/round-37/discovery/copy-and-errata-search-results.txt",
+      "bytes": 30309,
+      "sha256": "8e7c4465057553b32e6113b580e0aef497b8de49082f3f01fffe04a4ae08dc1e"
+    },
+    {
+      "path": "wiki/raw/round-37/discovery/equation-and-footnote-search-results.txt",
+      "bytes": 34198,
+      "sha256": "ffac657fc399b4df5cf06b5c0cbcc1e5e905b1de9ebe4c489bfa5a5059f3749f"
+    },
+    {
+      "path": "wiki/raw/round-37/discovery/first-search-tool-results.txt",
+      "bytes": 35392,
+      "sha256": "eea957f20b10e4c5958b73afa79b81965b925ff180bcb294bc2e82ac525201a3"
+    },
+    {
+      "path": "wiki/raw/round-37/discovery/initial-queries-repeated-results.txt",
+      "bytes": 31325,
+      "sha256": "35c6e1687f5fd5a8227f50f008829cc8b2635b1475f5bd44f6ba69ec7fbf5bdd"
+    },
+    {
+      "path": "wiki/raw/round-37/discovery/primary-open-tool-results.txt",
+      "bytes": 624,
+      "sha256": "c977ebf9aaf7d3bfebed36c69b311d712761bfabf73eea81c3cc91ae21a9fa06"
+    },
+    {
+      "path": "wiki/raw/round-37/discovery/publisher-search-results.txt",
+      "bytes": 33207,
+      "sha256": "d5fde7b85150d04624743266afcfa22a06b00547e2108e52770eea8ea7332f88"
+    },
+    {
+      "path": "wiki/raw/round-37/discovery/search-log.json",
+      "bytes": 1366,
+      "sha256": "9743b3c19a0565b129e7b2072ec3e517f3eec467dc7bba3bbf78bae6d702e1f8"
+    },
+    {
+      "path": "wiki/raw/round-37/L189-crosscheck/columbia-record.html",
+      "bytes": 4371,
+      "sha256": "26437372c5926a67e20d320bf997fd9a3b0e4c7514cb2323203285c7738eb840"
+    },
+    {
+      "path": "wiki/raw/round-37/L189-crosscheck/crosscheck-metadata.json",
+      "bytes": 807,
+      "sha256": "d6f1ee5c7bbea703f2d0d5d82c0c6386cc3a06ab6f4453d768c12fb72755ab13"
+    },
+    {
+      "path": "wiki/raw/round-37/L189-crosscheck/extraction-page04.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "wiki/raw/round-37/L189-crosscheck/jstor-record.html",
+      "bytes": 3038,
+      "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea"
+    },
+    {
+      "path": "wiki/raw/round-37/L189-crosscheck/ucsd-copy.pdf",
+      "bytes": 614897,
+      "sha256": "ea4885ac208e7248c50ae163dfddc26a267d5d5ba4117353ff936a719952aa0f"
+    },
+    {
+      "path": "wiki/raw/round-37/L189-crosscheck/ucsd-pdf04-print395.png",
+      "bytes": 760687,
+      "sha256": "44a09ebbae4c2655842edc3713fd83c0c116921c5632b1be40c0600037ddb14e"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-crosscheck/crosscheck-metadata.json",
+      "bytes": 1355,
+      "sha256": "468ee7f1bfa7e6e3b6c5db9140741954195889afb6b39f10a0b26d876b205606"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-crosscheck/mit-publications.html",
+      "bytes": 126197,
+      "sha256": "2c3cc54f2951e861590721dbb692ace2ce4cfa79da3235c348186e3d969c752a"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-crosscheck/publisher-response.bin",
+      "bytes": 3038,
+      "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-crosscheck/stanford-copy.pdf",
+      "bytes": 188581,
+      "sha256": "b37f22b446712f9fb961cc7f519673d838cb57011863b0df0519cffd2c39933c"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-crosscheck/stanford-pdf09-print671-extracted.txt",
+      "bytes": 2253,
+      "sha256": "9b2333ca90e774338344b1b2aea55dbdd59775815d9394dc2293087fae31f029"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-crosscheck/stanford-pdf09-print671.png",
+      "bytes": 308402,
+      "sha256": "ecd5979035bb76f767c9652ed17e4c1473765c9cda9eaedb1321ebe2f7946363"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-crosscheck/stanford-pdf10-print672-preview-extracted.txt",
+      "bytes": 2067,
+      "sha256": "9cb494e146f5ec495ff3c8be58d9522ed3a8ad567a450fcc29183eaf26ef37c1"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-crosscheck/stanford-pdf10-print672-preview.png",
+      "bytes": 296574,
+      "sha256": "6dbd9501eaddbe5f8844f9876d00db4d0805494ea540f843d01d0fe7038cb81e"
+    },
+    {
+      "path": "wiki/raw/round-37/L190-extension/read-scope-extension.json",
+      "bytes": 4584,
+      "sha256": "c18e1d5fc25dc8ff18fe17600cc2bbe015eaf5301067393928368b7afcb5de8e"
+    },
+    {
+      "path": "wiki/raw/round-37/manifest.json",
+      "bytes": 4366,
+      "sha256": "93adb1c4947f168bb2fee537dd36a9c766b7ed05da42144034ab1c6cbbc10922"
+    },
+    {
+      "path": "wiki/raw/round-37/README.md",
+      "bytes": 3357,
+      "sha256": "8735b736fabfb0bfd3cfb172a31c3e1e7e7e349c61fb3ce0169ee6d0a2f08730"
+    },
+    {
+      "path": "wiki/raw/round-37/response-classification.json",
+      "bytes": 1623,
+      "sha256": "b83670ce9a964ae319abfaf306aac80bf14175339c9b8333b483bc358e3bd275"
+    },
+    {
+      "path": "wiki/raw/round-37/source-reuse.json",
+      "bytes": 846,
+      "sha256": "d077ef18e19374cf72a5349c88d8e1b8d9a16e7ee689c15b6d10f2653018bd4f"
+    }
+  ]
+}

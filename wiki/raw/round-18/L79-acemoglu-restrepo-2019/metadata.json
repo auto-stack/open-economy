@@ -1,0 +1,22 @@
+{
+  "id": "L79-acemoglu-restrepo-2019",
+  "title": "Automation and New Tasks: How Technology Displaces and Reinstates Labor",
+  "authors": "Daron Acemoglu; Pascual Restrepo",
+  "doi": "10.1257/jep.33.2.3",
+  "publication": "Journal of Economic Perspectives 33(2) (2019),3-30",
+  "research_date_local": "2026-11-12",
+  "format": "pdf",
+  "pages": 28,
+  "sha256": "28c40ba9efe2178bb46253690ba6ed2698a5b36d7b71fb31f069ab463b95980b",
+  "read_scope": "PDF pp.1-2,6-10. p.8 wage-bill identity and effects decomposition rendered and visually checked. Empirical decomposition and appendices not reconstructed.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://economics.mit.edu/sites/default/files/publications/Automation%20and%20New%20Tasks%20-%20How%20Technology%20Displace.pdf",
+  "final_url": "https://economics.mit.edu/sites/default/files/publications/Automation%20and%20New%20Tasks%20-%20How%20Technology%20Displace.pdf",
+  "status_code": 200,
+  "bytes": 729473,
+  "retrieved_at_utc": "2026-11-12T01:36:05.003944+00:00",
+  "validation": "Expected content matched; parse completed",
+  "version": "28-page typeset 2019 journal PDF from MIT author site",
+  "source_type": "task-based theoretical framework with empirical interpretation",
+  "reading_notes": "../../../../research/reviews/18-reading-notes.md"
+}

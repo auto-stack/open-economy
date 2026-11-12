@@ -1,0 +1,61 @@
+{
+  "date_local": "2026-11-12",
+  "status": "pass",
+  "checks": {
+    "local_links_resolve": true,
+    "formal_register_unchanged": true,
+    "formal_79_ids": true,
+    "ten_chapter_drafts": true,
+    "ten_argument_cards": true,
+    "28_candidate_units": true,
+    "manifest_hashes_match": true,
+    "reuse_hashes_match": true,
+    "four_selected_source_groups": true,
+    "L185-nash-1950_page_count": true,
+    "L185-nash-1950_original_hash": true,
+    "L186-smith-1962_page_count": true,
+    "L186-smith-1962_original_hash": true,
+    "L188-fagereng-holm-natvik-2019_page_count": true,
+    "L188-fagereng-holm-natvik-2019_original_hash": true,
+    "keynes_original_html_hashes": true,
+    "nash_unusable_text_layer_declared": true,
+    "smith_errata_present": true,
+    "finite_matching_34_and_gain120": true,
+    "budget_and_outside_option_cases": true,
+    "distribution_and_fixedpoint_arithmetic": true
+  },
+  "local_links_checked": 389,
+  "broken_links": [],
+  "scoped_markdown_files": 19,
+  "new_source_groups": [
+    "L185-nash-1950",
+    "L186-smith-1962",
+    "L187-keynes-1936",
+    "L188-fagereng-holm-natvik-2019"
+  ],
+  "raw_manifest_files": 41,
+  "source_pdf_pages": [
+    9,
+    31,
+    68
+  ],
+  "formal_register_sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+  "formal_id_counts": {
+    "PROP": 20,
+    "DEF": 18,
+    "ASS": 12,
+    "PAR": 6,
+    "NORM": 4,
+    "AX": 1,
+    "HYP": 10,
+    "BASE": 5,
+    "DES": 3
+  },
+  "chapter_drafts": 10,
+  "argument_cards": 10,
+  "candidate_units": 28,
+  "new_actual_operating_data": false,
+  "outside_studies_independently_replicated": false,
+  "model_scope": "Assumed teaching examples; no calibrated effect sizes or optimal policy claims",
+  "limits": "Links, provenance, hashes, structure and finite teaching-model checks only; not peer review, complete systematic review, external-study replication or AutoDown import."
+}

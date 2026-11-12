@@ -1,0 +1,23 @@
+{
+  "id": "L30-rivoire-leibler-2011",
+  "requested_url": "https://arxiv.org/pdf/1010.5092",
+  "retrieved_at_utc": "2026-11-11T12:52:48.533367+00:00",
+  "status_code": 200,
+  "final_url": "https://arxiv.org/pdf/1010.5092",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 974794,
+  "sha256": "0778270a6185bda574f9ea72d84510dae3c1f3566dc0226b3c5779e9dc8fe05a",
+  "pdf_pages": 32,
+  "download_status": "downloaded",
+  "extracted_chars": 127209,
+  "source_id": "L30",
+  "directory": "L30-rivoire-leibler-2011",
+  "author": "Olivier Rivoire; Stanislas Leibler",
+  "title": "The Value of Information for Populations in Varying Environments",
+  "publication_year": 2011,
+  "archived_version": "arXiv:1010.5092v1, submitted 2010-10-25; downloaded PDF prints 2018-10-25; related journal publication 2011",
+  "reading_scope": "Preprint p.5 assumptions; sections IV-VI pp.10-15; p.20 implementation costs",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

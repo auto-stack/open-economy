@@ -1,0 +1,58 @@
+{
+  "status": "checked finite examples; assumed not measured",
+  "feasible_sets": {
+    "old": [
+      5,
+      8
+    ],
+    "better": [
+      5,
+      8,
+      11
+    ],
+    "non_strict": [
+      5,
+      8,
+      7
+    ],
+    "old_optimum": 8,
+    "expanded_optimum": 11,
+    "non_strict_optimum": 8,
+    "possible_realized_choice": 5
+  },
+  "bottleneck": [
+    {
+      "case": "baseline",
+      "R": 10,
+      "q": 0.8,
+      "B": 10,
+      "expected_useful": 8.0
+    },
+    {
+      "case": "more_messages",
+      "R": 100,
+      "q": 0.8,
+      "B": 10,
+      "expected_useful": 8.0
+    },
+    {
+      "case": "noisy_load",
+      "R": 100,
+      "q": 0.1,
+      "B": 10,
+      "expected_useful": 1.0
+    },
+    {
+      "case": "more_processing",
+      "R": 100,
+      "q": 0.8,
+      "B": 40,
+      "expected_useful": 32.0
+    }
+  ],
+  "information": {
+    "message_entropy_bits": 1.0,
+    "independent_mutual_bits": 0.0,
+    "copy_mutual_bits": 1.0
+  }
+}

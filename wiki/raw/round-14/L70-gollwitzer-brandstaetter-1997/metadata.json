@@ -1,0 +1,23 @@
+{
+  "id": "L70-gollwitzer-brandstaetter-1997",
+  "title": "Implementation Intentions and Effective Goal Pursuit",
+  "authors": "Peter M. Gollwitzer; Veronika Brandstaetter",
+  "doi": "10.1037/0022-3514.73.1.186",
+  "publication": "Journal of Personality and Social Psychology 73(1) (1997),186-199",
+  "research_date_local": "2026-11-12",
+  "format": "pdf",
+  "source_url": "https://www.socmot.uni-konstanz.de/sites/default/files/97_Gollwitzer_Brandst%C3%A4tter_Imp_IntentEffect_Goal_Pursui.pdf",
+  "pages": 14,
+  "sha256": "05a5efe78b7d76bb9403e2f5f81f2a28976badeb75f2314207dd546d90657570",
+  "read_scope": "PDF pp.1-2,5-7,12: concept, Study 1 limitations, Study 2 randomized design and returned-report denominators, open flexibility question. Study 3 abstract only, not complete design/results.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://www.socmot.uni-konstanz.de/sites/default/files/97_Gollwitzer_Brandst%C3%A4tter_Imp_IntentEffect_Goal_Pursui.pdf",
+  "final_url": "https://www.socmot.uni-konstanz.de/sites/default/files/97_Gollwitzer_Brandst%C3%A4tter_Imp_IntentEffect_Goal_Pursui.pdf",
+  "status_code": 200,
+  "bytes": 1381775,
+  "retrieved_at_utc": "2026-11-11T21:06:16.370242+00:00",
+  "validation": "PDF header and parser passed",
+  "version": "14-page journal typeset PDF from University of Konstanz author laboratory; text layer contains recognition errors.",
+  "source_type": "primary field and laboratory studies; adoption limited to read portions",
+  "reading_notes": "../../../../research/reviews/15-reading-notes.md"
+}

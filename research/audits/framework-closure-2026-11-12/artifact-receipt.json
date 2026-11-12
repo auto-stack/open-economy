@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-12",
+  "self_excluded": true,
+  "artifacts": [
+    {
+      "path": "book/argument-map.md",
+      "bytes": 8666,
+      "sha256": "171c5dc9857c69276c6b3853fe6e21aec6948caf9cea8bc1a7ba185902d11ca4"
+    },
+    {
+      "path": "book/chapter-interfaces.md",
+      "bytes": 12306,
+      "sha256": "700f2b432e6d40cd4640deb0c99489b84194d7bebd56a30ea13da1684a552a46"
+    },
+    {
+      "path": "book/framework-scope.md",
+      "bytes": 4055,
+      "sha256": "298f76b5aae3bce5c6ff395f6a398c81412ece3deb899a83472724568c8bfcda"
+    },
+    {
+      "path": "book/outline.md",
+      "bytes": 12090,
+      "sha256": "34d4af19fe9d255115b53630e6186d06ed50f73c9d2025a6106e870250c52916"
+    },
+    {
+      "path": "book/README.md",
+      "bytes": 18371,
+      "sha256": "14b124655dfd09eac7b6ade6c7ffd59352ea20bee4f53f417a8e70d788a09c4f"
+    },
+    {
+      "path": "docs/charter.md",
+      "bytes": 17599,
+      "sha256": "6d7e7f64a3e8f52440a13fc8b08cead2ef1a94aa324be7fbf92eb1f95edc3287"
+    },
+    {
+      "path": "docs/framework-baseline-readiness.md",
+      "bytes": 6150,
+      "sha256": "11a00299a63b22bbcc5c64dad17483aee8276c0aad0f4caa7b45e5f97930fa8a"
+    },
+    {
+      "path": "docs/history/charter-v0.3-2026-11-12.md",
+      "bytes": 17557,
+      "sha256": "4874fd277496488605de75c545ea4df58bde36dbacdc8e05a9c53bece5c769b6"
+    },
+    {
+      "path": "docs/history/charter-v0.3-2026-11-12.original.md",
+      "bytes": 17137,
+      "sha256": "5d9c87274da9a74ae01aaf7577203d8e939a0d2148038d0ab1c3fbaf6febbc38"
+    },
+    {
+      "path": "docs/history/charter-v0.3-2026-11-12.provenance.json",
+      "bytes": 497,
+      "sha256": "edc01b74c102a03441dc58834b637c72879a16e5eb629620b187e88fd65497b7"
+    },
+    {
+      "path": "docs/research-dependencies.md",
+      "bytes": 18297,
+      "sha256": "4624297e9679fd8a3fc88a040d99c83106cd8673fcbefaa35eff380229a4c177"
+    },
+    {
+      "path": "README.md",
+      "bytes": 11131,
+      "sha256": "7e3c4c3aa641557989dd1a5f12a1ab88bec3a97a70e570bc939c66cb8a65f543"
+    },
+    {
+      "path": "research/audits/framework-closure-2026-11-12/input-receipt.json",
+      "bytes": 912,
+      "sha256": "2bbdc72ab636d78153190ab54c33ee065ae717d4834cc5fdb596efecff705968"
+    },
+    {
+      "path": "research/audits/framework-closure-2026-11-12/source-reuse.json",
+      "bytes": 2229,
+      "sha256": "e19dffef6b2297262f34eaac9f08106ea9ad52bb34bd2fe0c943cfbabef0e3b4"
+    },
+    {
+      "path": "research/audits/framework-closure-2026-11-12/verification.json",
+      "bytes": 1658,
+      "sha256": "bd366353332035e317dc01f57a51530d8d4c43b9c2f3b12acc5eabfa0cc4b28e"
+    },
+    {
+      "path": "research/examples/ai-income-feedback-accounts.py",
+      "bytes": 4498,
+      "sha256": "9c37500449dd9da07a17ed6121596c8e8d61ab82d0d9d3162fa5c8ec1126ea5d"
+    },
+    {
+      "path": "research/README.md",
+      "bytes": 24780,
+      "sha256": "284d2956f9ecc028cea8ac77976cda3b2e2d62833c0e3060c148e2bfae215632"
+    },
+    {
+      "path": "research/reviews/41-framework-closure.md",
+      "bytes": 6532,
+      "sha256": "8c92ec4f4fdef33f778e5c0f9bd4b32bf19efa64d93f097228b5a1e65fdd2d84"
+    },
+    {
+      "path": "research/surveys/07-organization-formation/organization-comparison-and-boundaries.md",
+      "bytes": 6867,
+      "sha256": "7560d145980023948e18cff34f01490aa80874fc6944170bda41377209b72d7b"
+    },
+    {
+      "path": "research/surveys/07-organization-formation/README.md",
+      "bytes": 7372,
+      "sha256": "b2dd49b1c2d39e3503133135c668e0f9cf3d5fc888eff219e2b9db17651b7f50"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/ai-income-account-results.json",
+      "bytes": 3665,
+      "sha256": "27f29154c4aae986314d99036a049c2d4ce368f01f247ed94762ee64df000eb2"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/ai-income-cash-ledger.csv",
+      "bytes": 2005,
+      "sha256": "eccecde4a9354e65d62c9e4d9196ffd7c77fb0f2de273cde636ee2d3452a6c69"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md",
+      "bytes": 7751,
+      "sha256": "973eb1069fd0ad5141f9c001d3261c15b51110f19bb6b38bf52cc3be6345c696"
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/README.md",
+      "bytes": 9147,
+      "sha256": "7241cae33a5b68ac58c20ff1d4496c390a89c7a9c43a1f6c65675ff809883da5"
+    },
+    {
+      "path": "research/tools/verify-framework-closure.py",
+      "bytes": 9753,
+      "sha256": "88e662973bd146735610db3f37b46b530ff055b84b32a62d303069a10072c9f9"
+    },
+    {
+      "path": "shared/minimal-theory-core.md",
+      "bytes": 6911,
+      "sha256": "72eba7bf100eb093145e78318a1e584d625583c58f2b158940d49043ce32699e"
+    }
+  ]
+}

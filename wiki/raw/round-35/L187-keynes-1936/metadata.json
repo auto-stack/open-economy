@@ -1,0 +1,33 @@
+{
+  "id": "L187-keynes-1936",
+  "title": "The General Theory of Employment, Interest and Money, chapters3 and8",
+  "authors": [
+    "John Maynard Keynes"
+  ],
+  "publication": "Book1936; actual digital edition Project Gutenberg Australia0300071h,Edition1,postedFebruary2003",
+  "url": "https://gutenberg.net.au/ebooks03/0300071h/0-index.html",
+  "actual_version": "Chapter HTML plus edition index, site explicitly does not identify a particular paper edition; declared Latin-1",
+  "read_scope": "Chapter3 sectionI and sectionII opening outline;chapter8 sectionI opening through consumption-factor classification;edition notice;not full book or complete macro theory",
+  "extraction_note": "Original HTML bytes retained; extracted UTF-8 text decoded using declared Latin-1; some source formula glyphs imperfect",
+  "research_date_local": "2026-11-12",
+  "reading_notes": "../../../../research/surveys/08-price-income-and-reinvestment/reading-notes.md",
+  "rights": "Original rights and license retained; local research archive is not blanket redistribution authorization.",
+  "knowledge_base_status": "Raw archived; not imported or converted into AutoDown.",
+  "archived_files": [
+    {
+      "file": "chapter-03.html",
+      "bytes": 21886,
+      "sha256": "345e0fdd6ae5b6c1c61ba2dc0ba460190a0d912176ba4adc711a2909efd45fdd"
+    },
+    {
+      "file": "chapter-08.html",
+      "bytes": 37557,
+      "sha256": "4f2eedb0913ecb6324d1a518fc8d8357f79997b982d5335fdd12183a20e93d58"
+    },
+    {
+      "file": "edition-index.html",
+      "bytes": 5526,
+      "sha256": "f7c2739d0513507a63e9406da1bdc18041b5141aa03b3ef188e5286ebc088d5c"
+    }
+  ]
+}

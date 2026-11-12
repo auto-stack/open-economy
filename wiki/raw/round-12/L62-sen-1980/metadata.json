@@ -1,0 +1,21 @@
+{
+  "id": "L62-sen-1980",
+  "authors": "Amartya Sen",
+  "title": "Equality of What?",
+  "source_type": "normative philosophical lecture; not a biological law or empirical human-needs study",
+  "lecture_date": "1979-05-22",
+  "publication_year": 1980,
+  "publication": "The Tanner Lectures on Human Values, Volume 1, pp.197-220",
+  "source_url": "https://tannerlectures.org/documents/sen80/",
+  "retrieved_at_utc": "2026-11-11T20:43:58.658805+00:00",
+  "research_date_local": "2026-11-12",
+  "format": "html",
+  "version": "Official Tanner Lectures HTML transcription of lecture; not a downloaded typeset PDF. HTML title contains line breaks.",
+  "bytes": 97294,
+  "sha256": "b9b122f9135651a27f8efe9388da30799721fca2b0b881c92b172d5f397af6d4",
+  "read_scope": "Targeted reading of final Rawlsian equality passages and full BASIC CAPABILITY EQUALITY and CONCLUDING REMARKS sections in official HTML; section-based, no PDF pagination; not entire lecture.",
+  "rights": "Original rights retained; local research archive.",
+  "publication_year_source": "Author Harvard bibliography via web tool; record in ../search-02.json. Direct local retrieval returned 403, retained as failure.",
+  "reading_notes": "../../../../research/reviews/13-human-maintenance-objects.md",
+  "retrieval_time_note": "Approximate retrieval time from original response file write timestamp."
+}

@@ -1,0 +1,113 @@
+{
+  "status": "illustrative models, not empirical evidence",
+  "unfair_strategy": {
+    "extra_receipts_plus_avoided_cost": 12,
+    "additional_other_cost": 2,
+    "conditional_loss_if_detected": 50,
+    "cases": [
+      {
+        "detection_probability": 0.1,
+        "incremental_expected_payoff": 5.0
+      },
+      {
+        "detection_probability": 0.2,
+        "incremental_expected_payoff": 0.0
+      },
+      {
+        "detection_probability": 0.3,
+        "incremental_expected_payoff": -5.0
+      }
+    ],
+    "break_even_probability": 0.2
+  },
+  "coalition_example": {
+    "value_rule": "0 for empty/singleton; 100 for any pair or all three",
+    "orders": [
+      {
+        "order": [
+          "A",
+          "B",
+          "C"
+        ],
+        "marginal_increments": {
+          "A": 0,
+          "B": 100,
+          "C": 0
+        }
+      },
+      {
+        "order": [
+          "A",
+          "C",
+          "B"
+        ],
+        "marginal_increments": {
+          "A": 0,
+          "C": 100,
+          "B": 0
+        }
+      },
+      {
+        "order": [
+          "B",
+          "A",
+          "C"
+        ],
+        "marginal_increments": {
+          "B": 0,
+          "A": 100,
+          "C": 0
+        }
+      },
+      {
+        "order": [
+          "B",
+          "C",
+          "A"
+        ],
+        "marginal_increments": {
+          "B": 0,
+          "C": 100,
+          "A": 0
+        }
+      },
+      {
+        "order": [
+          "C",
+          "A",
+          "B"
+        ],
+        "marginal_increments": {
+          "C": 0,
+          "A": 100,
+          "B": 0
+        }
+      },
+      {
+        "order": [
+          "C",
+          "B",
+          "A"
+        ],
+        "marginal_increments": {
+          "C": 0,
+          "B": 100,
+          "A": 0
+        }
+      }
+    ],
+    "mean_marginal_allocation": {
+      "A": "100/3",
+      "B": "100/3",
+      "C": "100/3"
+    },
+    "total_allocation": "100",
+    "pair_allocations": {
+      "A-B": "200/3",
+      "A-C": "200/3",
+      "B-C": "200/3"
+    },
+    "blocking_pair_value": 100,
+    "empty_core_reason": "Adding all three pair stability constraints requires 2*(xA+xB+xC)>=300, contradicting total=100."
+  }
+}

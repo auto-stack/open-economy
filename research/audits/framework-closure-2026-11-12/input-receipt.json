@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-12",
+  "stage": "before_canonical_framework_update",
+  "files": [
+    {
+      "path": "docs/charter.md",
+      "bytes": 17137,
+      "sha256": "5d9c87274da9a74ae01aaf7577203d8e939a0d2148038d0ab1c3fbaf6febbc38"
+    },
+    {
+      "path": "book/outline.md",
+      "bytes": 11000,
+      "sha256": "35a1b13ca4a1a3fe31d4351ae1512bb3c516ccb2d4d3351d4518956ef9cce9ce"
+    },
+    {
+      "path": "book/argument-map.md",
+      "bytes": 7491,
+      "sha256": "0fa36e04470f2c8f67bd290b4a898f481098fbb5c3b1d80e7f65b41a55b9ebe4"
+    },
+    {
+      "path": "docs/framework-baseline-readiness.md",
+      "bytes": 5847,
+      "sha256": "3d917820191e899ecac967fe0dd4e7caa7b3eefb4dae14efd66823f419db4918"
+    },
+    {
+      "path": "shared/theory-register.md",
+      "bytes": 24896,
+      "sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5"
+    }
+  ]
+}

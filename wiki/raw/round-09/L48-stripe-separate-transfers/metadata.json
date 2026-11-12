@@ -1,0 +1,22 @@
+{
+  "id": "L48-stripe-separate-transfers",
+  "requested_url": "https://docs.stripe.com/connect/separate-charges-and-transfers",
+  "retrieved_at_utc": "2026-11-11T14:55:26.483797+00:00",
+  "status_code": 200,
+  "final_url": "https://docs.stripe.com/connect/separate-charges-and-transfers",
+  "content_type": "text/html; charset=utf-8",
+  "file": "original.html",
+  "bytes": 1818895,
+  "sha256": "8c039d5a5e2b18b89d52c7697e5915ac32a9719da50d2c7ceb526025bc4aad0b",
+  "download_status": "downloaded",
+  "extracted_chars": 19191,
+  "author": "Stripe",
+  "title": "Create Separate Charges and Transfers",
+  "archived_version": "Official documentation snapshot retrieved 2026-11-11; not assigned a publication year",
+  "reading_scope": "Introductory account-debit responsibility, Issue refunds and Reverse transfers; not code, rates, availability or region lists",
+  "text_extraction_status": "Main-text search aid; includes code and navigation not adopted as evidence",
+  "source_id": "L48",
+  "directory": "L48-stripe-separate-transfers",
+  "reading_status": "targeted_passages_read",
+  "copyright_notice": "Original notices retained; no new redistribution license inferred"
+}

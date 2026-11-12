@@ -1,0 +1,30 @@
+{
+  "id": "L147-klyubin-polani-nehaniv-2005",
+  "title": "Empowerment: A Universal Agent-Centric Measure of Control",
+  "authors": "Alexander S.Klyubin; Daniel Polani; Chrystopher L.Nehaniv",
+  "publication": "IEEECEC2005,128-135;university archive PDF",
+  "url": "https://uhra.herts.ac.uk/id/eprint/282/1/901241.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-4selected intro,channel,sections2.2-2.3;PDF3visually inspected;not subsequent full evolution experiments.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 8,
+  "sha256": "19bd4594ea68f6aafd44ce2c929de315ab78c5b14d82a4c930b3cbe76bc47ba6",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://uhra.herts.ac.uk/id/eprint/282/1/901241.pdf",
+  "status_code": 200,
+  "bytes": 1697921,
+  "retrieved_at_utc": "2026-11-12T05:16:44.286798+00:00",
+  "actual_version": "IEEECEC2005,128-135,8page university-hosted proceedings copy;repository2025/2026timestamps not publication dates.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 1697921,
+      "sha256": "19bd4594ea68f6aafd44ce2c929de315ab78c5b14d82a4c930b3cbe76bc47ba6"
+    }
+  ]
+}

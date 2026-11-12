@@ -1,0 +1,29 @@
+{
+  "id": "L159-juslin-vastfjall-2008",
+  "title": "Emotional responses to music: The need to consider underlying mechanisms",
+  "authors": "Patrik N.Juslin; Daniel Vastfjall",
+  "publication": "BBS31,2008;target article plus possible commentary and response;inspect file",
+  "url": "https://www.appstate.edu/~steelekm/classes/psy5150/Documents/Juslin%26Vastfjall2008.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-3,5target article only;PDF3definitions visually checked;other target pages/commentaries/reply not read",
+  "selection_status": "targeted_theoretical_framework_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 63,
+  "sha256": "1c33ff4951c2cc016274681b64535558455521402f237805d5e300e5f870d73a",
+  "archived_file": "original.pdf",
+  "download_status": "original_source_file_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.appstate.edu/~steelekm/classes/psy5150/Documents/Juslin%26Vastfjall2008.pdf",
+  "status_code": 200,
+  "bytes": 760151,
+  "retrieved_at_utc": "2026-11-12T06:00:19.188412+00:00",
+  "actual_version": "BBS31,2008,target559-575;63page file559-621includes commentaries and response",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 760151,
+    "sha256": "1c33ff4951c2cc016274681b64535558455521402f237805d5e300e5f870d73a"
+  }
+}

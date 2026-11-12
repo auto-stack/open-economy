@@ -1,0 +1,34 @@
+{
+  "id": "L101-met-barley-account",
+  "title": "Cuneiform tablet: administrative account with entries concerning malt and barley groats",
+  "authors": "Metropolitan Museum of Art",
+  "publication": "Object1988.433.3; catalogue dates ca3100-2900BCE; probable Uruk,temple function is curatorial inference",
+  "url": "https://www.metmuseum.org/art/collection/search/327385",
+  "research_date_local": "2026-11-12",
+  "read_scope": "API identity/date/material and webpage opening description; temple distribution retained as most-likely interpretation",
+  "selection_status": "selected_catalogue_and_partial_interpretation",
+  "rights": "Original rights retained; local research archive. Downloaded catalogue/transcription/preview does not imply full work or redistribution permission.",
+  "download_status": "original_catalogue_plus_partial_webpage",
+  "original_downloaded": true,
+  "evidence_type": "catalogue_and_curatorial_interpretation",
+  "downloaded_document_scope": "Official catalogue JSON plus partial curator webpage, no independent transliteration",
+  "original_files": [
+    {
+      "path": "original.json",
+      "bytes": 1912,
+      "sha256": "d42b8e15c7790b73816f8a1aefc922a613dccdeb4645d4a350edbc4799e6dc45",
+      "source_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/327385",
+      "document_scope": "Official catalogue JSON plus partial curator webpage, no independent transliteration"
+    }
+  ],
+  "partial_tool_text_downloaded": true,
+  "full_text_of_target_research_work_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/case-reading-notes.md",
+  "partial_tool_text": {
+    "path": "partial-web-tool-text.txt",
+    "sha256": "2674a342fb0d7e2f5e641a8dc57423401dd217adfa4ebf8234e4df289129b097",
+    "is_original_file": false
+  },
+  "format": "json",
+  "sha256": "d42b8e15c7790b73816f8a1aefc922a613dccdeb4645d4a350edbc4799e6dc45"
+}

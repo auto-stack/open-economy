@@ -1,0 +1,23 @@
+{
+  "id": "L24-hartwell-et-al-1999",
+  "requested_url": "https://www.cs.princeton.edu/~chazelle/courses/BIB/Hartwell.pdf",
+  "retrieved_at_utc": "2026-11-11T11:58:33.781414+00:00",
+  "status_code": 200,
+  "final_url": "https://www.cs.princeton.edu/~chazelle/courses/BIB/Hartwell.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 410696,
+  "sha256": "3a0bfad15c66acc758e58fd9c3c86c222127a7235127170552acf864734dba42",
+  "pdf_pages": 6,
+  "download_status": "downloaded",
+  "extracted_chars": 37828,
+  "source_id": "L24",
+  "directory": "L24-hartwell-et-al-1999",
+  "author": "Leland H. Hartwell; John J. Hopfield; Stanislas Leibler; Andrew W. Murray",
+  "title": "From Molecular to Modular Cell Biology",
+  "publication_year": 1999,
+  "archived_version": "University-hosted Nature 402 Supplement,C47-C52 copy",
+  "reading_scope": "C47-C51 / PDF pp.1-5; emphasis C48 functional modules, insulation and connectivity",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

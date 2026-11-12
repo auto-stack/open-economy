@@ -1,0 +1,23 @@
+{
+  "id": "L151-salganik-dodds-watts-2006",
+  "title": "Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market",
+  "authors": "Matthew J.Salganik; Peter Sheridan Dodds; Duncan J.Watts",
+  "publication": "Science311,2006,854-856;author-hosted full file may contain supplement",
+  "url": "https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-2,4-5;PDF1 visually inspected;no full supplement reading or data reanalysis.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 19,
+  "sha256": "8f2195f297d4f294806fb82e251513a39a6c55eefddb0c010e78094bbca018a5",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf",
+  "status_code": 200,
+  "bytes": 611366,
+  "retrieved_at_utc": "2026-11-12T05:31:48.031211+00:00",
+  "actual_version": "Science311,2006,854-856;19page author file with mainPDF1-3,SOMcoverPDF4 and additional material.",
+  "knowledge_base_status": "archived;not yet converted/imported into AutoDown"
+}

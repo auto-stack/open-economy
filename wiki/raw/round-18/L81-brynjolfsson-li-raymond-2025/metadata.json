@@ -1,0 +1,21 @@
+{
+  "id": "L81-brynjolfsson-li-raymond-2025",
+  "title": "Generative AI at Work",
+  "authors": "Erik Brynjolfsson; Danielle Li; Lindsey Raymond",
+  "doi": "10.1093/qje/qjae044",
+  "publication": "The Quarterly Journal of Economics 140(2) (2025),889-942",
+  "format": "html",
+  "research_date_local": "2026-11-12",
+  "version": "2025 journal article served by publisher CDN, not 2023 working paper",
+  "read_scope": "Abstract, selected Introduction, end of III describing assistance and human discretion, IV.A AI Rollout, RCT Analysis and opening Robustness paragraphs, opening VIII Conclusion and generalization caveat. No reanalysis of estimates or all robustness checks.",
+  "sha256": "445ade027b5d742c661364a295632d71d717d909f1392a79680d8f9f34f52681",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://oup.silverchair-cdn.com/article-minimal/7990658",
+  "final_url": "https://oup.silverchair-cdn.com/article-minimal/7990658",
+  "status_code": 200,
+  "bytes": 462183,
+  "retrieved_at_utc": "2026-11-12T01:36:30.610200+00:00",
+  "validation": "Publisher CDN article title and content matched",
+  "source_type": "primary workplace study of staggered AI assistance deployment",
+  "reading_notes": "../../../../research/reviews/18-reading-notes.md"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "L107-chnmuseum-huizi",
+  "title": "会子版",
+  "authors": "National Museum of China",
+  "publication": "Collection interpretation; webpage date/version to inspect",
+  "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26121.shtml",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Title and full short description on huizi printing plate,denominations,official issuance and fiscal explanation; no geographic universality or independent inflation series",
+  "selection_status": "selected_object_description",
+  "rights": "Original rights retained; local research archive. Downloaded catalogue/transcription/preview does not imply full work or redistribution permission.",
+  "format": "html",
+  "pages": null,
+  "sha256": "f4e89e41935e3bb53a4ab78da40d29574392c8a0b9d64229672ab8296799eeb1",
+  "archived_file": "original.html",
+  "download_status": "downloaded_inspected_scope",
+  "original_downloaded": true,
+  "final_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26121.shtml",
+  "status_code": 200,
+  "bytes": 29084,
+  "retrieved_at_utc": "2026-11-12T02:48:18.831774+00:00",
+  "evidence_type": "museum_object_and_historical_explanation",
+  "downloaded_document_scope": "Full official object-description webpage",
+  "original_files": [
+    {
+      "path": "original.html",
+      "bytes": 29084,
+      "sha256": "f4e89e41935e3bb53a4ab78da40d29574392c8a0b9d64229672ab8296799eeb1",
+      "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26121.shtml",
+      "document_scope": "Full official object-description webpage"
+    }
+  ],
+  "partial_tool_text_downloaded": false,
+  "full_text_of_target_research_work_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/case-reading-notes.md"
+}

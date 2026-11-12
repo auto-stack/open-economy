@@ -1,0 +1,155 @@
+{
+  "date_local": "2026-11-12",
+  "status": "pass",
+  "page_count": 13,
+  "source_count": 3,
+  "formula_entries": 22,
+  "page_checks": [
+    {
+      "work_id": "L185",
+      "pdf_page": 2,
+      "printed_page": 155,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "highly rational",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L185",
+      "pdf_page": 4,
+      "printed_page": 157,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "probability combination",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L185",
+      "pdf_page": 5,
+      "printed_page": 158,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "compact and convex",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L185",
+      "pdf_page": 6,
+      "printed_page": 159,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "u_1u_2",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L189",
+      "pdf_page": 2,
+      "printed_page": 393,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "adverse selection effect",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L189",
+      "pdf_page": 3,
+      "printed_page": 394,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "bank-optimal",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L189",
+      "pdf_page": 4,
+      "printed_page": 395,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "\\tag{2}",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L190",
+      "pdf_page": 2,
+      "printed_page": 663,
+      "printed_page_basis": "cover pp663–691 plus following visible664",
+      "searchable_phrase": "capital constrained",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L190",
+      "pdf_page": 3,
+      "printed_page": 664,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "flight-to-quality",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L190",
+      "pdf_page": 4,
+      "printed_page": 665,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "credible monitors",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L190",
+      "pdf_page": 5,
+      "printed_page": 666,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "Another implication",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L190",
+      "pdf_page": 6,
+      "printed_page": 667,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "\\Delta p",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    },
+    {
+      "work_id": "L190",
+      "pdf_page": 7,
+      "printed_page": 668,
+      "printed_page_basis": "visible numeral",
+      "searchable_phrase": "\\gamma I",
+      "phrase_found": true,
+      "raw_engine_text_preserved": true,
+      "visual_review_record": "page image and OCR compared; formula and printed-page mapping checked"
+    }
+  ],
+  "original_pdf_hashes_match": true,
+  "previous_manifest_entries_matching": 1117,
+  "historical_baseline_artifacts_matching": 25,
+  "historical_baseline_rerun": false,
+  "formal_register_unchanged": true,
+  "raw_sources_modified": false,
+  "new_network_sources": 0,
+  "new_raw_batch": false,
+  "local_links_checked": 651,
+  "broken_links": [],
+  "independent_human_review": false,
+  "full_work_ocr": false,
+  "searchable_pdf_created": false,
+  "AutoDown_import_executed": false,
+  "source_issue": "L189 printed395 body/footnote5 project-number direction discrepancy retained, not resolved.",
+  "checks_meaning": "File integrity, scope, traceability and fixed-string search; visual fidelity is the documented single-assistant review, not proved by these automated checks."
+}

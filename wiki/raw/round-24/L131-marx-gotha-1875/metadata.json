@@ -1,0 +1,35 @@
+{
+  "id": "L131-marx-gotha-1875",
+  "title": "Critique of the Gotha Programme, Part I",
+  "authors": "Karl Marx",
+  "publication": "Written1875; mirror of Marxists Internet Archive English translation,selectedPartI",
+  "url": "https://www.dhspriory.org/kenny/PhilTexts/Marx/www.marxists.org/archive/marx/works/1875/gotha/ch01.htm",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PartI item1 opening on nature/labor and item3 deductions, labor measures, needs and production/distribution relation,ending before item4. Mirror passages compared to original-site web text; no full character collation.",
+  "selection_status": "adopted_targeted_html",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "html",
+  "pages": null,
+  "sha256": "684b6bfe4a7b79db06eb51db8a3c1829961ed74549c86443b6c4f8616e6c6385",
+  "archived_file": "original.html",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.dhspriory.org/kenny/PhilTexts/Marx/www.marxists.org/archive/marx/works/1875/gotha/ch01.htm",
+  "status_code": 200,
+  "bytes": 25079,
+  "retrieved_at_utc": "2026-11-12T04:21:10.757588+00:00",
+  "actual_version": "Written1875; MIA English text mirror; directory says based on ProgressPublishers1970 SelectedWorksIII,online1999; not manuscript or German critical edition.",
+  "knowledge_base_status": "provenance and extraction stored;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "edition-record.tool.partial.txt",
+      "sha256": "a58966b847950d3809f10232ccbe2c87bf4c9827b3ef41e4b40799dcfae481d3",
+      "bytes": 2433
+    },
+    {
+      "file": "original.html",
+      "sha256": "684b6bfe4a7b79db06eb51db8a3c1829961ed74549c86443b6c4f8616e6c6385",
+      "bytes": 25079
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "L108-quinn-roberds-2010",
+  "title": "How Amsterdam Got Fiat Money",
+  "authors": "Stephen Quinn; William Roberds",
+  "publication": "Federal Reserve Bank of Atlanta Working Paper2010-17,December2010; FRASER archival copy",
+  "url": "https://fraser.stlouisfed.org/files/docs/historical/frbatl/wp/frbatl_wp_2010-17.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF pp1-17,49-50,56-57; history,data methods,conclusion,appendix accounting opening; p13 visual check; VAR and full archival series not replicated",
+  "selection_status": "selected_paper_parts",
+  "rights": "Original rights retained; local research archive. Downloaded catalogue/transcription/preview does not imply full work or redistribution permission.",
+  "format": "pdf",
+  "pages": 109,
+  "sha256": "da588115643620817582ee100ab58e7730251b62decfb03687d0bd00e1233f86",
+  "archived_file": "original.pdf",
+  "download_status": "downloaded_inspected_scope",
+  "original_downloaded": true,
+  "final_url": "https://fraser.stlouisfed.org/files/docs/historical/frbatl/wp/frbatl_wp_2010-17.pdf",
+  "status_code": 200,
+  "bytes": 677333,
+  "retrieved_at_utc": "2026-11-12T02:48:19.464279+00:00",
+  "evidence_type": "archival_historical_research",
+  "downloaded_document_scope": "Complete109-page2010working paper, not2014journal version",
+  "original_files": [
+    {
+      "path": "original.pdf",
+      "bytes": 677333,
+      "sha256": "da588115643620817582ee100ab58e7730251b62decfb03687d0bd00e1233f86",
+      "source_url": "https://fraser.stlouisfed.org/files/docs/historical/frbatl/wp/frbatl_wp_2010-17.pdf",
+      "document_scope": "Complete109-page2010working paper, not2014journal version"
+    }
+  ],
+  "partial_tool_text_downloaded": false,
+  "full_text_of_target_research_work_obtained": true,
+  "notes": "../../../../research/surveys/02-wealth-money-history/case-reading-notes.md"
+}

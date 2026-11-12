@@ -1,0 +1,19 @@
+{
+  "id": "L08-nasa-candle",
+  "requested_url": "https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/",
+  "retrieved_at_utc": "2026-11-11T06:57:46.603292+00:00",
+  "status_code": 200,
+  "final_url": "https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/",
+  "content_type": "text/html; charset=UTF-8",
+  "file": "original.html",
+  "bytes": 277926,
+  "sha256": "2f7404f83ea570b988282fe70a90c10206fd24f9763c6452d25d506a7a9d75f5",
+  "download_status": "downloaded",
+  "author": "NASA Biological and Physical Sciences",
+  "title": "Why NASA Is Studying Flames in Space",
+  "publication_year": null,
+  "reading_status": "targeted_passages_read",
+  "reading_scope": "What causes flames to behave differently in space?",
+  "role": "case_supplement",
+  "extracted_text_status": "search_aid_not_authoritative"
+}

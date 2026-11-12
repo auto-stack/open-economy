@@ -1,0 +1,152 @@
+{
+  "date_local": "2026-11-12",
+  "artifacts": [
+    {
+      "path": "README.md",
+      "sha256": "8395e69f7e9967531736f2ee5ff16d2753b70773a36ddac6e55d450cf4292d9d",
+      "bytes": 9148
+    },
+    {
+      "path": "book/README.md",
+      "sha256": "4adaa64f736864f0c5b375c6a6f73cb48aae2fd9980ddf6648e9da336867ed13",
+      "bytes": 17378
+    },
+    {
+      "path": "book/outline.md",
+      "sha256": "35a1b13ca4a1a3fe31d4351ae1512bb3c516ccb2d4d3351d4518956ef9cce9ce",
+      "bytes": 11000
+    },
+    {
+      "path": "book/argument-map.md",
+      "sha256": "0fa36e04470f2c8f67bd290b4a898f481098fbb5c3b1d80e7f65b41a55b9ebe4",
+      "bytes": 7491
+    },
+    {
+      "path": "docs/charter.md",
+      "sha256": "5d9c87274da9a74ae01aaf7577203d8e939a0d2148038d0ab1c3fbaf6febbc38",
+      "bytes": 17137
+    },
+    {
+      "path": "docs/research-dependencies.md",
+      "sha256": "5ef8cbddaca3d7a82485f85e2080cdcef54332610ef7a2b41fc87831a18e40d8",
+      "bytes": 17841
+    },
+    {
+      "path": "shared/concept-interfaces.md",
+      "sha256": "d29016243d3dfc3c527c268d643c56d8f9b5fc8b98ea0e2e9f17c8402d28c2ce",
+      "bytes": 7659
+    },
+    {
+      "path": "research/README.md",
+      "sha256": "3ea81db90446ae9d25b93fd44af507e33d98698250f11c0aad7d8e7fc45d05bc",
+      "bytes": 23087
+    },
+    {
+      "path": "wiki/raw/README.md",
+      "sha256": "59ca4b572d572013dfa5fa80a42e5d62a403fe5716a5c58c87601785f8c3fd89",
+      "bytes": 9455
+    },
+    {
+      "path": "wiki/raw/round-36/README.md",
+      "sha256": "34ef60d530cda4cba1faa8e9247b59c2b8f728d8ad34c7842b185597c8ec8f6f",
+      "bytes": 2537
+    },
+    {
+      "path": "research/reviews/36-credit-investment-feedback-and-maintenance.md",
+      "sha256": "19de62ee3d79e8aaf76fda02b09e9db213459e2c8fa1764c36c48416e5d57307",
+      "bytes": 4410
+    },
+    {
+      "path": "research/reviews/09-autoos-open-business.md",
+      "sha256": "4f1927585e1342ed3d33b39131faeeef678293b6bb1077bb356a877a5ba863ea",
+      "bytes": 18823
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/README.md",
+      "sha256": "ebdfa229e59b089f5171f72f35b681291005315ffdb1f5d26e291016d82a4e4f",
+      "bytes": 8418
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/protocol.md",
+      "sha256": "5479a5b642624711446881b36aa14718baab610b27cd9c57779c95864a1ccea7",
+      "bytes": 6241
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/chapter-interfaces.md",
+      "sha256": "bb5d584985574c23d552ff1d1f5005b6e6b4c5857ba9ca6b8f6b28a87cebfe36",
+      "bytes": 2655
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/credit-investment-and-reinvestment.md",
+      "sha256": "c200799edbf791c7bff81452f3710879ded93f8c24020d3916a2c298f3870af5",
+      "bytes": 7648
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/credit-reading-notes.md",
+      "sha256": "f1741dda18d804eacd08a0520751024679effcd6b4df4a82ea972bb22107039f",
+      "bytes": 4008
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/credit-models.md",
+      "sha256": "43b4c4d862d2928fec47fc946df6bd8a4abc75cf74375c398eaba3bf3f824702",
+      "bytes": 4228
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/README.md",
+      "sha256": "b8421e1cc9cba1f3da82a19b1aa7723ed74d19eab59e5fb8a11e140a9143d943",
+      "bytes": 6335
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md",
+      "sha256": "ddd92cb9484ef50362741e514000d10e4755549a42f309614bd0ff461848d983",
+      "bytes": 9331
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/open-business-finance-and-maintenance.md",
+      "sha256": "c5d3cf2f79f537614a23883594cc12ecc63681e2963e239f208d780dae65976a",
+      "bytes": 7158
+    },
+    {
+      "path": "book/part-05/04-transactions-prices-and-market-rules.md",
+      "sha256": "1d354e001e1834dc3c394e3f48233b5c650e1c647882d8e1bf544fc99c6a014e",
+      "bytes": 8617
+    },
+    {
+      "path": "book/part-05/06-investment-income-and-reinvestment.md",
+      "sha256": "5415bf345f516a90ba67656c3745c27773844d328c7ad8b2c913110bbe4632c9",
+      "bytes": 10135
+    },
+    {
+      "path": "book/argument-cards/part-05-06-investment-income-and-reinvestment.md",
+      "sha256": "4b89517c5593984a032aeddd728a52a16c6907296e1b6932c82c121c34a3d275",
+      "bytes": 2769
+    },
+    {
+      "path": "research/examples/credit-reinvestment-models.py",
+      "sha256": "d53047b4d861fbfa88e38615e649d365453678636a9227a998e547fbc84c5b2f",
+      "bytes": 5584
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/credit-model-results.json",
+      "sha256": "0ad449d912ca785df6255b73f9b05750ce6f0753c163d5d497be133a25e7333f",
+      "bytes": 10518
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/credit-mechanism-matrix.csv",
+      "sha256": "a3d8fec5e80b4af7d9b43d4968c3128decabaf42b8226a4f5a974677b47f3b80",
+      "bytes": 1876
+    },
+    {
+      "path": "research/surveys/08-price-income-and-reinvestment/credit-selection.csv",
+      "sha256": "cc93a205a40806ec702ec930619a8f2f4ab5f1054b8485a840e853d008bd5bdd",
+      "bytes": 954
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/financing-maintenance-template.csv",
+      "sha256": "9ad326441f58c41778bca0b46d27f4fb43baba24d363d01accd0da910805e9cd",
+      "bytes": 418
+    }
+  ],
+  "raw_manifest": "wiki/raw/round-36/manifest.json",
+  "reading_scope": "See source metadata and credit-reading-notes.md; scans and working/final versions distinguished"
+}

@@ -1,0 +1,66 @@
+{
+  "status": "pass",
+  "date": "2026-11-12",
+  "manifest_files_verified": 59,
+  "reused_source_hashes_verified": 6,
+  "local_links_checked": 44,
+  "pdfs_parsed": [
+    {
+      "source": "L116-akerlof-1970",
+      "pages": 14,
+      "text_chars": 34176
+    },
+    {
+      "source": "L117-gabaix-laibson-2006",
+      "pages": 36,
+      "text_chars": 87220
+    },
+    {
+      "source": "L118-stigler-1971",
+      "pages": 19,
+      "text_chars": 55093
+    },
+    {
+      "source": "L120-fcic-conclusions-2011",
+      "pages": 14,
+      "text_chars": 43993
+    },
+    {
+      "source": "L122-lerner-tirole-2000",
+      "pages": 40,
+      "text_chars": 75083
+    },
+    {
+      "source": "L123-hoffmann-nagle-zhou-2024",
+      "pages": 42,
+      "text_chars": 88841
+    },
+    {
+      "source": "L125-holmstrom-milgrom-1991",
+      "pages": 15,
+      "text_chars": 0
+    },
+    {
+      "source": "L126-ftc-ai-partnerships-2025",
+      "pages": 43,
+      "text_chars": 145373
+    },
+    {
+      "source": "L127-scheinkman-xiong-2003",
+      "pages": 37,
+      "text_chars": 80483
+    }
+  ],
+  "illustrative_model_payoffs": [
+    5.0,
+    0.0,
+    -5.0
+  ],
+  "mean_marginal_allocation": {
+    "A": "100/3",
+    "B": "100/3",
+    "C": "100/3"
+  },
+  "errors": [],
+  "scope": "Archive integrity, links, stated acquisition status and finite illustrative calculations only; not independent proof of source claims or real-world causal effects."
+}

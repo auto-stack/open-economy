@@ -1,0 +1,48 @@
+# Local source packages, exports and temporary verification checkouts.
+/.local-artifacts/
+/tmp/
+/.venv/
+/.env
+/.env.*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+*.tmp
+# Preliminary checks are local execution receipts, not stable release evidence.
+/research/audits/versioning-2026-11-12/precommit-check.json
+
+# Research page renders are source-inspection artifacts, not manuscript figures.
+**/inspection/**
+
+# Raw archives stay complete locally. Publish only reviewed descriptive records.
+/wiki/raw/**
+!/wiki/raw/**/
+!/wiki/raw/**/README.md
+!/wiki/raw/**/metadata.json
+!/wiki/raw/**/attempt-metadata.json
+!/wiki/raw/**/manifest.json
+!/wiki/raw/**/crosscheck-metadata.json
+!/wiki/raw/**/read-scope-extension.json
+!/wiki/raw/**/source-reuse.json
+!/wiki/raw/**/download-log.json
+!/wiki/raw/**/acquisition-attempts.json
+!/wiki/raw/**/response-classification.json
+!/wiki/raw/**/*.sha256
+
+# Derived full-page transcriptions, word boxes and scan images remain local.
+# Keep our formula checks and provenance; do not whitelist by text extension.
+/wiki/derived/**
+!/wiki/derived/**/
+!/wiki/derived/**/README.md
+!/wiki/derived/**/formula-and-page-checks.md
+!/wiki/derived/**/verified-formulas.md
+!/wiki/derived/**/formula-register.json
+!/wiki/derived/**/provenance.json
+!/wiki/derived/**/manifest-sha256.json
+
+# A generic record exception above must not revive Python caches.
+/wiki/raw/**/__pycache__/
+/wiki/derived/**/__pycache__/

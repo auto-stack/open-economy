@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-12",
+  "original_location": "docs/charter.md",
+  "original_file": "charter-v0.3-2026-11-12.original.md",
+  "original_sha256": "5d9c87274da9a74ae01aaf7577203d8e939a0d2148038d0ab1c3fbaf6febbc38",
+  "readable_file": "charter-v0.3-2026-11-12.md",
+  "readable_sha256": "4874fd277496488605de75c545ea4df58bde36dbacdc8e05a9c53bece5c769b6",
+  "changes": "Added provenance notice and rebased relative links only; original snapshot unchanged",
+  "relative_links_rebased": 10
+}

@@ -1,0 +1,22 @@
+{
+  "id": "L174-burdin-2013",
+  "title": "Are Worker-Managed Firms Really More Likely to Fail?",
+  "authors": "Gabriel Burdin",
+  "publication": "IZADP7412,May2013;official PDF mirror",
+  "url": "https://docs.iza.org/dp7412.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Official IZA bibliography/abstract in web batch5;PDF requests failed,tool recognized48page PDF but no body reading;no causal interpretation of panel comparison",
+  "selection_status": "official_record_partial_tool_text_only",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_requests_failed_official_record_tool_text_only",
+  "original_downloaded": false,
+  "actual_version": "IZADP7412,May2013;official record says2014journal separately;tool abstract only",
+  "reading_notes": "../../../../research/surveys/05-firm-authority-and-democracy/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "format": "partial_tool_return",
+  "source_file": {
+    "file": "tool-return-record.partial.txt",
+    "bytes": 7508,
+    "sha256": "080c3ed8f9186e5392d5594905d42b33d9f8b76d06d1b755402ab4b6c5fc0138"
+  }
+}

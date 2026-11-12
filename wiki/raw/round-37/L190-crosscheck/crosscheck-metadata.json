@@ -1,0 +1,28 @@
+{
+  "work_id": "L190",
+  "date": "2026-11-12",
+  "title": "Financial Intermediation, Loanable Funds, and the Real Sector",
+  "authors": [
+    "Bengt Holmstrom",
+    "Jean Tirole"
+  ],
+  "year": 1997,
+  "original_source": "wiki/raw/round-36/L190-holmstrom-tirole-1997/original.pdf",
+  "mirror_url": "https://web.stanford.edu/~piazzesi/Reading/Holmstrom%26Tirole%20QJE%201997.pdf",
+  "mirror_file": "wiki/raw/round-37/L190-crosscheck/stanford-copy.pdf",
+  "mirror_sha256": "b37f22b446712f9fb961cc7f519673d838cb57011863b0df0519cffd2c39933c",
+  "pdf_pages": 30,
+  "actual_version": "Text-bearing university mirror of1997journal layout; first PDFpage is article663; not compared whole-file with publisher",
+  "read_scope": "Visual PDF9,printed671 only; first-page bibliographic placement checked; PDF10,printed672 was a mechanical locating preview only",
+  "result": "equation(3) negative RHS also visible in this copy",
+  "author_bibliography": {
+    "file": "mit-publications.html",
+    "url": "https://economics.mit.edu/people/faculty/bengt-holmstrom/publications",
+    "read_scope": "Only the1997 article listing and JSTOR link",
+    "journal": "QJE112(3):663–691",
+    "jstor_url": "http://www.jstor.org/stable/2951252"
+  },
+  "formal_erratum_obtained": false,
+  "whole_work_read": false,
+  "original_scan_replaced": false
+}

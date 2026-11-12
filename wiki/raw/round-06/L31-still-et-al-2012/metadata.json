@@ -1,0 +1,23 @@
+{
+  "id": "L31-still-et-al-2012",
+  "requested_url": "https://arxiv.org/pdf/1203.3271",
+  "retrieved_at_utc": "2026-11-11T12:52:48.533423+00:00",
+  "status_code": 200,
+  "final_url": "https://arxiv.org/pdf/1203.3271",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 341536,
+  "sha256": "feb70cf23efa7d99087aa462fe914e0993f73d5a380b04068cdc67a2f2babedb",
+  "pdf_pages": 5,
+  "download_status": "downloaded",
+  "extracted_chars": 23477,
+  "source_id": "L31",
+  "directory": "L31-still-et-al-2012",
+  "author": "Susanne Still; David A. Sivak; Anthony J. Bell; Gavin E. Crooks",
+  "title": "The Thermodynamics of Prediction",
+  "publication_year": 2012,
+  "archived_version": "arXiv:1203.3271v3, revised 2012-10-05; related Phys Rev Lett 109,120604",
+  "reading_scope": "PDF pp.1-4, setup and equations 11-18 with discussion",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "L02-simon-1962",
+  "requested_url": "https://www2.econ.iastate.edu/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf",
+  "retrieved_at_utc": "2026-11-11T06:53:49.958864+00:00",
+  "status_code": 200,
+  "final_url": "https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 561727,
+  "sha256": "cad628f8f6773fb46efdf782838c68e23923e174210b332e77d21f273cb8c70d",
+  "download_status": "downloaded",
+  "pdf_pages": 17,
+  "author": "Herbert A. Simon",
+  "title": "The Architecture of Complexity",
+  "publication_year": "1962",
+  "reading_status": "targeted_passages_read",
+  "reading_scope": "pp. 467-468, 470-471, 474-475; Iowa text-layer copy",
+  "role": "core_targeted_reading",
+  "extracted_text_status": "search_aid_not_authoritative"
+}

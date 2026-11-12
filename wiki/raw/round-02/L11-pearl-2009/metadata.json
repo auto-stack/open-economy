@@ -1,0 +1,20 @@
+{
+  "id": "L11-pearl-2009",
+  "requested_url": "https://www.cs.columbia.edu/~blei/fogm/2018F/materials/Pearl2009a.pdf",
+  "retrieved_at_utc": "2026-11-11T08:39:29.116689+00:00",
+  "status_code": 200,
+  "final_url": "https://www.cs.columbia.edu/~blei/fogm/2018F/materials/Pearl2009a.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 634625,
+  "sha256": "928337e627d0e8bb0646f5f1be457cf2dfdd0c684e7797fe844d00091e3a4f21",
+  "pdf_pages": 51,
+  "download_status": "downloaded",
+  "author": "Judea Pearl",
+  "title": "Causal inference in statistics: An overview",
+  "publication_year": 2009,
+  "archived_version": "University-hosted journal PDF",
+  "reading_scope": "Print pages 99-100,107-109; sections 2.1-2.3 and 3.2-3.2.1",
+  "reading_status": "targeted_passages_read",
+  "evidence_role": "source_material_not_project_conclusion"
+}

@@ -1,0 +1,750 @@
+{
+  "scope": "Project-created illustrative benchmarks, no empirical estimates",
+  "common_target": {
+    "core_labor_opportunity_cost": 6.0,
+    "core_other_inputs": 3.0,
+    "administration": 0.6,
+    "required_cash_per_period": 9.6,
+    "open_core_values": [
+      6.0,
+      4.0,
+      2.0
+    ]
+  },
+  "assurance": {
+    "quotes": [
+      5.3,
+      3.3,
+      1.3
+    ],
+    "refund": {
+      "failure_bonus": 0.0,
+      "signing_cost": 0.0,
+      "pure_equilibria": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "strictly_dominant_acceptance": false,
+      "minimum_acceptance_gain": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "profiles": [
+        {
+          "acceptance": [
+            0,
+            0,
+            0
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            0,
+            0,
+            1
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            0,
+            1,
+            0
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            0,
+            1,
+            1
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            1,
+            0,
+            0
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            1,
+            0,
+            1
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            1,
+            1,
+            0
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            1,
+            1,
+            1
+          ],
+          "user_payoffs": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "operator_payoff": 0.3
+        }
+      ]
+    },
+    "failure_bonus": {
+      "failure_bonus": 0.1,
+      "signing_cost": 0.0,
+      "pure_equilibria": [
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "strictly_dominant_acceptance": true,
+      "minimum_acceptance_gain": [
+        0.1,
+        0.1,
+        0.1
+      ],
+      "profiles": [
+        {
+          "acceptance": [
+            0,
+            0,
+            0
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            0,
+            0,
+            1
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.1
+          ],
+          "operator_payoff": -0.3
+        },
+        {
+          "acceptance": [
+            0,
+            1,
+            0
+          ],
+          "user_payoffs": [
+            0.0,
+            0.1,
+            0.0
+          ],
+          "operator_payoff": -0.3
+        },
+        {
+          "acceptance": [
+            0,
+            1,
+            1
+          ],
+          "user_payoffs": [
+            0.0,
+            0.1,
+            0.1
+          ],
+          "operator_payoff": -0.4
+        },
+        {
+          "acceptance": [
+            1,
+            0,
+            0
+          ],
+          "user_payoffs": [
+            0.1,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.3
+        },
+        {
+          "acceptance": [
+            1,
+            0,
+            1
+          ],
+          "user_payoffs": [
+            0.1,
+            0.0,
+            0.1
+          ],
+          "operator_payoff": -0.4
+        },
+        {
+          "acceptance": [
+            1,
+            1,
+            0
+          ],
+          "user_payoffs": [
+            0.1,
+            0.1,
+            0.0
+          ],
+          "operator_payoff": -0.4
+        },
+        {
+          "acceptance": [
+            1,
+            1,
+            1
+          ],
+          "user_payoffs": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "operator_payoff": 0.3
+        }
+      ]
+    },
+    "bonus_with_signing_friction": {
+      "failure_bonus": 0.1,
+      "signing_cost": 0.15,
+      "pure_equilibria": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "strictly_dominant_acceptance": false,
+      "minimum_acceptance_gain": [
+        -0.05,
+        -0.05,
+        -0.05
+      ],
+      "profiles": [
+        {
+          "acceptance": [
+            0,
+            0,
+            0
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.2
+        },
+        {
+          "acceptance": [
+            0,
+            0,
+            1
+          ],
+          "user_payoffs": [
+            0.0,
+            0.0,
+            -0.05
+          ],
+          "operator_payoff": -0.3
+        },
+        {
+          "acceptance": [
+            0,
+            1,
+            0
+          ],
+          "user_payoffs": [
+            0.0,
+            -0.05,
+            0.0
+          ],
+          "operator_payoff": -0.3
+        },
+        {
+          "acceptance": [
+            0,
+            1,
+            1
+          ],
+          "user_payoffs": [
+            0.0,
+            -0.05,
+            -0.05
+          ],
+          "operator_payoff": -0.4
+        },
+        {
+          "acceptance": [
+            1,
+            0,
+            0
+          ],
+          "user_payoffs": [
+            -0.05,
+            0.0,
+            0.0
+          ],
+          "operator_payoff": -0.3
+        },
+        {
+          "acceptance": [
+            1,
+            0,
+            1
+          ],
+          "user_payoffs": [
+            -0.05,
+            0.0,
+            -0.05
+          ],
+          "operator_payoff": -0.4
+        },
+        {
+          "acceptance": [
+            1,
+            1,
+            0
+          ],
+          "user_payoffs": [
+            -0.05,
+            -0.05,
+            0.0
+          ],
+          "operator_payoff": -0.4
+        },
+        {
+          "acceptance": [
+            1,
+            1,
+            1
+          ],
+          "user_payoffs": [
+            0.55,
+            0.55,
+            0.55
+          ],
+          "operator_payoff": 0.3
+        }
+      ]
+    },
+    "operator_success_profit": 0.3,
+    "maximum_campaign_and_failure_bonus_liability": 0.4,
+    "worst_failure_mix_break_even_success_probability": 0.5714285714285714
+  },
+  "complements": {
+    "incremental_service_values": [
+      5.0,
+      4.0,
+      2.0
+    ],
+    "options": [
+      {
+        "price": 2.0,
+        "buyers": 3,
+        "gross_revenue": 6.0,
+        "delivery_cost": 3.0,
+        "available_margin": 3.0,
+        "core_gap": 6.6
+      },
+      {
+        "price": 4.0,
+        "buyers": 2,
+        "gross_revenue": 8.0,
+        "delivery_cost": 2.0,
+        "available_margin": 6.0,
+        "core_gap": 3.6
+      },
+      {
+        "price": 5.0,
+        "buyers": 1,
+        "gross_revenue": 5.0,
+        "delivery_cost": 1.0,
+        "available_margin": 4.0,
+        "core_gap": 5.6
+      }
+    ],
+    "best_conditional_margin": {
+      "price": 4.0,
+      "buyers": 2,
+      "gross_revenue": 8.0,
+      "delivery_cost": 2.0,
+      "available_margin": 6.0,
+      "core_gap": 3.6
+    },
+    "committed_sponsorship": 4.0,
+    "minimum_core_allocation": 0.9333333333333333,
+    "allocation_examples": [
+      {
+        "maintenance_allocation": 0.0,
+        "maintenance_receipts": 4.0,
+        "cash_after_required_cost": -5.6
+      },
+      {
+        "maintenance_allocation": 0.5,
+        "maintenance_receipts": 7.0,
+        "cash_after_required_cost": -2.6
+      },
+      {
+        "maintenance_allocation": 0.9333333333333333,
+        "maintenance_receipts": 9.6,
+        "cash_after_required_cost": 0.0
+      },
+      {
+        "maintenance_allocation": 1.0,
+        "maintenance_receipts": 10.0,
+        "cash_after_required_cost": 0.4
+      }
+    ]
+  },
+  "matching": {
+    "multiplier": 1,
+    "external_cap": 3.0,
+    "uncapped_donation_threshold": 4.8,
+    "capped_donation_threshold": 6.6
+  },
+  "recurring": {
+    "concentrated": {
+      "sources": 1,
+      "common_shock": false,
+      "periods": 12,
+      "initial_reserve": 9.6,
+      "expected_period_receipts": 9.6,
+      "variance_period_receipts": 23.04,
+      "probability_failure_within_horizon": 0.39870457856,
+      "exact_failure_probability": "19467997/48828125",
+      "path": [
+        {
+          "period": 0,
+          "probability_all_obligations_met": 1.0,
+          "cumulative_failure": 0.0
+        },
+        {
+          "period": 1,
+          "probability_all_obligations_met": 1.0,
+          "cumulative_failure": 0.0
+        },
+        {
+          "period": 2,
+          "probability_all_obligations_met": 0.96,
+          "cumulative_failure": 0.04
+        },
+        {
+          "period": 3,
+          "probability_all_obligations_met": 0.896,
+          "cumulative_failure": 0.104
+        },
+        {
+          "period": 4,
+          "probability_all_obligations_met": 0.8192,
+          "cumulative_failure": 0.1808
+        },
+        {
+          "period": 5,
+          "probability_all_obligations_met": 0.73728,
+          "cumulative_failure": 0.26272
+        },
+        {
+          "period": 6,
+          "probability_all_obligations_met": 0.73728,
+          "cumulative_failure": 0.26272
+        },
+        {
+          "period": 7,
+          "probability_all_obligations_met": 0.720896,
+          "cumulative_failure": 0.279104
+        },
+        {
+          "period": 8,
+          "probability_all_obligations_met": 0.69206016,
+          "cumulative_failure": 0.30793984
+        },
+        {
+          "period": 9,
+          "probability_all_obligations_met": 0.654311424,
+          "cumulative_failure": 0.345688576
+        },
+        {
+          "period": 10,
+          "probability_all_obligations_met": 0.6106906624,
+          "cumulative_failure": 0.3893093376
+        },
+        {
+          "period": 11,
+          "probability_all_obligations_met": 0.6106906624,
+          "cumulative_failure": 0.3893093376
+        },
+        {
+          "period": 12,
+          "probability_all_obligations_met": 0.60129542144,
+          "cumulative_failure": 0.39870457856
+        }
+      ]
+    },
+    "independent_four": {
+      "sources": 4,
+      "common_shock": false,
+      "periods": 12,
+      "initial_reserve": 9.6,
+      "expected_period_receipts": 9.6,
+      "variance_period_receipts": 5.76,
+      "probability_failure_within_horizon": 0.19520193009585746,
+      "exact_failure_probability": "693496567179811965712617857318721/3552713678800500929355621337890625",
+      "path": [
+        {
+          "period": 0,
+          "probability_all_obligations_met": 1.0,
+          "cumulative_failure": 0.0
+        },
+        {
+          "period": 1,
+          "probability_all_obligations_met": 1.0,
+          "cumulative_failure": 0.0
+        },
+        {
+          "period": 2,
+          "probability_all_obligations_met": 0.9895936,
+          "cumulative_failure": 0.0104064
+        },
+        {
+          "period": 3,
+          "probability_all_obligations_met": 0.976836624384,
+          "cumulative_failure": 0.023163375616
+        },
+        {
+          "period": 4,
+          "probability_all_obligations_met": 0.9639143562805248,
+          "cumulative_failure": 0.0360856437194752
+        },
+        {
+          "period": 5,
+          "probability_all_obligations_met": 0.9518470402438227,
+          "cumulative_failure": 0.04815295975617724
+        },
+        {
+          "period": 6,
+          "probability_all_obligations_met": 0.940926117392224,
+          "cumulative_failure": 0.05907388260777604
+        },
+        {
+          "period": 7,
+          "probability_all_obligations_met": 0.8967776017004793,
+          "cumulative_failure": 0.10322239829952075
+        },
+        {
+          "period": 8,
+          "probability_all_obligations_met": 0.8777919585892769,
+          "cumulative_failure": 0.12220804141072306
+        },
+        {
+          "period": 9,
+          "probability_all_obligations_met": 0.863413996519672,
+          "cumulative_failure": 0.13658600348032798
+        },
+        {
+          "period": 10,
+          "probability_all_obligations_met": 0.8517440937344392,
+          "cumulative_failure": 0.14825590626556084
+        },
+        {
+          "period": 11,
+          "probability_all_obligations_met": 0.8419700863183157,
+          "cumulative_failure": 0.15802991368168426
+        },
+        {
+          "period": 12,
+          "probability_all_obligations_met": 0.8047980699041425,
+          "cumulative_failure": 0.19520193009585746
+        }
+      ]
+    },
+    "perfectly_correlated_four": {
+      "sources": 4,
+      "common_shock": true,
+      "periods": 12,
+      "initial_reserve": 9.6,
+      "expected_period_receipts": 9.6,
+      "variance_period_receipts": 23.04,
+      "probability_failure_within_horizon": 0.39870457856,
+      "exact_failure_probability": "19467997/48828125",
+      "path": [
+        {
+          "period": 0,
+          "probability_all_obligations_met": 1.0,
+          "cumulative_failure": 0.0
+        },
+        {
+          "period": 1,
+          "probability_all_obligations_met": 1.0,
+          "cumulative_failure": 0.0
+        },
+        {
+          "period": 2,
+          "probability_all_obligations_met": 0.96,
+          "cumulative_failure": 0.04
+        },
+        {
+          "period": 3,
+          "probability_all_obligations_met": 0.896,
+          "cumulative_failure": 0.104
+        },
+        {
+          "period": 4,
+          "probability_all_obligations_met": 0.8192,
+          "cumulative_failure": 0.1808
+        },
+        {
+          "period": 5,
+          "probability_all_obligations_met": 0.73728,
+          "cumulative_failure": 0.26272
+        },
+        {
+          "period": 6,
+          "probability_all_obligations_met": 0.73728,
+          "cumulative_failure": 0.26272
+        },
+        {
+          "period": 7,
+          "probability_all_obligations_met": 0.720896,
+          "cumulative_failure": 0.279104
+        },
+        {
+          "period": 8,
+          "probability_all_obligations_met": 0.69206016,
+          "cumulative_failure": 0.30793984
+        },
+        {
+          "period": 9,
+          "probability_all_obligations_met": 0.654311424,
+          "cumulative_failure": 0.345688576
+        },
+        {
+          "period": 10,
+          "probability_all_obligations_met": 0.6106906624,
+          "cumulative_failure": 0.3893093376
+        },
+        {
+          "period": 11,
+          "probability_all_obligations_met": 0.6106906624,
+          "cumulative_failure": 0.3893093376
+        },
+        {
+          "period": 12,
+          "probability_all_obligations_met": 0.60129542144,
+          "cumulative_failure": 0.39870457856
+        }
+      ]
+    },
+    "reserve_sensitivity": [
+      {
+        "reserve": 0.0,
+        "concentrated_failure": 0.716532158464,
+        "diversified_failure": 0.8358091015367383
+      },
+      {
+        "reserve": 4.8,
+        "concentrated_failure": 0.609157976064,
+        "diversified_failure": 0.42650939415112815
+      },
+      {
+        "reserve": 9.6,
+        "concentrated_failure": 0.39870457856,
+        "diversified_failure": 0.19520193009585746
+      },
+      {
+        "reserve": 19.2,
+        "concentrated_failure": 0.1879827456,
+        "diversified_failure": 0.01587860755634894
+      }
+    ]
+  },
+  "verification": [
+    "enumerated every acceptance profile and unilateral deviation",
+    "verified strict-dominance gains for the fixed unanimity bonus game",
+    "exact service-margin and allocation accounting",
+    "exact finite-horizon liquidity state propagation with probability conservation"
+  ]
+}

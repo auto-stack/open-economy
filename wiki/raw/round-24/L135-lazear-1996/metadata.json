@@ -1,0 +1,30 @@
+{
+  "id": "L135-lazear-1996",
+  "title": "Performance Pay and Productivity",
+  "authors": "Edward P.Lazear",
+  "publication": "NBERWP5672,July1996; not automatically2000AERversion",
+  "url": "https://www.nber.org/system/files/working_papers/w5672/w5672.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-4,18-19,22-25;PDF22 Table2 visually inspected. PDF11,17,27 only browsed for locating passages,not full substantive model read.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 36,
+  "sha256": "ffaa02fb16e24cec3dfdc64c51b18072e11d936dfa30c155bf610c7cef630ce4",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.nber.org/system/files/working_papers/w5672/w5672.pdf",
+  "status_code": 200,
+  "bytes": 1216795,
+  "retrieved_at_utc": "2026-11-12T04:20:22.293733+00:00",
+  "actual_version": "NBERWP5672,July1996,36pages,revised fromSeptember1995;not2000AERversion.",
+  "knowledge_base_status": "provenance and extraction stored;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "sha256": "ffaa02fb16e24cec3dfdc64c51b18072e11d936dfa30c155bf610c7cef630ce4",
+      "bytes": 1216795
+    }
+  ]
+}

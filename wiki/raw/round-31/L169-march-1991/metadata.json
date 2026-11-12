@@ -1,0 +1,29 @@
+{
+  "id": "L169-march-1991",
+  "title": "Exploration and Exploitation in Organizational Learning",
+  "authors": "James G.March",
+  "publication": "OrganizationScience2(1),1991,71-87",
+  "url": "https://hiveresearchlab.org/wp-content/uploads/2013/12/march_1991_exploration_and_exploitation_in_organizational_learning.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF2-4abstract,intro,exploration/exploitation tradeoff and vulnerability;PDF4visual;not later two models",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 18,
+  "sha256": "a7d0efaf586aa4902606a645e684bd55b8c5dd07dc7beb0088d6962705fed2d8",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://hiveresearchlab.org/wp-content/uploads/2013/12/march_1991_exploration_and_exploitation_in_organizational_learning.pdf",
+  "status_code": 200,
+  "bytes": 410486,
+  "retrieved_at_utc": "2026-11-12T06:24:13.525374+00:00",
+  "actual_version": "OrganizationScience2(1),1991,71-87;18pages includingJSTORcover",
+  "reading_notes": "../../../../research/surveys/05-firm-authority-and-democracy/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "source_file": {
+    "file": "original.pdf",
+    "bytes": 410486,
+    "sha256": "a7d0efaf586aa4902606a645e684bd55b8c5dd07dc7beb0088d6962705fed2d8"
+  }
+}

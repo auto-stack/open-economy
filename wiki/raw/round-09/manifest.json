@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "batch": "round-09",
+  "scope": "Q8 AutoOS Open Business design mapping: historical proposals, provenance, identities, settlement and public budgets",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "id": "H02-open-business-dialogue",
+      "source_id": "H02",
+      "directory": "H02-open-business-dialogue",
+      "title": "开放商业机制讨论",
+      "source_url": "chatgpt-conversation://6ae1c6c6-7cc4-83e9-b5b9-f85980589bee",
+      "origin_kind": "historical_user_design_dialogue",
+      "retrieval_method": "Codex app read_thread",
+      "archived_at_utc": "2026-11-11T15:09:46.283041+00:00",
+      "file": "read-thread.json",
+      "bytes": 54849,
+      "sha256": "0e84e0c4632950da157153b3c3391074314cb64965446e53d905939ab22458c1",
+      "download_status": "retrieved_tool_response",
+      "visible_turn_count": 5,
+      "reported_has_more": false,
+      "derived_transcript": "conversation.md",
+      "reading_scope": "All five visible user messages inspected as design proposals; historical assistant messages retained but not adopted as factual evidence or current instructions",
+      "completeness": "Tool-visible snapshot, not claimed as full original account export"
+    },
+    {
+      "id": "L46-douceur-2002",
+      "requested_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2002/01/IPTPS2002.pdf",
+      "retrieved_at_utc": "2026-11-11T14:55:26.483168+00:00",
+      "status_code": 200,
+      "final_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2002/01/IPTPS2002.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 100091,
+      "sha256": "18c2cecfde383f2d9b089036521ee29fd04ebb35c670f811d4b4c0d0d0a04527",
+      "download_status": "downloaded",
+      "pdf_pages": 6,
+      "extracted_chars": 25836,
+      "author": "John R. Douceur",
+      "title": "The Sybil Attack",
+      "publication_year": 2002,
+      "archived_version": "Six-page author manuscript hosted by Microsoft Research; IPTPS 2002 work",
+      "reading_scope": "PDF pp.1-2 read; p.1 visually checked; not all lemmas replicated",
+      "text_extraction_status": "Search aid; first-page layout visually checked",
+      "source_id": "L46",
+      "directory": "L46-douceur-2002",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L47-w3c-prov-dm-2013",
+      "requested_url": "https://www.w3.org/TR/2013/REC-prov-dm-20130430/",
+      "retrieved_at_utc": "2026-11-11T14:55:26.483295+00:00",
+      "status_code": 200,
+      "final_url": "https://www.w3.org/TR/2013/REC-prov-dm-20130430/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "original.html",
+      "bytes": 271572,
+      "sha256": "5c925c21bc96c285b25017c3b90d82cf74251d07713b71fcb81ca60f873c9e88",
+      "download_status": "downloaded",
+      "extracted_chars": 118965,
+      "author": "W3C",
+      "title": "PROV-DM: The PROV Data Model",
+      "publication_year": 2013,
+      "archived_version": "W3C Recommendation 30 April 2013, fixed dated URL",
+      "reading_scope": "Sections 2.1.1,2.1.3,5.3.2,5.3.3; no adoption of complete implementation requirements",
+      "text_extraction_status": "Main text search aid; source HTML remains authoritative",
+      "source_id": "L47",
+      "directory": "L47-w3c-prov-dm-2013",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L48-stripe-separate-transfers",
+      "requested_url": "https://docs.stripe.com/connect/separate-charges-and-transfers",
+      "retrieved_at_utc": "2026-11-11T14:55:26.483797+00:00",
+      "status_code": 200,
+      "final_url": "https://docs.stripe.com/connect/separate-charges-and-transfers",
+      "content_type": "text/html; charset=utf-8",
+      "file": "original.html",
+      "bytes": 1818895,
+      "sha256": "8c039d5a5e2b18b89d52c7697e5915ac32a9719da50d2c7ceb526025bc4aad0b",
+      "download_status": "downloaded",
+      "extracted_chars": 19191,
+      "author": "Stripe",
+      "title": "Create Separate Charges and Transfers",
+      "archived_version": "Official documentation snapshot retrieved 2026-11-11; not assigned a publication year",
+      "reading_scope": "Introductory account-debit responsibility, Issue refunds and Reverse transfers; not code, rates, availability or region lists",
+      "text_extraction_status": "Main-text search aid; includes code and navigation not adopted as evidence",
+      "source_id": "L48",
+      "directory": "L48-stripe-separate-transfers",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L49-open-collective-money",
+      "requested_url": "https://documentation.opencollective.com/collectives/managing-money",
+      "retrieved_at_utc": "2026-11-11T14:55:26.483887+00:00",
+      "status_code": 200,
+      "final_url": "https://documentation.opencollective.com/collectives/managing-money",
+      "content_type": "text/html; charset=utf-8",
+      "file": "original.html",
+      "bytes": 714835,
+      "sha256": "cc8b6b3c1da82ea67d0b2d2302f3f6480f936ee68e73150c75300c0380a8f651",
+      "download_status": "downloaded",
+      "extracted_chars": 1750,
+      "author": "Open Collective",
+      "title": "Managing Money",
+      "archived_version": "Official documentation snapshot retrieved 2026-11-11; relative last-updated text not treated as an absolute publication date",
+      "reading_scope": "Body on roles, financial decision-making, budgets, expenses and privacy of personal details",
+      "text_extraction_status": "Main-text search aid; no fee schedules adopted",
+      "source_id": "L49",
+      "directory": "L49-open-collective-money",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L50-open-collective-expenses",
+      "requested_url": "https://documentation.opencollective.com/getting-started/understanding-expenses",
+      "retrieved_at_utc": "2026-11-11T14:55:26.484013+00:00",
+      "status_code": 200,
+      "final_url": "https://documentation.opencollective.com/getting-started/understanding-expenses",
+      "content_type": "text/html; charset=utf-8",
+      "file": "original.html",
+      "bytes": 750284,
+      "sha256": "c8bb757a6341f000e12494081672b70cea35d962a8ba6cf7b43bea1c98918ff6",
+      "download_status": "downloaded",
+      "extracted_chars": 3402,
+      "author": "Open Collective",
+      "title": "Understanding Expenses",
+      "archived_version": "Official documentation snapshot retrieved 2026-11-11",
+      "reading_scope": "Body: submission, collective review, host review and actual payment; no legal conclusions",
+      "text_extraction_status": "Main-text search aid; no endorsement of particular organizational structure",
+      "source_id": "L50",
+      "directory": "L50-open-collective-expenses",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    }
+  ],
+  "files": [
+    {
+      "path": "H02-open-business-dialogue/conversation.md",
+      "bytes": 46015,
+      "sha256": "62dfc1c2fecd3418ea8f792cd58d1c5aea750877263a96b99dbc7b2025070b65"
+    },
+    {
+      "path": "H02-open-business-dialogue/metadata.json",
+      "bytes": 948,
+      "sha256": "89ac348f8fa629d4493e3d2ec196784910f2aeb444d8b194132068f4332eca39"
+    },
+    {
+      "path": "H02-open-business-dialogue/read-thread.json",
+      "bytes": 54849,
+      "sha256": "0e84e0c4632950da157153b3c3391074314cb64965446e53d905939ab22458c1"
+    },
+    {
+      "path": "L46-douceur-2002/extracted.txt",
+      "bytes": 26843,
+      "sha256": "8d8c6f0da58f6984ed8edbf660e94fcd070e840a1d0ddc16a40a03a64a44fe57"
+    },
+    {
+      "path": "L46-douceur-2002/metadata.json",
+      "bytes": 1129,
+      "sha256": "206a86312837bdf7530b8d6582a0af16068b1bad14e83b5b93f859bfcaa179b5"
+    },
+    {
+      "path": "L46-douceur-2002/original.pdf",
+      "bytes": 100091,
+      "sha256": "18c2cecfde383f2d9b089036521ee29fd04ebb35c670f811d4b4c0d0d0a04527"
+    },
+    {
+      "path": "L46-douceur-2002/read-p1.png",
+      "bytes": 241791,
+      "sha256": "4548bea85465e502786fa0631f089c3002d2d54dadd4e45f5810f23eee18c1fd"
+    },
+    {
+      "path": "L46-douceur-2002/read-p2.png",
+      "bytes": 244752,
+      "sha256": "bdfb21207392b0bbbd020ecb3dcdc9c8a735c95baa5635c55175fefbe3f9f9b1"
+    },
+    {
+      "path": "L47-w3c-prov-dm-2013/extracted.txt",
+      "bytes": 123442,
+      "sha256": "22c1944c9e7dc03a9ab04f5dfc9972472d8fbd1b5a5364572bd8ff775c7f4ca9"
+    },
+    {
+      "path": "L47-w3c-prov-dm-2013/metadata.json",
+      "bytes": 1070,
+      "sha256": "90e7e5f3f2f455ab4ef1c45e3bab750dcb1ec245a34db87bd9c154a6e53dd2b1"
+    },
+    {
+      "path": "L47-w3c-prov-dm-2013/original.html",
+      "bytes": 271572,
+      "sha256": "5c925c21bc96c285b25017c3b90d82cf74251d07713b71fcb81ca60f873c9e88"
+    },
+    {
+      "path": "L48-stripe-separate-transfers/extracted.txt",
+      "bytes": 20129,
+      "sha256": "ecfba62d65f6d65e53c19ac30aabce9fc0c1038ea4077b464df9a61c0585a26b"
+    },
+    {
+      "path": "L48-stripe-separate-transfers/metadata.json",
+      "bytes": 1194,
+      "sha256": "2630f8e7cdc795bb78a62958b426ec3b1d47e7a69373c5aa7a83c76be12c0ae2"
+    },
+    {
+      "path": "L48-stripe-separate-transfers/original.html",
+      "bytes": 1818895,
+      "sha256": "8c039d5a5e2b18b89d52c7697e5915ac32a9719da50d2c7ceb526025bc4aad0b"
+    },
+    {
+      "path": "L49-open-collective-money/extracted.txt",
+      "bytes": 1776,
+      "sha256": "4f15a389950d0fe0770d5aaaf02fff911bd6fc1ddfc714947b655e409828eb47"
+    },
+    {
+      "path": "L49-open-collective-money/metadata.json",
+      "bytes": 1157,
+      "sha256": "d10a7110fecfdf6b019e83957b4ad5a87e37fc2209e575f5d641c15e8148a6b6"
+    },
+    {
+      "path": "L49-open-collective-money/original.html",
+      "bytes": 714835,
+      "sha256": "cc8b6b3c1da82ea67d0b2d2302f3f6480f936ee68e73150c75300c0380a8f651"
+    },
+    {
+      "path": "L50-open-collective-expenses/extracted.txt",
+      "bytes": 3462,
+      "sha256": "8c6fc96b40960df851282cc9fe8db1d614c5f84ccf78b88358e2c5b755d4a02b"
+    },
+    {
+      "path": "L50-open-collective-expenses/metadata.json",
+      "bytes": 1150,
+      "sha256": "be24f6eefa513189f7604507193b5725436de8d2834e007cf54f16aaac33d325"
+    },
+    {
+      "path": "L50-open-collective-expenses/original.html",
+      "bytes": 750284,
+      "sha256": "c8bb757a6341f000e12494081672b70cea35d962a8ba6cf7b43bea1c98918ff6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2798,
+      "sha256": "29321a8c2820351f52e6a93c03e152c49e3e288d807e4581df40fe5e25382953"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 37161,
+      "sha256": "65fa423add358e60b070e6a5e8febc7c9c37a2805c3a25df8aa93e77cd35eaa4"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 40926,
+      "sha256": "7e3cbd8ccd67313250f6c2850f51162c07c3e1abd0183b5978b707061888624c"
+    }
+  ],
+  "excludes": [
+    "manifest.json itself"
+  ]
+}

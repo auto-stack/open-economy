@@ -1,0 +1,51 @@
+{
+  "version": "0.2",
+  "date_local": "2026-11-12",
+  "started_utc": "2026-11-12T10:18:56.218414+00:00",
+  "finished_utc": "2026-11-12T10:19:00.307769+00:00",
+  "local_processing_seconds": 4.0894,
+  "protocol_sha256": "c7396e1b7b1e53e884273f36b525c32ec470015bf5fdfd62a71d2b6a8433bd5a",
+  "source_metadata_records": 193,
+  "work_identifier_slots_including_failed_candidates": 192,
+  "duplicate_identifier_groups": [
+    {
+      "work_id": "L27",
+      "record_count": 2,
+      "record_ids": [
+        "wiki/raw/round-05/L27-baldwin-2002/metadata.json",
+        "wiki/raw/round-05/L27-baldwin-2006/metadata.json"
+      ],
+      "display_record": "wiki/raw/round-05/L27-baldwin-2002/metadata.json",
+      "version_choice_required": true,
+      "display_rule": "可用记录优先，仅用于目录展示；不合并读页或覆盖失败历史"
+    }
+  ],
+  "source_container_states": {
+    "pdf_container_present_not_reading_claim": 126,
+    "html_or_record_container_not_fullwork_claim": 29,
+    "failed_acquisition_record": 3,
+    "no_payload_identified_requires_review": 22,
+    "partial_or_connector_material": 13
+  },
+  "quality_queue_counts": {
+    "sampled_pdf_text_sparse": 16,
+    "missing_title": 3,
+    "missing_read_scope_declared": 3,
+    "id_inferred_from_directory": 2
+  },
+  "archive_manifest_count": 36,
+  "archive_hash_status_counts": {
+    "match": 1117
+  },
+  "raw_file_count": 1177,
+  "raw_bytes": 302283682,
+  "retrieval_corpus_records": 344,
+  "project_document_count": 151,
+  "file_location_cases": 8,
+  "file_location_top10_hits": 8,
+  "raw_sources_modified": false,
+  "new_network_sources": 0,
+  "OCR_executed": false,
+  "formal_register_sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+  "limits": "One local processing run, not human labor time, service latency, natural-language accuracy, independent review, scientific truth or commercial feasibility."
+}

@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "batch": "round-08",
+  "scope": "Q7 open shared outputs: voluntary support, assurance, complementary services, sponsorship, recurring maintenance",
+  "retrieved_date": "2026-11-11",
+  "sources": [
+    {
+      "id": "L39-andreoni-1990",
+      "requested_url": "https://econweb.ucsd.edu/~jandreon/Publications/ej90.pdf",
+      "retrieved_at_utc": "2026-11-11T14:31:25.169184+00:00",
+      "status_code": 200,
+      "final_url": "https://econweb.ucsd.edu/~jandreon/Publications/ej90.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 1414908,
+      "sha256": "308575c40eb68bc835259e6b095bd345af51927269cccbe9973c4e0fb9fff518",
+      "download_status": "downloaded",
+      "pdf_pages": 15,
+      "extracted_chars": 229,
+      "author": "James Andreoni",
+      "title": "Impure Altruism and Donations to Public Goods: A Theory of Warm-Glow Giving",
+      "publication_year": 1990,
+      "publication": "The Economic Journal 100(401):464-477",
+      "doi": "10.2307/2234133",
+      "archived_version": "Author-hosted journal scan with cover; 15 PDF pages",
+      "reading_scope": "Visually read PDF pp.2-3 / journal pp.464-465; subsequent comparative-statics proofs not read",
+      "text_extraction_status": "Body scanned; extracted text is not a usable body transcription",
+      "source_id": "L39",
+      "directory": "L39-andreoni-1990",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L40-bagnoli-lipman-1989",
+      "requested_url": "https://sites.bu.edu/blipman/files/2021/10/public_goods.pdf",
+      "retrieved_at_utc": "2026-11-11T14:31:25.169498+00:00",
+      "status_code": 200,
+      "final_url": "https://sites.bu.edu/blipman/files/2021/10/public_goods.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 3174498,
+      "sha256": "f42ea8c22c207433f0189b055ae93358384e1b2e71775c791b717b53ad253c39",
+      "download_status": "downloaded",
+      "pdf_pages": 20,
+      "extracted_chars": 78822,
+      "author": "Mark Bagnoli; Barton L. Lipman",
+      "title": "Provision of Public Goods: Fully Implementing the Core through Private Contributions",
+      "publication_year": 1989,
+      "publication": "Review of Economic Studies 56(4):583-601",
+      "doi": "10.2307/2297502",
+      "archived_version": "Author university-hosted journal reprint with cover; 20 PDF pages",
+      "reading_scope": "Targeted PDF pp.2-6 / journal pp.583-587; appendix proofs not replicated",
+      "text_extraction_status": "OCR search aid; equations and original layout authoritative",
+      "source_id": "L40",
+      "directory": "L40-bagnoli-lipman-1989",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L41-tabarrok-1998",
+      "requested_url": "https://mason.gmu.edu/~atabarro/PrivateProvision.pdf",
+      "retrieved_at_utc": "2026-11-11T14:31:25.170042+00:00",
+      "status_code": 200,
+      "final_url": "https://mason.gmu.edu/~atabarro/PrivateProvision.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 294635,
+      "sha256": "207d3ed1057da298d63f25aace92b0777cce7823633c31def5e6851c1624773f",
+      "download_status": "downloaded",
+      "pdf_pages": 18,
+      "extracted_chars": 37349,
+      "author": "Alexander Tabarrok",
+      "title": "The Private Provision of Public Goods via Dominant Assurance Contracts",
+      "publication_year": 1998,
+      "publication": "Public Choice 96:345-362",
+      "archived_version": "Author university-hosted published article; 18 PDF pages",
+      "reading_scope": "PDF pp.1-6 / journal pp.345-350; incomplete-information model not read or replicated",
+      "text_extraction_status": "Search aid; payoff table visually checked",
+      "source_id": "L41",
+      "directory": "L41-tabarrok-1998",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L42-vonhippel-vonkrogh-2002",
+      "requested_url": "https://evhippel.mit.edu/wp-content/uploads/2013/08/privatecollectivewp.pdf",
+      "retrieved_at_utc": "2026-11-11T14:32:40.439690+00:00",
+      "status_code": 200,
+      "final_url": "https://evhippel.mit.edu/wp-content/uploads/2013/08/privatecollectivewp.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 363820,
+      "sha256": "e3ead2f0a230bff3002c61b38e8335d4a20f078f88882585f60a28d32003cd14",
+      "download_status": "downloaded",
+      "pdf_pages": 31,
+      "extracted_chars": 82467,
+      "author": "Eric von Hippel; Georg von Krogh",
+      "title": "Open Source Software and the Private-Collective Innovation Model: Issues for Organization Science",
+      "publication_year": 2002,
+      "related_publication_year": 2003,
+      "archived_version": "31-page working manuscript dated April 30, 2002, marked Organization Science forthcoming 2003; not journal typesetting",
+      "reading_scope": "Cover and manuscript pp.16-18",
+      "text_extraction_status": "Search aid; manuscript page numbers",
+      "source_id": "L42",
+      "directory": "L42-vonhippel-vonkrogh-2002",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L43-riehle-2012",
+      "requested_url": "https://dirkriehle.com/wp-content/uploads/2010/11/svcos-isebm-v05-final-final.pdf",
+      "retrieved_at_utc": "2026-11-11T14:31:25.170501+00:00",
+      "status_code": 200,
+      "final_url": "https://dirkriehle.com/wp-content/uploads/2010/11/svcos-isebm-v05-final-final.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 115098,
+      "sha256": "3be982f842729058ce2838720a3349954e189f587cc7f5105f86e9c1c4243248",
+      "download_status": "downloaded",
+      "pdf_pages": 13,
+      "extracted_chars": 37774,
+      "author": "Dirk Riehle",
+      "title": "The Single-Vendor Commercial Open Source Business Model",
+      "publication_year": 2012,
+      "publication": "Information Systems and e-Business Management 10(1):5-17",
+      "archived_version": "13-page author-formatted manuscript linked by author publication page; URL path November 2010; publication page gives updated 2012 journal citation",
+      "publication_metadata_file": "publication-page.html",
+      "reading_scope": "Manuscript p.1 and pp.3-6; not publisher journal page numbers",
+      "text_extraction_status": "Search aid; no current legal interpretation adopted",
+      "source_id": "L43",
+      "directory": "L43-riehle-2012",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L44-conti-et-al-2023",
+      "requested_url": "https://www.nber.org/system/files/working_papers/w31668/w31668.pdf",
+      "retrieved_at_utc": "2026-11-11T14:31:25.170714+00:00",
+      "status_code": 200,
+      "final_url": "https://www.nber.org/system/files/working_papers/w31668/w31668.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 987338,
+      "sha256": "b49b5411a99102ca5558a06536b56926aec237f0f34a5ebec09304dd46abdbb8",
+      "download_status": "downloaded",
+      "pdf_pages": 49,
+      "extracted_chars": 73079,
+      "author": "Annamaria Conti; Vansh Gupta; Jorge Guzman; Maria P. Roche",
+      "title": "Incentivizing Innovation in Open Source: Evidence from the GitHub Sponsors Program",
+      "publication_year": 2023,
+      "publication": "NBER Working Paper 31668",
+      "doi": "10.3386/w31668",
+      "archived_version": "Actual 49-page PDF cover: September 2023, revised November 2023; non-peer-reviewed working paper",
+      "landing_page_revision": "August 2024; differs from downloaded PDF cover and is not assigned to this PDF",
+      "publication_metadata_file": "publication-page.html",
+      "reading_scope": "Targeted PDF pp.1-6,10-11,13-17,26-27",
+      "data_caveat": "Introduction and methods/descriptives state different user counts; retained, not harmonized or used for coverage calculations",
+      "text_extraction_status": "Search aid; cover revision and sample-count discrepancy checked",
+      "source_id": "L44",
+      "directory": "L44-conti-et-al-2023",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    },
+    {
+      "id": "L45-zhang-et-al-2022",
+      "requested_url": "https://zhangxunhui.github.io/files/CHI_2022_zxh.pdf",
+      "retrieved_at_utc": "2026-11-11T14:31:25.171041+00:00",
+      "status_code": 200,
+      "final_url": "https://zhangxunhui.github.io/files/CHI_2022_zxh.pdf",
+      "content_type": "application/pdf",
+      "file": "original.pdf",
+      "bytes": 1148303,
+      "sha256": "7810115a12592ed74d4cb1506fa983f4455791ff23a701fcbedc4889473d5030",
+      "download_status": "downloaded",
+      "pdf_pages": 18,
+      "extracted_chars": 108698,
+      "author": "Xunhui Zhang; Tao Wang; Yue Yu; Qiubing Zeng; Zhixing Li; Huaimin Wang",
+      "title": "Who, What, Why and How? Towards the Monetary Incentive in Crowd Collaboration: A Case Study of Github's Sponsor Mechanism",
+      "publication_year": 2022,
+      "publication": "CHI 2022, 18 pages",
+      "doi": "10.1145/3491102.3501822",
+      "archived_version": "18-page author-hosted CHI 2022 copy; no arXiv version substitution",
+      "reading_scope": "Targeted PDF pp.1-3,5,7,9-10,15-16",
+      "data_caveat": "Sponsorship event counts are not actual received monetary amounts; organizational accounts and other-platform funding not covered",
+      "text_extraction_status": "Search aid; no data or regressions replicated",
+      "source_id": "L45",
+      "directory": "L45-zhang-et-al-2022",
+      "reading_status": "targeted_passages_read",
+      "copyright_notice": "Original notices retained; no new redistribution license inferred"
+    }
+  ],
+  "files": [
+    {
+      "path": "discovery-01.json",
+      "bytes": 8254,
+      "sha256": "4f88d74604f285a10776a848b12cf14eb1bd2bdaa00eadb958b0c80ccb933c94"
+    },
+    {
+      "path": "L39-andreoni-1990/extracted.txt",
+      "bytes": 272,
+      "sha256": "7140ae2340ab3190f533442906ffeede4beb79880330d3b32cfe92b3266037a0"
+    },
+    {
+      "path": "L39-andreoni-1990/metadata.json",
+      "bytes": 1252,
+      "sha256": "627ad07c3acf71f3601e65a07e919d5e3a0688dd9d854be937b2344bc662aeae"
+    },
+    {
+      "path": "L39-andreoni-1990/original.pdf",
+      "bytes": 1414908,
+      "sha256": "308575c40eb68bc835259e6b095bd345af51927269cccbe9973c4e0fb9fff518"
+    },
+    {
+      "path": "L39-andreoni-1990/read-p1.png",
+      "bytes": 133209,
+      "sha256": "b16235cf6484e4dae57b8d80e75316f50e6411c82d1c1c1e567e3ef87aa05596"
+    },
+    {
+      "path": "L39-andreoni-1990/read-p2.png",
+      "bytes": 258575,
+      "sha256": "9baee1231fc9fe994597e3c0f71724425005fe1489711b6cdccb0855a8379501"
+    },
+    {
+      "path": "L39-andreoni-1990/read-p3.png",
+      "bytes": 294004,
+      "sha256": "650098b72df5d6f1620997a20e9f43a333ed20c5cba6dfa439cc35cc64735b42"
+    },
+    {
+      "path": "L40-bagnoli-lipman-1989/extracted.txt",
+      "bytes": 79978,
+      "sha256": "86c5c6777acfe5996ccc2482d275b5358c5c80d40141d2c319d4f26eb1c938ab"
+    },
+    {
+      "path": "L40-bagnoli-lipman-1989/metadata.json",
+      "bytes": 1289,
+      "sha256": "ac642e9d37594abc29726fb2a036afcc7a65e87d58f657aea679f31c8cd4f1c9"
+    },
+    {
+      "path": "L40-bagnoli-lipman-1989/original.pdf",
+      "bytes": 3174498,
+      "sha256": "f42ea8c22c207433f0189b055ae93358384e1b2e71775c791b717b53ad253c39"
+    },
+    {
+      "path": "L40-bagnoli-lipman-1989/read-p2.png",
+      "bytes": 229477,
+      "sha256": "7ece25b3a6957cb8ef963717ebe55be9132b08b72eafca018d03363b33627c44"
+    },
+    {
+      "path": "L40-bagnoli-lipman-1989/read-p5.png",
+      "bytes": 257227,
+      "sha256": "0eb6a2383f7aed2f7c50f16fdc92d52e78bec84a2ec5efa2043db67222632a4b"
+    },
+    {
+      "path": "L41-tabarrok-1998/extracted.txt",
+      "bytes": 39243,
+      "sha256": "21b443aebcbc6b3972fb7911cec38fde57450a237c81c2f812f7270c9599113e"
+    },
+    {
+      "path": "L41-tabarrok-1998/metadata.json",
+      "bytes": 1176,
+      "sha256": "5910686e84d06e7cbaf9a7ff648dfa491d17167f52e1f70b3495226f37b22330"
+    },
+    {
+      "path": "L41-tabarrok-1998/original.pdf",
+      "bytes": 294635,
+      "sha256": "207d3ed1057da298d63f25aace92b0777cce7823633c31def5e6851c1624773f"
+    },
+    {
+      "path": "L41-tabarrok-1998/read-p5.png",
+      "bytes": 122787,
+      "sha256": "7de462946e43d8f4342570d671a9ead1be74a24bffcfda6e54bb0c6e6f4518c9"
+    },
+    {
+      "path": "L42-vonhippel-vonkrogh-2002/attempt-initial.json",
+      "bytes": 528,
+      "sha256": "f02c2c27161b89863f0aac8ca581127de547f01825dd1d444d90782f9d376636"
+    },
+    {
+      "path": "L42-vonhippel-vonkrogh-2002/extracted.txt",
+      "bytes": 84222,
+      "sha256": "2885f747dad777db3f74fc5e0162965db34ba7d314c83fd042cb81cd6ec33ea5"
+    },
+    {
+      "path": "L42-vonhippel-vonkrogh-2002/metadata.json",
+      "bytes": 1275,
+      "sha256": "2702070f53d1c94dbdd2659720e4a04fb5760b31ff946df3c901bb52038d1024"
+    },
+    {
+      "path": "L42-vonhippel-vonkrogh-2002/original.pdf",
+      "bytes": 363820,
+      "sha256": "e3ead2f0a230bff3002c61b38e8335d4a20f078f88882585f60a28d32003cd14"
+    },
+    {
+      "path": "L42-vonhippel-vonkrogh-2002/read-p17.png",
+      "bytes": 166289,
+      "sha256": "e6a6a0862cd88f1dae9cc2baf94b0ff40765c7d4b0b0f87be774198385b99c98"
+    },
+    {
+      "path": "L42-vonhippel-vonkrogh-2002/response.html",
+      "bytes": 25731,
+      "sha256": "168c3da82cb9b3f68dcdf04c29761893dd113ebfb16a9e87c21698d681459c21"
+    },
+    {
+      "path": "L43-riehle-2012/extracted.txt",
+      "bytes": 38489,
+      "sha256": "79d87108c92d152daa4df37917d27621e26b56bbd0f7bfe4e1eb19abca8a6eae"
+    },
+    {
+      "path": "L43-riehle-2012/metadata.json",
+      "bytes": 1375,
+      "sha256": "db8dc1d522de60c0cf1c991bc703ba0a2b12c56bbcd33038625a9158bf4d5810"
+    },
+    {
+      "path": "L43-riehle-2012/original.pdf",
+      "bytes": 115098,
+      "sha256": "3be982f842729058ce2838720a3349954e189f587cc7f5105f86e9c1c4243248"
+    },
+    {
+      "path": "L43-riehle-2012/publication-page-extracted.txt",
+      "bytes": 3098,
+      "sha256": "98a6c3decd062dbf5bde0b3fa6407222852a71182fc8f9cb35bf3e8672c97de3"
+    },
+    {
+      "path": "L43-riehle-2012/publication-page-metadata.json",
+      "bytes": 537,
+      "sha256": "5621a625e880c9e6b6754f9566e077df0df41e0fa8b1e7d079189f7e8788a750"
+    },
+    {
+      "path": "L43-riehle-2012/publication-page.html",
+      "bytes": 200409,
+      "sha256": "3e410cfc0980e7e07a72034ea3b5c727d65ef8dddad4f970721e1e1e79ca388b"
+    },
+    {
+      "path": "L43-riehle-2012/read-p6.png",
+      "bytes": 142583,
+      "sha256": "7da2fb8e66592090cf4c326e27b494752ce2713c1c5ae4757f4bc20e11912b7d"
+    },
+    {
+      "path": "L44-conti-et-al-2023/extracted.txt",
+      "bytes": 75142,
+      "sha256": "b9a70d26eacba2827fda9b96450f9b6a6bda54c9d64cf4b524854f350cad0680"
+    },
+    {
+      "path": "L44-conti-et-al-2023/metadata.json",
+      "bytes": 1619,
+      "sha256": "dbf98174bfa6f31a1d6ab910e0dfe4d079f2c3f94d59525cce50aab2e5ba2f47"
+    },
+    {
+      "path": "L44-conti-et-al-2023/original.pdf",
+      "bytes": 987338,
+      "sha256": "b49b5411a99102ca5558a06536b56926aec237f0f34a5ebec09304dd46abdbb8"
+    },
+    {
+      "path": "L44-conti-et-al-2023/publication-page-extracted.txt",
+      "bytes": 4654,
+      "sha256": "924a4f46d9eaf968954bdf89565bd08ed9a59a861bc00643ed7d5a4f24cb36f0"
+    },
+    {
+      "path": "L44-conti-et-al-2023/publication-page-metadata.json",
+      "bytes": 376,
+      "sha256": "bfac46436ded5ab398e2bb0a48a2c7ad4995758a05074cb78bd74e50ddf3460d"
+    },
+    {
+      "path": "L44-conti-et-al-2023/publication-page.html",
+      "bytes": 92951,
+      "sha256": "f39d76236779c3f54d2cef9a860c32bbb90d383835c20dfc12e890aacddab090"
+    },
+    {
+      "path": "L44-conti-et-al-2023/read-p1.png",
+      "bytes": 126881,
+      "sha256": "44249fb92f5fbbea6b3e0d01429bed4bf82c275059be634fe269c23f616daa25"
+    },
+    {
+      "path": "L44-conti-et-al-2023/read-p14.png",
+      "bytes": 111998,
+      "sha256": "29ab1ca3c464bfeca545f94ccc5949ccd612fd34599d16b7e3e6f743482bcce9"
+    },
+    {
+      "path": "L45-zhang-et-al-2022/extracted.txt",
+      "bytes": 112577,
+      "sha256": "7fbf7369b99c8cc8cc6c3b40de0e4e40d05847837159078a0e41db567586461b"
+    },
+    {
+      "path": "L45-zhang-et-al-2022/metadata.json",
+      "bytes": 1433,
+      "sha256": "773fe91c47491f1f68578c7344cc70cc5d663da39f0f23680450da8e544b85ba"
+    },
+    {
+      "path": "L45-zhang-et-al-2022/original.pdf",
+      "bytes": 1148303,
+      "sha256": "7810115a12592ed74d4cb1506fa983f4455791ff23a701fcbedc4889473d5030"
+    },
+    {
+      "path": "L45-zhang-et-al-2022/read-p10.png",
+      "bytes": 244140,
+      "sha256": "e346429e6563a3b1783ddea3a6adc080aa44e189220dd295c8c27ee9de88d5c3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3699,
+      "sha256": "7406962d7010d5a7beba31cc5c67ee8fc90bb7041d4cdc60363b70d530e40ba7"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 35530,
+      "sha256": "9e9cd133e64ee72bbd88cffc82c996a092b0f0e0bdc90feda66f26f369205765"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 38326,
+      "sha256": "c4088e5d345d31b6c5009af7acdf34d7ba54c58a5ee54a24f3d216ca68c20e58"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 36835,
+      "sha256": "16dcc41452487a1173622768e4eec796fa416ef398c5034e9a7caed0752add26"
+    }
+  ],
+  "excludes": [
+    "manifest.json itself"
+  ]
+}

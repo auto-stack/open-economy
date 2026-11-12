@@ -1,0 +1,19 @@
+{
+  "id": "L06-montevil-mossio-2015",
+  "requested_url": "https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/",
+  "retrieved_at_utc": "2026-11-11T06:53:49.959752+00:00",
+  "status_code": 200,
+  "final_url": "https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/",
+  "content_type": "text/html; charset=UTF-8",
+  "file": "original.html",
+  "bytes": 1473113,
+  "sha256": "4b3d1fdf0454614227ce97a4df7283c0a2922ac5f88f52adaf6b018addd06a21",
+  "download_status": "downloaded",
+  "author": "Mael Montevil; Matteo Mossio",
+  "title": "Biological Organisation as Closure of Constraints",
+  "publication_year": "2015",
+  "reading_status": "targeted_passages_read",
+  "reading_scope": "Author full-text HTML sections 1-6.1",
+  "role": "core_targeted_reading",
+  "extracted_text_status": "search_aid_not_authoritative"
+}

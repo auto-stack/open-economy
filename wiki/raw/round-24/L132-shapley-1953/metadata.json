@@ -1,0 +1,22 @@
+{
+  "id": "L132-shapley-1953",
+  "title": "A Value for n-Person Games",
+  "authors": "Lloyd S.Shapley",
+  "publication": "Contributions to the Theory of Games II,1953,307-317; target publisher chapter",
+  "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781400881970-018/pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Publisher search record only; local chapter download failed; no axiomatic proof read.",
+  "selection_status": "bibliographic_lead_only",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_failed_bibliographic_lead_only",
+  "original_downloaded": false,
+  "actual_version": "1953chapter distinct from1952RANDleadL124; bibliography307-317 vs publisher307-318 unresolved from actual chapter.",
+  "knowledge_base_status": "provenance and extraction stored;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "bibliographic-tool.partial.txt",
+      "sha256": "f31c804e0941e300412c3d554efa9aedc12b91c41582c75160d449862cce7e9b",
+      "bytes": 2326
+    }
+  ]
+}

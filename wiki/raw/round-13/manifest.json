@@ -1,0 +1,183 @@
+{
+  "research_date_local": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "generated_at_utc": "2026-11-11T21:00:41.835082+00:00",
+  "new_full_originals": 3,
+  "new_partial_tool_views": 1,
+  "reused_originals": 1,
+  "originals": [
+    {
+      "path": "L64-berridge-robinson-2016/original.pdf",
+      "bytes": 520975,
+      "sha256": "220f31f96766683da4e3a88135d791bffdf885bf7a2bd8b1e75e101600b726ab"
+    },
+    {
+      "path": "L65-schultz-dayan-montague-1997/original.pdf",
+      "bytes": 1442790,
+      "sha256": "be98208b3d1d5c664af5ee9b8b1d45107a9c8595972ef3d5e0efc218463a7adb"
+    },
+    {
+      "path": "L66-desmedt-et-al-2018/original.pdf",
+      "bytes": 312431,
+      "sha256": "d74cbaa917f1cd676a37f4f2b6e1853c7dd87b0b3a75f493f7102ed1517a1454"
+    }
+  ],
+  "partial_views": [
+    {
+      "path": "L63-garfinkel-et-al-2015/web-tool-view.txt",
+      "bytes": 29562,
+      "sha256": "4ad20f3fce9437c4fd4c2ee27f32a109b84fd9dc8c14496050ffe658f2097abb"
+    }
+  ],
+  "files": [
+    {
+      "path": "L63-garfinkel-et-al-2015/acquisition-log.json",
+      "bytes": 422,
+      "sha256": "8291144c41feac019993fd4c67b22ec268527f03894c5d71cb85acb129ee4b2f"
+    },
+    {
+      "path": "L63-garfinkel-et-al-2015/attempt-initial.json",
+      "bytes": 295,
+      "sha256": "fe7d67140484e76319122430805e9d37899881574714ab194f54937d2993020c"
+    },
+    {
+      "path": "L63-garfinkel-et-al-2015/attempt-sussex.json",
+      "bytes": 422,
+      "sha256": "8291144c41feac019993fd4c67b22ec268527f03894c5d71cb85acb129ee4b2f"
+    },
+    {
+      "path": "L63-garfinkel-et-al-2015/failed-response.bin",
+      "bytes": 118,
+      "sha256": "58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4"
+    },
+    {
+      "path": "L63-garfinkel-et-al-2015/metadata.json",
+      "bytes": 1294,
+      "sha256": "4adc1e46e9c6ba301a0562635f290e8bd8434a145e5c96c8ae4ee11991d5c923"
+    },
+    {
+      "path": "L63-garfinkel-et-al-2015/repository-api-attempt.json",
+      "bytes": 181,
+      "sha256": "2b49604a8f03df721b3c2f126dae7107a8e583d59c249e802c4e416e16a8c5a8"
+    },
+    {
+      "path": "L63-garfinkel-et-al-2015/repository-api-response.txt",
+      "bytes": 118,
+      "sha256": "58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4"
+    },
+    {
+      "path": "L63-garfinkel-et-al-2015/web-tool-view.txt",
+      "bytes": 29562,
+      "sha256": "4ad20f3fce9437c4fd4c2ee27f32a109b84fd9dc8c14496050ffe658f2097abb"
+    },
+    {
+      "path": "L64-berridge-robinson-2016/acquisition-log.json",
+      "bytes": 496,
+      "sha256": "6f721aecc7b3114894dd3b1d1d2170e0681e8bb2174332cb33b886a0b765f31d"
+    },
+    {
+      "path": "L64-berridge-robinson-2016/extracted.txt",
+      "bytes": 66988,
+      "sha256": "0c12da809ad975864a93dbe875613eb505b6d5b33fa5db5811e7e9ff72674913"
+    },
+    {
+      "path": "L64-berridge-robinson-2016/metadata.json",
+      "bytes": 1593,
+      "sha256": "024632ac27880e7515475c9f73376c3b0179e8d5fdd45681bca16631fa27c429"
+    },
+    {
+      "path": "L64-berridge-robinson-2016/original.pdf",
+      "bytes": 520975,
+      "sha256": "220f31f96766683da4e3a88135d791bffdf885bf7a2bd8b1e75e101600b726ab"
+    },
+    {
+      "path": "L64-berridge-robinson-2016/reading-page.png",
+      "bytes": 195641,
+      "sha256": "7a6bf04a63e56f11e260f204a51bfc400484f0dff4f37bc27032877501097d34"
+    },
+    {
+      "path": "L65-schultz-dayan-montague-1997/acquisition-log.json",
+      "bytes": 295,
+      "sha256": "20209cfecec8ebd0f30afb4f745ee12889a9b57b23c74b95bd3fabb10505849e"
+    },
+    {
+      "path": "L65-schultz-dayan-montague-1997/extracted.txt",
+      "bytes": 56084,
+      "sha256": "6cc223e76c0e64751ac0e183eb4ae71f8673248a1059f1f20a0e0b18ab44d326"
+    },
+    {
+      "path": "L65-schultz-dayan-montague-1997/metadata.json",
+      "bytes": 1311,
+      "sha256": "4ed05350a458166312362136a0a438a3e21c3f00c1cd0a39a7ff0eee1dd410a4"
+    },
+    {
+      "path": "L65-schultz-dayan-montague-1997/original.pdf",
+      "bytes": 1442790,
+      "sha256": "be98208b3d1d5c664af5ee9b8b1d45107a9c8595972ef3d5e0efc218463a7adb"
+    },
+    {
+      "path": "L65-schultz-dayan-montague-1997/reading-page.png",
+      "bytes": 206422,
+      "sha256": "2c730ac9bea17d1c996496ae6f862de6797d627994eda5d11ef8ba374db0fdf4"
+    },
+    {
+      "path": "L66-desmedt-et-al-2018/acquisition-log.json",
+      "bytes": 330,
+      "sha256": "6391aa38209e19002a52853e2d60231c66b30e1de0fda26d079526e903407b30"
+    },
+    {
+      "path": "L66-desmedt-et-al-2018/extracted.txt",
+      "bytes": 26222,
+      "sha256": "1095f7fe66ba6b09e730d6bb26af96e85c11ddea02667e3ada6fd3469b7ce49c"
+    },
+    {
+      "path": "L66-desmedt-et-al-2018/metadata.json",
+      "bytes": 1416,
+      "sha256": "5a8c1b2aef9149e53b354473b0ee64d4f377d87c46a96308b435ab7f2d5efe1b"
+    },
+    {
+      "path": "L66-desmedt-et-al-2018/original.pdf",
+      "bytes": 312431,
+      "sha256": "d74cbaa917f1cd676a37f4f2b6e1853c7dd87b0b3a75f493f7102ed1517a1454"
+    },
+    {
+      "path": "L66-desmedt-et-al-2018/reading-page.png",
+      "bytes": 183301,
+      "sha256": "d6827f18851e8f81de1104ab275ed3e5180b26ef360bb634687bd2f161922192"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2887,
+      "sha256": "98a41103980fe98b065820cc707b3d1fbda224ef336acd7ca6f201e744106715"
+    },
+    {
+      "path": "reused-sources.json",
+      "bytes": 417,
+      "sha256": "7a0dbf070ab6523129e48fe0f4222304124669fcf0d3fd4fb900e676d20fb6e5"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 33434,
+      "sha256": "6d005b0cac7375332baf4c3c54faa9d159e76d42d1c68cd2277ccb4df1913a4e"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 35350,
+      "sha256": "358748db4eb011933e269f2aeec0fe42985ca95e647371adcfa998b497a2f639"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 28438,
+      "sha256": "7094094f8f886903424304008d0ccd10e17e73b0b54d88b2dc7fb3d41dc7b81b"
+    },
+    {
+      "path": "search-04.json",
+      "bytes": 29940,
+      "sha256": "da74fe5095772ba40e4843f3a09658590e3fd1247d91f26b01f76b2f4ea28a53"
+    }
+  ],
+  "excludes": [
+    "manifest.json itself",
+    "__pycache__ contents"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "L130-alchian-demsetz-1972",
+  "title": "Production, Information Costs, and Economic Organization",
+  "authors": "Armen A.Alchian; Harold Demsetz",
+  "publication": "AER62(5),1972,777-795; university-hosted article",
+  "url": "https://homepage.villanova.edu/peter.zaleski/alchian.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF2-4,printed777-779,read visually; machine text empty; not full monitoring/ownership argument.",
+  "selection_status": "adopted_visual_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 20,
+  "sha256": "8248111568514f79c753db39d34af4c2e7fa02d744203a7290e1628b20a6790c",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://homepage.villanova.edu/peter.zaleski/alchian.pdf",
+  "status_code": 200,
+  "bytes": 2816335,
+  "retrieved_at_utc": "2026-11-12T04:20:41.051070+00:00",
+  "actual_version": "AER62(5),1972,777-795;20-page scan including cover.",
+  "knowledge_base_status": "provenance and extraction stored;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "sha256": "8248111568514f79c753db39d34af4c2e7fa02d744203a7290e1628b20a6790c",
+      "bytes": 2816335
+    }
+  ]
+}

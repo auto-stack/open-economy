@@ -1,0 +1,31 @@
+{
+  "id": "L125-holmstrom-milgrom-1991",
+  "title": "Multitask Principal-Agent Analyses: Incentive Contracts,Asset Ownership,and Job Design",
+  "authors": "Bengt Holmstrom; Paul Milgrom",
+  "publication": "JLEO7SpecialIssue,1991,24-52",
+  "url": "https://web.stanford.edu/~milgrom/publishedarticles/Multitask%20Principal%20Agent.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-2 visually read, two printed pages each, journal24-27; remaining proof/model pages not read. Embedded text extraction empty.",
+  "selection_status": "adopted_visual_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 15,
+  "sha256": "3f02e533d3fdff61dca5ffab381c56710e23a4b222409b7825f526da8190fc71",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://web.stanford.edu/~milgrom/publishedarticles/Multitask%20Principal%20Agent.pdf",
+  "status_code": 200,
+  "bytes": 320059,
+  "retrieved_at_utc": "2026-11-12T03:32:55.703134+00:00",
+  "actual_version": "JLEO7special,1991,24-52;15 scanned PDF pages with facing-page layout.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 320059,
+      "sha256": "3f02e533d3fdff61dca5ffab381c56710e23a4b222409b7825f526da8190fc71"
+    }
+  ]
+}

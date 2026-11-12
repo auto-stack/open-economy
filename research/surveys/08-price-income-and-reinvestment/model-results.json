@@ -1,0 +1,78 @@
+{
+  "date_local": "2026-11-12",
+  "status": "assumed_parameter_teaching_examples_not_empirical_results",
+  "market": {
+    "buyer_values": [
+      100,
+      80,
+      50
+    ],
+    "seller_costs": [
+      20,
+      40,
+      70
+    ],
+    "one_unit_per_actor": true,
+    "matchings_enumerated": 34,
+    "maximum_total_gain": 120,
+    "maximizing_trade_units": 2,
+    "uniform_supporting_price_interval": [
+      50,
+      70
+    ],
+    "interval_endpoint_condition": "Indifferent marginal actors may abstain; no uniqueness or convergence claim"
+  },
+  "bargaining": {
+    "budget100": {
+      "agreement_feasible": true,
+      "price": 60.0,
+      "buyer_gain_above_disagreement": 40.0,
+      "seller_gain_above_disagreement": 40.0,
+      "product": 1600.0
+    },
+    "budget50": {
+      "agreement_feasible": true,
+      "price": 50.0,
+      "buyer_gain_above_disagreement": 50.0,
+      "seller_gain_above_disagreement": 30.0,
+      "product": 1500.0
+    },
+    "budget15": {
+      "agreement_feasible": false,
+      "price": null
+    },
+    "seller_disagreement20_budget100": {
+      "agreement_feasible": true,
+      "price": 70.0,
+      "buyer_gain_above_disagreement": 30.0,
+      "seller_gain_above_disagreement": 30.0,
+      "product": 900.0
+    }
+  },
+  "fixed_income_distribution": {
+    "income_total": 100,
+    "assumed_propensities": [
+      0.8,
+      0.2
+    ],
+    "income_before": [
+      20,
+      80
+    ],
+    "income_after": [
+      30,
+      70
+    ],
+    "spending_before": 32.0,
+    "spending_after": 38.0,
+    "difference": 6.0
+  },
+  "fixed_price_aggregate_example": {
+    "equation": "Y=A+cY",
+    "A": 20,
+    "c": 0.6,
+    "capacity": 100,
+    "fixed_point_Y": 50.0,
+    "scope": "Closed fixed-price teaching model with spare capacity, fixed autonomous spending and behavior; not a policy estimate"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "date_local": "2026-11-12",
+  "stage": "reviewed_before_final_commit",
+  "decisions": [
+    {
+      "class": "authored_manuscript_and_research",
+      "action": "track",
+      "paths": [
+        "book",
+        "docs",
+        "shared",
+        "research/reviews",
+        "research/surveys"
+      ],
+      "exclude": "inspection page images"
+    },
+    {
+      "class": "model_code_results_and_owned_figures",
+      "action": "track",
+      "paths": [
+        "research/examples",
+        "research/tools"
+      ],
+      "exclude": "Python caches"
+    },
+    {
+      "class": "frozen_protocols_and_audit_evidence",
+      "action": "track",
+      "paths": [
+        "research/baselines",
+        "research/audits"
+      ],
+      "exclude": "inspection renders and preliminary local package check"
+    },
+    {
+      "class": "source_descriptions",
+      "action": "track_explicit_basename_allowlist",
+      "configuration": ".gitignore",
+      "note": "195 metadata records, bibliographic index fields and acquisition/reuse/manifest records inspected; no paper body or complete conversation in the selected record roles"
+    },
+    {
+      "class": "third_party_full_payload_or_transcription",
+      "action": "ignore_and_local_source_zip",
+      "paths": [
+        "wiki/raw original payloads",
+        "wiki/derived full OCR and word boxes",
+        "research inspection images"
+      ]
+    },
+    {
+      "class": "complete_AI_conversation_exports",
+      "action": "ignore_and_local_source_zip",
+      "paths": [
+        "wiki/raw/round-01/H01-historical-dialogue/original.md",
+        "wiki/raw/round-09/H02-open-business-dialogue/conversation.md",
+        "wiki/raw/round-09/H02-open-business-dialogue/read-thread.json"
+      ]
+    },
+    {
+      "class": "runtime_cache_and_temporary_checks",
+      "action": "ignore",
+      "paths": [
+        "__pycache__",
+        "*.pyc",
+        ".local-artifacts"
+      ]
+    }
+  ],
+  "frozen_corpus_snapshot_review": {
+    "records": 344,
+    "project_documents": 151,
+    "source_metadata_records": 193,
+    "primary_paper_body_present": false,
+    "decision": "track as historic evidence"
+  },
+  "manuscript_figures": {
+    "original_generated_figure_families": 5,
+    "formats": [
+      "svg",
+      "png"
+    ],
+    "decision": "track"
+  },
+  "exact_bytes_policy": ".gitattributes disables automatic text conversion to preserve historical hashes",
+  "source_zip": {
+    "file_count": 1358,
+    "zip_directory_crc_and_every_payload_hash_checked": true,
+    "originals_deleted_or_moved": false,
+    "publicly_uploaded": false
+  },
+  "publication_action": "local Git commit and annotated tag only; no remote push requested",
+  "scope": "File role and content-boundary review, not a blanket third-party redistribution license or scientific validation"
+}

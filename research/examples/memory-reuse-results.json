@@ -1,0 +1,769 @@
+{
+  "scope": "project-created finite models; no physical energy or market-price mapping",
+  "memory": [
+    {
+      "flip_probability": 0.0,
+      "age": 1,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 1.0,
+      "copy_success": 1.0,
+      "best_binary_decoding_success": 1.0
+    },
+    {
+      "flip_probability": 0.0,
+      "age": 2,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 1.0,
+      "copy_success": 1.0,
+      "best_binary_decoding_success": 1.0
+    },
+    {
+      "flip_probability": 0.0,
+      "age": 5,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 1.0,
+      "copy_success": 1.0,
+      "best_binary_decoding_success": 1.0
+    },
+    {
+      "flip_probability": 0.0,
+      "age": 10,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 1.0,
+      "copy_success": 1.0,
+      "best_binary_decoding_success": 1.0
+    },
+    {
+      "flip_probability": 0.0,
+      "age": 20,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 1.0,
+      "copy_success": 1.0,
+      "best_binary_decoding_success": 1.0
+    },
+    {
+      "flip_probability": 0.1,
+      "age": 1,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.5310044064107189,
+      "copy_success": 0.9,
+      "best_binary_decoding_success": 0.9
+    },
+    {
+      "flip_probability": 0.1,
+      "age": 2,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.31992295427172035,
+      "copy_success": 0.8200000000000001,
+      "best_binary_decoding_success": 0.8200000000000001
+    },
+    {
+      "flip_probability": 0.1,
+      "age": 5,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.07890339904887567,
+      "copy_success": 0.66384,
+      "best_binary_decoding_success": 0.66384
+    },
+    {
+      "flip_probability": 0.1,
+      "age": 10,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.008332625430731433,
+      "copy_success": 0.5536870912,
+      "best_binary_decoding_success": 0.5536870912
+    },
+    {
+      "flip_probability": 0.1,
+      "age": 20,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 9.588565618412481e-05,
+      "copy_success": 0.5057646075230342,
+      "best_binary_decoding_success": 0.5057646075230342
+    },
+    {
+      "flip_probability": 0.25,
+      "age": 1,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.18872187554086717,
+      "copy_success": 0.75,
+      "best_binary_decoding_success": 0.75
+    },
+    {
+      "flip_probability": 0.25,
+      "age": 2,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.04556599707503495,
+      "copy_success": 0.625,
+      "best_binary_decoding_success": 0.625
+    },
+    {
+      "flip_probability": 0.25,
+      "age": 5,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.0007045556378451057,
+      "copy_success": 0.515625,
+      "best_binary_decoding_success": 0.515625
+    },
+    {
+      "flip_probability": 0.25,
+      "age": 10,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 6.879307128393464e-07,
+      "copy_success": 0.50048828125,
+      "best_binary_decoding_success": 0.50048828125
+    },
+    {
+      "flip_probability": 0.25,
+      "age": 20,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 6.561418075534675e-13,
+      "copy_success": 0.5000004768371582,
+      "best_binary_decoding_success": 0.5000004768371582
+    },
+    {
+      "flip_probability": 0.5,
+      "age": 1,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.0,
+      "copy_success": 0.5,
+      "best_binary_decoding_success": 0.5
+    },
+    {
+      "flip_probability": 0.5,
+      "age": 2,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.0,
+      "copy_success": 0.5,
+      "best_binary_decoding_success": 0.5
+    },
+    {
+      "flip_probability": 0.5,
+      "age": 5,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.0,
+      "copy_success": 0.5,
+      "best_binary_decoding_success": 0.5
+    },
+    {
+      "flip_probability": 0.5,
+      "age": 10,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.0,
+      "copy_success": 0.5,
+      "best_binary_decoding_success": 0.5
+    },
+    {
+      "flip_probability": 0.5,
+      "age": 20,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.0,
+      "copy_success": 0.5,
+      "best_binary_decoding_success": 0.5
+    },
+    {
+      "flip_probability": 0.9,
+      "age": 1,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.5310044064107189,
+      "copy_success": 0.09999999999999998,
+      "best_binary_decoding_success": 0.9
+    },
+    {
+      "flip_probability": 0.9,
+      "age": 2,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.31992295427172035,
+      "copy_success": 0.8200000000000001,
+      "best_binary_decoding_success": 0.8200000000000001
+    },
+    {
+      "flip_probability": 0.9,
+      "age": 5,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.07890339904887567,
+      "copy_success": 0.33615999999999996,
+      "best_binary_decoding_success": 0.66384
+    },
+    {
+      "flip_probability": 0.9,
+      "age": 10,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 0.008332625430731433,
+      "copy_success": 0.5536870912,
+      "best_binary_decoding_success": 0.5536870912
+    },
+    {
+      "flip_probability": 0.9,
+      "age": 20,
+      "memory_entropy_bits": 1.0,
+      "predictive_mutual_information_bits": 9.588565618412481e-05,
+      "copy_success": 0.5057646075230342,
+      "best_binary_decoding_success": 0.5057646075230342
+    }
+  ],
+  "calibration": [
+    {
+      "true_signal_reliability": 0.8,
+      "allocation_to_signalled_type": 0.5,
+      "information_nats": 0.19274475702175742,
+      "gross_log_growth_advantage_per_round": 0.0,
+      "mismatch_regret_nats": 0.1927447570217575
+    },
+    {
+      "true_signal_reliability": 0.8,
+      "allocation_to_signalled_type": 0.6,
+      "information_nats": 0.19274475702175742,
+      "gross_log_growth_advantage_per_round": 0.10122853517232175,
+      "mismatch_regret_nats": 0.09151622184943575
+    },
+    {
+      "true_signal_reliability": 0.8,
+      "allocation_to_signalled_type": 0.8,
+      "information_nats": 0.19274475702175742,
+      "gross_log_growth_advantage_per_round": 0.1927447570217575,
+      "mismatch_regret_nats": 0.0
+    },
+    {
+      "true_signal_reliability": 0.8,
+      "allocation_to_signalled_type": 0.95,
+      "information_nats": 0.19274475702175742,
+      "gross_log_growth_advantage_per_round": 0.05296609033910693,
+      "mismatch_regret_nats": 0.13977866668265052
+    },
+    {
+      "true_signal_reliability": 0.8,
+      "allocation_to_signalled_type": 0.99,
+      "information_nats": 0.19274475702175742,
+      "gross_log_growth_advantage_per_round": -0.23592712532047377,
+      "mismatch_regret_nats": 0.4286718823422313
+    }
+  ],
+  "irrelevant_prediction": {
+    "environment_components": "independent U and V; U is iid fair; V has flip probability 0.1",
+    "remembered_component": "previous V",
+    "task": "predict current U",
+    "memory_entropy_bits": 1.0,
+    "information_about_full_next_environment_bits": 0.5310044064107188,
+    "information_about_task_target_bits": 0.0,
+    "best_task_success": 0.5
+  },
+  "reuse_cost_parameters": {
+    "build": 12.0,
+    "execution": 1.0,
+    "whole_setup": 4.0,
+    "whole_maintenance": 0.2,
+    "whole_validation": 0.8,
+    "modular_setup": 7.0,
+    "modular_maintenance": 0.4,
+    "modular_validation_total": 1.2,
+    "assembly_per_task": 0.3,
+    "wrong_output_penalty": 20.0
+  },
+  "reuse": [
+    {
+      "horizon": 1,
+      "per_module_change_probability": 0.0,
+      "from_scratch_cost": 13.0,
+      "unvalidated_cost_before_error_penalty": 17.0,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 17.0,
+      "validated_whole_cost": 17.0,
+      "validated_modular_cost": 20.3,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 1,
+      "per_module_change_probability": 0.01,
+      "from_scratch_cost": 13.0,
+      "unvalidated_cost_before_error_penalty": 17.0,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 17.0,
+      "validated_whole_cost": 17.0,
+      "validated_modular_cost": 20.3,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 1,
+      "per_module_change_probability": 0.1,
+      "from_scratch_cost": 13.0,
+      "unvalidated_cost_before_error_penalty": 17.0,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 17.0,
+      "validated_whole_cost": 17.0,
+      "validated_modular_cost": 20.3,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 1,
+      "per_module_change_probability": 0.3,
+      "from_scratch_cost": 13.0,
+      "unvalidated_cost_before_error_penalty": 17.0,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 17.0,
+      "validated_whole_cost": 17.0,
+      "validated_modular_cost": 20.3,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 1,
+      "per_module_change_probability": 0.8,
+      "from_scratch_cost": 13.0,
+      "unvalidated_cost_before_error_penalty": 17.0,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 17.0,
+      "validated_whole_cost": 17.0,
+      "validated_modular_cost": 20.3,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 1,
+      "per_module_change_probability": 1.0,
+      "from_scratch_cost": 13.0,
+      "unvalidated_cost_before_error_penalty": 17.0,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 17.0,
+      "validated_whole_cost": 17.0,
+      "validated_modular_cost": 20.3,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 2,
+      "per_module_change_probability": 0.0,
+      "from_scratch_cost": 26.0,
+      "unvalidated_cost_before_error_penalty": 18.2,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 18.2,
+      "validated_whole_cost": 19.0,
+      "validated_modular_cost": 23.2,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 2,
+      "per_module_change_probability": 0.01,
+      "from_scratch_cost": 26.0,
+      "unvalidated_cost_before_error_penalty": 18.2,
+      "unvalidated_expected_wrong_outputs": 0.0199,
+      "unvalidated_penalized_cost": 18.598,
+      "validated_whole_cost": 19.2388,
+      "validated_modular_cost": 23.32,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 2,
+      "per_module_change_probability": 0.1,
+      "from_scratch_cost": 26.0,
+      "unvalidated_cost_before_error_penalty": 18.2,
+      "unvalidated_expected_wrong_outputs": 0.19,
+      "unvalidated_penalized_cost": 22.0,
+      "validated_whole_cost": 21.28,
+      "validated_modular_cost": 24.4,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 2,
+      "per_module_change_probability": 0.3,
+      "from_scratch_cost": 26.0,
+      "unvalidated_cost_before_error_penalty": 18.2,
+      "unvalidated_expected_wrong_outputs": 0.51,
+      "unvalidated_penalized_cost": 28.4,
+      "validated_whole_cost": 25.12,
+      "validated_modular_cost": 26.8,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 2,
+      "per_module_change_probability": 0.8,
+      "from_scratch_cost": 26.0,
+      "unvalidated_cost_before_error_penalty": 18.2,
+      "unvalidated_expected_wrong_outputs": 0.96,
+      "unvalidated_penalized_cost": 37.4,
+      "validated_whole_cost": 30.52,
+      "validated_modular_cost": 32.8,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 2,
+      "per_module_change_probability": 1.0,
+      "from_scratch_cost": 26.0,
+      "unvalidated_cost_before_error_penalty": 18.2,
+      "unvalidated_expected_wrong_outputs": 1.0,
+      "unvalidated_penalized_cost": 38.2,
+      "validated_whole_cost": 31.0,
+      "validated_modular_cost": 35.2,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 5,
+      "per_module_change_probability": 0.0,
+      "from_scratch_cost": 65.0,
+      "unvalidated_cost_before_error_penalty": 21.8,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 21.8,
+      "validated_whole_cost": 25.0,
+      "validated_modular_cost": 31.9,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 5,
+      "per_module_change_probability": 0.01,
+      "from_scratch_cost": 65.0,
+      "unvalidated_cost_before_error_penalty": 21.8,
+      "unvalidated_expected_wrong_outputs": 0.1950791461710799,
+      "unvalidated_penalized_cost": 25.701582923421597,
+      "validated_whole_cost": 25.9552,
+      "validated_modular_cost": 32.38,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 5,
+      "per_module_change_probability": 0.1,
+      "from_scratch_cost": 65.0,
+      "unvalidated_cost_before_error_penalty": 21.8,
+      "unvalidated_expected_wrong_outputs": 1.57199179,
+      "unvalidated_penalized_cost": 53.2398358,
+      "validated_whole_cost": 34.12,
+      "validated_modular_cost": 36.7,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 5,
+      "per_module_change_probability": 0.3,
+      "from_scratch_cost": 65.0,
+      "unvalidated_cost_before_error_penalty": 21.8,
+      "unvalidated_expected_wrong_outputs": 3.09460299,
+      "unvalidated_penalized_cost": 83.6920598,
+      "validated_whole_cost": 49.48,
+      "validated_modular_cost": 46.3,
+      "best_among_three_verified_policies": [
+        "validated_modular"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 5,
+      "per_module_change_probability": 0.8,
+      "from_scratch_cost": 65.0,
+      "unvalidated_cost_before_error_penalty": 21.8,
+      "unvalidated_expected_wrong_outputs": 3.95833344,
+      "unvalidated_penalized_cost": 100.9666688,
+      "validated_whole_cost": 71.08,
+      "validated_modular_cost": 70.3,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 5,
+      "per_module_change_probability": 1.0,
+      "from_scratch_cost": 65.0,
+      "unvalidated_cost_before_error_penalty": 21.8,
+      "unvalidated_expected_wrong_outputs": 4.0,
+      "unvalidated_penalized_cost": 101.8,
+      "validated_whole_cost": 73.0,
+      "validated_modular_cost": 79.9,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 20,
+      "per_module_change_probability": 0.0,
+      "from_scratch_cost": 260.0,
+      "unvalidated_cost_before_error_penalty": 39.8,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 39.8,
+      "validated_whole_cost": 55.0,
+      "validated_modular_cost": 75.4,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 20,
+      "per_module_change_probability": 0.01,
+      "from_scratch_cost": 260.0,
+      "unvalidated_cost_before_error_penalty": 39.8,
+      "unvalidated_expected_wrong_outputs": 3.3654150035015333,
+      "unvalidated_penalized_cost": 107.10830007003067,
+      "validated_whole_cost": 59.5372,
+      "validated_modular_cost": 77.68,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 20,
+      "per_module_change_probability": 0.1,
+      "from_scratch_cost": 260.0,
+      "unvalidated_cost_before_error_penalty": 39.8,
+      "unvalidated_expected_wrong_outputs": 14.81463622600755,
+      "unvalidated_penalized_cost": 336.092724520151,
+      "validated_whole_cost": 98.32,
+      "validated_modular_cost": 98.2,
+      "best_among_three_verified_policies": [
+        "validated_modular"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 20,
+      "per_module_change_probability": 0.3,
+      "from_scratch_cost": 260.0,
+      "unvalidated_cost_before_error_penalty": 39.8,
+      "unvalidated_expected_wrong_outputs": 18.039216934667795,
+      "unvalidated_penalized_cost": 400.5843386933559,
+      "validated_whole_cost": 171.28,
+      "validated_modular_cost": 143.8,
+      "best_among_three_verified_policies": [
+        "validated_modular"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 20,
+      "per_module_change_probability": 0.8,
+      "from_scratch_cost": 260.0,
+      "unvalidated_cost_before_error_penalty": 39.8,
+      "unvalidated_expected_wrong_outputs": 18.958333333333332,
+      "unvalidated_penalized_cost": 418.96666666666664,
+      "validated_whole_cost": 273.88,
+      "validated_modular_cost": 257.8,
+      "best_among_three_verified_policies": [
+        "validated_modular"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 20,
+      "per_module_change_probability": 1.0,
+      "from_scratch_cost": 260.0,
+      "unvalidated_cost_before_error_penalty": 39.8,
+      "unvalidated_expected_wrong_outputs": 19.0,
+      "unvalidated_penalized_cost": 419.8,
+      "validated_whole_cost": 283.0,
+      "validated_modular_cost": 303.4,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 100,
+      "per_module_change_probability": 0.0,
+      "from_scratch_cost": 1300.0,
+      "unvalidated_cost_before_error_penalty": 135.8,
+      "unvalidated_expected_wrong_outputs": 0.0,
+      "unvalidated_penalized_cost": 135.8,
+      "validated_whole_cost": 215.0,
+      "validated_modular_cost": 307.4,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 100,
+      "per_module_change_probability": 0.01,
+      "from_scratch_cost": 1300.0,
+      "unvalidated_cost_before_error_penalty": 135.8,
+      "unvalidated_expected_wrong_outputs": 56.48139069638,
+      "unvalidated_penalized_cost": 1265.4278139276,
+      "validated_whole_cost": 238.6412,
+      "validated_modular_cost": 319.28,
+      "best_among_three_verified_policies": [
+        "validated_whole"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 100,
+      "per_module_change_probability": 0.1,
+      "from_scratch_cost": 1300.0,
+      "unvalidated_cost_before_error_penalty": 135.8,
+      "unvalidated_expected_wrong_outputs": 94.73684210897636,
+      "unvalidated_penalized_cost": 2030.5368421795272,
+      "validated_whole_cost": 440.72,
+      "validated_modular_cost": 426.2,
+      "best_among_three_verified_policies": [
+        "validated_modular"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 100,
+      "per_module_change_probability": 0.3,
+      "from_scratch_cost": 1300.0,
+      "unvalidated_cost_before_error_penalty": 135.8,
+      "unvalidated_expected_wrong_outputs": 98.03921568627452,
+      "unvalidated_penalized_cost": 2096.58431372549,
+      "validated_whole_cost": 820.88,
+      "validated_modular_cost": 663.8,
+      "best_among_three_verified_policies": [
+        "validated_modular"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 100,
+      "per_module_change_probability": 0.8,
+      "from_scratch_cost": 1300.0,
+      "unvalidated_cost_before_error_penalty": 135.8,
+      "unvalidated_expected_wrong_outputs": 98.95833333333333,
+      "unvalidated_penalized_cost": 2114.9666666666667,
+      "validated_whole_cost": 1355.48,
+      "validated_modular_cost": 1257.8,
+      "best_among_three_verified_policies": [
+        "validated_modular"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    },
+    {
+      "horizon": 100,
+      "per_module_change_probability": 1.0,
+      "from_scratch_cost": 1300.0,
+      "unvalidated_cost_before_error_penalty": 135.8,
+      "unvalidated_expected_wrong_outputs": 99.0,
+      "unvalidated_penalized_cost": 2115.8,
+      "validated_whole_cost": 1403.0,
+      "validated_modular_cost": 1495.4,
+      "best_among_three_verified_policies": [
+        "from_scratch"
+      ],
+      "expected_wrong_outputs_for_qualified_policies": 0.0
+    }
+  ],
+  "retrieval": [
+    {
+      "candidate_count": 1,
+      "expected_linear_search_cost": 0.2,
+      "per_reuse_saving_margin": 8.52,
+      "assumptions": "one relevant item uniformly located; fixed cost per inspected candidate; other costs unchanged"
+    },
+    {
+      "candidate_count": 10,
+      "expected_linear_search_cost": 1.1,
+      "per_reuse_saving_margin": 7.62,
+      "assumptions": "one relevant item uniformly located; fixed cost per inspected candidate; other costs unchanged"
+    },
+    {
+      "candidate_count": 100,
+      "expected_linear_search_cost": 10.1,
+      "per_reuse_saving_margin": -1.38,
+      "assumptions": "one relevant item uniformly located; fixed cost per inspected candidate; other costs unchanged"
+    }
+  ],
+  "switching_cases": [
+    {
+      "remaining_uses": 1,
+      "avoidable_old_cost_per_use": 5,
+      "new_cost_per_use": 3,
+      "switching_cost": 5,
+      "already_paid_setup": 0,
+      "future_keep_cost": 5,
+      "future_switch_cost": 8,
+      "switch_cheaper": false
+    },
+    {
+      "remaining_uses": 1,
+      "avoidable_old_cost_per_use": 5,
+      "new_cost_per_use": 3,
+      "switching_cost": 5,
+      "already_paid_setup": 100,
+      "future_keep_cost": 5,
+      "future_switch_cost": 8,
+      "switch_cheaper": false
+    },
+    {
+      "remaining_uses": 10,
+      "avoidable_old_cost_per_use": 5,
+      "new_cost_per_use": 3,
+      "switching_cost": 5,
+      "already_paid_setup": 0,
+      "future_keep_cost": 50,
+      "future_switch_cost": 35,
+      "switch_cheaper": true
+    },
+    {
+      "remaining_uses": 10,
+      "avoidable_old_cost_per_use": 5,
+      "new_cost_per_use": 3,
+      "switching_cost": 5,
+      "already_paid_setup": 100,
+      "future_keep_cost": 50,
+      "future_switch_cost": 35,
+      "switch_cheaper": true
+    }
+  ],
+  "shared_error": {
+    "users": 10,
+    "marginal_error_probability": 0.01,
+    "independent_versions": {
+      "mean_affected": 0.1,
+      "variance_affected": 0.099,
+      "probability_all_affected": 1e-20
+    },
+    "one_shared_error": {
+      "mean_affected": 0.1,
+      "variance_affected": 0.99,
+      "probability_all_affected": 0.01
+    }
+  },
+  "verification": [
+    "binary transition matrix vs closed form",
+    "log-growth/KL identity",
+    "exact rational enumeration of change events",
+    "invalidity recursion vs geometric sum",
+    "whole-cache break-even identity",
+    "common-error vs independent-error moments"
+  ]
+}

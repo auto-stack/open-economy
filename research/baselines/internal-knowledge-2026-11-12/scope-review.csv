@@ -1,0 +1,9 @@
+case_id,reviewer,review_scope,evidence_paths,scope_boundary_preserved,independent_human_review,answer_reference
+B01,current_assistant,Evidence/declared version/read scope; not full scientific validation,"[""shared/theory-register.md""]",reviewed_in_answer,no,answers-and-evidence.md; section B01
+B02,current_assistant,Evidence/declared version/read scope; not full scientific validation,"[""book/part-03/01-cooperation-and-common-capabilities.md""]",reviewed_in_answer,no,answers-and-evidence.md; section B02
+B03,current_assistant,Evidence/declared version/read scope; not full scientific validation,"[""research/reviews/09-autoos-open-business.md""]",reviewed_in_answer,no,answers-and-evidence.md; section B03
+B04,current_assistant,Evidence/declared version/read scope; not full scientific validation,"[""wiki/raw/round-33/L181-bornstein-gneezy-nagel-2002/metadata.json""]",reviewed_in_answer,no,answers-and-evidence.md; section B04
+B05,current_assistant,Evidence/declared version/read scope; not full scientific validation,"[""research/reviews/36-credit-investment-feedback-and-maintenance.md"", ""book/part-04/01-formation-and-continuity.md""]",reviewed_in_answer,no,answers-and-evidence.md; section B05
+G01,current_assistant,Evidence/declared version/read scope; not full scientific validation,"[""wiki/raw/round-35/L185-nash-1950/metadata.json""]",reviewed_in_answer,no,answers-and-evidence.md; section G01
+G02,current_assistant,Evidence/declared version/read scope; not full scientific validation,"[""wiki/raw/round-20/L94-boe-money-2014/metadata.json""]",reviewed_in_answer,no,answers-and-evidence.md; section G02
+G03,current_assistant,Evidence/declared version/read scope; not full scientific validation,"[""wiki/raw/round-36/L191-mcdonald-siegel-1982/metadata.json""]",reviewed_in_answer,no,answers-and-evidence.md; section G03

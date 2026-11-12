@@ -1,0 +1,43 @@
+{
+  "status": "pass",
+  "date": "2026-11-12",
+  "round24_manifest_files_verified": 43,
+  "round23_manifest_files_rechecked": 59,
+  "reused_sources_verified": 5,
+  "local_links_checked": 33,
+  "pdf_files_parsed": [
+    {
+      "source": "L129-grossman-hart-1986",
+      "pages": 30,
+      "text_chars": 85422
+    },
+    {
+      "source": "L130-alchian-demsetz-1972",
+      "pages": 20,
+      "text_chars": 0
+    },
+    {
+      "source": "L133-ghorbani-zou-2019",
+      "pages": 10,
+      "text_chars": 42054
+    },
+    {
+      "source": "L135-lazear-1996",
+      "pages": 36,
+      "text_chars": 51906
+    },
+    {
+      "source": "L136-clark-1899",
+      "pages": 254,
+      "text_chars": 850176
+    }
+  ],
+  "all_source_statuses_finalized": true,
+  "service_residual_allocation": {
+    "A": "95/6",
+    "B": "65/6",
+    "C": "10/3"
+  },
+  "errors": [],
+  "scope": "Archive integrity, links, stated read/acquisition scopes and finite arithmetic only; not independent verification of empirical claims or policy superiority."
+}

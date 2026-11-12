@@ -1,0 +1,34 @@
+{
+  "id": "L113-stroud-silver-law-1974",
+  "title": "An Athenian Law on Silver Coinage",
+  "authors": "Ronald S.Stroud",
+  "publication": "RonaldS.Stroud,Hesperia43(2),1974,157-188;35-page PDF incl3plates,stable147454",
+  "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/147454.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1 discovery;3-4 translation;5-6 selected dating/epigraphy;15-17 and21 selected commentary;33 plate25; p3 and33 visually inspected; no independent Greek decipherment",
+  "selection_status": "complete_article_selected_parts",
+  "rights": "Source rights and licence notices retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 35,
+  "sha256": "84fe9f2d9314dc0e945b26a6eb2303f55d7aad69165881a01f875bbbc8d80fea",
+  "archived_file": "original.pdf",
+  "download_status": "downloaded_identity_and_scope_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.ascsa.edu.gr/uploads/media/hesperia/147454.pdf",
+  "status_code": 200,
+  "bytes": 2845400,
+  "retrieved_at_utc": "2026-11-12T03:12:08.484844+00:00",
+  "evidence_type": "inscription_edition_translation_and_archaeological_commentary",
+  "archived_documents": [
+    {
+      "path": "original.pdf",
+      "bytes": 2845400,
+      "sha256": "84fe9f2d9314dc0e945b26a6eb2303f55d7aad69165881a01f875bbbc8d80fea",
+      "source_url": "https://www.ascsa.edu.gr/uploads/media/hesperia/147454.pdf",
+      "transport": "direct file download"
+    }
+  ],
+  "facsimile_read": null,
+  "complete_connector_text_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/deepening-reading-notes.md"
+}

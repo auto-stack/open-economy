@@ -1,0 +1,20 @@
+{
+  "work_id": "L189",
+  "date": "2026-11-12",
+  "title": "Credit Rationing in Markets with Imperfect Information",
+  "authors": [
+    "Joseph E. Stiglitz",
+    "Andrew Weiss"
+  ],
+  "year": 1981,
+  "original_source": "wiki/raw/round-36/L189-stiglitz-weiss-1981/original.pdf",
+  "mirror_url": "https://pages.ucsd.edu/~aronatas/project/academic/Stiglitz%20credit.pdf",
+  "mirror_file": "wiki/raw/round-37/L189-crosscheck/ucsd-copy.pdf",
+  "mirror_sha256": "ea4885ac208e7248c50ae163dfddc26a267d5d5ba4117353ff936a719952aa0f",
+  "pdf_pages": 19,
+  "read_scope": "Visual PDF4,printed395 only",
+  "result": "same visible theta1>theta2, equation(2)>= and footnote5 project-number discrepancy",
+  "formal_erratum_obtained": false,
+  "whole_work_read": false,
+  "original_scan_replaced": false
+}

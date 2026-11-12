@@ -1,0 +1,20 @@
+{
+  "id": "L07-coase-1937",
+  "requested_url": "https://msuweb.montclair.edu/~lebelp/coasenatfirmec1937.pdf",
+  "retrieved_at_utc": "2026-11-11T06:53:49.959837+00:00",
+  "status_code": 200,
+  "final_url": "https://msuweb.montclair.edu/~lebelp/coasenatfirmec1937.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 1771423,
+  "sha256": "643ef9bd0c253cf91735610abddc5232abcaee1b085e0325df09553a957e845a",
+  "download_status": "downloaded",
+  "pdf_pages": 21,
+  "author": "R. H. Coase",
+  "title": "The Nature of the Firm",
+  "publication_year": "1937",
+  "reading_status": "targeted_passages_read",
+  "reading_scope": "Visual reading pp. 387-394; PDF pages 3-10",
+  "role": "core_targeted_reading",
+  "extracted_text_status": "scan_requires_ocr"
+}

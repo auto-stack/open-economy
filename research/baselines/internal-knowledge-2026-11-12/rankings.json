@@ -1,0 +1,1910 @@
+[
+  {
+    "id": "B01",
+    "question": "Ordo是否已有工作采用的通用标量定义？",
+    "terms": [
+      "Ordo",
+      "通用标量",
+      "HYP-01"
+    ],
+    "top_results": [
+      {
+        "path": "docs/charter.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 23,
+        "matched_terms": [
+          "Ordo",
+          "通用标量",
+          "HYP-01"
+        ],
+        "snippet_lines": [
+          {
+            "line": 16,
+            "text": "同日收束补充：竞争与合作作为相互关联的组织过程共同研究，贯穿关系形成、维持、选择、纠错与演进。每次说明任务、层级、规则和期间；两者与Ordo的关系通过具体机制与能力结果建立，不预设固定正负效应。采用[统一术语接口](../shared/concept-interfaces.md)、[组织与经济连接](../research/reviews/33-organization-and-economic-interfaces.md)和[候选逐章提纲](../book/outline.md)推进；仍属0.3草案补充，不改变正"
+          },
+          {
+            "line": 55,
+            "text": "Ordo保留为待研究概念，未确立为通用标量、能量单位或价值尺度。统一描述不必预先等于统一数值；若提出新量，应证明它增加了什么解释或预测。见 DEF-07至DEF-13、BASE-01至BASE-05、HYP-01。"
+          },
+          {
+            "line": 128,
+            "text": "不采用自维持必然增长、普遍线性折旧、层级必然性、单调记忆棘轮、统一协调成本律或自然的Ordo能量换算作为既定公设。最大熵产生、内部预测器起源与自组织临界性等尚未完成的专题继续标明未确立，不用宽泛类比填补。"
+          }
+        ]
+      },
+      {
+        "path": "shared/concept-interfaces.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 23,
+        "matched_terms": [
+          "Ordo",
+          "通用标量",
+          "HYP-01"
+        ],
+        "snippet_lines": [
+          {
+            "line": 10,
+            "text": "| Ordo／秩 | 保留通用组织理论的研究名称；讨论组织关系怎样支持能力与持续，并探索可比较的度量 | 已存在通用标量；热力学负熵、整齐、服从、财富或幸福就是它的数值 |"
+          },
+          {
+            "line": 41,
+            "text": "## 竞争与合作怎样共同进入Ordo路线"
+          },
+          {
+            "line": 45,
+            "text": "可以研究它们与组织的秩之间的直接机制联系；现阶段不采用“合作必增秩、竞争必减秩”或相反的统一符号定律。也不把“都影响组织结果”当作已经证明新Ordo指标有效。度量须相对现有网络、协调、可靠性及能力指标给出新增解释或预测（HYP-01）。"
+          },
+          {
+            "line": 49,
+            "text": "经济跨期接口已补[信用与再投入研究](../research/surveys/08-price-income-and-reinvestment/credit-investment-and-reinvestment.md)：真实资源、项目回款、可承诺外部支付、逐期现金与维护责任分别记录。相关模型和候选设计不新增普遍公设，也不把信用或融资金额定义为Ordo输入量。"
+          }
+        ]
+      },
+      {
+        "path": "shared/theory-register.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 23,
+        "matched_terms": [
+          "Ordo",
+          "通用标量",
+          "HYP-01"
+        ],
+        "snippet_lines": [
+          {
+            "line": 48,
+            "text": "Ordo 保留研究名称，尚无工作采用的通用标量定义。不得以 DEF-08 或一组指标的并列记录代替其有效性证明，见 HYP-01。"
+          },
+          {
+            "line": 122,
+            "text": "| HYP-01 | 可定义对某类跨系统比较有用的Ordo或统一指标 | 未确立；须说明编码、参照、组合与尺度变换，以及相对既有指标新增的预测能力；Q3 |"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/10-research-synthesis.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 16,
+        "matched_terms": [
+          "Ordo",
+          "HYP-01"
+        ],
+        "snippet_lines": [
+          {
+            "line": 17,
+            "text": "| Q3 度量 | 熵、信息、复杂性与任务能力分开；严格连接保留分布、参照与物理条件 | 继承结果、有限例子；[专题](04-measures-and-bridges.md) | 通用Ordo标量、跨尺度变换与相对既有量的新增预测能力 |"
+          },
+          {
+            "line": 60,
+            "text": "| C01 熵缺口或KL普遍表示组织程度 | 限定为给定状态、约束与参照的量；撤去通用能力及价值等同 | DEF-08、BASE-01至BASE-03、HYP-01 |"
+          },
+          {
+            "line": 73,
+            "text": "| C14 Ordo自然能量单位及通用增益减线性损失方程 | 不采用自然单位及通用方程；单位约定不能替代物理解释，特定动力学另给假设 | BASE-03至BASE-04、ASS-01、HYP-01 |"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/04-influence-and-social-equivalence/art-sport-and-cultural-influence.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 16,
+        "matched_terms": [
+          "Ordo",
+          "HYP-01"
+        ],
+        "snippet_lines": [
+          {
+            "line": 46,
+            "text": "这些材料支持研究分段机制及竞争解释，不足以证明所有艺术、体育都改变三观，或已识别其对通用Ordo的净效应。"
+          },
+          {
+            "line": 66,
+            "text": "## 6. 从无数决策进入社会Ordo的走向"
+          },
+          {
+            "line": 72,
+            "text": "若研究某段时期社会组织的改变，先确定结果：合作范围、可信承诺、纠错、持续维护、适应能力，或声明过的其他任务指标；并写明边界、成本与分布。再检验文化经验是否提供额外解释。Ordo统一标量仍归既有HYP-01的开放任务；人更团结、制度更稳定、行为更一致或更有影响力，均不能独自证明社会向更值得追求的方向发展。"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/04-influence-and-social-equivalence/leadership-coordination-and-correction.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 16,
+        "matched_terms": [
+          "Ordo",
+          "HYP-01"
+        ],
+        "snippet_lines": [
+          {
+            "line": 23,
+            "text": "因此，若把Ordo专门定义为方向一致度，统一后的指标升高可以按定义成立，但并未证明组织更有能力或更值得维持。若Ordo继续承担通用组织能力的解释任务，则应同时研究协调、信息质量、维护、适应和纠错；统一程度与它们之间的关系仍须推导或检验。正式HYP-01的统一标量尚未确立。"
+          },
+          {
+            "line": 73,
+            "text": "本轮补研究和书籍连接，不将一致性定义为通用Ordo，不修改正式79条、纲领0.3或八章正文。"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/04-influence-and-social-equivalence/communication-productivity-and-order.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 15,
+        "matched_terms": [
+          "Ordo",
+          "HYP-01"
+        ],
+        "snippet_lines": [
+          {
+            "line": 73,
+            "text": "要进一步称为Ordo统一标度，还需证明跨任务和跨尺度比较的意义，明确是否保留排序、差值、比例或加总，并检验相对于网络位置、带宽、规模和已有任务能力指标增加了什么解释。现阶段归入HYP-01的候选研究，不能反过来用“秩被定义为它”证明它普遍有效。"
+          },
+          {
+            "line": 94,
+            "text": "| 待验证扩展 | 任务相关协调能力可作为Ordo的一维并具有额外解释力 | 与已有指标、竞争机制及不同任务比较 |"
+          }
+        ]
+      },
+      {
+        "path": "book/part-04/01-formation-and-continuity.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 14,
+        "matched_terms": [
+          "Ordo",
+          "通用标量"
+        ],
+        "snippet_lines": [
+          {
+            "line": 43,
+            "text": "因此，Ordo路线要研究的是关系怎样支持持续、协作、纠错和适应。现阶段还没有把它们合成为通用标量；内部协调、任务能力与社会评价分别论证。"
+          }
+        ]
+      },
+      {
+        "path": "book/outline.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 9,
+        "matched_terms": [
+          "Ordo"
+        ],
+        "snippet_lines": [
+          {
+            "line": 7,
+            "text": "竞争与合作共同贯穿关系形成、资源配置、探索选择和规则维护。两者不是人物品格或文明阶段的二分，也不预设任何一方与Ordo之间有固定正负关系。每次判断都说明组织边界、任务、期限及外部受影响者。"
+          },
+          {
+            "line": 14,
+            "text": "| 一2 熵、信息与Ordo | 物理量、信息量和任务能力怎样相关，又怎样不同？ | 原有定律的适用条件；Ordo的度量研究问题 | Q3；统一标量和新增预测未确立 |"
+          }
+        ]
+      },
+      {
+        "path": "book/part-03/01-cooperation-and-common-capabilities.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 9,
+        "matched_terms": [
+          "Ordo"
+        ],
+        "snippet_lines": [
+          {
+            "line": 19,
+            "text": "竞争与合作共同进入本书的Ordo路线，因为它们会改变关系怎样形成、维持、被选择和重组。合作可以建立分工、接口与共同基础，竞争可以改变方案采用与资源流向；二者都可能支持能力，也可能破坏维护、压制替代或把损失转给别人。"
+          },
+          {
+            "line": 21,
+            "text": "这里的联系首先是机制问题。哪些关系改变了？在同样任务和资源下，质量、可靠性、学习、维护和适应发生了什么变化？本书还没有通用Ordo标量，不能只用“合作更多”或“竞争更强”断言总体增秩，更不能以整齐和服从代替组织能力。"
+          },
+          {
+            "line": 25,
+            "text": "已有实验也提供了同时研究两者的入口：在特定最低努力协调博弈中，组间竞争处理的组内平均选择高于对照。这个结果不能直接推广为竞争必有益，更不是测得了Ordo；它提醒我们，把竞争和合作拆成互不相干的主题，会遗漏层级之间的联系。[^joint]"
+          },
+          {
+            "line": 69,
+            "text": "| 特定组间竞争下观察到较高组内平均选择 | 有限实验结果；所读设计与部分结果不代表社会整体或通用Ordo |"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B02",
+    "question": "同一对人怎样在共同任务中既竞争又合作？",
+    "terms": [
+      "竞争",
+      "合作",
+      "共同能力",
+      "同一"
+    ],
+    "top_results": [
+      {
+        "path": "book/part-03/01-cooperation-and-common-capabilities.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 41,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 1,
+            "text": "# 竞争、合作与共同能力"
+          },
+          {
+            "line": 3,
+            "text": "两位学习者可能互相帮助完成课程，也可能竞争同一场展示机会。在不同任务和时间范围内，同一对人可以既合作又竞争。解释他们的关系，需要指出谁采取了什么行动、影响谁、与什么情形比较，而不能先把整个人归为合作者或竞争者。"
+          },
+          {
+            "line": 5,
+            "text": "## 竞争与合作共同作为需要解释的现象"
+          },
+          {
+            "line": 7,
+            "text": "合作应当进入组织形成的主线。分散参与者怎样取得共同能力，怎样分担投入，以及这种关系为何继续，是通用组织理论在人类领域的重要问题。"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/12-cooperation-evolution.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 36,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 1,
+            "text": "# 合作的形成 维持与组织转变"
+          },
+          {
+            "line": 5,
+            "text": "合作值得进入通用组织理论的主线。其可研究的问题是：分散参与者怎样获得共同能力，什么机制使这种关系能够继续，以及合作在什么条件下产生更整合的组织。合作是否发生、组织是否整合、结果是否值得赞同，需要不同的证据。"
+          },
+          {
+            "line": 7,
+            "text": "## 合作 互利 利他与竞争"
+          },
+          {
+            "line": 9,
+            "text": "本项目使用“合作”作跨领域工作词时，必须说明谁做什么、谁受益、比较基准及时间。进化生物学、实验经济学与日常道德中的同名词不直接互换。"
+          }
+        ]
+      },
+      {
+        "path": "book/outline.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 34,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 5,
+            "text": "全书主问：复杂组织怎样形成、维持和改变共同能力；在人类社会中，怎样使生产、交互、人的机会、持续投入与共同责任相容？Open Business是进入经济领域后需要比较、检验的一类应用。"
+          },
+          {
+            "line": 7,
+            "text": "竞争与合作共同贯穿关系形成、资源配置、探索选择和规则维护。两者不是人物品格或文明阶段的二分，也不预设任何一方与Ordo之间有固定正负关系。每次判断都说明组织边界、任务、期限及外部受影响者。"
+          },
+          {
+            "line": 17,
+            "text": "| 一5 组织怎样演进 | 变化怎样产生、保留、传递、选择或丢失？ | 演进机制地图及竞争／合作的层级问题 | 重大转变、文化及技术入口；生命选择、学习和制度变化分别建模 |"
+          },
+          {
+            "line": 32,
+            "text": "## 第三部分 竞争、合作、规范与意义：人怎样共同生活"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/32-framework-completeness-and-inference-audit.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 34,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 15,
+            "text": "| 三 合作、规范与意义 | 合作、共同承诺、权力与意义4章；新增影响力、文化与领导研究 | 可形成连续叙述；描述事实、规范理由及意义解释各自承担论证责任 |"
+          },
+          {
+            "line": 16,
+            "text": "| 四 多种人群组织 | 比较维度、公司治理专题、成员与退出问题 | 是当前明显结构缺口：尚缺按同一维度完成的不同组织案例及形成机制 |"
+          },
+          {
+            "line": 17,
+            "text": "| 五 经济与开放合作 | 财富货币历史、竞争与分配、企业领导广告、技术创新等先导研究 | 题材较全但连接最密集：需将生产、价格、权利、资本、信用、收入和总体结果连成有限论证 |"
+          },
+          {
+            "line": 34,
+            "text": "Q3已经区分物理熵、统计信息、任务能力与评价，后续专题又增加影响力、方向一致、生产力和杠杆。研究笔记多数已经注明边界；实际写成连续叙述时，仍容易让读者误以为同一“秩”量已在全部层次被测得。"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/33-organization-and-economic-interfaces.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 34,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "评价时分开三件事：内部是否能够运行，组织在与其他组织的比较中能否保留，全部受影响者的处境是否改善。市场退出、人口繁殖、制度模仿和文化传承不是同一种选择过程。"
+          },
+          {
+            "line": 14,
+            "text": "| 共同能力 | 日常照护、成长与支持 | 生产、交付及持续经营 | 共同知识、工具和更新 | 特定公共服务及保障 |"
+          },
+          {
+            "line": 15,
+            "text": "| 竞争与合作 | 共同照护与资源／注意力分配冲突可并存 | 内部分工、岗位与预算竞争；对外合作和市场竞争 | 共建上游、争取维护资金、竞争实现与声誉 | 跨机构配合、预算和采购竞争；某些服务无可行退出 |"
+          },
+          {
+            "line": 33,
+            "text": "**交易与价格。** 交易可以是共同实现交换的一种合作，同时包含对价格和份额的讨价还价；其他供需方之间还可能竞争。价格须通过需求、支付能力、可供给量、替代机会、信息、权利和交易机制解释。价格可以影响配置，但不是用途或社会价值的无条件刻度；没有购买力的需要仍然存在。"
+          }
+        ]
+      },
+      {
+        "path": "shared/concept-interfaces.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 34,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 15,
+            "text": "| 竞争 | 在人类互动中，参与者争取稀缺或不相容的机会、资源、收益或选择结果；注明竞争对象和规则 | 必然暴力、零和、有效或公平；生物选择等同有意争胜 |"
+          },
+          {
+            "line": 16,
+            "text": "| 合作 | 在本书人类共同任务中，以相互配合、互补投入或共同维护形成活动；分别识别共同意向、实际受益与自愿程度 | 所有人动机相同、受益相等或没有冲突；生物学合作判据可直接换成人类道德 |"
+          },
+          {
+            "line": 22,
+            "text": "| 演进 | 说明什么发生变化、怎样保留传递、何种差异被选择以及什么丢失；区分生命、学习、文化、技术与制度 | 存续者最有效或最正当；人类历史必朝同一目标前进 |"
+          },
+          {
+            "line": 24,
+            "text": "“共同能力”指特定关系支持的任务结果，不预设各成员单独完成不了，也不预设扣除所有成本后必有净增益。若声称协同增益，应给出可行的独立行动或其他组织方式作为对照。"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/12-human-nature-and-norms.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 33,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 3,
+            "text": "日期：2026年11月12日。状态：首轮定向研究。主要采用L55、L57、L58、L59、L60，见[阅读记录](12-reading-notes.md)。本专题把用户提出的善恶、竞争与合作拆成能够分别研究的问题，再连接[人作为组织](12-human-as-organization.md)与[合作演化](12-cooperation-evolution.md)。"
+          },
+          {
+            "line": 5,
+            "text": "人性研究可以研究跨情境的能力和倾向，也需要解释为什么同一个人会随对象、关系、任务与制度而改变行为。单一自利假设不足以作为全书基础；反过来，把观察到的分享和惩罚全都解释为先天善，也会丢失机制。"
+          },
+          {
+            "line": 25,
+            "text": "## 惩罚促进合作与破坏合作的比较"
+          },
+          {
+            "line": 29,
+            "text": "| 样本与互动 | 苏黎世两所高校240名学生；每个处理6期，匿名重新配组，同一处理内不再遇同一人 | 16个参与者池、1120名大学生；每种条件10期，组内成员固定 |"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/17-commitment-authority-and-meaning.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 33,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 5,
+            "text": "核心方向是：解释人怎样维持生命、形成目标、参加合作，还需要进一步研究人为何认可某种生活和共同目的。组织的持续能力、人的意义体验，以及生活是否值得追求，分别承担不同的论证责任。本轮提出一个供讨论的关系性理解，不把它称为从物理定律唯一推出的人生答案。"
+          },
+          {
+            "line": 13,
+            "text": "候选比较维度包括授权的事项与期限、判断依据、提出异议的渠道、回避利益冲突、复核与更换判断者，以及程序的实际费用。这些是制度选择，不是所有组织必须采用的同一结构。家庭照料、未成年人成长和依赖关系也不能一律按平等独立成人的自愿合同建模。"
+          },
+          {
+            "line": 31,
+            "text": "组织持续能够保存经验、支持和协作能力，也可能维护不公平的分配。存续本身需要解释，存续的价值则取决于维护了什么、影响哪些人，以及代价怎样分担。有时保存共同能力需要保留组织，有时需要改变角色、重组甚至结束某种安排。"
+          },
+          {
+            "line": 39,
+            "text": "同一个人可以同时参与家庭、学习、工作、友谊和公共事务。某个组织描述了他的一部分关系，不能因此完整定义他的全部生活。对一个岗位有用、被某个组织需要，与这个人的存在价值属于不同判断。"
+          }
+        ]
+      },
+      {
+        "path": "book/argument-cards/part-03-01-cooperation-and-common-capabilities.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 32,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力"
+        ],
+        "snippet_lines": [
+          {
+            "line": 1,
+            "text": "# 竞争、合作与共同能力的章节论证卡"
+          },
+          {
+            "line": 7,
+            "text": "将个体目标接到共同能力，联合研究竞争与合作怎样形成、维持和选择组织关系；区分共同收益、激励、形成、持续和群体整合。比较双方时指定任务、层级、规则和期间。"
+          },
+          {
+            "line": 11,
+            "text": "| 合作 竞争 共同意向与生物整合判据不同 | 工作区分及领域框架 | L51、L56、L57；适合度、金钱及道德评价不得直接换算 |"
+          },
+          {
+            "line": 13,
+            "text": "| 特定组间竞争处理的组内平均选择高于对照 | 有限经验结果 | L181实际选读1–7页；无独立复算，不推广到一般社会福利 |"
+          }
+        ]
+      },
+      {
+        "path": "book/argument-map.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 32,
+        "matched_terms": [
+          "竞争",
+          "合作",
+          "共同能力",
+          "同一"
+        ],
+        "snippet_lines": [
+          {
+            "line": 5,
+            "text": "按复核继续补充：[统一术语和跨层接口](../shared/concept-interfaces.md)、[组织与经济机制连接](../research/reviews/33-organization-and-economic-interfaces.md)、[共享服务比较协议](../research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md)及[候选逐章提纲](outline.md)"
+          },
+          {
+            "line": 11,
+            "text": "全书研究：复杂组织怎样在给定资源、环境和交互条件下形成、维持与改变共同能力；在人类经济中，怎样把知识复用、生产、投入、回报与责任组织起来，并比较Open Business的适用条件。"
+          },
+          {
+            "line": 21,
+            "text": "| 三 合作、规范与意义 | 不同主体怎样形成共同承诺、处理分歧、理解权威并评价生活？ | 互动、预期、信息、动机、选择及规范理由 | 可执行且可修订的合作机制；权力、参与与价值问题 | 不由合作可能性推出自发形成、无冲突或必然正当 |"
+          },
+          {
+            "line": 23,
+            "text": "| 五 经济与开放合作 | 能力怎样形成财富、价格与权利，怎样筹资、交易、分配和继续投入？ | 需求与支付能力、资产与控制、市场、信用、公共机制、风险 | 资源/资金/收益的机制连接；技术与开放安排的条件性比较 | 不把价格、利润、影响或评分直接等同社会价值与应得 |"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B03",
+    "question": "奖励过去贡献为什么不自动形成未来维护责任？",
+    "terms": [
+      "公共贡献回馈",
+      "维护委托",
+      "事后奖励"
+    ],
+    "top_results": [
+      {
+        "path": "research/reviews/09-autoos-open-business.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 23,
+        "matched_terms": [
+          "公共贡献回馈",
+          "维护委托",
+          "事后奖励"
+        ],
+        "snippet_lines": [
+          {
+            "line": 21,
+            "text": "为使机制可检查，本轮增加：用途账分开、每轮付费授权、贡献来源记录、公共奖励与维护委托分开、付款状态与退款责任、维护验收及交接。这些属于研究建议，不是从旧讨论读出的现成规定。"
+          },
+          {
+            "line": 51,
+            "text": "| 受托内容维护者 | 接受限定范围与期限的维护委托，按约定取得报酬 | 提交可验收结果、版本与交接材料；范围外不自动无限负责 |"
+          },
+          {
+            "line": 68,
+            "text": "    P -->|经用途规则明确的维护委托| M[公共内容维护者]"
+          },
+          {
+            "line": 72,
+            "text": "图中的账是用途与承诺的逻辑划分，不指定法定托管结构，也没有保证某支付机构支持所需安排。“公共预算支付维护委托”是本轮候选扩展，需限定为合格公共内容工作；不能把原拟给普通贡献者的资金悄悄挪去支付平台自身开发。"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/10-research-synthesis.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 15,
+        "matched_terms": [
+          "维护委托",
+          "事后奖励"
+        ],
+        "snippet_lines": [
+          {
+            "line": 22,
+            "text": "| Q8 AutoOS应用 | 区分资源与交易本金、公共回馈及运营资金；分开事后奖励与未来维护委托 | 用户历史设想、设计建议与预算反例；[应用](09-autoos-open-business.md) | 最终规则、实际费率口径、真实成本、贡献认定及试点结果 |"
+          },
+          {
+            "line": 87,
+            "text": "| 开放商业 | 根据Q8具体区分资金用途、贡献回报与维护委托，费率等继续为候选参数 |"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/03-competition-cooperation-distribution/open-business-finance-and-maintenance.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 15,
+        "matched_terms": [
+          "维护委托",
+          "事后奖励"
+        ],
+        "snippet_lines": [
+          {
+            "line": 16,
+            "text": "| 公共维护委托预算 | 更新、修错、上游兼容、资料保全和接替 | 对象、期限、验收、报酬、权限和交接须有承担者 |"
+          },
+          {
+            "line": 45,
+            "text": "| 持续维护 | 哪个版本、哪些任务、持续多久、谁验收 | 由明确预算购买能力；事后奖励不能代替待命合同 |"
+          },
+          {
+            "line": 62,
+            "text": "可检验的假说是：明确维护委托、收入与责任之间的对应，并为现金波动和接替预留能力，可能改善服务连续性；规则复杂度、核验成本、交易外流、权力集中和新增债务也可能使其失败。"
+          }
+        ]
+      },
+      {
+        "path": "shared/theory-register.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 8,
+        "matched_terms": [
+          "维护委托"
+        ],
+        "snippet_lines": [
+          {
+            "line": 45,
+            "text": "| DEF-17 | 回报 奖励与维护委托 | 分开劳动报酬、自用及参与收益、经营净额、风险回报与剩余分配；认可过去贡献的奖励不自动产生未来维护承诺 | [Q7](../research/reviews/08-open-funding.md)、[Q8](../research/reviews/09-autoos-open-business.md) |"
+          },
+          {
+            "line": 155,
+            "text": "| DES-02 | 直接交易、事后贡献回馈及明确的维护委托分别安排 | Q8候选回报与责任设计；维护对象、期限、资金、验收及交接需落实 |"
+          }
+        ]
+      },
+      {
+        "path": "book/part-05/06-investment-income-and-reinvestment.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 7,
+        "matched_terms": [
+          "事后奖励"
+        ],
+        "snippet_lines": [
+          {
+            "line": 63,
+            "text": "公共回流怎样支持未来维护，有两种需要比较的版本：一种继续认可过去贡献，维护另行采购；另一种对未来尚未承诺的回流预先授权维护用途，同时分开事后奖励。后一种安排会占用其他预算，不会凭空增加资金，也不能追溯取消已经形成的权利。"
+          }
+        ]
+      },
+      {
+        "path": "docs/charter.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 7,
+        "matched_terms": [
+          "维护委托"
+        ],
+        "snippet_lines": [
+          {
+            "line": 116,
+            "text": "直接交易回报、对过去贡献的奖励与对未来维护的报酬分别安排。维护委托写清对象、版本、范围、期限、资金、验收和交接；收到公共奖励不自动产生无限维护义务。平台软件和结算由运营安排承担，普通公共内容的维护需要相应自愿或受托关系。"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/36-credit-investment-feedback-and-maintenance.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 7,
+        "matched_terms": [
+          "维护委托"
+        ],
+        "snippet_lines": [
+          {
+            "line": 19,
+            "text": "Open Business需要走完触发收费、实收与结算、用途及已有承诺、维护委托、风险和接替的路径。社会受益和平台外使用不自动产生已收回流；融资把责任接到未来，不保证未来增长。资本回报、治理权限、公共奖励与维护责任分别论证。"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 7,
+        "matched_terms": [
+          "维护委托"
+        ],
+        "snippet_lines": [
+          {
+            "line": 50,
+            "text": "资源与交易本金、经营报酬、公共回馈、维护委托及平台运营分别记账。公共奖励预算不能被默认为随时可挪用的维护费。谁为公共维护付款，应事前写明；回流不足时采取缩减任务、追加已授权预算、改约或交接等约定措施，不用未获承诺的未来增长填平缺口。"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/credit-investment-and-reinvestment.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 7,
+        "matched_terms": [
+          "维护委托"
+        ],
+        "snippet_lines": [
+          {
+            "line": 51,
+            "text": "候选Open Business要分别交付：启动投入来源；持续服务的收入；公共回流的资格与用途；维护委托的任务、期限和报酬；退款、收入下滑和接替的处理。具体账目与两种方案见[资金回流与维护补充设计](../03-competition-cooperation-distribution/open-business-finance-and-maintenance.md)。"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/credit-reading-notes.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 7,
+        "matched_terms": [
+          "维护委托"
+        ],
+        "snippet_lines": [
+          {
+            "line": 19,
+            "text": "旧Q7、Q8关于赞助、自用、服务、公共奖励和维护委托的机制按既有范围沿用。旧L45赞助研究缺少实际捐赠金额、以次数作代理等限制保留，不据此估计维护资金或证明增加付款必然改善质量。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B04",
+    "question": "Bornstein、Gneezy、Nagel2002组间竞争论文的实际版本和读页是什么？",
+    "terms": [
+      "L181",
+      "2002",
+      "read_scope"
+    ],
+    "top_results": [
+      {
+        "path": "wiki/raw/round-33/L181-bornstein-gneezy-nagel-2002/metadata.json",
+        "kind": "source_metadata",
+        "score": 23,
+        "matched_terms": [
+          "L181",
+          "2002",
+          "read_scope"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L181-bornstein-gneezy-nagel-2002\","
+          },
+          {
+            "line": 5,
+            "text": "  \"year\": 2002,"
+          },
+          {
+            "line": 9,
+            "text": "  \"actual_version\": \"2002 journal typeset article, author university copy, 25 pages; not the May 1999 working paper\","
+          },
+          {
+            "line": 15,
+            "text": "  \"read_scope\": \"PDF/printed pages 1–7: abstract, introduction, initial experiment design and partial results. Visual inspection of PDF page 4. Pages 8–25 extracted and archived but not reviewed page by page; later bonus-treatment results not independently ado"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/03-competition-cooperation-distribution/competition-cooperation-and-order.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 16,
+        "matched_terms": [
+          "L181",
+          "2002"
+        ],
+        "snippet_lines": [
+          {
+            "line": 33,
+            "text": "L181 Bornstein、Gneezy与Nagel（2002）研究最低努力协调博弈，所读首轮设计让两个七人组比较组内最低选择，并设置无组间竞争的对照。在该实验范围内，竞争处理的平均选择高于对照。这给出“组间竞争与组内协调能够同时研究”的具体依据，不证明竞争总提高社会福利、组织稳定或通用Ordo。[原论文](https://doi.org/10.1016/S0899-8256(02)00012-X)；[本地25页原件](../../../wiki/raw/round-33/L181-bornstein-gneez"
+          }
+        ]
+      },
+      {
+        "path": "book/argument-cards/part-03-01-cooperation-and-common-capabilities.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 15,
+        "matched_terms": [
+          "L181",
+          "2002"
+        ],
+        "snippet_lines": [
+          {
+            "line": 13,
+            "text": "| 特定组间竞争处理的组内平均选择高于对照 | 有限经验结果 | L181实际选读1–7页；无独立复算，不推广到一般社会福利 |"
+          },
+          {
+            "line": 29,
+            "text": "L181为2002最终排印论文25页，本轮读1–7页、视觉核查第4页；不把摘要中的后续处理算作另已核查的结果。[第33批](../../wiki/raw/round-33/README.md)保存原件、提取、范围和校验；[联合研究](../../research/surveys/03-competition-cooperation-distribution/competition-cooperation-and-order.md)列明与Ordo的机制联系及未知度量。"
+          }
+        ]
+      },
+      {
+        "path": "book/part-03/01-cooperation-and-common-capabilities.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 15,
+        "matched_terms": [
+          "L181",
+          "2002"
+        ],
+        "snippet_lines": [
+          {
+            "line": 89,
+            "text": "[^joint]: Bornstein、Gneezy与Nagel，2002，*The Effect of Intergroup Competition on Group Coordination*，[论文信息](https://doi.org/10.1016/S0899-8256(02)00012-X)，[本地原文](../../wiki/raw/round-33/L181-bornstein-gneezy-nagel-2002/original.pdf)。本轮选读1–7页，未复算或推广其全部结果；[联合研究补充]"
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-11/L59-fehr-gaechter-2002/metadata.json",
+        "kind": "source_metadata",
+        "score": 15,
+        "matched_terms": [
+          "2002",
+          "read_scope"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L59-fehr-gaechter-2002\","
+          },
+          {
+            "line": 15,
+            "text": "  \"read_scope\": \"PDF p.1 and Methods on pp.3-4, selected results/discussion passages on pp.2-3. No raw-data reanalysis.\","
+          },
+          {
+            "line": 28,
+            "text": "  \"version\": \"4-page Nature typeset article 415,137-140 (2002), LMU EconWPA deposit identifier dated 2003.\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-14/L68-shah-et-al-2002/metadata.json",
+        "kind": "source_metadata",
+        "score": 15,
+        "matched_terms": [
+          "2002",
+          "read_scope"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L68-shah-et-al-2002\","
+          },
+          {
+            "line": 6,
+            "text": "  \"publication\": \"Journal of Personality and Social Psychology 83(6) (2002),1261-1280\","
+          },
+          {
+            "line": 17,
+            "text": "  \"read_scope\": \"Author bibliography entry and linked APA record URL only; no original paper methods/results read.\","
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/33-framework-supplement-and-joint-interaction.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 14,
+        "matched_terms": [
+          "L181",
+          "2002"
+        ],
+        "snippet_lines": [
+          {
+            "line": 24,
+            "text": "L181为2002最终排印版25页，选读1–7页、视觉核查第4页。它为同时研究组间竞争和组内协调提供一个有限实验入口，不构成所有竞争、社会福利或Ordo的证据。[原始归档](../../wiki/raw/round-33/README.md)含下载、版本、范围、检索和校验；旧论文沿用原位置、原阅读范围。"
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-23/L122-lerner-tirole-2000/metadata.json",
+        "kind": "source_metadata",
+        "score": 14,
+        "matched_terms": [
+          "2002",
+          "read_scope"
+        ],
+        "snippet_lines": [
+          {
+            "line": 8,
+            "text": "  \"read_scope\": \"PDF1-4 and16-18 (printed14-16); introduction and motivation sections, not all three mini-case narratives.\","
+          },
+          {
+            "line": 21,
+            "text": "  \"actual_version\": \"NBERWP7600,March2000,40pages; not automatically2002 journal version.\","
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/05-reading-notes.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 9,
+        "matched_terms": [
+          "2002"
+        ],
+        "snippet_lines": [
+          {
+            "line": 45,
+            "text": "Carliss Y. Baldwin、Kim B. Clark，2002，*Where Do Transactions Come From? A Perspective from Engineering Design*，2002-09-26 讨论稿。[NBER 会议公开稿](https://users.nber.org/~confer/2002/orgec02/baldwin.pdf)；[本地正文](../../wiki/raw/round-05/L27-baldwin-2002/original.pdf)。"
+          },
+          {
+            "line": 49,
+            "text": "这里只作为经济连接的早期理论线索。实际取得的是两位作者的 2002 年草稿，不能按 Baldwin 独著、2008 年期刊文章引用，也不能假定两版本论证相同；2006 年 HBS 文件未能取得。草稿封面和版权信息按原样保留，笔记采用概述而非逐字摘录。"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/08-reading-notes.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 9,
+        "matched_terms": [
+          "2002"
+        ],
+        "snippet_lines": [
+          {
+            "line": 29,
+            "text": "## L42 von Hippel 与 von Krogh 2002 稿 私人与共同收益可以并存"
+          },
+          {
+            "line": 31,
+            "text": "Eric von Hippel、Georg von Krogh，*Open Source Software and the Private-Collective Innovation Model: Issues for Organization Science*。[作者网站原文](https://evhippel.mit.edu/wp-content/uploads/2013/08/privatecollectivewp.pdf)，[本地 PDF](../../wiki/raw/round-08/L42-vonhi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B05",
+    "question": "截至本次快照，组织比较与价格、信用、收入需求研究完成到哪里？",
+    "terms": [
+      "信用",
+      "投资",
+      "维护",
+      "首轮"
+    ],
+    "top_results": [
+      {
+        "path": "docs/research-dependencies.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 36,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护",
+          "首轮"
+        ],
+        "snippet_lines": [
+          {
+            "line": 3,
+            "text": "最新执行：[信用、投资与回流维护](../research/reviews/36-credit-investment-feedback-and-maintenance.md)补融资、等待、逐期用途现金和维护衔接，现有十一章讨论稿；优先转入真实共享服务基线。定向研究未替代宏观、长期制度比较和基础综述的完整工作。"
+          },
+          {
+            "line": 5,
+            "text": "最新执行：[价格／收入首轮研究及书稿修订](../research/reviews/35-prices-income-demand-and-book-revision.md)补支付能力、议价和支出反馈，新增第五部分第4章，现有十章；下一单元研究信用、投资与再投入。此前形成研究及基础综述预检索分别保留各自范围。"
+          },
+          {
+            "line": 12,
+            "text": "状态：Q1–Q8理论基线保留，0.3版六部分已有十一章讨论稿；形成、价格／收入及信用／投资单元已选读，基础综述已预检索"
+          },
+          {
+            "line": 14,
+            "text": "本阶段已完成Q1–Q8首轮定向研究和[综合整理](../research/reviews/10-research-synthesis.md)，[统一总表](../shared/theory-register.md)和[原纲领0.2](history/charter-v0.2-2026-11-12.md)保留为理论基线。随后按用户确定的顺序研究人的维持、目标、合作、规范与意义，现已写入第二、第三部分八章讨论稿，并以[纲领0.3](charter.md)统一六部分结构。新增候选条目未并入正式79条总表。"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/protocol.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 36,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护",
+          "首轮"
+        ],
+        "snippet_lines": [
+          {
+            "line": 3,
+            "text": "日期：2026年11月12日。状态：范围和筛选协议草案；已执行[价格／收入首轮阅读](README.md)及[信用／投资／再投入定向单元](credit-investment-and-reinvestment.md)，补跨期维护设计。完整数据库检索、宏观及长期制度经验比较仍待研究。承接[财富货币历史研究](../02-wealth-money-history/README.md)、[经济接口](../../reviews/33-organization-and-economic-interfaces.md)及[组织"
+          },
+          {
+            "line": 7,
+            "text": "核心问题：有用途的成果怎样进入供给、交易与价格，收入和支付能力怎样反馈到生产、投资及共同基础维护？知识复用与物理资源稀缺如何同时进入解释？这一专题不重新构造唯一货币起源史，也不预设市场或开放模式必然最优。"
+          },
+          {
+            "line": 14,
+            "text": "| 信用与投资 | 未来承诺怎样动员当前投入，并产生期限和偿付约束 | 融资流入、经营收入、资产购置、利息、本金与风险 |"
+          },
+          {
+            "line": 16,
+            "text": "| 共享基础与技术改变 | AI、知识复用与设备自动化分别改变什么 | 复制成本与维护成本；知识、算力、能源、设备和工时的不同稀缺性 |"
+          }
+        ]
+      },
+      {
+        "path": "book/outline.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 34,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护",
+          "首轮"
+        ],
+        "snippet_lines": [
+          {
+            "line": 7,
+            "text": "竞争与合作共同贯穿关系形成、资源配置、探索选择和规则维护。两者不是人物品格或文明阶段的二分，也不预设任何一方与Ordo之间有固定正负关系。每次判断都说明组织边界、任务、期限及外部受影响者。"
+          },
+          {
+            "line": 15,
+            "text": "| 一3 输入、维护与持续 | 组织怎样获得支持，修复维持能力的条件？ | 可用输入、吸收、损耗、维护和增长的区分 | Q2与杠杆专题；确定边界和外部承担，不能只看资源总量 |"
+          },
+          {
+            "line": 30,
+            "text": "人性讨论进入具体能力、动机、脆弱性与关系，善恶判断另列规范理由，不由生理维护或自然选择直接得出。"
+          },
+          {
+            "line": 38,
+            "text": "| 三3 [规则、权力与共同目的](part-03/03-rules-power-and-common-purposes.md) | 谁决定、谁执行，如何容纳争议与纠错？ | 公平竞争、合作维护、影响力与授权的区分 | 已有讨论稿加专题；领导／传播／信息优势与正当性分别研究 |"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/36-credit-investment-feedback-and-maintenance.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 33,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护"
+        ],
+        "snippet_lines": [
+          {
+            "line": 1,
+            "text": "# 信用、投资与再投入：衔接Open Business回流和维护"
+          },
+          {
+            "line": 3,
+            "text": "日期：2026年11月12日。执行用户本轮要求。补齐本阶段经济连接中的信用、投资时点和逐期资金机制，更新候选维护设计；没有宣称全部金融／宏观理论或真实AutoOS经营验证已经完成。"
+          },
+          {
+            "line": 9,
+            "text": "| [信用、投资与再投入研究](../surveys/08-price-income-and-reinvestment/credit-investment-and-reinvestment.md) | 比较信用配给、激励约束、等待与资源／现金／责任；补一项企业信用约束准实验入口 |"
+          },
+          {
+            "line": 11,
+            "text": "| [三个有限模型](../surveys/08-price-income-and-reinvestment/credit-models.md) | 可承诺回款缺口、正回报与等待、逐期回流／奖励／维护及桥接情景；程序执行并保留假设与结果 |"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/02-wealth-money-history/narrative-options.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 33,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护",
+          "首轮"
+        ],
+        "snippet_lines": [
+          {
+            "line": 11,
+            "text": "| 一 以交换便利为主线 | 需要与分工→交易→中介商品→货币→制度及金融 | 贴近日常经验，容易说明交换收益和匹配成本 | 容易暗示货币全由现货交换产生，并把权利、信用和公共收支安排得过晚；宋代纸币及雅典认证难作为后加注释解释 |"
+          },
+          {
+            "line": 22,
+            "text": "| 2 协作生产与积累 | 分工、工具、知识、照料和维护怎样改变可行结果？哪些收益可保存和复用？ | Q4–Q5、Smith与Romer的有限机制 | 真实成本、外部损害、不同生产方式和无市场活动 |"
+          },
+          {
+            "line": 25,
+            "text": "| 5 记账 信用 认证与货币 | 如何记录、识别、转移、支付和清偿？不同载体怎样承担货币功能？ | 近东记录、中国纸币、雅典银币、阿姆斯特丹 | 每一机制的最小模型与反例；区分规则、实际运行和形成史 |"
+          },
+          {
+            "line": 26,
+            "text": "| 6 投资 资本 财政与风险 | 未来生产怎样取得当前投入？控制权、收益和损失怎样分担？ | 既有融资研究与本轮财政/发行证据入口 | 完整资本及金融研究；清楚区分新增索取权与新增真实成果 |"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/credit-investment-and-reinvestment.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 33,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护"
+        ],
+        "snippet_lines": [
+          {
+            "line": 1,
+            "text": "# 信用、投资与再投入：从未来承诺到持续维护"
+          },
+          {
+            "line": 3,
+            "text": "日期：2026年11月12日。性质：[经济机制协议](protocol.md)第二个定向工作单元，承接[价格与收入研究](README.md)。新增三项原始理论和一项准实验研究的选读，补有限模型和AutoOS候选映射；不是完成所有金融、投资或宏观经济学的系统综述。实际版本和读页见[阅读记录](credit-reading-notes.md)，原件在[第36批](../../../wiki/raw/round-36/README.md)。"
+          },
+          {
+            "line": 13,
+            "text": "| 维护与再投入 | 谁修复、更新、接替，怎样保留支持下一期的能力 | 经营收入、当期利润、未结算本金和可再投入现金不同 |"
+          },
+          {
+            "line": 15,
+            "text": "金融信用涉及延期支付、借款及相应债权债务等安排；信任和声誉可以支持它，却不等于一项可执行融资承诺。延期向供应者付款、银行贷款、成员出资、股权、客户预付和资助，也具有不同的权利、风险与履约条件。"
+          }
+        ]
+      },
+      {
+        "path": "docs/charter.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 32,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护",
+          "首轮"
+        ],
+        "snippet_lines": [
+          {
+            "line": 6,
+            "text": "本版在Q1–Q8的0.2理论基线上，按用户要求将人作为组织、目标、共同承诺、规则与人的意义整理为书中连续路线，并更新六部分结构。正式79条[定义与命题总表](../shared/theory-register.md)不变，新概念、假说、哲学解释及价值主张保持各自地位。[首轮综合](../research/reviews/10-research-synthesis.md)、[原0.2版](history/charter-v0.2-2026-11-12.md)及[0.1版](history/charter-v0.1-2"
+          },
+          {
+            "line": 10,
+            "text": "本项目以复杂群体组织为共同研究对象，探索组成部分的相互作用如何形成、维持和改变整体结构与能力。在这一通用基础上，《开放经济学》重点解释人类社会怎样组织生产与协作、承担成本、协调分散知识、分配回报，并持续维护共同依赖的成果。Open Business 是经济领域的候选制度应用，AutoOS 是将其具体化并检验的场景。"
+          },
+          {
+            "line": 20,
+            "text": "当前执行更新：组织形成、价格／收入研究后，已补[信用、投资与维护回流](../research/reviews/36-credit-investment-feedback-and-maintenance.md)，新增第五部分第6章。全书现有十一章讨论稿，基础综述已实际预检索，经济机制继续按定向单元补证；未称金融、宏观或制度验证全部完成，正式总表仍不变。"
+          },
+          {
+            "line": 27,
+            "text": "| Q2 组织怎样持续 | 区分保持、调节、构成维护、自维持和适应，说明维护者与外部支持 |"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/credit-reading-notes.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 30,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护"
+        ],
+        "snippet_lines": [
+          {
+            "line": 1,
+            "text": "# 信用与投资单元：版本、读页和检索边界"
+          },
+          {
+            "line": 15,
+            "text": "L191的1986发表关联来自作者／出版方及NBER书目。出版方和NBER记录707–727，而JSTOR目录显示707–728；本轮未取得最终版，不解决尾页差异或把工作稿混作该版。1982稿明确讨论其无限期投资机会条件及有限已知到期的遗漏，本轮不跨条件推广。"
+          },
+          {
+            "line": 19,
+            "text": "旧Q7、Q8关于赞助、自用、服务、公共奖励和维护委托的机制按既有范围沿用。旧L45赞助研究缺少实际捐赠金额、以次数作代理等限制保留，不据此估计维护资金或证明增加付款必然改善质量。"
+          },
+          {
+            "line": 23,
+            "text": "七个网页检索原式与打开返回存于[查询清单](../../../wiki/raw/round-36/discovery/search-queries.json)及[工具记录](../../../wiki/raw/round-36/discovery/web-records.json)。先寻找信用配给、激励／中介与投资等待，再补一项企业信用约束的经验研究；HT1994／95工作稿只作版本线索，没有反填为已读1997正文。"
+          }
+        ]
+      },
+      {
+        "path": "book/part-05/06-investment-income-and-reinvestment.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 29,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护"
+        ],
+        "snippet_lines": [
+          {
+            "line": 1,
+            "text": "# 投资、收入、风险与再投入"
+          },
+          {
+            "line": 3,
+            "text": "甲乙已经找到愿意购买知识检索服务的客户。但准备资料、制作接口和安排更新，都发生在客户验收付款之前。即使预计收入足以覆盖投入，他们仍要回答：谁先提供支持，未来回款能承诺给谁，收入不足时谁承担损失，已有使用者还能依赖多久的维护？"
+          },
+          {
+            "line": 9,
+            "text": "供应者允许延期付款，成员先提供出资，客户预购未来服务，资助者支持公共维护，或者贷款人提供资金，都可以改变当前投入的条件。它们形成的偿付、交付、剩余回报与决定权并不相同，不能只按收到多少钱分类。"
+          },
+          {
+            "line": 11,
+            "text": "金融信用涉及延期支付、借款及相应债权债务；信任与声誉可以提供支持，仍需要说明具体承诺。出资取得什么回报、谁承担损失、谁参与治理和谁执行经营，也要分别写明，不能由资本投入自动推出所有事项的无限决定权。"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/credit-models.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 29,
+        "matched_terms": [
+          "信用",
+          "投资",
+          "维护"
+        ],
+        "snippet_lines": [
+          {
+            "line": 1,
+            "text": "# 信用、等待与维护现金的三个有限模型"
+          },
+          {
+            "line": 7,
+            "text": "设投资I=100、发起者自有现金A=20。项目成功现金R=150、失败为零；认真实施时成功概率p_H=0.8，改变行动时p_L=0.4，并获得私人／机会收益B=24。双方风险中性、有限责任；行动不可验证，最终现金可验证，外部资金要求的期望回收等于投入，机会利率在例子中取零。没有中介、抵押、其他担保或外部资助。"
+          },
+          {
+            "line": 19,
+            "text": "## 2. 立即投资为正，不一定优于等待信息"
+          },
+          {
+            "line": 23,
+            "text": "若等待一期开出状态后，仍可按成本100即时投入并取得该状态现金，便只在高状态投资，等待机会现值为0.95×0.5×(200−100)=47.5。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "G01",
+    "question": "Nash1950原件是否已有可检索的OCR正文？",
+    "terms": [
+      "L185",
+      "text_status",
+      "OCR"
+    ],
+    "top_results": [
+      {
+        "path": "wiki/raw/round-35/L185-nash-1950/metadata.json",
+        "kind": "source_metadata",
+        "score": 22,
+        "matched_terms": [
+          "L185",
+          "text_status",
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L185-nash-1950\","
+          },
+          {
+            "line": 13,
+            "text": "  \"text_status\": \"No usable OCR; extraction is not article text; future knowledge-base processing requires OCR and verification\","
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/reading-notes.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 15,
+        "matched_terms": [
+          "L185",
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 7,
+            "text": "| L185 Nash1950 | South Carolina大学镜像9页期刊扫描，含封面，正文*Econometrica*18(2):155–162 | 目视PDF2、4–6，即155、157–159；未读156及160–162的全部论证和例子 | 可行效用集、无协议处境、仿射效用口径与对解法的条件，不能当作实际议价过程或公平公设。提取层没有可用正文，不能伪作OCR全文 |"
+          },
+          {
+            "line": 12,
+            "text": "L185引入的互利议价框架能说明交易中同时有合作机会与分配问题。原文在指定效用描述下讨论解；本项目的货币线性、无信用预算例子是另加假设，不能声称原文已给出现实价格公式。"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/35-prices-income-demand-and-book-revision.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 14,
+        "matched_terms": [
+          "L185",
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 10,
+            "text": "| [版本与实际阅读](../surveys/08-price-income-and-reinvestment/reading-notes.md) | 新增L185–L188；目视扫描、附勘误文件、选章电子版和工作稿分别标明 |"
+          },
+          {
+            "line": 25,
+            "text": "[第35批](../../wiki/raw/round-35/README.md)保存三份PDF和Keynes两个章节及版本索引HTML，含提取、下载日志、失败、书目和选择记录。Nash扫描没有可用文字层，未伪称OCR正文；Smith文件含勘误与原有高亮；MPC实际为2019工作稿，2021只用于发表关联。"
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-01/L07-coase-1937/metadata.json",
+        "kind": "source_metadata",
+        "score": 14,
+        "matched_terms": [
+          "text_status",
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 19,
+            "text": "  \"extracted_text_status\": \"scan_requires_ocr\""
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-36/L189-stiglitz-weiss-1981/metadata.json",
+        "kind": "source_metadata",
+        "score": 14,
+        "matched_terms": [
+          "text_status",
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 14,
+            "text": "  \"text_status\": \"Selected body pages have no usable text;cover/reference-link extraction is not article OCR\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-36/L190-holmstrom-tirole-1997/metadata.json",
+        "kind": "source_metadata",
+        "score": 14,
+        "matched_terms": [
+          "text_status",
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 14,
+            "text": "  \"text_status\": \"Selected body pages have no usable text layer;future OCR required\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-31/L172-ferreras-2017-record/metadata.json",
+        "kind": "source_metadata",
+        "score": 10,
+        "matched_terms": [
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 3,
+            "text": "  \"title\": \"Firms as Political Entities: Saving Democracy through Economic Bicameralism\","
+          },
+          {
+            "line": 22,
+            "text": "  \"reading_notes\": \"../../../../research/surveys/05-firm-authority-and-democracy/reading-notes.md\","
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/30-firm-leadership-adaptation-and-democracy.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 9,
+        "matched_terms": [
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 3,
+            "text": "日期：2026年11月12日。回应用户提出的新研究层次，形成[专题入口](../surveys/05-firm-authority-and-democracy/README.md)、[经济领导与广告](../surveys/05-firm-authority-and-democracy/economic-leadership-and-advertising.md)、[一致性与适应](../surveys/05-firm-authority-and-democracy/coherence-and-adaptation"
+          },
+          {
+            "line": 7,
+            "text": "[两期有限模型](../surveys/05-firm-authority-and-democracy/adaptation-model.md)说明协调分工中的探索配置依环境条件改变；数值为设定，不是通用Ordo。AI民主化与控制集中是竞争性机制，待制度与实证比较。"
+          },
+          {
+            "line": 9,
+            "text": "[实际阅读](../surveys/05-firm-authority-and-democracy/reading-notes.md)及[第三十一批](../../wiki/raw/round-31/README.md)保存六份原PDF、一份作者原HTML、两项官方部分文字，区分书介、工作稿、历史范围和未读正文。本轮为先导研究，非三专题系统综述完成；正式79条、纲领0.3及八章正文未改。"
+          }
+        ]
+      },
+      {
+        "path": "book/argument-cards/part-05-04-transactions-prices-and-market-rules.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 8,
+        "matched_terms": [
+          "L185"
+        ],
+        "snippet_lines": [
+          {
+            "line": 11,
+            "text": "| 交易的合作与分配分歧、替代竞争可并存 | 工作框架及经典议价入口 | L185；不将名义同意当作事后互利、真实自愿或公正 |"
+          },
+          {
+            "line": 21,
+            "text": "新来源L185–L188的版本与实际读页见[研究记录](../../research/surveys/08-price-income-and-reinvestment/reading-notes.md)。Nash为不可用文字层的扫描，Smith为附勘误的教学文件，Keynes为选章电子版，MPC为2019工作稿及2021书目关联；没有把取得原件等同通读或复算。"
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/33-organization-and-economic-interfaces.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 8,
+        "matched_terms": [
+          "OCR"
+        ],
+        "snippet_lines": [
+          {
+            "line": 23,
+            "text": "下一轮经验案例应至少覆盖有无自愿退出、使用是否减损、能否收费以及谁控制关键资源四种差异。先沿用[公司治理专题](../surveys/05-firm-authority-and-democracy/firm-power-and-democratic-governance.md)和[开放维护研究](08-open-funding.md)作为入口，不能把上表称为新取得的案例结论。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "G02",
+    "question": "L94银行货币创造资料是否已取得本地原PDF？",
+    "terms": [
+      "L94",
+      "original_downloaded",
+      "partial"
+    ],
+    "top_results": [
+      {
+        "path": "wiki/raw/round-20/L94-boe-money-2014/metadata.json",
+        "kind": "source_metadata",
+        "score": 23,
+        "matched_terms": [
+          "L94",
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L94-boe-money-2014\","
+          },
+          {
+            "line": 8,
+            "text": "  \"selection_status\": \"partial_selected\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": false,"
+          },
+          {
+            "line": 13,
+            "text": "  \"download_status\": \"partial_tool_text_only\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-20/L90-knapp-1924/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 8,
+            "text": "  \"selection_status\": \"partial_selected\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": false,"
+          },
+          {
+            "line": 13,
+            "text": "  \"download_status\": \"partial_tool_text_only\","
+          },
+          {
+            "line": 14,
+            "text": "  \"format\": \"partial_web_tool_text\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-21/L100-met-silver-loan/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "  \"selection_status\": \"selected_catalogue_and_partial_interpretation\","
+          },
+          {
+            "line": 11,
+            "text": "  \"download_status\": \"original_catalogue_plus_partial_webpage\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": true,"
+          },
+          {
+            "line": 14,
+            "text": "  \"downloaded_document_scope\": \"Official catalogue JSON plus partial curator webpage, not independent ancient-text reading\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-21/L101-met-barley-account/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "  \"selection_status\": \"selected_catalogue_and_partial_interpretation\","
+          },
+          {
+            "line": 11,
+            "text": "  \"download_status\": \"original_catalogue_plus_partial_webpage\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": true,"
+          },
+          {
+            "line": 14,
+            "text": "  \"downloaded_document_scope\": \"Official catalogue JSON plus partial curator webpage, no independent transliteration\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-21/L105-songshi-181/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "  \"selection_status\": \"selected_partial_transcription\","
+          },
+          {
+            "line": 11,
+            "text": "  \"download_status\": \"partial_tool_transcription_only\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": false,"
+          },
+          {
+            "line": 14,
+            "text": "  \"downloaded_document_scope\": \"Partial web-tool transcription only; no original HTML/raw or facsimile\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-23/L119-nobel-tirole-2014/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "  \"selection_status\": \"adopted_partial_official_press_release\","
+          },
+          {
+            "line": 11,
+            "text": "  \"download_status\": \"original_failed_partial_tool_text_only\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": false,"
+          },
+          {
+            "line": 19,
+            "text": "      \"file\": \"web-tool-text.partial.txt\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-23/L121-sec-ponzi/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "  \"selection_status\": \"adopted_partial_official_web_text\","
+          },
+          {
+            "line": 11,
+            "text": "  \"download_status\": \"original_failed_partial_tool_text_only\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": false,"
+          },
+          {
+            "line": 18,
+            "text": "      \"file\": \"web-tool-text.partial.txt\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-24/L137-ilo-care-2018/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "  \"selection_status\": \"adopted_partial_tool_pdf_text\","
+          },
+          {
+            "line": 11,
+            "text": "  \"download_status\": \"original_failed_partial_tool_text_only\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": false,"
+          },
+          {
+            "line": 17,
+            "text": "      \"file\": \"web-tool-text.partial.txt\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-27/L154-dellacqua-et-al-2026/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "  \"selection_status\": \"adopted_partial_official_tool_text\","
+          },
+          {
+            "line": 11,
+            "text": "  \"download_status\": \"original_requests_failed_partial_tool_text_only\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": false,"
+          },
+          {
+            "line": 13,
+            "text": "  \"actual_version\": \"OrganizationScience37(2),2026,403-423;online11March2026;partial official tool-return only,not2023 working paper\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-31/L171-anderson-2017-record/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "original_downloaded",
+          "partial"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "  \"selection_status\": \"official_record_partial_tool_text_only\","
+          },
+          {
+            "line": 12,
+            "text": "  \"original_downloaded\": false,"
+          },
+          {
+            "line": 16,
+            "text": "  \"format\": \"partial_tool_return\","
+          },
+          {
+            "line": 18,
+            "text": "    \"file\": \"tool-return-record.partial.txt\","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "G03",
+    "question": "本轮投资等待研究取得的是1982稿还是1986最终版？",
+    "terms": [
+      "L191",
+      "1982",
+      "1986",
+      "actual_version"
+    ],
+    "top_results": [
+      {
+        "path": "wiki/raw/round-36/L191-mcdonald-siegel-1982/metadata.json",
+        "kind": "source_metadata",
+        "score": 31,
+        "matched_terms": [
+          "L191",
+          "1982",
+          "1986",
+          "actual_version"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L191-mcdonald-siegel-1982\","
+          },
+          {
+            "line": 8,
+            "text": "  \"publication\": \"NBER Working Paper1019,November1982\","
+          },
+          {
+            "line": 11,
+            "text": "  \"actual_version\": \"38-page1982working paper;1986journal PDF request403\","
+          },
+          {
+            "line": 14,
+            "text": "  \"related_publication\": \"1986QJE101(4),DOI10.2307/1884175;publisher/NBER707–727 versusJSTOR707–728;finalfile not obtained or treated as read\","
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/credit-reading-notes.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 27,
+        "matched_terms": [
+          "L191",
+          "1982",
+          "1986"
+        ],
+        "snippet_lines": [
+          {
+            "line": 9,
+            "text": "| L191 McDonald、Siegel | NBER WP1019，1982年11月，38页；1986期刊PDF请求403 | PDF1–4，含封面、摘要、稿内1–2页；视觉核查PDF3 | 只采用不可逆与等待选择的框架；未重建随机过程解、比较静态或“收益两倍成本”等数值阈值 |"
+          },
+          {
+            "line": 15,
+            "text": "L191的1986发表关联来自作者／出版方及NBER书目。出版方和NBER记录707–727，而JSTOR目录显示707–728；本轮未取得最终版，不解决尾页差异或把工作稿混作该版。1982稿明确讨论其无限期投资机会条件及有限已知到期的遗漏，本轮不跨条件推广。"
+          },
+          {
+            "line": 25,
+            "text": "NBER1982稿为L191实际采用版本，1986出版摘要只作定位，不扩写未读定理；无关论文中的参考文献命中、新闻和二手解释不作为原始机制证据。银行PDF未获原件，失败不计新增采用来源。"
+          }
+        ]
+      },
+      {
+        "path": "book/argument-cards/part-05-06-investment-income-and-reinvestment.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 23,
+        "matched_terms": [
+          "L191",
+          "1982",
+          "1986"
+        ],
+        "snippet_lines": [
+          {
+            "line": 14,
+            "text": "| 投资与等待需比较 | L191机制及两期例子 | 实际工作稿1982；未读1986完整模型，例子无延迟损害和机会流失 |"
+          },
+          {
+            "line": 20,
+            "text": "来源版本与读页见[研究记录](../../research/surveys/08-price-income-and-reinvestment/credit-reading-notes.md)。L189／L190正文扫描无可用文字层，L191为38页1982工作稿，L94仍只有旧部分工具正文；未复算外部研究或读完全部证明。"
+          }
+        ]
+      },
+      {
+        "path": "book/part-05/06-investment-income-and-reinvestment.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 22,
+        "matched_terms": [
+          "L191",
+          "1982",
+          "1986"
+        ],
+        "snippet_lines": [
+          {
+            "line": 92,
+            "text": "[^waiting]: McDonald、Siegel，实际采用[NBER1982工作稿](../../wiki/raw/round-36/L191-mcdonald-siegel-1982/original.pdf)封面、摘要与导论开头；[1986发表定位](https://doi.org/10.2307/1884175)不作已经读过的版本。未复算最优停止模型或采用普遍投资阈值。"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/08-price-income-and-reinvestment/credit-investment-and-reinvestment.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 21,
+        "matched_terms": [
+          "L191",
+          "1982",
+          "1986"
+        ],
+        "snippet_lines": [
+          {
+            "line": 37,
+            "text": "McDonald与Siegel的1982工作稿研究不可逆投资和等待选择；其1986发表版只用于关联书目。本轮采用等待也有价值的机制入口，未重建随机过程解，也不把特定收益成本阈值写成普遍规则。[L191实际工作稿](https://www.nber.org/papers/w1019)"
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-24/L129-grossman-hart-1986/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "1986",
+          "actual_version"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L129-grossman-hart-1986\","
+          },
+          {
+            "line": 5,
+            "text": "  \"publication\": \"JPE94(4),1986,691-719; researcher-hosted article, identity to inspect\","
+          },
+          {
+            "line": 6,
+            "text": "  \"url\": \"https://www.edegan.com/pdfs/Grossman%20Hart%20%281986%29%20-%20The%20Costs%20and%20Benefits%20of%20Ownership.pdf\","
+          },
+          {
+            "line": 17,
+            "text": "  \"final_url\": \"https://www.edegan.com/pdfs/Grossman%20Hart%20%281986%29%20-%20The%20Costs%20and%20Benefits%20of%20Ownership.pdf\","
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-25/L140-bourdieu-1986/metadata.json",
+        "kind": "source_metadata",
+        "score": 16,
+        "matched_terms": [
+          "1986",
+          "actual_version"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L140-bourdieu-1986\","
+          },
+          {
+            "line": 5,
+            "text": "  \"publication\": \"1986book chapter,English teaching transcription;actual scope to inspect\","
+          },
+          {
+            "line": 6,
+            "text": "  \"url\": \"https://web.stanford.edu/~eckert/Courses/ParisPapers/Bourdieu1986.pdf\","
+          },
+          {
+            "line": 17,
+            "text": "  \"final_url\": \"https://web.stanford.edu/~eckert/Courses/ParisPapers/Bourdieu1986.pdf\","
+          }
+        ]
+      },
+      {
+        "path": "research/reviews/07-reading-notes.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 9,
+        "matched_terms": [
+          "1982"
+        ],
+        "snippet_lines": [
+          {
+            "line": 53,
+            "text": "Bengt Holmström，1982，*Moral Hazard in Teams*，The Bell Journal of Economics 13(2):324–340。[下载来源](https://people.duke.edu/~qc2/BA532/1982%20Rand%20Holmstrom%20team.pdf)，[本地 PDF](../../wiki/raw/round-07/L38-holmstrom-1982/original.pdf)。定向阅读：PDF 第2–4页，即期刊 pp.324–3"
+          }
+        ]
+      },
+      {
+        "path": "research/surveys/03-competition-cooperation-distribution/contribution-reading-notes.md",
+        "kind": "project_document_not_primary_evidence",
+        "score": 9,
+        "matched_terms": [
+          "1986"
+        ],
+        "snippet_lines": [
+          {
+            "line": 5,
+            "text": "## L129 Grossman与Hart 1986"
+          },
+          {
+            "line": 7,
+            "text": "Sanford J. Grossman、Oliver D. Hart，*The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration*，JPE94(4):691–719，1986；DOI10.1086/261404。[本地原件](../../../wiki/raw/round-24/L129-grossman-hart-1986/original.pdf)，30页含JSTOR封面，研究者网站托管。最初大学路径502"
+          }
+        ]
+      },
+      {
+        "path": "wiki/raw/round-07/L38-holmstrom-1982/metadata.json",
+        "kind": "source_metadata",
+        "score": 9,
+        "matched_terms": [
+          "1982"
+        ],
+        "snippet_lines": [
+          {
+            "line": 2,
+            "text": "  \"id\": \"L38-holmstrom-1982\","
+          },
+          {
+            "line": 3,
+            "text": "  \"requested_url\": \"https://people.duke.edu/~qc2/BA532/1982%20Rand%20Holmstrom%20team.pdf\","
+          },
+          {
+            "line": 6,
+            "text": "  \"final_url\": \"https://people.duke.edu/~qc2/BA532/1982%20Rand%20Holmstrom%20team.pdf\","
+          },
+          {
+            "line": 16,
+            "text": "  \"publication_year\": 1982,"
+          }
+        ]
+      }
+    ]
+  }
+]

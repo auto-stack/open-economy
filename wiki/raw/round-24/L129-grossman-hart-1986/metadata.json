@@ -1,0 +1,30 @@
+{
+  "id": "L129-grossman-hart-1986",
+  "title": "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration",
+  "authors": "Sanford J.Grossman; Oliver D.Hart",
+  "publication": "JPE94(4),1986,691-719; researcher-hosted article, identity to inspect",
+  "url": "https://www.edegan.com/pdfs/Grossman%20Hart%20%281986%29%20-%20The%20Costs%20and%20Benefits%20of%20Ownership.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF2-8,printed691-697; PDF5 visually checked; not subsequent full model proofs or insurance application.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 30,
+  "sha256": "b8c3e7f2a84c8563b6ba4616733f0cfa099f231e3d714733b173a3dc73edb291",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.edegan.com/pdfs/Grossman%20Hart%20%281986%29%20-%20The%20Costs%20and%20Benefits%20of%20Ownership.pdf",
+  "status_code": 200,
+  "bytes": 3201242,
+  "retrieved_at_utc": "2026-11-12T04:24:17.022960+00:00",
+  "actual_version": "JPE94(4),1986,691-719;30-page scan including JSTOR cover.",
+  "knowledge_base_status": "provenance and extraction stored;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "sha256": "b8c3e7f2a84c8563b6ba4616733f0cfa099f231e3d714733b173a3dc73edb291",
+      "bytes": 3201242
+    }
+  ]
+}

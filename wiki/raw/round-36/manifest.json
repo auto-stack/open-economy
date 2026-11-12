@@ -1,0 +1,127 @@
+[
+  {
+    "path": "discovery/search-queries.json",
+    "bytes": 854,
+    "sha256": "829fc00db02293f939964e71c3193d6d505822558645acd866ce200dde8b9914"
+  },
+  {
+    "path": "discovery/web-records.json",
+    "bytes": 66278,
+    "sha256": "02b160cf68ee9ead79babe99fc44d06767e4c3634c24b10f5d9d58c5ad4cebbb"
+  },
+  {
+    "path": "L189-stiglitz-weiss-1981/download-log.json",
+    "bytes": 318,
+    "sha256": "4b46d0c708793135f8299edd19ff8051c96486a219bbd459880f8c9949fe2d2f"
+  },
+  {
+    "path": "L189-stiglitz-weiss-1981/extracted.txt",
+    "bytes": 4141,
+    "sha256": "d452902ad1bb5106d04113ff5f497fd1e91ba8c57189e0ae671c17bbe7f69490"
+  },
+  {
+    "path": "L189-stiglitz-weiss-1981/metadata.json",
+    "bytes": 1216,
+    "sha256": "a9abcd6197d88aa87d1eb70fd91ba329ce275b37768e8de0eece461156522629"
+  },
+  {
+    "path": "L189-stiglitz-weiss-1981/original.pdf",
+    "bytes": 627343,
+    "sha256": "6cc8accd21859d3dfb5ec4091bf0f80f2c12e603b840239b34f747e9a6c142bf"
+  },
+  {
+    "path": "L190-holmstrom-tirole-1997/download-log.json",
+    "bytes": 320,
+    "sha256": "61cdd2b206043ff10b42911fd821af414035e444fc5c7d36770a4648b0fdc3fb"
+  },
+  {
+    "path": "L190-holmstrom-tirole-1997/extracted.txt",
+    "bytes": 2080,
+    "sha256": "b762452c48f5dfdccec419142c77fca4b30dd6025404fedae625690b869b5f6a"
+  },
+  {
+    "path": "L190-holmstrom-tirole-1997/metadata.json",
+    "bytes": 1224,
+    "sha256": "8a2639e17de2a4d59f86a55679f6125be70f77b2225b9f86cdc8b242b7a4a92b"
+  },
+  {
+    "path": "L190-holmstrom-tirole-1997/original.pdf",
+    "bytes": 2640584,
+    "sha256": "6db56bda95911484f48e631a82bc1e4443c6e7c2ec144454d76755793570686b"
+  },
+  {
+    "path": "L191-mcdonald-siegel-1982/download-log.json",
+    "bytes": 305,
+    "sha256": "2bde258408df845ae2b096fb4551e2a1964377092f3f2e79ffa65804176875f2"
+  },
+  {
+    "path": "L191-mcdonald-siegel-1982/extracted.txt",
+    "bytes": 50150,
+    "sha256": "66418cfdde7a8af6d52f67bccd503c9b236e3461f2d9593fd6c3fb6b604dab3b"
+  },
+  {
+    "path": "L191-mcdonald-siegel-1982/failed-response.html",
+    "bytes": 5601,
+    "sha256": "a242f450c9679199123eacc765e12d6e5147ef33bf193b17e1e3ef9079b5bd38"
+  },
+  {
+    "path": "L191-mcdonald-siegel-1982/metadata.json",
+    "bytes": 1194,
+    "sha256": "87ea7a761c69f46f835a8ae883fb2c136dc8f447df0f7baddabff6c2abc246f7"
+  },
+  {
+    "path": "L191-mcdonald-siegel-1982/original.pdf",
+    "bytes": 267333,
+    "sha256": "6b6602c89435d8fb14851754df7c8803ec232e5d007c4d2d812c9acf4a0c14a2"
+  },
+  {
+    "path": "L191-mcdonald-siegel-1982/working-paper-download-log.json",
+    "bytes": 280,
+    "sha256": "d8a2af4da41f3cc7fcb9c93693d6fc0410693c94ef3997582e9166c396ad0661"
+  },
+  {
+    "path": "L192-banerjee-duflo-2014/download-log.json",
+    "bytes": 364,
+    "sha256": "5958c4129b02963c6aa486461bf4e59dbc3471119e6d55d215cb1d89829f216c"
+  },
+  {
+    "path": "L192-banerjee-duflo-2014/extracted.txt",
+    "bytes": 135021,
+    "sha256": "13db5b550a60045a1b3702d64d1bac36d5bd8ff325218febced443840243e375"
+  },
+  {
+    "path": "L192-banerjee-duflo-2014/metadata.json",
+    "bytes": 1396,
+    "sha256": "1ab0e1182f448c7283f24da327a635eef57f903fbfddd2d2e7a012b1b6dc0ff0"
+  },
+  {
+    "path": "L192-banerjee-duflo-2014/original.pdf",
+    "bytes": 344248,
+    "sha256": "d02bf1d64c9b90858a6ba77351f72005bd72888cbce0ef5778f11212f02748f4"
+  },
+  {
+    "path": "L94-boe-money-2014-retrieval/attempt-metadata.json",
+    "bytes": 344,
+    "sha256": "11cf16c7d5e54361ddb77c1d7dbe91cd3cda1259665014298191e76aefc14200"
+  },
+  {
+    "path": "L94-boe-money-2014-retrieval/download-log.json",
+    "bytes": 374,
+    "sha256": "72cd24602d3fb08581c50bb886f9293a0c8faa0e9a92c5845d01fbdaeeabd04d"
+  },
+  {
+    "path": "L94-boe-money-2014-retrieval/failed-response.html",
+    "bytes": 519,
+    "sha256": "457b9edf53e112541ba78cb5b215d906088e5fdb4d061a490b7f9bcfd9d5cae4"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2537,
+    "sha256": "34ef60d530cda4cba1faa8e9247b59c2b8f728d8ad34c7842b185597c8ec8f6f"
+  },
+  {
+    "path": "reuse-context.json",
+    "bytes": 1254,
+    "sha256": "bf5e5485776c345c0fda1992db628fe4e671bf6ca71f0a04217c596461779083"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "L27-baldwin-2006",
+  "requested_url": "https://www.hbs.edu/ris/download.aspx?name=06-051.pdf",
+  "retrieved_at_utc": "2026-11-11T11:58:33.781351+00:00",
+  "status_code": 403,
+  "final_url": "https://www.hbs.edu/ris/download.aspx?name=06-051.pdf",
+  "content_type": "text/html",
+  "download_status": "failed_response",
+  "file": "response.html",
+  "bytes": 30178,
+  "sha256": "2c7bfd520ffc15e6d831e71d8523d06316a27000819c39594c9cd6adeae97d29"
+}

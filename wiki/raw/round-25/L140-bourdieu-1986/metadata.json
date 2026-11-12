@@ -1,0 +1,30 @@
+{
+  "id": "L140-bourdieu-1986",
+  "title": "The Forms of Capital",
+  "authors": "Pierre Bourdieu",
+  "publication": "1986book chapter,English teaching transcription;actual scope to inspect",
+  "url": "https://web.stanford.edu/~eckert/Courses/ParisPapers/Bourdieu1986.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-2,8,11-12;PDF12 visually inspected;PDF9 browsed only;includes explicit universal-labor-time and conservation analogy,not physically validated.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 18,
+  "sha256": "7f49276ddeb6fa4dc4783627c147c44b0ac0061192e59b3653e51cb18179ceb3",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://web.stanford.edu/~eckert/Courses/ParisPapers/Bourdieu1986.pdf",
+  "status_code": 200,
+  "bytes": 146231,
+  "retrieved_at_utc": "2026-11-12T05:14:27.050999+00:00",
+  "actual_version": "18page English teaching reformat of The Forms of Capital,1986,Richardson-edited handbook;not original page-layout scan.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 146231,
+      "sha256": "7f49276ddeb6fa4dc4783627c147c44b0ac0061192e59b3653e51cb18179ceb3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "L76-wolf-2007",
+  "title": "Meaning in Life and Why It Matters, Lectures I and II",
+  "authors": "Susan Wolf",
+  "doi": null,
+  "publication": "Tanner Lectures, Princeton University, November 7-8, 2007; official transcript, distinct from 2010 book",
+  "research_date_local": "2026-11-12",
+  "format": "html",
+  "pages": null,
+  "sha256": "ceb53d0b5947526bc5c17f84393ba2999e3b9ed5241831bdbcb8a5c1c7a37bda",
+  "read_scope": "Lecture I opening A False Dichotomy, A Conception of Meaningfulness in Life and subjective/objective elements, Larger-than-Oneself discussion and Lecture I conclusion; final Lecture II paragraphs on objective value and epistemic humility. Not a full reconstruction of Lecture II.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://tannerlectures.org/documents/meaning-in-life-and-why-it-matters/",
+  "final_url": "https://tannerlectures.org/documents/meaning-in-life-and-why-it-matters/",
+  "status_code": 200,
+  "bytes": 175585,
+  "retrieved_at_utc": "2026-11-11T21:28:52.405851+00:00",
+  "validation": "Expected content checked; PDF parser or HTML text extraction passed",
+  "version": "Official HTML transcript of 2007 Tanner lectures; not the 2010 book or its commentaries.",
+  "source_type": "philosophical argument",
+  "reading_notes": "../../../../research/reviews/17-reading-notes.md"
+}

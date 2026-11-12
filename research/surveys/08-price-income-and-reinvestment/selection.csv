@@ -1,0 +1,10 @@
+record,work_or_variant,decision,reason,actual_scope
+L185,Nash1950期刊扫描,adopt_targeted,互利议价与解法条件,目视155及157至159页
+L186,Smith1962正文及同年勘误教学合订,adopt_targeted,报价程序竞争与条件限制,程序总结及勘误文字；未复算
+L187,Keynes1936书的2003电子版第3与8章,adopt_targeted,预期支出消费投资及分配连接,选章指定段落非全书
+L188,CESifoWP7134的2019修订稿,adopt_targeted,收入冲击与支出异质性及测量,指定读页非全部附录
+V01,MPC2021最终发表书目,version_record_only,关联最终发表不冒充已取得最终全文,书目与官方摘要定位
+V02,MPC2016及2020版本,not_adopted_as_read,本轮实际采用2019稿,定位版本未通读
+V03,Smith1962期刊与大学库记录,bibliography_support,原件及勘误定位核查,期刊和机构书目
+X01,新闻百科或关系建议,not_evidence,非本轮原始机制证据,检索返回保留不采用
+X02,其他只在参考文献中出现的MPC论文,not_evidence_this_round,未取得并核查其机制,待后续问题驱动筛选

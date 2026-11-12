@@ -1,0 +1,23 @@
+{
+  "id": "L74-hamann-et-al-2012",
+  "title": "Children’s Developing Commitments to Joint Goals",
+  "authors": "Katharina Hamann; Felix Warneken; Michael Tomasello",
+  "doi": "10.1111/j.1467-8624.2011.01695.x",
+  "publication": "Child Development 83(1) (2012),137-145",
+  "research_date_local": "2026-11-12",
+  "format": "pdf",
+  "source_url": "https://sites.duke.edu/tomasellolabduke/files/2016/09/Hamann_etal_2012.x.pdf",
+  "pages": 9,
+  "sha256": "a006ad75d35f140f8d5f281c11d10cc9522d6d72136ac179dc273a4c9bec66e8",
+  "read_scope": "PDF pp.1-3, procedure/coding parts of p.4, p.5, pp.7-8. p.6 only located; references not read as separate sources. Main result figure and trial-level denominators visually checked on p.5.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://sites.duke.edu/tomasellolabduke/files/2016/09/Hamann_etal_2012.x.pdf",
+  "final_url": "https://sites.duke.edu/tomasellolabduke/files/2016/09/Hamann_etal_2012.x.pdf",
+  "status_code": 200,
+  "bytes": 180188,
+  "retrieved_at_utc": "2026-11-11T21:19:57.059115+00:00",
+  "validation": "PDF header and parser passed",
+  "version": "9-page 2012 journal typeset PDF from Duke author lab; copyright 2011.",
+  "source_type": "developmental experiments; age is not randomized",
+  "reading_notes": "../../../../research/reviews/16-reading-notes.md"
+}

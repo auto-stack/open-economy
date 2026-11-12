@@ -1,0 +1,42 @@
+{
+  "id": "L109-vonglahn-2026-record",
+  "title": "The Rise and Demise of Paper Money in Imperial China — publisher record",
+  "authors": "Richard von Glahn",
+  "publication": "RichardvonGlahn,Cambridge2026; chapter4 online18September2026,113-146,DOI10.1017/9781009699440.007; abstract only",
+  "url": "https://www.cambridge.org/core/books/the-rise-and-demise-of-paper-money-in-imperial-china/C87055AD79B968129C6534E3679CF631",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Bibliographic data,contents,and chapter4 summary only; online18September2026,print2026,pp113-146,DOI10.1017/9781009699440.007; not old2005chapter",
+  "selection_status": "selected_publisher_summary_only",
+  "rights": "Original rights retained; local research archive. Downloaded catalogue/transcription/preview does not imply full work or redistribution permission.",
+  "format": "html",
+  "pages": null,
+  "sha256": "e473828bfa72f3fdcc5c5a4702a51e06f0bf0a12fc5585832ed4ac8052215892",
+  "archived_file": "original.html",
+  "download_status": "publisher_record_and_summary_only",
+  "original_downloaded": true,
+  "final_url": "https://www.cambridge.org/core/books/the-rise-and-demise-of-paper-money-in-imperial-china/C87055AD79B968129C6534E3679CF631",
+  "status_code": 200,
+  "bytes": 989078,
+  "retrieved_at_utc": "2026-11-12T02:48:21.137027+00:00",
+  "evidence_type": "publisher_record_and_author_abstract",
+  "downloaded_document_scope": "Full publisher book record and chapter4 summary pages; no book/chapter body",
+  "original_files": [
+    {
+      "path": "original.html",
+      "bytes": 989078,
+      "sha256": "e473828bfa72f3fdcc5c5a4702a51e06f0bf0a12fc5585832ed4ac8052215892",
+      "source_url": "https://www.cambridge.org/core/books/the-rise-and-demise-of-paper-money-in-imperial-china/C87055AD79B968129C6534E3679CF631",
+      "document_scope": "Full publisher book record and chapter4 summary pages; no book/chapter body"
+    },
+    {
+      "path": "chapter-4-record.html",
+      "bytes": 870575,
+      "sha256": "76c59c56cee085eefe31328f30246414122f23bde02ca570b323f25dcd49feb4",
+      "source_url": "https://www.cambridge.org/core/books/rise-and-demise-of-paper-money-in-imperial-china/northern-song-monetary-policy-and-the-invention-of-paper-currency-in-sichuan/8D4E47993802972BFFEE47EC0DF7CD22",
+      "document_scope": "Full publisher book record and chapter4 summary pages; no book/chapter body"
+    }
+  ],
+  "partial_tool_text_downloaded": false,
+  "full_text_of_target_research_work_obtained": false,
+  "notes": "../../../../research/surveys/02-wealth-money-history/case-reading-notes.md"
+}

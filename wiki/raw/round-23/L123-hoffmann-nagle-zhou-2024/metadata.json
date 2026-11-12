@@ -1,0 +1,31 @@
+{
+  "id": "L123-hoffmann-nagle-zhou-2024",
+  "title": "The Value of Open Source Software",
+  "authors": "Manuel Hoffmann; Frank Nagle; Yanuo Zhou",
+  "publication": "HBSWP24-038; actual version to inspect",
+  "url": "https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-4,14-15,17-20,22-23; selected methods, estimates, attribution and conclusion; PDF19 visually inspected. Other page snippets not counted as substantive reading.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 42,
+  "sha256": "b432e743aea8330420bced21d2c6d6212e80f85a18c7dc792d3b86ac03c4f0a2",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf",
+  "status_code": 200,
+  "bytes": 947645,
+  "retrieved_at_utc": "2026-11-12T03:32:48.171546+00:00",
+  "actual_version": "HBSWP24-038,this versionJanuary1,2024,42pages; main data concern2020.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 947645,
+      "sha256": "b432e743aea8330420bced21d2c6d6212e80f85a18c7dc792d3b86ac03c4f0a2"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "L136-clark-1899",
+  "title": "The Distribution of Wealth: A Theory of Wages, Interest and Profits",
+  "authors": "John Bates Clark",
+  "publication": "OLL electronic edition of historic book,actual edition to inspect",
+  "url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/329/Clark_0190_EBk_v6.0.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-5(front matter),7-8(preface),10-11(preface end/ChapterI start);PDF7 visually inspected;PDF9 only browsed.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 254,
+  "sha256": "aed73511d3fe2af90e4efb6c8e2b49ba04952bcbf803993531256ab43b8e996a",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/329/Clark_0190_EBk_v6.0.pdf",
+  "status_code": 200,
+  "bytes": 1279593,
+  "retrieved_at_utc": "2026-11-12T04:22:22.084415+00:00",
+  "actual_version": "OLL254-page electronic edition based onMacmillan1908;original1899;PLL v6.0generatedSeptember2011.",
+  "knowledge_base_status": "provenance and extraction stored;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "sha256": "aed73511d3fe2af90e4efb6c8e2b49ba04952bcbf803993531256ab43b8e996a",
+      "bytes": 1279593
+    }
+  ]
+}

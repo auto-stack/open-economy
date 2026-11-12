@@ -1,0 +1,128 @@
+[
+  {
+    "work_id": "L07",
+    "path": "wiki/raw/round-01/L07-coase-1937/original.pdf",
+    "notice": "broken xref subsection, proceeding anyway.\nTrailer Size is off-by-one. Ignoring.",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L10",
+    "path": "wiki/raw/round-02/L10-newman-girvan-2004/original-arxiv.pdf",
+    "notice": "bogus font ascent/descent values (40 / -2959)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L12",
+    "path": "wiki/raw/round-02/L12-fortunato-barthelemy/original.pdf",
+    "notice": "bogus font ascent/descent values (40 / -2360)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L17",
+    "path": "wiki/raw/round-04/L17-esposito-vandenbroeck-2011/original-arxiv.pdf",
+    "notice": "bogus font ascent/descent values (40 / -2222)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L22",
+    "path": "wiki/raw/round-04/L22-berut-et-al-2012/original.pdf",
+    "notice": "repaired broken tree structure in outline\nbogus font ascent/descent values (770 / -2958)\n... repeated 2 times...",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L24",
+    "path": "wiki/raw/round-05/L24-hartwell-et-al-1999/original.pdf",
+    "notice": "format error: cannot recognize xref format\ntrying to repair broken xref\nrepairing PDF document",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L26",
+    "path": "wiki/raw/round-05/L26-clune-et-al-2013/original.pdf",
+    "notice": "repaired broken tree structure in outline",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L28",
+    "path": "wiki/raw/round-06/L28-kelly-1956/original.pdf",
+    "notice": "bogus font ascent/descent values (772 / -2960)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L29",
+    "path": "wiki/raw/round-06/L29-bialek-et-al-2001/original.pdf",
+    "notice": "bogus font ascent/descent values (766 / -2955)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L54",
+    "path": "wiki/raw/round-11/L54-sterling-2012/original.pdf",
+    "notice": "bogus font ascent/descent values (0 / -193)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L58",
+    "path": "wiki/raw/round-11/L58-henrich-et-al-2005/original.pdf",
+    "notice": "lcms: not an ICC profile, invalid signature.\nformat error: cmsOpenProfileFromMem failed\nignoring broken ICC profile",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L64",
+    "path": "wiki/raw/round-13/L64-berridge-robinson-2016/original.pdf",
+    "notice": "bogus font ascent/descent values (0 / -236)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L66",
+    "path": "wiki/raw/round-13/L66-desmedt-et-al-2018/original.pdf",
+    "notice": "bogus font ascent/descent values (0 / -201)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L67",
+    "path": "wiki/raw/round-14/L67-shenhav-et-al-2013/original.pdf",
+    "notice": "bogus font ascent/descent values (0 / -190)\nbogus font ascent/descent values (0 / -189)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L84",
+    "path": "wiki/raw/round-19/L84-romer-1990/original.pdf",
+    "notice": "repaired broken tree structure in outline",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L130",
+    "path": "wiki/raw/round-24/L130-alchian-demsetz-1972/original.pdf",
+    "notice": "broken xref subsection, proceeding anyway.\nTrailer Size is off-by-one. Ignoring.",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L143",
+    "path": "wiki/raw/round-25/L143-watts-dodds-2007/original.pdf",
+    "notice": "first object in xref is not free",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L144",
+    "path": "wiki/raw/round-25/L144-shalizi-thomas-2010/original.pdf",
+    "notice": "premature end of data in flate filter\n... repeated 5 times...",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L164",
+    "path": "wiki/raw/round-30/L164-lorenz-et-al-2011/original.pdf",
+    "notice": "bogus font ascent/descent values (0 / -249)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L182",
+    "path": "wiki/raw/round-34/L182-kosfeld-okada-riedl-2009/original.pdf",
+    "notice": "bogus font ascent/descent values (6650 / -2350)",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  },
+  {
+    "work_id": "L185",
+    "path": "wiki/raw/round-35/L185-nash-1950/original.pdf",
+    "notice": "broken xref subsection, proceeding anyway.\nTrailer Size is off-by-one. Ignoring.",
+    "scope": "First at most6pages text sampling; original not overwritten; no full visual validation"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id": "L192-banerjee-duflo-2014",
+  "title": "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program",
+  "authors": [
+    "Abhijit V. Banerjee",
+    "Esther Duflo"
+  ],
+  "publication": "Review of Economic Studies81(2),2014,572–607",
+  "doi": "10.1093/restud/rdt046",
+  "url": "https://economics.mit.edu/sites/default/files/2022-08/2014.04%20Do%20Firms%20want%20to%20borrow%20more.pdf",
+  "actual_version": "36-page final typeset article from MIT author site;URL2022upload not publication year",
+  "pages": 36,
+  "read_scope": "PDF1–3,printed572–574:abstract,identification and result overview;visual PDF1;not full regressions,trends,appendices or replication",
+  "evidence_limit": "Policy-eligibility quasi-experiment,not randomized lending;relative-trend assumptions and incomplete direct observation of other borrowing retained",
+  "research_date_local": "2026-11-12",
+  "archived_file": "original.pdf",
+  "original_downloaded": true,
+  "sha256": "d02bf1d64c9b90858a6ba77351f72005bd72888cbce0ef5778f11212f02748f4",
+  "bytes": 344248,
+  "reading_notes": "../../../../research/surveys/08-price-income-and-reinvestment/credit-reading-notes.md",
+  "rights": "Original rights retained; local archive is not blanket redistribution permission.",
+  "knowledge_base_status": "Raw archived; not imported or converted into AutoDown."
+}

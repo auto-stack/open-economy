@@ -1,0 +1,31 @@
+{
+  "id": "L127-scheinkman-xiong-2003",
+  "title": "Overconfidence and Speculative Bubbles",
+  "authors": "Jose A.Scheinkman; Wei Xiong",
+  "publication": "JPE111(6),2003,1183-1219",
+  "url": "https://www.princeton.edu/~wxiong/papers/bubble.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-5 (printed1183-1187), abstract and introduction/assumptions; no independent rederivation of stochastic solution.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 37,
+  "sha256": "f9bb74d8c15c7161bfdcf8ba212a37647eeee5868bd0764693bda6196dc03e27",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://www.princeton.edu/~wxiong/papers/bubble.pdf",
+  "status_code": 200,
+  "bytes": 274498,
+  "retrieved_at_utc": "2026-11-12T03:32:51.016439+00:00",
+  "actual_version": "JPE111(6),2003,1183-1219;37pages.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 274498,
+      "sha256": "f9bb74d8c15c7161bfdcf8ba212a37647eeee5868bd0764693bda6196dc03e27"
+    }
+  ]
+}

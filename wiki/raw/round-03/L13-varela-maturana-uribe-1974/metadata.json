@@ -1,0 +1,20 @@
+{
+  "id": "L13-varela-maturana-uribe-1974",
+  "requested_url": "https://users.sussex.ac.uk/~inmanh/adsys10/Readings/Varela_etal_-_1974_-_Autopoiesis_the_organization_of_the_living_characterization_n_model_-_Biosystems.pdf",
+  "retrieved_at_utc": "2026-11-11T11:21:07.006018+00:00",
+  "status_code": 200,
+  "final_url": "https://users.sussex.ac.uk/~inmanh/adsys10/Readings/Varela_etal_-_1974_-_Autopoiesis_the_organization_of_the_living_characterization_n_model_-_Biosystems.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 568779,
+  "sha256": "6577272c541d1f20c2502e6dbe8ab74d5500f6e396cf67a777644203983189da",
+  "download_status": "downloaded",
+  "pdf_pages": 10,
+  "author": "Francisco G. Varela; Humberto R. Maturana; R. Uribe",
+  "title": "Autopoiesis: The organization of living systems, its characterization and a model",
+  "publication_year": 1974,
+  "archived_version": "University-hosted scan of BioSystems 5(4), 187-196",
+  "reading_scope": "Sections 2-7 and 9; relevant passages PDF pages 2-7; appendix not replicated",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "OCR_errors_use_original_for_exact_claims"
+}

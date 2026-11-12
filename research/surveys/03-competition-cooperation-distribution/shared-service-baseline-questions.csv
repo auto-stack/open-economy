@@ -1,0 +1,6 @@
+question_id,question,expected_project_path,required_scope_or_caveat,result_status
+B01,Ordo是否已经具有工作采用的通用标量定义？,shared/theory-register.md,HYP-01及DEF-08附近声明；不能以并列指标冒充度量已成立,not_run
+B02,同一对人怎样在共同任务中既竞争又合作？,book/part-03/01-cooperation-and-common-capabilities.md,明确任务层级规则期间；不能按人格二分,not_run
+B03,奖励过去贡献为什么不自动形成未来维护责任？,research/reviews/09-autoos-open-business.md,区分公共奖励与维护合同；未确定真实费率,not_run
+B04,新增组间竞争论文的实际版本和读页是什么？,wiki/raw/round-33/L181-bornstein-gneezy-nagel-2002/metadata.json,2002最终版25页；实际选读1至7页；不是1999工作稿,not_run
+B05,组织比较与价格信用收入需求的研究现在完成到哪里？,research/reviews/33-organization-and-economic-interfaces.md,分析类型及机制草图；不是跨组织实证或完整宏观survey,not_run

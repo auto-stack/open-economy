@@ -1,0 +1,30 @@
+{
+  "id": "L138-dahl-1957",
+  "title": "The Concept of Power",
+  "authors": "Robert A.Dahl",
+  "publication": "BehavioralScience2(3),1957,201-215;university teaching copy",
+  "url": "https://fbaum.unc.edu/teaching/articles/Dahl_Power_1957.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-4,printed201-204;PDF3 visually inspected;not all comparability arguments or Senate analysis.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 15,
+  "sha256": "adb61cd0837997c120dee9adad9b09f0a18b8128c4d79d85e11b2110be9c4d30",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://fbaum.unc.edu/teaching/articles/Dahl_Power_1957.pdf",
+  "status_code": 200,
+  "bytes": 1299161,
+  "retrieved_at_utc": "2026-11-12T05:16:44.483234+00:00",
+  "actual_version": "BehavioralScience2(3),1957,201-215;15page university teaching scan.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 1299161,
+      "sha256": "adb61cd0837997c120dee9adad9b09f0a18b8128c4d79d85e11b2110be9c4d30"
+    }
+  ]
+}

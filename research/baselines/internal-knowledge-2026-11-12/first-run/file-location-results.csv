@@ -1,0 +1,9 @@
+id,question,terms,first_expected_file_rank,expected_file_in_top10,top1_path,evaluation_type
+B01,Ordo是否已有工作采用的通用标量定义？,"[""Ordo"", ""通用标量"", ""HYP-01""]",3,True,docs/charter.md,assisted_term_file_location_not_QA_accuracy
+B02,同一对人怎样在共同任务中既竞争又合作？,"[""竞争"", ""合作"", ""共同能力"", ""同一""]",1,True,book/part-03/01-cooperation-and-common-capabilities.md,assisted_term_file_location_not_QA_accuracy
+B03,奖励过去贡献为什么不自动形成未来维护责任？,"[""公共贡献回馈"", ""维护委托"", ""事后奖励""]",1,True,research/reviews/09-autoos-open-business.md,assisted_term_file_location_not_QA_accuracy
+B04,Bornstein、Gneezy、Nagel2002组间竞争论文的实际版本和读页是什么？,"[""L181"", ""2002"", ""read_scope""]",1,True,wiki/raw/round-33/L181-bornstein-gneezy-nagel-2002/metadata.json,assisted_term_file_location_not_QA_accuracy
+B05,截至本次快照，组织比较与价格、信用、收入需求研究完成到哪里？,"[""信用"", ""投资"", ""维护"", ""首轮""]",4,True,docs/research-dependencies.md,assisted_term_file_location_not_QA_accuracy
+G01,Nash1950原件是否已有可检索的OCR正文？,"[""L185"", ""text_status"", ""OCR""]",1,True,wiki/raw/round-35/L185-nash-1950/metadata.json,assisted_term_file_location_not_QA_accuracy
+G02,L94银行货币创造资料是否已取得本地原PDF？,"[""L94"", ""original_downloaded"", ""partial""]",1,True,wiki/raw/round-20/L94-boe-money-2014/metadata.json,assisted_term_file_location_not_QA_accuracy
+G03,本轮投资等待研究取得的是1982稿还是1986最终版？,"[""L191"", ""1982"", ""1986"", ""actual_version""]",1,True,wiki/raw/round-36/L191-mcdonald-siegel-1982/metadata.json,assisted_term_file_location_not_QA_accuracy

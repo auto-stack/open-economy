@@ -1,0 +1,59 @@
+{
+  "status": "pass",
+  "date": "2026-11-12",
+  "manifest_files_checked": 49,
+  "project_context_hashes_verified": 3,
+  "local_links_checked": 37,
+  "original_pdfs": [
+    {
+      "source": "L138-dahl-1957",
+      "pages": 15,
+      "text_chars": 59233
+    },
+    {
+      "source": "L140-bourdieu-1986",
+      "pages": 18,
+      "text_chars": 60960
+    },
+    {
+      "source": "L141-katz-1953",
+      "pages": 5,
+      "text_chars": 12046
+    },
+    {
+      "source": "L143-watts-dodds-2007",
+      "pages": 18,
+      "text_chars": 77451
+    },
+    {
+      "source": "L144-shalizi-thomas-2010",
+      "pages": 27,
+      "text_chars": 68332
+    },
+    {
+      "source": "L145-bond-et-al-2012",
+      "pages": 4,
+      "text_chars": 26843
+    },
+    {
+      "source": "L146-schreiber-2000",
+      "pages": 4,
+      "text_chars": 19323
+    },
+    {
+      "source": "L147-klyubin-polani-nehaniv-2005",
+      "pages": 8,
+      "text_chars": 38821
+    }
+  ],
+  "finite_results": {
+    "unconditioned_te_bits": 1.0,
+    "conditioned_te_bits": 0.0,
+    "goal_effects": [
+      1,
+      -1
+    ]
+  },
+  "errors": [],
+  "scope": "File integrity,links,acquisition scopes and finite math;doesnot validate empirical estimates,a universal influence index or policy superiority."
+}

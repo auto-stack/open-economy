@@ -1,0 +1,192 @@
+{
+  "date_local": "2026-11-12",
+  "artifacts": [
+    {
+      "path": "book/README.md",
+      "bytes": 17721,
+      "sha256": "c1cdc42fb74995ce22603f3995d84bd3465f0eac0a06dd5eab002275082fcd0e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9479,
+      "sha256": "b177c12498408891c7175c303873e20ae162f0d0ca9c1b169a4c05e656d7b289"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/answers-and-evidence.md",
+      "bytes": 5095,
+      "sha256": "c5a7b633669cbc4f2f1ac6885af85519cba6df13f9ab93d5edf8074b209231fa"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/archive-integrity.csv",
+      "bytes": 228664,
+      "sha256": "1453ac1f43995559f38f40963d605b92ea424d353905a22c5ae0bf53915cf8d8"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/corpus-snapshot.jsonl",
+      "bytes": 1398804,
+      "sha256": "dc647b8bfffd8bbfbdd40f8bae833cf246666e05d3f475a8d0800b2bfcf34057"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/file-location-results.csv",
+      "bytes": 1828,
+      "sha256": "15bf40c79a522f2ce1d4730a81ef1e57d77c0acd3dab00d7314de6b1c9d98240"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/first-run/file-location-results.csv",
+      "bytes": 1828,
+      "sha256": "15bf40c79a522f2ce1d4730a81ef1e57d77c0acd3dab00d7314de6b1c9d98240"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/first-run/metadata-quality-queue.csv",
+      "bytes": 4231,
+      "sha256": "6405fd82c351300555f93ed2d003870f556d23fb6904d8cdc5af99b402344ef0"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/first-run/pdf-processing-notices.json",
+      "bytes": 5844,
+      "sha256": "9909da986dc563f6cdff6b515f2bb98dec73e5c98331dde88b1c2a65b4ed91b5"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/first-run/rankings.json",
+      "bytes": 86017,
+      "sha256": "8883e508c6db56e3ea11d4e738fbce448ec1abf97edbc4d4b986a98551350a4e"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/first-run/summary.json",
+      "bytes": 1961,
+      "sha256": "0976c9327e6a933333a6e6527250959228934e7fd0ddf43c50a043eb0dc6d6d9"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/inspection/L144-page-01.png",
+      "bytes": 92993,
+      "sha256": "248730ed981564b229cdc23683f152d24f6d37796b74a589714d166d11355e83"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/inspection/L144-page-06.png",
+      "bytes": 113834,
+      "sha256": "12cb9788aa1a8a667f28afc105f21d18fc32622f032abbb12b867ed9ba3be860"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/inspection/L144-page-07.png",
+      "bytes": 101926,
+      "sha256": "17c3f43d9e22aa5e322a713d18249b650f43a3ae2ed25e5209e77c0bd2d14ef2"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/inspection/L24-page-01.png",
+      "bytes": 200948,
+      "sha256": "6052b00fc0c5df082c086eb7e2371b4a4f456c73036954142d6d375d2a2274f8"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/inspection/L58-page-01.png",
+      "bytes": 151884,
+      "sha256": "64d532c8e01dbb670abf43e1e3f473ed06a017f2ef5b5b49cbd9f66b5691827d"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/L144-targeted-diagnostics.json",
+      "bytes": 1030,
+      "sha256": "db330048687b206ab385048237422945fd7ae53786f1660e9f9164f7bda5407d"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/maintenance-and-observation.md",
+      "bytes": 4859,
+      "sha256": "57822719fb70bdc8e8723b8e1265cb5db46b76e90e38b2413b6c5b5844c2581a"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/manifest-coverage.json",
+      "bytes": 2825,
+      "sha256": "6362abb86ca0e3e14ff8c3d7566ab60d59bedb94b8200d1724894a9354d75ac5"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/metadata-quality-queue.csv",
+      "bytes": 8341,
+      "sha256": "c403d5ad3810568d252ca6094f2b5e7a094867ee9afb95443b96d82347f811a4"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/pdf-processing-notices.json",
+      "bytes": 6033,
+      "sha256": "b4f682b723d0589ef668ad49679b315445f1b07884cf9f346784f44362f5f775"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/protocol-v0.2.json",
+      "bytes": 4722,
+      "sha256": "c7396e1b7b1e53e884273f36b525c32ec470015bf5fdfd62a71d2b6a8433bd5a"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/rankings.json",
+      "bytes": 86017,
+      "sha256": "8883e508c6db56e3ea11d4e738fbce448ec1abf97edbc4d4b986a98551350a4e"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/README.md",
+      "bytes": 2370,
+      "sha256": "3af74703ae9ac50b2729c013a7d701926f261c381f56ff7b39ba41afda3f14e7"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/render-checks.json",
+      "bytes": 2783,
+      "sha256": "ffa01204c559cc9806ce9bd31832ce866fd3511896cf6afbbc885bae18d371d9"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/scope-review.csv",
+      "bytes": 1846,
+      "sha256": "fe81e9ab35312b846b9dd1febe4373babad3aec00395e86b8f147536511c2c81"
+    },
+    {
+      "path": "research/baselines/internal-knowledge-2026-11-12/summary.json",
+      "bytes": 2040,
+      "sha256": "0eb617d3e637ada88560f4259f07a6de2bd57f055c0b56166b2f4136f1815a10"
+    },
+    {
+      "path": "research/README.md",
+      "bytes": 23417,
+      "sha256": "0d7bfe0f38bc9b633c2757629b407fa978c7f33c738ef9834f1026667c0f21ef"
+    },
+    {
+      "path": "research/reviews/37-internal-knowledge-service-baseline.md",
+      "bytes": 4729,
+      "sha256": "076ea1a0558f4fe807d7662a6a47cded865fa783d68e8beffd671751678389e3"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/README.md",
+      "bytes": 6648,
+      "sha256": "591aae23159042ab406d2e3db5cfd94f4cc75893d4daf158937fede7261a7dcd"
+    },
+    {
+      "path": "research/tools/internal-knowledge-baseline.py",
+      "bytes": 16947,
+      "sha256": "74a0aea3fb46205c1d5a165d9fbc93ef7e124e20599900836bce5069518154eb"
+    },
+    {
+      "path": "wiki/index/README.md",
+      "bytes": 1940,
+      "sha256": "513a7c7597389c9e226d3a9eba8e49a49ea80e79e86fe30fa76a03ee8e36f436"
+    },
+    {
+      "path": "wiki/index/source-annotations.json",
+      "bytes": 2054,
+      "sha256": "b70617687e549f5782d7572f8ac1266bd0f8bebd8ea53d88840a792c82e31193"
+    },
+    {
+      "path": "wiki/index/source-catalog.csv",
+      "bytes": 130241,
+      "sha256": "922e7984d8a719b2e92e605868ad204812fadc6d3aef1389cef379f29a200adf"
+    },
+    {
+      "path": "wiki/index/source-catalog.jsonl",
+      "bytes": 285404,
+      "sha256": "8015176ac63420254bec7fae5662d9fe34cc608dbf23a86f47725ff357afdf14"
+    },
+    {
+      "path": "wiki/index/SOURCES.md",
+      "bytes": 81917,
+      "sha256": "c49c768a55590acf01f9bee6785ba11f1adcf0353f05399e1852850da6cf4aed"
+    },
+    {
+      "path": "wiki/index/work-groups.json",
+      "bytes": 72106,
+      "sha256": "a7500e2ea6cbface5394b230c67b831a1d99415b7a65c5fd8cb364ef18d9ec05"
+    }
+  ],
+  "no_new_raw_batch": true,
+  "original_source_records_not_overwritten": true
+}

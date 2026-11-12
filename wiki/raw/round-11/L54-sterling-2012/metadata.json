@@ -1,0 +1,32 @@
+{
+  "id": "L54-sterling-2012",
+  "title": "Allostasis: A Model of Predictive Regulation",
+  "authors": "Peter Sterling",
+  "doi": "10.1016/j.physbeh.2011.06.004",
+  "source_type": "theoretical review/essay",
+  "research_date_local": "2026-11-12",
+  "source_url": "https://www.lifeweavings.com/wp-content/uploads/2020/11/Allostasis-amodelofpredictiveregulation.12.pdf",
+  "final_url": "https://www.lifeweavings.com/wp-content/uploads/2020/11/Allostasis-amodelofpredictiveregulation.12.pdf",
+  "retrieved_at_utc": "2026-11-11T17:24:50.591575+00:00",
+  "format": "pdf",
+  "bytes": 1150021,
+  "pages": 12,
+  "sha256": "7cd06b8ee241a4c6f1b5101de7d79da4d623de064b9d4af6ac09adba8e28cc35",
+  "read_scope": "PDF pp.2-4 (journal pp.5-7): abstract, introduction, feedback critique and predictive regulation. Later clinical claims not adopted.",
+  "attempts": [
+    {
+      "url": "https://www.lifeweavings.com/wp-content/uploads/2020/11/Allostasis-amodelofpredictiveregulation.12.pdf",
+      "final_url": "https://www.lifeweavings.com/wp-content/uploads/2020/11/Allostasis-amodelofpredictiveregulation.12.pdf",
+      "status_code": 200,
+      "content_type": "application/pdf",
+      "bytes": 1150021,
+      "retrieved_at_utc": "2026-11-11T17:24:50.591575+00:00",
+      "validation": "pdf_header_and_parser_pass"
+    }
+  ],
+  "rights": "Original rights retained; research archive, not a redistribution licence.",
+  "version": "ResearchGate cover plus journal typeset article; Physiology & Behavior 106 (2012) 5-15; received/accepted 2011.",
+  "reading_method": "Targeted full-text passages; extraction alone does not count as reading.",
+  "reading_notes": "../../../../research/reviews/12-reading-notes.md",
+  "local_research_archive": true
+}

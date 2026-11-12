@@ -1,0 +1,23 @@
+{
+  "id": "L29-bialek-et-al-2001",
+  "requested_url": "https://www.its.caltech.edu/~theory/bialek_nemenman_tishby_01.pdf",
+  "retrieved_at_utc": "2026-11-11T12:52:48.533094+00:00",
+  "status_code": 200,
+  "final_url": "https://www.its.caltech.edu/~theory/bialek_nemenman_tishby_01.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 552841,
+  "sha256": "f196f718b940f880f2d0c7bc6a614003d5947bff1d301fdf695b09d19acc6bac",
+  "pdf_pages": 55,
+  "download_status": "downloaded",
+  "extracted_chars": 149167,
+  "source_id": "L29",
+  "directory": "L29-bialek-et-al-2001",
+  "author": "William Bialek; Ilya Nemenman; Naftali Tishby",
+  "title": "Predictability, Complexity, and Learning",
+  "publication_year": 2001,
+  "archived_version": "University-hosted journal PDF, Neural Computation 13(11),2409-2463",
+  "reading_scope": "Section 3 targeted passages: pp.2416-2417,2421 / PDF pp.8-9,13; not all learning asymptotics",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

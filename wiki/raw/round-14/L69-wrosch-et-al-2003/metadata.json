@@ -1,0 +1,23 @@
+{
+  "id": "L69-wrosch-et-al-2003",
+  "title": "Adaptive Self-Regulation of Unattainable Goals: Goal Disengagement, Goal Reengagement, and Subjective Well-Being",
+  "authors": "Carsten Wrosch; Michael F. Scheier; Gregory E. Miller; Richard Schulz; Charles S. Carver",
+  "doi": "10.1177/0146167203256921",
+  "publication": "Personality and Social Psychology Bulletin 29(12) (2003),1494-1508",
+  "research_date_local": "2026-11-12",
+  "format": "pdf",
+  "source_url": "https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf",
+  "pages": 15,
+  "sha256": "3882a6270d6602bf9229a59ecbd22057d0b351f07f3c9246f9e6f64df7c441c0",
+  "read_scope": "PDF pp.1-4,12-13: concepts, Study 1 questionnaire and scales, general discussion and explicit cross-sectional causal limitations; pp.5-11 results located, not fully reviewed.",
+  "rights": "Original rights retained; local research archive, not redistribution permission.",
+  "url": "https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf",
+  "final_url": "https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf",
+  "status_code": 200,
+  "bytes": 226558,
+  "retrieved_at_utc": "2026-11-11T21:06:17.905858+00:00",
+  "validation": "PDF header and parser passed",
+  "version": "15-page journal typeset PDF from Carnegie Mellon University website.",
+  "source_type": "three cross-sectional correlational studies with theoretical discussion",
+  "reading_notes": "../../../../research/reviews/15-reading-notes.md"
+}

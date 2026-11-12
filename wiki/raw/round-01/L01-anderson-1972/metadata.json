@@ -1,0 +1,20 @@
+{
+  "id": "L01-anderson-1972",
+  "requested_url": "https://www.rpgroup.caltech.edu/embl_pboc_2023/assets/pdfs/anderson1972.pdf",
+  "retrieved_at_utc": "2026-11-11T06:53:49.958588+00:00",
+  "status_code": 200,
+  "final_url": "https://www.rpgroup.caltech.edu/embl_pboc_2023/assets/pdfs/anderson1972.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 1022610,
+  "sha256": "39a61c405542ce4817e0e4c4f05eb4f9651f2e1f118c6c1d28d782db2af535b0",
+  "download_status": "downloaded",
+  "pdf_pages": 5,
+  "author": "P. W. Anderson",
+  "title": "More Is Different",
+  "publication_year": "1972",
+  "reading_status": "targeted_passages_read",
+  "reading_scope": "pp. 393-396; PDF pages 1-4, relevant passages",
+  "role": "core_targeted_reading",
+  "extracted_text_status": "search_aid_not_authoritative"
+}

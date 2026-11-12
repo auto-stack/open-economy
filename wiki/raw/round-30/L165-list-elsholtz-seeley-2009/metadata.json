@@ -1,0 +1,22 @@
+{
+  "id": "L165-list-elsholtz-seeley-2009",
+  "title": "Independence and interdependence in collective decision making",
+  "authors": "Christian List; Christian Elsholtz; Thomas D.Seeley",
+  "publication": "PubMed official record/abstract;not full paper",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19073474/",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Bibliography and abstract in web batch4;no full paper,figures,simulation or proof read",
+  "selection_status": "official_abstract_tool_text_only",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_requests_failed_official_abstract_tool_text_only",
+  "original_downloaded": false,
+  "actual_version": "PhilTransRSocB364,2009,755-762;2008online;PubMed official tool record only",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/leadership-reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "format": "partial_tool_return",
+  "source_file": {
+    "file": "tool-return-record.partial.txt",
+    "sha256": "5b6dddfabe35d6f5e8a2a30f5ed58730954245f8af443087d981881bc53ff04f",
+    "bytes": 15295
+  }
+}

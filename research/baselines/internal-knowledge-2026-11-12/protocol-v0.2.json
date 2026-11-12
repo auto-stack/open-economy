@@ -1,0 +1,41 @@
+{
+  "version": "0.2",
+  "date_local": "2026-11-12",
+  "purpose": "内部资料目录、定向词项检索及证据范围基线；不是AutoOS或AutoDown上线评测",
+  "user_scope": "暂时没有，先做内部资料与质量基线",
+  "original_protocol": "research/surveys/03-competition-cooperation-distribution/shared-service-baseline-questions.csv",
+  "changes_before_run": [
+    "原五题v0.1文件保留，不覆盖历史not_run状态",
+    "B04将相对时间表述新增论文改成明确的Bornstein等2002论文",
+    "B05当前进度采用研究36与组织形成专题，旧研究33保留为历史接口而非最新状态",
+    "加入扫描文字层、部分原文和工作稿版本三个范围核查题"
+  ],
+  "corpus": {
+    "project_documents": "book、docs、shared、research下当前Markdown；排除README、history、audits、baselines及目录以外文件",
+    "source_records": "wiki/raw/round-*/L*/metadata.json；原文PDF/HTML正文不进入词项检索",
+    "exclusions": "历史对话不作科学来源；评估题、答案、执行回执和生成目录不进入检索语料",
+    "snapshot": "完整保存本次索引所用项目文字与元数据快照及哈希"
+  },
+  "search_method": {
+    "type": "人工指定词项的确定性本地查找",
+    "score": "6×命中词项数＋2×标题命中词项数＋各词出现次数上限3的合计",
+    "tie_break": "文件路径字典序",
+    "top_k": 10,
+    "expected_paths_used_for_ranking": false,
+    "interpretation": "命中预定证据文件只衡量本次文件定位，人工证据回答另核查；不代表自然语言问答准确率"
+  },
+  "cases": [
+    {"id":"B01","question":"Ordo是否已有工作采用的通用标量定义？","terms":["Ordo","通用标量","HYP-01"],"expected_paths":["shared/theory-register.md"],"required_caveat":"工作研究概念，HYP-01未确立；不凭并列指标证明统一度量"},
+    {"id":"B02","question":"同一对人怎样在共同任务中既竞争又合作？","terms":["竞争","合作","共同能力","同一"],"expected_paths":["book/part-03/01-cooperation-and-common-capabilities.md"],"required_caveat":"说明任务、层级、规则与期间，不以人格永久二分"},
+    {"id":"B03","question":"奖励过去贡献为什么不自动形成未来维护责任？","terms":["公共贡献回馈","维护委托","事后奖励"],"expected_paths":["research/reviews/09-autoos-open-business.md"],"required_caveat":"已授予奖励、未来服务合同与实际费率分别判断"},
+    {"id":"B04","question":"Bornstein、Gneezy、Nagel2002组间竞争论文的实际版本和读页是什么？","terms":["L181","2002","read_scope"],"expected_paths":["wiki/raw/round-33/L181-bornstein-gneezy-nagel-2002/metadata.json"],"required_caveat":"2002排印25页，实际选读1–7页，非1999工作稿或通读"},
+    {"id":"B05","question":"截至本次快照，组织比较与价格、信用、收入需求研究完成到哪里？","terms":["信用","投资","维护","首轮"],"expected_paths":["research/reviews/36-credit-investment-feedback-and-maintenance.md","book/part-04/01-formation-and-continuity.md"],"required_caveat":"有定向材料与讨论稿，尚非跨组织实证、完整金融宏观survey或AutoOS运营验证"},
+    {"id":"G01","question":"Nash1950原件是否已有可检索的OCR正文？","terms":["L185","text_status","OCR"],"expected_paths":["wiki/raw/round-35/L185-nash-1950/metadata.json"],"required_caveat":"9页扫描，提取层无可用正文；目视155、157–159，不称OCR已完成"},
+    {"id":"G02","question":"L94银行货币创造资料是否已取得本地原PDF？","terms":["L94","original_downloaded","partial"],"expected_paths":["wiki/raw/round-20/L94-boe-money-2014/metadata.json"],"required_caveat":"旧部分工具文字及再次403，未取得原PDF，也不代表2026各国规则"},
+    {"id":"G03","question":"本轮投资等待研究取得的是1982稿还是1986最终版？","terms":["L191","1982","1986","actual_version"],"expected_paths":["wiki/raw/round-36/L191-mcdonald-siegel-1982/metadata.json"],"required_caveat":"38页1982NBER稿，1986PDF403；不把全部定理或数值阈值算作已核查"}
+  ],
+  "pdf_text_sampling": "每份候选PDF最多前6页，仅检查文字层，不新增语义阅读或宣称全文OCR核查",
+  "archive_integrity": "按36批既有manifest实际列明文件校验SHA-256，不扩大成原出版物真实性或科学正确性证明",
+  "review": "由当前执行者核查，无独立第二评审、盲测、真实用户试验或日常访问日志",
+  "commercial_fields": "真实使用频率、满意度、人工工时、费用、付款与未来维护承诺均不据本轮检索推定"
+}

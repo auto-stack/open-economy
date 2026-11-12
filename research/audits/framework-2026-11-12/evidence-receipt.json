@@ -1,0 +1,263 @@
+{
+  "date_local": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "method": "Internal structure and inference audit of scoped project documents;previous research context retained,not independent full-primary-source review",
+  "new_web_searches": 0,
+  "new_internet_sources_adopted": 0,
+  "new_raw_batch_created": false,
+  "primary_archive_policy": "Existing wiki/raw originals retain their prior versions and read scopes;not counted again",
+  "input_documents": [
+    {
+      "path": "book/README.md",
+      "scope": "Part structure,chapter inventory,links and research additions;current consolidated snapshot",
+      "bytes": 16014,
+      "sha256": "e4d7121bb978f85b94d1bdeb02c710f98949eef20a828703d386760c7fae6df0"
+    },
+    {
+      "path": "docs/charter.md",
+      "scope": "Version,positioning,foundational commitments,application and normative boundaries;selected passages",
+      "bytes": 16137,
+      "sha256": "347076ae48bca8e32e3355cbe63892b9685a421ec47434447e2b9fd51d63f0a5"
+    },
+    {
+      "path": "shared/theory-register.md",
+      "scope": "Definitions,AX01,physical BASE rows,hypothesis/normative status;ID and checksum check",
+      "bytes": 24896,
+      "sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5"
+    },
+    {
+      "path": "research/reviews/18-framework-audit-and-research-priorities.md",
+      "scope": "Prior audit structure,bridges,necessity levels and research priorities;selected passages",
+      "bytes": 11823,
+      "sha256": "413f68e3a0a50435a01b8b57a4f7fc502f520407643c9175af65862a3bc27f1b"
+    },
+    {
+      "path": "research/reviews/19-wealth-emergence-and-economic-foundations.md",
+      "scope": "Wealth formation,valuation,rights/distribution and feedback;selected passages",
+      "bytes": 10446,
+      "sha256": "4d7390a2d89225315152029f2e88538d100bc7fa2a3eaa77eafb5903d87e7936"
+    },
+    {
+      "path": "research/reviews/09-autoos-open-business.md",
+      "scope": "Opening definition,open dimensions,roles,fund uses,fee/reward and maintenance conditions;first100lines",
+      "bytes": 18420,
+      "sha256": "3d51b01000d48d2d7faf17bcc2df604be5203d0d138653eaa053ef5331c859e4"
+    },
+    {
+      "path": "research/surveys/02-wealth-money-history/narrative-options.md",
+      "scope": "Candidate economic ordering,seven units,historical/causal distinction and remaining gaps",
+      "bytes": 6631,
+      "sha256": "090bae1fed042a7df813d399b3eb7c1a8c079a2312832e9d44a3f34a63505e5b"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/README.md",
+      "scope": "Scope,claim-status map and relation to book;selected passages",
+      "bytes": 5656,
+      "sha256": "b27384099dd43670c29f7309cc705b64d114865516d008a7c766be00388696fb"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/open-cooperation-and-distribution.md",
+      "scope": "Cooperation/competition,open dimensions,limits;opening selections",
+      "bytes": 9574,
+      "sha256": "f7551009e8dad57f27c4a5c6f02c487d87f245424defa51915aaf539c09d4b1b"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/contribution-foundations.md",
+      "scope": "Record/causal/reward distinctions and status;opening/closing selections",
+      "bytes": 8747,
+      "sha256": "69fc4afc4acbb003c4e6ca5bf94253b9fd1fcafe63ec369f79e809e326c413d6"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/distribution-comparison.md",
+      "scope": "Production/control/entitlement/norms and finite remaining-budget comparisons",
+      "bytes": 6787,
+      "sha256": "d6fd11b5f4b0adba06083e76db9688f3ed49125b86a2f0b1cfb30d88a9c4f27d"
+    },
+    {
+      "path": "research/surveys/03-competition-cooperation-distribution/contribution-research-design.md",
+      "scope": "Existing task,roles,data columns,candidate rules,hypotheses and missing real data",
+      "bytes": 3503,
+      "sha256": "17da81aa8d2e5a9d707637c8a5a2586586a188e0841d4d7b5a82c807147e45cf"
+    },
+    {
+      "path": "research/surveys/04-influence-and-social-equivalence/mobilization-definition.md",
+      "scope": "Goal-directed action definition and cultural-extension note;opening selections",
+      "bytes": 7548,
+      "sha256": "bc00f9d7458bd2509ae238b92269544a64739590e32fa0b12360456904c815bb"
+    },
+    {
+      "path": "research/surveys/04-influence-and-social-equivalence/art-sport-and-cultural-influence.md",
+      "scope": "Latent/action influence,unintended effects and outcome chain;opening selections",
+      "bytes": 11410,
+      "sha256": "71c6f6416cba437dc67caf0cdafc45c9f3344ceb5d1496f888de7c251147c660"
+    },
+    {
+      "path": "research/surveys/05-firm-authority-and-democracy/reading-notes.md",
+      "scope": "Study/version/reading limits;targeted scope markers;no new original-paper rereading",
+      "bytes": 5847,
+      "sha256": "39f5f99742cce28ab6d9c5bd307b47ff802410e39ea77c9ed2833d42566964ab"
+    },
+    {
+      "path": "research/surveys/06-technological-levers-and-organizational-evolution/reading-notes.md",
+      "scope": "Study/version/reading limits;targeted scope markers;no new original-paper rereading",
+      "bytes": 5360,
+      "sha256": "2b86557f8c54045f3642cfa55655aafaaf8659a7d1821efe9d9f7f84c5c0b7d9"
+    },
+    {
+      "path": "research/surveys/06-technological-levers-and-organizational-evolution/README.md",
+      "scope": "Previous-turn thematic context reused;not a fresh full-text literature review",
+      "bytes": 11496,
+      "sha256": "84d0a6b838f274b8407c3282df4778dc244ede6ab4b91b1459b969618d1e21c6"
+    },
+    {
+      "path": "research/surveys/01-organization-maintenance/protocol.md",
+      "scope": "Protocol status,scope,planned searches;first44lines",
+      "bytes": 7718,
+      "sha256": "c230febaf3c0b9b3f452c55a9f74091e9f7a4956ce46b847716d414db0ca901c"
+    }
+  ],
+  "chapter_structure_review": [
+    {
+      "path": "book/part-02/01-human-as-organization.md",
+      "sha256": "962c90635ffaa73932cad2aefad1423366d8b7b1f33071f0f9847a68a1f6d371",
+      "characters": 4237,
+      "headings": [
+        "# 人作为组织",
+        "## 个体的持续与变化",
+        "## 维持条件与人的目标",
+        "## 学习怎样改变行动与目标",
+        "## 内部协调与冲突",
+        "## 关系中的个体",
+        "## 组织能力与熵秩解释",
+        "## 本章论证地位",
+        "## 注释与来源"
+      ],
+      "scope": "Headings,structure and closing/source fragments;not a line-by-line prose or primary-evidence audit"
+    },
+    {
+      "path": "book/part-02/02-maintenance-and-development.md",
+      "sha256": "945e17afd41ee52eebef736389c3051cac4dfdc078e5359cca85c1867fa1e480",
+      "characters": 2302,
+      "headings": [
+        "# 维持生命与发展机会",
+        "## 需要维持的对象",
+        "## 说一个人需要什么",
+        "## 资源与真实机会",
+        "## 保持支持与改变关系",
+        "## 本章论证地位",
+        "## 注释与来源"
+      ],
+      "scope": "Headings,structure and closing/source fragments;not a line-by-line prose or primary-evidence audit"
+    },
+    {
+      "path": "book/part-02/03-feelings-desires-and-goals.md",
+      "sha256": "cb4b7c99466396e7c97e8c57b39508ba01652b8c62ad4d0c46ee047baddbec67",
+      "characters": 2742,
+      "headings": [
+        "# 感受 欲望与目标",
+        "## 感受与对感受的解释",
+        "## 想要 愉快与认可",
+        "## 学习改变什么",
+        "## 评价指标与真实能力",
+        "## 目标进入自我理解",
+        "## 本章论证地位",
+        "## 注释与来源"
+      ],
+      "scope": "Headings,structure and closing/source fragments;not a line-by-line prose or primary-evidence audit"
+    },
+    {
+      "path": "book/part-02/04-goal-conflict-and-revision.md",
+      "sha256": "2db8bda0ddfc95ced98607ab74fbfe9a4ec4b6980730b497da2f4225ed4c8f8b",
+      "characters": 2515,
+      "headings": [
+        "# 目标冲突与修订",
+        "## 重要 紧急 显著与可行",
+        "## 选择行动与执行行动",
+        "## 改变有不同层次",
+        "## 个人修订进入共同责任",
+        "## 本章论证地位",
+        "## 注释与来源"
+      ],
+      "scope": "Headings,structure and closing/source fragments;not a line-by-line prose or primary-evidence audit"
+    },
+    {
+      "path": "book/part-03/01-cooperation-and-common-capabilities.md",
+      "sha256": "d457cb3f2dc606d5f140c108780076e9c302142f49281cf4373435f975d9e400",
+      "characters": 2805,
+      "headings": [
+        "# 合作 竞争与共同能力",
+        "## 合作作为需要解释的现象",
+        "## 共同收益怎样到达投入者",
+        "## 从合作群体到组织整合",
+        "## 共同活动怎样进入人的理解",
+        "## 本章论证地位",
+        "## 注释与来源"
+      ],
+      "scope": "Headings,structure and closing/source fragments;not a line-by-line prose or primary-evidence audit"
+    },
+    {
+      "path": "book/part-03/02-revisable-shared-commitments.md",
+      "sha256": "81c9c668ae4da14764356455d49364a8df3fb41f58ac8a36306864762c0691c1",
+      "characters": 2512,
+      "headings": [
+        "# 可依赖且可修订的共同承诺",
+        "## 共同目的与共同安排",
+        "## 承诺怎样改变依赖",
+        "## 当前任务与修改条件",
+        "## 修订的成本与收益",
+        "## 事后适应与事前投入",
+        "## 本章论证地位",
+        "## 注释与来源"
+      ],
+      "scope": "Headings,structure and closing/source fragments;not a line-by-line prose or primary-evidence audit"
+    },
+    {
+      "path": "book/part-03/03-rules-power-and-common-purposes.md",
+      "sha256": "514c8a314038b6afbc630598bd28b10713e9d376a0f9efd1bdff9d6caa4c2106",
+      "characters": 2937,
+      "headings": [
+        "# 规则 权力与共同目的",
+        "## 决定权从哪里来",
+        "## 规范怎样进入行动",
+        "## 权力怎样受到约束",
+        "## 持续与正当性为什么分开",
+        "## 从共同目的返回个人生活",
+        "## 本章论证地位",
+        "## 注释与来源"
+      ],
+      "scope": "Headings,structure and closing/source fragments;not a line-by-line prose or primary-evidence audit"
+    },
+    {
+      "path": "book/part-03/04-human-meaning-and-common-life.md",
+      "sha256": "d998f114c60bea4fc5748cb83056d478023986fc23b563f997534777f5f4913b",
+      "characters": 3470,
+      "headings": [
+        "# 人的意义与共同生活",
+        "## 起源 功能与意义",
+        "## 意义体验的三个问题",
+        "## 投入怎样值得",
+        "## 有限的生命与暂时的价值",
+        "## 一种关系性的理解",
+        "## 人的基本尊严与价值选择",
+        "## 返回组织与经济",
+        "## 本章论证地位",
+        "## 注释与来源"
+      ],
+      "scope": "Headings,structure and closing/source fragments;not a line-by-line prose or primary-evidence audit"
+    }
+  ],
+  "inventory": {
+    "part-02": 4,
+    "part-03": 4
+  },
+  "argument_cards": 8,
+  "formal_register": {
+    "unique_ids": 79,
+    "same_sha256_as_round32": true
+  },
+  "limitations": [
+    "No new empirical data or original-study replication",
+    "Critical bridges are open research tasks,not all actual errors asserted by existing prose",
+    "No new stable axioms,Ordo unit,governance design or book-body chapters adopted"
+  ]
+}

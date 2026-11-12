@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-12",
+  "scope": "All round31 files except manifest,checksums,verification",
+  "files": [
+    {
+      "path": "discovery/web-records.json",
+      "bytes": 175386,
+      "sha256": "aea2356613e0750df27c995f7671fb6616bdd57d57e90ace03f4c9b148e77bbc"
+    },
+    {
+      "path": "L166-hermalin-1998/acquisition-log.json",
+      "bytes": 356,
+      "sha256": "d2eec1ca8ae8deb88a182f4c0cd24555b36753249b8e67bfde3c90a8c14bf209"
+    },
+    {
+      "path": "L166-hermalin-1998/extracted.txt",
+      "bytes": 72235,
+      "sha256": "5c11b765624864013703162a43951f817898d5e781e365c0edcfb15d703f9bc3"
+    },
+    {
+      "path": "L166-hermalin-1998/metadata.json",
+      "bytes": 1429,
+      "sha256": "73a19cb0edc82e9725cdbdec5205194d0e4b351a77c2d3bb2eb095f6c8ec18c3"
+    },
+    {
+      "path": "L166-hermalin-1998/original.pdf",
+      "bytes": 721193,
+      "sha256": "58560dfca06c523d49a507559ed273a419459ed578b211dae953ce8cd555b252"
+    },
+    {
+      "path": "L167-aghion-tirole-1997/acquisition-log.json",
+      "bytes": 383,
+      "sha256": "c1e05bf1e4de77d2a11d6e9fb420baa1f644dbcec3387ce4fcf1d57b991a1f13"
+    },
+    {
+      "path": "L167-aghion-tirole-1997/extracted.txt",
+      "bytes": 79634,
+      "sha256": "05f74e613084a763bf3e38a00fb24c28dbd971654092f86d47ddf422c812e66c"
+    },
+    {
+      "path": "L167-aghion-tirole-1997/metadata.json",
+      "bytes": 1459,
+      "sha256": "b7511bb0c6a3138324a79b2eead0fdd3f9f7e7cafd3bcdfc332f291290474485"
+    },
+    {
+      "path": "L167-aghion-tirole-1997/original.pdf",
+      "bytes": 3084442,
+      "sha256": "fee6f7c66bb8a00aaf38f712f0d65aa156accc7e29c63314ef57c3c8f7aa6a68"
+    },
+    {
+      "path": "L168-bagwell-2007/acquisition-log.json",
+      "bytes": 438,
+      "sha256": "8749af4884d7f6d272c7616cd1862af8825549301d399e90a4835400925ac794"
+    },
+    {
+      "path": "L168-bagwell-2007/extracted.txt",
+      "bytes": 496075,
+      "sha256": "e3881aa6d2f4e57aade2ae673ee74eea780d91cf84b451efdfe6f0f622f9f1c7"
+    },
+    {
+      "path": "L168-bagwell-2007/metadata.json",
+      "bytes": 1655,
+      "sha256": "555f5ae97ca8b73b4f87057c91aa72c7783501bc4407462e7aecc8cf16f6db1c"
+    },
+    {
+      "path": "L168-bagwell-2007/original.pdf",
+      "bytes": 949726,
+      "sha256": "b63594baab0e48bce449617bdb5db76c45282b41da04f574d9fb0eb1564c10c8"
+    },
+    {
+      "path": "L169-march-1991/acquisition-log.json",
+      "bytes": 486,
+      "sha256": "06ae3030d1008ce563b5314fa2e568d4d855ad668f5aca71719c884e8c70e4b6"
+    },
+    {
+      "path": "L169-march-1991/extracted.txt",
+      "bytes": 55880,
+      "sha256": "1c0ba87782c6194467fd3ba50d199ee1a137bc46d059346a496c02fea3a86261"
+    },
+    {
+      "path": "L169-march-1991/metadata.json",
+      "bytes": 1585,
+      "sha256": "7f5d582d20d4656f8a24123cc235d4ed660e36d6d5d404bdc201a73e2e5ca407"
+    },
+    {
+      "path": "L169-march-1991/original.pdf",
+      "bytes": 410486,
+      "sha256": "a7d0efaf586aa4902606a645e684bd55b8c5dd07dc7beb0088d6962705fed2d8"
+    },
+    {
+      "path": "L170-hansmann-kraakman-squire-2006/acquisition-log.json",
+      "bytes": 445,
+      "sha256": "6b7d50f73f3d292ff67a73e0b5e5f2e55a6a7901e83db95250d8d6627073407b"
+    },
+    {
+      "path": "L170-hansmann-kraakman-squire-2006/extracted.txt",
+      "bytes": 224645,
+      "sha256": "a528b220bc8d2cbfa341f7e4d9cb012b3a924c388417b12d7651898ae17f8aca"
+    },
+    {
+      "path": "L170-hansmann-kraakman-squire-2006/metadata.json",
+      "bytes": 1649,
+      "sha256": "1270265ad11ba2dc5402d2eab7e6febd7f1cacf01ae25f4ec71e5703ad968929"
+    },
+    {
+      "path": "L170-hansmann-kraakman-squire-2006/original.pdf",
+      "bytes": 4735393,
+      "sha256": "99d42ac3fbba6355743bffd135e6c16dd4aaf452aa445efc8b1374771b5401bf"
+    },
+    {
+      "path": "L171-anderson-2017-record/acquisition-log.json",
+      "bytes": 402,
+      "sha256": "8cb8ce07a7c179ee2886131f639696b485c49dc9b798847c8bce8926bfa7e2ca"
+    },
+    {
+      "path": "L171-anderson-2017-record/failed-response-1.bin",
+      "bytes": 5671,
+      "sha256": "3abe466a9cdc46647e9476cf88c7a87c26aa9da3209f391fdf88757372a9d2e7"
+    },
+    {
+      "path": "L171-anderson-2017-record/metadata.json",
+      "bytes": 1285,
+      "sha256": "d6e58f1329cf125f93772c92e471fad07fa02b7531dab6c037781ec64504dd12"
+    },
+    {
+      "path": "L171-anderson-2017-record/tool-return-record.partial.txt",
+      "bytes": 11702,
+      "sha256": "e684a940674cd4a31a7a56b8c12d57d3ea3a89395cc64b3293ff22ad27e88f9d"
+    },
+    {
+      "path": "L172-ferreras-2017-record/acquisition-log.json",
+      "bytes": 362,
+      "sha256": "c688c074bad442d92ed743cd25fc5f45c0f79d7d1d7d5c3067fc0bd38212c167"
+    },
+    {
+      "path": "L172-ferreras-2017-record/extracted.txt",
+      "bytes": 7808,
+      "sha256": "f5a306ac67334606ecc63daabeeaec59997c58c373719c92235e618510fe8e61"
+    },
+    {
+      "path": "L172-ferreras-2017-record/metadata.json",
+      "bytes": 1486,
+      "sha256": "75cfbda2735674106bae1c2a470bebddd0f11c4455ed2535c805958dcd6288dd"
+    },
+    {
+      "path": "L172-ferreras-2017-record/original.html",
+      "bytes": 106037,
+      "sha256": "f2a7074c663c805e51276358682a5612731ee7289aaaf2b4bd6fad047e7779fe"
+    },
+    {
+      "path": "L173-jager-schoefer-heining-2020/acquisition-log.json",
+      "bytes": 369,
+      "sha256": "7071531985d65ee847199c54e09b984aac9332552eef89f65cd874e3ee2c87be"
+    },
+    {
+      "path": "L173-jager-schoefer-heining-2020/extracted.txt",
+      "bytes": 200459,
+      "sha256": "5fa460d02176be16f7c998a5c240e88e803f7ea6ed01b6f8740349447591ad73"
+    },
+    {
+      "path": "L173-jager-schoefer-heining-2020/metadata.json",
+      "bytes": 1529,
+      "sha256": "baba1c5b4896659c4a5e3dea9cabe02c8faf7ebd75f94ef61486b1fd224e63aa"
+    },
+    {
+      "path": "L173-jager-schoefer-heining-2020/original.pdf",
+      "bytes": 1254105,
+      "sha256": "86e685a3d3bc37ebd2a853ba4f67f1615843bb30bf02dff9473819c4a75b52f0"
+    },
+    {
+      "path": "L174-burdin-2013/acquisition-log.json",
+      "bytes": 789,
+      "sha256": "65ef9f5a2f82382aea98025f2b10a833e0b815f6b32987c47d4d2d06f23e1f05"
+    },
+    {
+      "path": "L174-burdin-2013/metadata.json",
+      "bytes": 1239,
+      "sha256": "91f209cd79aa92a0f12b892b7b8c5f8b035066104bd860305ee984df3c4e0020"
+    },
+    {
+      "path": "L174-burdin-2013/tool-return-record.partial.txt",
+      "bytes": 7508,
+      "sha256": "080c3ed8f9186e5392d5594905d42b33d9f8b76d06d1b755402ab4b6c5fc0138"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1865,
+      "sha256": "304d13ca81fefa019450b2fe746bf499333a5455b90cdf2155fb2ecebd4dd969"
+    },
+    {
+      "path": "reuse-context.json",
+      "bytes": 1498,
+      "sha256": "a46682fdfdef99043c4182e41acb2b132c37abb2320484b451166149b44d18c1"
+    }
+  ]
+}

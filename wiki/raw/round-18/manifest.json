@@ -1,0 +1,143 @@
+{
+  "research_date_local": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "generated_at_utc": "2026-11-12T01:43:34.903457+00:00",
+  "full_original_files": 3,
+  "full_pdf_originals": 1,
+  "full_html_originals": 2,
+  "partial_tool_text_sources": 1,
+  "originals": [
+    {
+      "path": "L79-acemoglu-restrepo-2019/original.pdf",
+      "bytes": 729473,
+      "sha256": "28c40ba9efe2178bb46253690ba6ed2698a5b36d7b71fb31f069ab463b95980b"
+    },
+    {
+      "path": "L81-brynjolfsson-li-raymond-2025/original.html",
+      "bytes": 462183,
+      "sha256": "445ade027b5d742c661364a295632d71d717d909f1392a79680d8f9f34f52681"
+    },
+    {
+      "path": "L82-ifr-2026/original.html",
+      "bytes": 36535,
+      "sha256": "ed9c32cf36376518e26ce7f0b0f08187890c27313ea717ecdaa564d798e885a9"
+    }
+  ],
+  "files": [
+    {
+      "path": "ilo-pdf-view.json",
+      "bytes": 14241,
+      "sha256": "a201e6a2a1207ddcc44a13fb7975b1a86c494daceed28fbae57ac6761dc2e64d"
+    },
+    {
+      "path": "L79-acemoglu-restrepo-2019/acquisition-log.json",
+      "bytes": 479,
+      "sha256": "13fe441ccadd4dcfea47ae36317e6ebcc64aceef1957a75e85e1c4dca219ac18"
+    },
+    {
+      "path": "L79-acemoglu-restrepo-2019/extracted.txt",
+      "bytes": 80393,
+      "sha256": "08be9fa109363197727f685ec1e1aaf33317d38b12312b319865559823b2b4e2"
+    },
+    {
+      "path": "L79-acemoglu-restrepo-2019/metadata.json",
+      "bytes": 1393,
+      "sha256": "43288c43c9fbd5f1854c8e1f3b1cae60bff2b7e65ba2534dddd9398f942fa547"
+    },
+    {
+      "path": "L79-acemoglu-restrepo-2019/original.pdf",
+      "bytes": 729473,
+      "sha256": "28c40ba9efe2178bb46253690ba6ed2698a5b36d7b71fb31f069ab463b95980b"
+    },
+    {
+      "path": "L79-acemoglu-restrepo-2019/reading-page-08.png",
+      "bytes": 178474,
+      "sha256": "b3f406921ba984861e8e55a5e61d004466b06df8480efa10a1927451da81a344"
+    },
+    {
+      "path": "L80-ilo-2025/acquisition-log.json",
+      "bytes": 685,
+      "sha256": "36312e03d97d4acc28d20798b134a84845dc5ed4c127eeb2825ac43bf991a601"
+    },
+    {
+      "path": "L80-ilo-2025/failed-response-1.bin",
+      "bytes": 5796,
+      "sha256": "03f5ab8892d7cada327909a43efbb8909d4f5560b74c6de38e066a7c6987d12a"
+    },
+    {
+      "path": "L80-ilo-2025/failed-response-2.bin",
+      "bytes": 5642,
+      "sha256": "a387e30d04d8c06311044b2b26a71930e3e2c311a247f12dd2d68cb6149a754c"
+    },
+    {
+      "path": "L80-ilo-2025/metadata.json",
+      "bytes": 1422,
+      "sha256": "b7e32d551c2225e9aa69afb916daccb5c67315fb48a71681479b362a89a89180"
+    },
+    {
+      "path": "L80-ilo-2025/web-tool-view.txt",
+      "bytes": 29859,
+      "sha256": "b9567b1228e9c4c50eafb669a607447b7b47881f3ad7d025bf6873f790914679"
+    },
+    {
+      "path": "L81-brynjolfsson-li-raymond-2025/acquisition-log.json",
+      "bytes": 657,
+      "sha256": "d11a68bf111b0171c06d5704695012aa53e56ef7b7db51acaa8196cf4c179664"
+    },
+    {
+      "path": "L81-brynjolfsson-li-raymond-2025/extracted.txt",
+      "bytes": 140547,
+      "sha256": "e61e89a78bb8d23e369cd1c80b10d584569a28f922b127791e67b73f7645896d"
+    },
+    {
+      "path": "L81-brynjolfsson-li-raymond-2025/failed-response-1.bin",
+      "bytes": 5526,
+      "sha256": "5695757910339d19d0c82a5e0b8b92464f3e649ae633c01eff09388a2e62b193"
+    },
+    {
+      "path": "L81-brynjolfsson-li-raymond-2025/metadata.json",
+      "bytes": 1334,
+      "sha256": "5243d5eee36100c92fb5585a5e790c25df2bf074cfa0766e51da10504b62d78b"
+    },
+    {
+      "path": "L81-brynjolfsson-li-raymond-2025/original.html",
+      "bytes": 462183,
+      "sha256": "445ade027b5d742c661364a295632d71d717d909f1392a79680d8f9f34f52681"
+    },
+    {
+      "path": "L82-ifr-2026/acquisition-log.json",
+      "bytes": 410,
+      "sha256": "e623f29c393e30c5a4dff05e8c7e9e988708b2bf862fde7ddc43b4b92a48b911"
+    },
+    {
+      "path": "L82-ifr-2026/extracted.txt",
+      "bytes": 7104,
+      "sha256": "de9cbc79ff3fe2877eb99ad1712cbfe47053abfe9db414045cf49ce3359e5dc2"
+    },
+    {
+      "path": "L82-ifr-2026/metadata.json",
+      "bytes": 1432,
+      "sha256": "ce5490331d63d4709b7f2ffa470b936fe2ef51678c9c87159de7e1e9a08225c3"
+    },
+    {
+      "path": "L82-ifr-2026/original.html",
+      "bytes": 36535,
+      "sha256": "ed9c32cf36376518e26ce7f0b0f08187890c27313ea717ecdaa564d798e885a9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2387,
+      "sha256": "d054f07f169edd22a36d7e5e4793f0d7be935d0c4b169f8871c30d60c507ac32"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 34891,
+      "sha256": "d4b42630426548fc4e4ef9e5831ba30e905f31cf7df39cffb2b35b2471739f69"
+    },
+    {
+      "path": "web-source-views.json",
+      "bytes": 16127,
+      "sha256": "c200f045ad045a30c49a4745845be5fce12421aad6bec2bbcbbdf137d6d14cd4"
+    }
+  ]
+}

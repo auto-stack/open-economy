@@ -1,0 +1,31 @@
+{
+  "id": "L120-fcic-conclusions-2011",
+  "title": "Financial Crisis Inquiry Report: Conclusions",
+  "authors": "Financial Crisis Inquiry Commission",
+  "publication": "2011 majority conclusions; not entire report or all dissenting statements",
+  "url": "https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_conclusions.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-4 (printed xv-xviii); no complete report, all underlying hearings or dissenting reports read.",
+  "selection_status": "adopted_targeted_pdf",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 14,
+  "sha256": "192ddd25976bd29d1f5f9a4589f17620cb381139cb661031e1a89a43ae0d9d34",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_conclusions.pdf",
+  "status_code": 200,
+  "bytes": 108963,
+  "retrieved_at_utc": "2026-11-12T03:32:46.615486+00:00",
+  "actual_version": "2011 FCIC majority conclusions only,14pages.",
+  "evidence_type": "theoretical, descriptive or official source; see research reading notes",
+  "knowledge_base_status": "provenance ready; not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 108963,
+      "sha256": "192ddd25976bd29d1f5f9a4589f17620cb381139cb661031e1a89a43ae0d9d34"
+    }
+  ]
+}

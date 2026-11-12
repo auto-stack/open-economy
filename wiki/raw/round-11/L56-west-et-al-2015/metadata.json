@@ -1,0 +1,32 @@
+{
+  "id": "L56-west-et-al-2015",
+  "title": "Major Evolutionary Transitions in Individuality",
+  "authors": "Stuart A. West; Roberta M. Fisher; Andy Gardner; E. Toby Kiers",
+  "doi": "10.1073/pnas.1421402112",
+  "source_type": "comparative theoretical review",
+  "research_date_local": "2026-11-12",
+  "source_url": "https://gardner.wp.st-andrews.ac.uk/files/2015/05/WestFisherGardnerKiers_2015.pdf",
+  "final_url": "https://gardner.wp.st-andrews.ac.uk/files/2015/05/WestFisherGardnerKiers_2015.pdf",
+  "retrieved_at_utc": "2026-11-11T17:24:49.989035+00:00",
+  "format": "pdf",
+  "bytes": 1018716,
+  "pages": 8,
+  "sha256": "381ab9b63c8cd12fffcdc1526c138386f418c8142ac5af8b64af87ca42fdd490",
+  "read_scope": "PDF pp.1-3,6-7: definitions, steps, Table 1, benefits/return paths, interdependence, maximizing-agent limits and future directions.",
+  "attempts": [
+    {
+      "url": "https://gardner.wp.st-andrews.ac.uk/files/2015/05/WestFisherGardnerKiers_2015.pdf",
+      "final_url": "https://gardner.wp.st-andrews.ac.uk/files/2015/05/WestFisherGardnerKiers_2015.pdf",
+      "status_code": 200,
+      "content_type": "application/pdf",
+      "bytes": 1018716,
+      "retrieved_at_utc": "2026-11-11T17:24:49.989035+00:00",
+      "validation": "pdf_header_and_parser_pass"
+    }
+  ],
+  "rights": "Original rights retained; research archive, not a redistribution licence.",
+  "version": "8-page PNAS Early Edition, university author copy; final citation 112(33),10112-10119.",
+  "reading_method": "Targeted full-text passages; extraction alone does not count as reading.",
+  "reading_notes": "../../../../research/reviews/12-reading-notes.md",
+  "local_research_archive": true
+}

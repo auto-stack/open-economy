@@ -1,0 +1,6 @@
+# Provenance receipts hash exact file bytes, including historical line endings.
+# Keep checkouts byte-identical across platforms; do not normalize on add/checkout.
+* -text whitespace=cr-at-eol
+# Markdown hard breaks and historical generated SVG formatting are intentional.
+*.md whitespace=-blank-at-eol,cr-at-eol
+*.svg whitespace=-blank-at-eol,cr-at-eol

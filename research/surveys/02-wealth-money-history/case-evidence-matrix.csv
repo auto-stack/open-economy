@@ -1,0 +1,11 @@
+﻿observation_id,case,period,source_ids,mechanism,observation,evidence_type,inference_limit
+A01,NearEast,ca3100-2900BCE,L101,Commodity administration,Barley account; probable temple distribution,Catalogue and curator interpretation,No general money or private sale established
+A02,NearEast,ca20th-19thcBCE,L100,Deferred silver obligation,"Amount,schedule,late interest and witnesses",Catalogue and curator interpretation,"No widespread transferability,production outcome or credit-first genesis established"
+B01,Precoinage and coinage,EarlyIronAge-ArchaicGreece,L104,Unit versus delivery,Value convention differs from actual delivered goods,Historical reconstruction,Ancient testimony partly indirect; original sources not all rechecked
+B02,Precoinage and coinage,7th-6thcBCE,L104,Certification,"Weight,alloy quality and issuer certification jointly matter",Historical mechanism interpretation,Not unique first-coin motivation or global sequence
+C01,SongChina,10th-11thc,L105;L106;L109,Commercial credit and public takeover,"Private issuance,default,public office or takeover",Retrospective history;museum explanation;author abstract,Chronology and original documents require further verification
+C02,SongChina,11thc,L106,Same-side coordination,Museum explanation describes joint merchant operation,Museum historical explanation,Not independent gain estimates or absence of competition
+C03,SongChina,Songperiod,L105;L107,Acceptance and maintenance,"Regional acceptance,backing,issuance and redemption differ",Partial history transcription and museum account,No complete price or issuance series
+D01,Amsterdam,1609onwards,L108,Account settlement,Transferable balances settle obligations; not circulating banknotes,Archival historical research,No formal multilateral netting assumed; notes qualify practice
+D02,Amsterdam,1683-1680s,L108,Payment versus redemption,Balance and negotiable coin-withdrawal receipt separated,Historical institutional reconstruction,Exact abolition date of old withdrawal right unknown
+D03,Amsterdam,1666-1702studywindow,L108,Credit and distribution,"Account lending,metal lending and city capital extraction differ",Partial archival accounting reconstruction,Missing periods and interpolated prices; not full social-welfare identification

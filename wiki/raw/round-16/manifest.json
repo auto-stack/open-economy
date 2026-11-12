@@ -1,0 +1,163 @@
+{
+  "research_date_local": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "generated_at_utc": "2026-11-11T21:36:43.216403+00:00",
+  "new_full_originals": 3,
+  "full_pdf_originals": 1,
+  "full_html_originals": 2,
+  "partial_tool_text_sources": 1,
+  "originals": [
+    {
+      "path": "L76-wolf-2007/original.html",
+      "bytes": 175585,
+      "sha256": "ceb53d0b5947526bc5c17f84393ba2999e3b9ed5241831bdbcb8a5c1c7a37bda"
+    },
+    {
+      "path": "L77-martela-steger-2016/original.pdf",
+      "bytes": 428368,
+      "sha256": "bc5cda5e1f7d7f990aaab061ac9237fcab351e07327ba7661b754780996d5180"
+    },
+    {
+      "path": "L78-martela-riekki-2018/original.html",
+      "bytes": 1141379,
+      "sha256": "73d0ad621a76f031c0d196bbda301900917fd04738e3e8c7192a78b2d514d0c6"
+    }
+  ],
+  "files": [
+    {
+      "path": "L75-tyler-2006/acquisition-log.json",
+      "bytes": 1294,
+      "sha256": "2612ceb0882a6318441ee2d73c8c1dac467e4dab6ab0fabb9c3bfdf00ea4f670"
+    },
+    {
+      "path": "L75-tyler-2006/failed-response-1.bin",
+      "bytes": 581,
+      "sha256": "e20d51abfef07809e5d52e4e6b77a89d20491bee3449e04fda7977837f186b13"
+    },
+    {
+      "path": "L75-tyler-2006/failed-response-2.bin",
+      "bytes": 581,
+      "sha256": "69700766cdaa91b35052fc9be722c4170a22d1412c86b02660f92fca72ab4f04"
+    },
+    {
+      "path": "L75-tyler-2006/failed-response-3.bin",
+      "bytes": 581,
+      "sha256": "09f0d1354cda1dc0650a5e4cf6c1198c8d426c8000b46b3e0bf36fe39e58de04"
+    },
+    {
+      "path": "L75-tyler-2006/metadata.json",
+      "bytes": 1089,
+      "sha256": "60d1bfc3f7f60ffbd2c1e34aa175587fbc29e30c3f4d8b94da2a25bad9f5554f"
+    },
+    {
+      "path": "L75-tyler-2006/web-tool-view.txt",
+      "bytes": 62450,
+      "sha256": "bac33f7094f56d637b2ff029b6bce9dbbdff5cf1d135dddc19ec40579105ef15"
+    },
+    {
+      "path": "L76-wolf-2007/acquisition-log.json",
+      "bytes": 395,
+      "sha256": "5bfd3b5028491d79e52c7b756b5ddfc68b4f2094fb87e6668e881064bd245781"
+    },
+    {
+      "path": "L76-wolf-2007/extracted.txt",
+      "bytes": 120999,
+      "sha256": "6dc2b8534f38070874afec7099d04a2f5943440db368aa4b6a9885c7bc94107c"
+    },
+    {
+      "path": "L76-wolf-2007/metadata.json",
+      "bytes": 1416,
+      "sha256": "8b46e7f80ac1f50060a68126ba0905e9e88128da7d4066e1a51bcc810fdaab91"
+    },
+    {
+      "path": "L76-wolf-2007/original.html",
+      "bytes": 175585,
+      "sha256": "ceb53d0b5947526bc5c17f84393ba2999e3b9ed5241831bdbcb8a5c1c7a37bda"
+    },
+    {
+      "path": "L77-martela-steger-2016/acquisition-log.json",
+      "bytes": 371,
+      "sha256": "1306d03c38071022a312c30da752a2da71312c04aa4a7d6ed454b497a0f2a7ee"
+    },
+    {
+      "path": "L77-martela-steger-2016/extracted.txt",
+      "bytes": 87552,
+      "sha256": "aaba5bfcf2775323e25e70bd2ef50d35a58d4c00fbd26632bc2bc1475f33b987"
+    },
+    {
+      "path": "L77-martela-steger-2016/metadata.json",
+      "bytes": 1292,
+      "sha256": "13b4ba8f7765376abebf8cecc9f12fd8ecee6a41db62daeb55e74a14516b27ea"
+    },
+    {
+      "path": "L77-martela-steger-2016/original.pdf",
+      "bytes": 428368,
+      "sha256": "bc5cda5e1f7d7f990aaab061ac9237fcab351e07327ba7661b754780996d5180"
+    },
+    {
+      "path": "L77-martela-steger-2016/reading-page-05.png",
+      "bytes": 326592,
+      "sha256": "af841029672ad729d84be1b84a5bf9023e6475c5491e47db4af204f1b5c5a1b0"
+    },
+    {
+      "path": "L78-martela-riekki-2018/acquisition-log.json",
+      "bytes": 424,
+      "sha256": "73dd3102d0c5b53a4850d0e5d1bb9c857e67d1840f737adec1bbe5e058194702"
+    },
+    {
+      "path": "L78-martela-riekki-2018/extracted.txt",
+      "bytes": 91258,
+      "sha256": "0f3250ef84ec2970590f8c0d170ffefb68202c3913ddab3474b544f40c7c58dd"
+    },
+    {
+      "path": "L78-martela-riekki-2018/metadata.json",
+      "bytes": 1558,
+      "sha256": "412d3232820dde399a91189dadf01613848bb1e14ffcc6ccea14f1adf3c8c535"
+    },
+    {
+      "path": "L78-martela-riekki-2018/original.html",
+      "bytes": 1141379,
+      "sha256": "73d0ad621a76f031c0d196bbda301900917fd04738e3e8c7192a78b2d514d0c6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2720,
+      "sha256": "daeda7ade148a5ab97a6774e246401808bf997f2fdc47e8d32698854deb5c4d6"
+    },
+    {
+      "path": "reused-sources.json",
+      "bytes": 653,
+      "sha256": "fc3b43e6f6bef29cf45668a67931928b50db2429918d5c8ac05939d4077ea742"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 34961,
+      "sha256": "ec9513144b47fe708f11ebf275305375b612edc2e9d20aac9a7d96312219237c"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 16503,
+      "sha256": "517a4b285ea7932962949491581d852efd7633af2e65965a6a2df45a624eaaa0"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 15919,
+      "sha256": "1b31492e918556eda76fec6652d738d3578b01971df5d85b33a696a65be8f190"
+    },
+    {
+      "path": "tyler-find.json",
+      "bytes": 15978,
+      "sha256": "56692703d8d2fd00a7669d84318b107afb7d64e02d3b3f3073207925fc9b473d"
+    },
+    {
+      "path": "tyler-normative-view.json",
+      "bytes": 31459,
+      "sha256": "e7040dd2b6e8f7ca95a7e6c61111aa3118834715c12e8431e4d50a2b94265f1b"
+    },
+    {
+      "path": "tyler-web-view.json",
+      "bytes": 16086,
+      "sha256": "8f170c793dbf772cc671a7c9b1989a1614aaddd4a64a9eb16ad7c7d85d479fa2"
+    }
+  ]
+}

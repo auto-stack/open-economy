@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "date": "2026-11-12",
+  "raw_files_checked": 14,
+  "links_checked": 18,
+  "original_pdfs": [
+    {
+      "id": "L150-merton-1968",
+      "pages": 8
+    },
+    {
+      "id": "L151-salganik-dodds-watts-2006",
+      "pages": 19
+    }
+  ],
+  "reused_items": 3,
+  "finite_models_checked": true,
+  "errors": [],
+  "scope": "Archive,links and assumed-model arithmetic;not real-world validation of growth law or influence units.",
+  "link_check_scope": "Markdown link targets outside inline code;equations in code are not interpreted as links"
+}

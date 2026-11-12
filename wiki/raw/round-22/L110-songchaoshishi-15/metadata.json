@@ -1,0 +1,37 @@
+{
+  "id": "L110-songchaoshishi-15",
+  "title": "宋朝事實 卷15 四库本电子转录",
+  "authors": "李攸；Wikisource transcription",
+  "publication": "Song-era compilation surviving in Qing Siku reconstructed WYG edition; Kanripo electronic text, not facsimile",
+  "url": "https://github.com/kanripo/KR2m0004/blob/master/KR2m0004_015.txt",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Volume15 pages015-5b through8b jiaozi passage; preface000-1a through4a on transmission; other volume contents not fully read",
+  "selection_status": "complete_connector_transcription_selected_parts",
+  "rights": "Source rights and licence notices retained; local research archive, not blanket redistribution permission.",
+  "download_status": "complete_connector_text_and_response",
+  "original_downloaded": false,
+  "evidence_type": "historical_compilation_electronic_transcription",
+  "archived_documents": [
+    {
+      "path": "connector-volume.txt",
+      "bytes": 16736,
+      "sha256": "3f55e33c8b06b3315b01a56ffd8c99998d76a6cd1198fabe0c4db94699d01b6d",
+      "source_url": "https://github.com/kanripo/KR2m0004/blob/master/KR2m0004_015.txt",
+      "transport": "full UTF-8 text returned by repository connector; not byte-identity verified against raw transport"
+    },
+    {
+      "path": "connector-preface.txt",
+      "bytes": 4979,
+      "sha256": "d1aef0a655c22cb31a08b4721e6e908df8ca54c41887c6e7b7e41a45219715ad",
+      "source_url": "https://github.com/kanripo/KR2m0004/blob/master/KR2m0004_000.txt",
+      "transport": "full UTF-8 text returned by repository connector; not byte-identity verified against raw transport"
+    }
+  ],
+  "facsimile_read": false,
+  "complete_connector_text_obtained": true,
+  "notes": "../../../../research/surveys/02-wealth-money-history/deepening-reading-notes.md",
+  "format": "connector_utf8_text",
+  "original_byte_identity_verified": false,
+  "complete_book_obtained": false,
+  "sha256": "3f55e33c8b06b3315b01a56ffd8c99998d76a6cd1198fabe0c4db94699d01b6d"
+}

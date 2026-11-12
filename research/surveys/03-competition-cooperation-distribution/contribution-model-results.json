@@ -1,0 +1,99 @@
+{
+  "status": "illustrations,not empirical estimates or a recommended allocation rule",
+  "complementarity": {
+    "full_value": 100,
+    "baseline": 0,
+    "leave_one_out": {
+      "A": 100,
+      "B": 100
+    },
+    "average_marginal": {
+      "A": "50",
+      "B": "50"
+    }
+  },
+  "substitutability": {
+    "full_value": 100,
+    "baseline": 0,
+    "leave_one_out": {
+      "A": 0,
+      "B": 0
+    },
+    "average_marginal": {
+      "A": "50",
+      "B": "50"
+    }
+  },
+  "unverified_identity_partition": {
+    "full_value": 100,
+    "baseline": 0,
+    "leave_one_out": {
+      "A1": 0,
+      "A2": 0,
+      "B": 0
+    },
+    "average_marginal": {
+      "A1": "100/3",
+      "A2": "100/3",
+      "B": "100/3"
+    },
+    "same_entity_total": "200/3"
+  },
+  "preventive_maintenance": {
+    "before_failure_probability": "3/10",
+    "after_failure_probability": "1/20",
+    "loss_if_failure": 200,
+    "expected_loss_reduction": "50",
+    "scope": "Assumed causal probabilities; expected avoided loss is not cash revenue and not automatically payable."
+  },
+  "service": {
+    "full_value": 30,
+    "baseline": 0,
+    "leave_one_out": {
+      "A": 20,
+      "B": 15,
+      "C": 5
+    },
+    "average_marginal": {
+      "A": "95/6",
+      "B": "65/6",
+      "C": "10/3"
+    },
+    "gross_receipts": 100,
+    "committed_service_costs": 40,
+    "maintenance_budget": 20,
+    "reserve": 10,
+    "residual": 30,
+    "capital_weights": {
+      "A": 0,
+      "B": 0,
+      "C": 1
+    },
+    "labour_hours": {
+      "A": 6,
+      "B": 3,
+      "C": 1
+    },
+    "capital_residual_allocation": {
+      "A": "0",
+      "B": "0",
+      "C": "30"
+    },
+    "labour_residual_allocation": {
+      "A": "18",
+      "B": "9",
+      "C": "3"
+    },
+    "coalition_values": {
+      "empty": 0,
+      "A": 10,
+      "B": 5,
+      "C": 0,
+      "AB": 25,
+      "AC": 15,
+      "BC": 10,
+      "ABC": 30
+    },
+    "scope": "Only allocation of residual30; not total compensation or predicted behavior. Coalition net values are assumed,not observed."
+  }
+}

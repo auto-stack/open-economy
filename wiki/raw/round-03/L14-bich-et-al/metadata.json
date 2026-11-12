@@ -1,0 +1,20 @@
+{
+  "id": "L14-bich-et-al",
+  "requested_url": "https://leonardobich.wordpress.com/wp-content/uploads/2015/08/bich-mossio-ruiz-mirazo-moreno-2015-biological_regulation-controlling-the-system-from-within-biology-philosophy.pdf",
+  "retrieved_at_utc": "2026-11-11T11:21:07.006203+00:00",
+  "status_code": 200,
+  "final_url": "https://leonardobich.wordpress.com/wp-content/uploads/2015/08/bich-mossio-ruiz-mirazo-moreno-2015-biological_regulation-controlling-the-system-from-within-biology-philosophy.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 1295718,
+  "sha256": "6a563bebd448f61dc8dea63ab3967c3dd04789c4caf75ce4b50e752ffb71e226",
+  "download_status": "downloaded",
+  "pdf_pages": 27,
+  "author": "Leonardo Bich; Matteo Mossio; Kepa Ruiz-Mirazo; Alvaro Moreno",
+  "title": "Biological regulation: controlling the system from within",
+  "publication_year": 2016,
+  "archived_version": "Author manuscript hosted under 2015 path; journal volume 31(2), 237-265 is 2016",
+  "reading_scope": "Sections 1-2, section 4 framing and section 5; manuscript pages 2-5,15-18",
+  "reading_status": "targeted_passages_read",
+  "text_extraction_status": "search_aid_not_authoritative"
+}

@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-12",
+  "scope": "All round32 files except manifest,checksums,verification",
+  "files": [
+    {
+      "path": "discovery/web-records.json",
+      "bytes": 158291,
+      "sha256": "469887a898c9188b69a5026e07f0891c26f4bd9b9491c5d8ed18e4a578703e20"
+    },
+    {
+      "path": "L175-lotka-1922/acquisition-log.json",
+      "bytes": 361,
+      "sha256": "81347e4aab51cba7cce18347583c28eceb216b5010cbf2251d816e1e6cc63beb"
+    },
+    {
+      "path": "L175-lotka-1922/failed-response-1.bin",
+      "bytes": 226,
+      "sha256": "80a265bed528211aa708dcd58f7a95db36eeb7f873c6fe4ddab0b3a1dc0973a4"
+    },
+    {
+      "path": "L175-lotka-1922/metadata.json",
+      "bytes": 1309,
+      "sha256": "b3a166b776410f93af77f5f8b3a7c650cad2f98c9583302d987d2155774d655e"
+    },
+    {
+      "path": "L175-lotka-1922/tool-return-selected.partial.txt",
+      "bytes": 17821,
+      "sha256": "aefb628b19bf1ec987b161e8351eadcca9a2f6f36385da51710d7a9f976dca70"
+    },
+    {
+      "path": "L176-arthur-2007/acquisition-log.json",
+      "bytes": 362,
+      "sha256": "a318b3019a49490b4c62447f32202517256d0bea635e9d42d3fe4cfecb151e43"
+    },
+    {
+      "path": "L176-arthur-2007/extracted.txt",
+      "bytes": 75144,
+      "sha256": "ece21eba76203e4b47b3769391bc62d0725a3e4fafb0c380b6b93e6adf3a6b0d"
+    },
+    {
+      "path": "L176-arthur-2007/metadata.json",
+      "bytes": 1471,
+      "sha256": "05ae93abfe82ef11a047ce5e8518807ee285fc179a8dedc38751dc0bba6c046f"
+    },
+    {
+      "path": "L176-arthur-2007/original.pdf",
+      "bytes": 213786,
+      "sha256": "6cbb8ce1bff83e1ae6c007878c4c4d1e7a20590b45ea95b5cb62c708fb5a753b"
+    },
+    {
+      "path": "L177-bresnahan-trajtenberg-1992/acquisition-log.json",
+      "bytes": 364,
+      "sha256": "cb9b1272a8d7de62af857c97d0b9796745f1de5d5090a201eaa5b0df74adefa5"
+    },
+    {
+      "path": "L177-bresnahan-trajtenberg-1992/extracted.txt",
+      "bytes": 76948,
+      "sha256": "4902f8d2277231f2596e6c1e70397b77cfb50fa5c3e506ab8eb61d070b7dbdcd"
+    },
+    {
+      "path": "L177-bresnahan-trajtenberg-1992/metadata.json",
+      "bytes": 1523,
+      "sha256": "536674c27e0eacbe35eae7aad7705cda05dfc141eee55cea04b9bbab4ef6ef5b"
+    },
+    {
+      "path": "L177-bresnahan-trajtenberg-1992/original.pdf",
+      "bytes": 331812,
+      "sha256": "25b0439e55d717d1472901785e621266864e89022480c34673a0140fb3e53292"
+    },
+    {
+      "path": "L178-david-1990/acquisition-log.json",
+      "bytes": 350,
+      "sha256": "5b6deec2b1d5cafa87a2099d8981e3136b82a15c2fd1614fbeaa9e18c8eb89f5"
+    },
+    {
+      "path": "L178-david-1990/extracted.txt",
+      "bytes": 30417,
+      "sha256": "19770fc8c27c8bf4cf0b5c7fb7b56a10bde83ebde92c675912223bb34ee95e62"
+    },
+    {
+      "path": "L178-david-1990/metadata.json",
+      "bytes": 1553,
+      "sha256": "917a16cd2cf3d42a94fa83b08d1c5ebad37cb43f299dad8f3b2adfa1686ecf5d"
+    },
+    {
+      "path": "L178-david-1990/original.pdf",
+      "bytes": 178607,
+      "sha256": "11291f658da048e3486e2474b31ee07cfc8fb0d1711222e90f90a1d9fe98494d"
+    },
+    {
+      "path": "L179-boyd-richerson-henrich-2011/acquisition-log.json",
+      "bytes": 875,
+      "sha256": "ec43a8e464cad92a532a64c24462271c70781e78521cd39a0052e6631440bb1a"
+    },
+    {
+      "path": "L179-boyd-richerson-henrich-2011/failed-response-1.bin",
+      "bytes": 458,
+      "sha256": "e5086a506b7d2667ba5685ce0b64fb7de115e52ad9fac4b4ca85ea1887790fa9"
+    },
+    {
+      "path": "L179-boyd-richerson-henrich-2011/failed-response-2.bin",
+      "bytes": 507,
+      "sha256": "c179e6dd33aecc309a5c44c14458835481d02f38ccff8bc8fd11bff414286af9"
+    },
+    {
+      "path": "L179-boyd-richerson-henrich-2011/metadata.json",
+      "bytes": 1420,
+      "sha256": "17fc8f6564cb81a22c032a7fde9d6a2c4dcb9dd31d41f014c23306ddd1a7b959"
+    },
+    {
+      "path": "L179-boyd-richerson-henrich-2011/tool-return-selected.partial.txt",
+      "bytes": 29850,
+      "sha256": "1cd0d2fa7b7558c50b29ffe97f968a43f243257f377e740f49dc0a2b20cb18ce"
+    },
+    {
+      "path": "L180-mokyr-lever-of-riches-preview/acquisition-log.json",
+      "bytes": 435,
+      "sha256": "1912429c6b2cd1e36da76153fc93b93190ff22360bd6c588de0d934d4790687d"
+    },
+    {
+      "path": "L180-mokyr-lever-of-riches-preview/extracted.txt",
+      "bytes": 67968,
+      "sha256": "53a9e439953d428d5dc619e44ffc5d949791d4a11fffd8a8006a95ac1c26b369"
+    },
+    {
+      "path": "L180-mokyr-lever-of-riches-preview/metadata.json",
+      "bytes": 1729,
+      "sha256": "fca11a23d7117a624be42793ed485b8cc95bdf1e684268ad4de8d0148e8720cb"
+    },
+    {
+      "path": "L180-mokyr-lever-of-riches-preview/original.pdf",
+      "bytes": 1437647,
+      "sha256": "90f7ba3a8c93013679955b169a6b1692a911f3db1a3679ff68cee6bd2e630b76"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1546,
+      "sha256": "09958c5ec8551b6f794ceaabefca42cabc0db8308327b0b34c3d206d34384f5d"
+    },
+    {
+      "path": "reuse-context.json",
+      "bytes": 2011,
+      "sha256": "ab65254ff5088cc371248b4688d78f666125362328b66b3be918f86d6cfe80b3"
+    }
+  ]
+}

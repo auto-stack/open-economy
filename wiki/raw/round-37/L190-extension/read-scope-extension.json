@@ -1,0 +1,91 @@
+{
+  "work_id": "L190",
+  "date": "2026-11-12",
+  "source": "wiki/raw/round-36/L190-holmstrom-tirole-1997/original.pdf",
+  "source_sha256": "6db56bda95911484f48e631a82bc1e4443c6e7c2ec144454d76755793570686b",
+  "copied_original": false,
+  "previous_read_scope": "PDF2–7,printed663–668",
+  "new_pages": [
+    {
+      "pdf_page": 8,
+      "printed_page": 669,
+      "printed_numeral_visually_checked": true,
+      "image": "wiki/derived/financing-followup-2026-11-12/L190/pdf-08-print-669.png",
+      "raw_ocr_json": "wiki/derived/financing-followup-2026-11-12/L190/pdf-08-print-669.ocr.json",
+      "raw_text": "wiki/derived/financing-followup-2026-11-12/L190/pdf-08-print-669.raw.txt",
+      "engine": "Windows.Media.Ocr",
+      "language": "en-US",
+      "body_ocr_word_for_word_checked": false,
+      "formula_and_key_passage_review": "single_assistant_visual",
+      "verified_notes": "wiki/derived/financing-followup-2026-11-12/verified-formulas.md"
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 670,
+      "printed_numeral_visually_checked": true,
+      "image": "wiki/derived/financing-followup-2026-11-12/L190/pdf-09-print-670.png",
+      "raw_ocr_json": "wiki/derived/financing-followup-2026-11-12/L190/pdf-09-print-670.ocr.json",
+      "raw_text": "wiki/derived/financing-followup-2026-11-12/L190/pdf-09-print-670.raw.txt",
+      "engine": "Windows.Media.Ocr",
+      "language": "en-US",
+      "body_ocr_word_for_word_checked": false,
+      "formula_and_key_passage_review": "single_assistant_visual",
+      "verified_notes": "wiki/derived/financing-followup-2026-11-12/verified-formulas.md"
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": 671,
+      "printed_numeral_visually_checked": true,
+      "image": "wiki/derived/financing-followup-2026-11-12/L190/pdf-10-print-671.png",
+      "raw_ocr_json": "wiki/derived/financing-followup-2026-11-12/L190/pdf-10-print-671.ocr.json",
+      "raw_text": "wiki/derived/financing-followup-2026-11-12/L190/pdf-10-print-671.raw.txt",
+      "engine": "Windows.Media.Ocr",
+      "language": "en-US",
+      "body_ocr_word_for_word_checked": false,
+      "formula_and_key_passage_review": "single_assistant_visual",
+      "verified_notes": "wiki/derived/financing-followup-2026-11-12/verified-formulas.md"
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 672,
+      "printed_numeral_visually_checked": true,
+      "image": "wiki/derived/financing-followup-2026-11-12/L190/pdf-11-print-672.png",
+      "raw_ocr_json": "wiki/derived/financing-followup-2026-11-12/L190/pdf-11-print-672.ocr.json",
+      "raw_text": "wiki/derived/financing-followup-2026-11-12/L190/pdf-11-print-672.raw.txt",
+      "engine": "Windows.Media.Ocr",
+      "language": "en-US",
+      "body_ocr_word_for_word_checked": false,
+      "formula_and_key_passage_review": "single_assistant_visual",
+      "verified_notes": "wiki/derived/financing-followup-2026-11-12/verified-formulas.md"
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 673,
+      "printed_numeral_visually_checked": true,
+      "image": "wiki/derived/financing-followup-2026-11-12/L190/pdf-12-print-673.png",
+      "raw_ocr_json": "wiki/derived/financing-followup-2026-11-12/L190/pdf-12-print-673.ocr.json",
+      "raw_text": "wiki/derived/financing-followup-2026-11-12/L190/pdf-12-print-673.raw.txt",
+      "engine": "Windows.Media.Ocr",
+      "language": "en-US",
+      "body_ocr_word_for_word_checked": false,
+      "formula_and_key_passage_review": "single_assistant_visual",
+      "verified_notes": "wiki/derived/financing-followup-2026-11-12/verified-formulas.md"
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 674,
+      "printed_numeral_visually_checked": true,
+      "image": "wiki/derived/financing-followup-2026-11-12/L190/pdf-13-print-674.png",
+      "raw_ocr_json": "wiki/derived/financing-followup-2026-11-12/L190/pdf-13-print-674.ocr.json",
+      "raw_text": "wiki/derived/financing-followup-2026-11-12/L190/pdf-13-print-674.raw.txt",
+      "engine": "Windows.Media.Ocr",
+      "language": "en-US",
+      "body_ocr_word_for_word_checked": false,
+      "formula_and_key_passage_review": "single_assistant_visual",
+      "verified_notes": "wiki/derived/financing-followup-2026-11-12/verified-formulas.md"
+    }
+  ],
+  "cumulative_read_scope": "PDF2–13,printed663–674",
+  "whole_work_read": false,
+  "source_issue": "Printed671 equation(3) negative RHS conflicts with printed668 positive good-project surplus; retained, not used as model premise."
+}

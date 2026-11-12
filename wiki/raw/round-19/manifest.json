@@ -1,0 +1,77 @@
+{
+  "date_local": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "generated_at_utc": "2026-11-12T01:53:10.793253+00:00",
+  "full_originals": 2,
+  "pdf_originals": 1,
+  "html_originals": 1,
+  "originals": [
+    {
+      "path": "L83-smith-1776/original.html",
+      "bytes": 2287518,
+      "sha256": "5f4ecf657221105e0eb1d6ab8977c9eda092df9bb88a29e0848ea252b1df2e52"
+    },
+    {
+      "path": "L84-romer-1990/original.pdf",
+      "bytes": 7432288,
+      "sha256": "97fedcd0fa544a664cd4604b05638dbe3010d1746eb346ee79f81201185c0379"
+    }
+  ],
+  "files": [
+    {
+      "path": "L83-smith-1776/acquisition-log.json",
+      "bytes": 326,
+      "sha256": "791e722d84aec43e500b43356b91c20f5b74790e695d2a84d2ff0b05ef2085b1"
+    },
+    {
+      "path": "L83-smith-1776/extracted.txt",
+      "bytes": 2281006,
+      "sha256": "5be6e671624efea62ae7129d0c4a5bd0c735992cc3a3be25a1b915a81fa09ebe"
+    },
+    {
+      "path": "L83-smith-1776/metadata.json",
+      "bytes": 1308,
+      "sha256": "6767551f7d40193013ccbfb883c9b7d25c05eb5871314fb32d8d28d389df1859"
+    },
+    {
+      "path": "L83-smith-1776/original.html",
+      "bytes": 2287518,
+      "sha256": "5f4ecf657221105e0eb1d6ab8977c9eda092df9bb88a29e0848ea252b1df2e52"
+    },
+    {
+      "path": "L84-romer-1990/acquisition-log.json",
+      "bytes": 320,
+      "sha256": "65ca8f283763c1384943d6973da85d7fac7eaeaae0041ea28edc759bb01cca44"
+    },
+    {
+      "path": "L84-romer-1990/extracted.txt",
+      "bytes": 85832,
+      "sha256": "f7f4ab5322cb2b86d7faa42a71be719b22b6656fe07df7974bb75a8fa9e95b56"
+    },
+    {
+      "path": "L84-romer-1990/metadata.json",
+      "bytes": 1247,
+      "sha256": "45d661551b6ae24642218e465da193173097c1cf02333fdafe94a261286fe8af"
+    },
+    {
+      "path": "L84-romer-1990/original.pdf",
+      "bytes": 7432288,
+      "sha256": "97fedcd0fa544a664cd4604b05638dbe3010d1746eb346ee79f81201185c0379"
+    },
+    {
+      "path": "L84-romer-1990/reading-page-04.png",
+      "bytes": 241494,
+      "sha256": "b40ff811314e4c8573fdbdbfdeffba6ba79b931c033fa89ceef3e26d2437fa4a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1780,
+      "sha256": "cec386dbd7f705f0e96c45dff1188c33ef0723cdedfe735375ced4ba5d734424"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 17807,
+      "sha256": "92e5432be6a93e59ff533c04bf6a9619b6cab23737bbcf3b2110f1d833db1abe"
+    }
+  ]
+}

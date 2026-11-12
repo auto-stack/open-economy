@@ -1,0 +1,32 @@
+{
+  "id": "L152-garicano-2000",
+  "title": "Hierarchies and the Organization of Knowledge in Production",
+  "authors": "Luis Garicano",
+  "publication": "JPE108(5),2000,874-904;university-hosted article",
+  "url": "https://pdodds.w3.uvm.edu/files/papers/others/2000/garicano2000a.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "PDF1-3,5;PDF4intro selections browsed;PDF2 visually checked;not all proofs or extensions",
+  "selection_status": "targeted_original_pdf_read",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "pdf",
+  "pages": 31,
+  "sha256": "43c74ec23ea2b65d9e88e9c007197c0f709cbf1cc35f5cd089bf10e0428b6d21",
+  "archived_file": "original.pdf",
+  "download_status": "original_archived_identity_and_internal_version_checked",
+  "original_downloaded": true,
+  "final_url": "https://pdodds.w3.uvm.edu/files/papers/others/2000/garicano2000a.pdf",
+  "status_code": 200,
+  "bytes": 245733,
+  "retrieved_at_utc": "2026-11-12T05:42:55.437733+00:00",
+  "actual_version": "JPE108(5),2000,874-904;31page university-hosted article",
+  "doi": "10.1086/317671",
+  "reading_notes": "../../../../research/surveys/04-influence-and-social-equivalence/communication-reading-notes.md",
+  "knowledge_base_status": "raw provenance archived;not converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.pdf",
+      "bytes": 245733,
+      "sha256": "43c74ec23ea2b65d9e88e9c007197c0f709cbf1cc35f5cd089bf10e0428b6d21"
+    }
+  ]
+}

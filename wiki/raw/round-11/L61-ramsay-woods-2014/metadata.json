@@ -1,0 +1,19 @@
+{
+  "id": "L61-ramsay-woods-2014",
+  "title": "Clarifying the Roles of Homeostasis and Allostasis in Physiological Regulation",
+  "authors": "Douglas S. Ramsay; Stephen C. Woods",
+  "doi": "10.1037/a0035942",
+  "source_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC4166604/unicode",
+  "retrieved_at_utc": "2026-11-11T17:28:21.322060+00:00",
+  "research_date_local": "2026-11-12",
+  "format": "xml",
+  "version": "PMC author manuscript via public NCBI BioC full-text XML; journal 2014, manuscript release 2015. No typeset PDF obtained; some cross-reference text simplified in BioC.",
+  "bytes": 233497,
+  "sha256": "f35d0ff30034e90cf17b83d653990ef70fb3d3319afbf9e33dc96b63647abb0d",
+  "read_scope": "Abstract/introduction; Anticipatory control and Scope of Homeostasis passages; first part of Physiological Regulation vs. Physiological Control; beginning of central-integrator section; Concluding Thoughts. Robustness section located, not fully assessed.",
+  "rights": "Original rights retained; local research archive.",
+  "source_type": "critical theoretical review",
+  "reading_method": "Targeted full-text passages; extraction alone does not count as reading.",
+  "reading_notes": "../../../../research/reviews/12-reading-notes.md",
+  "local_research_archive": true
+}

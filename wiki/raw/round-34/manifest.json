@@ -1,0 +1,112 @@
+[
+  {
+    "path": "discovery/maintenance-presearch/biological-response.json",
+    "bytes": 46024,
+    "sha256": "38a902fe9db28d3d1c272273a2194a4f2dc10d45d6aebbd169c5e2bed17361f2"
+  },
+  {
+    "path": "discovery/maintenance-presearch/control-refined-response.json",
+    "bytes": 12418,
+    "sha256": "96aad385d6e82bc3e74635cdf9615f8aa60426353505cd4035d769a8c4ad4290"
+  },
+  {
+    "path": "discovery/maintenance-presearch/control-response.json",
+    "bytes": 66727,
+    "sha256": "ca9cd8b09a32ca9d66b40ace88685275e9b6156451d7443de979064e3d34b360"
+  },
+  {
+    "path": "discovery/maintenance-presearch/physics-response.json",
+    "bytes": 21314,
+    "sha256": "c5579a9584aa6e887097a19ffe9cd977bcd792a8894366a89ccd95eb6a10dd10"
+  },
+  {
+    "path": "discovery/maintenance-presearch/query-log.json",
+    "bytes": 2881,
+    "sha256": "99a1341446d5a9e0d4a708e8a24ce407a81b777c61c485d21e0d286b29699e54"
+  },
+  {
+    "path": "discovery/web-records.json",
+    "bytes": 73200,
+    "sha256": "831c44ea5465ce6259a961ee7fc0840daa7562f11f4fbb36c03593ecbb17b861"
+  },
+  {
+    "path": "L182-kosfeld-okada-riedl-2009/download-log.json",
+    "bytes": 366,
+    "sha256": "f35016f4adb5d17cf35c20e776171781520541a5124531933738a67bdd005865"
+  },
+  {
+    "path": "L182-kosfeld-okada-riedl-2009/extracted.txt",
+    "bytes": 84796,
+    "sha256": "0524864d621e989a87c15d4a8769c81d730201cc33f2b3293ac871f971aec1ea"
+  },
+  {
+    "path": "L182-kosfeld-okada-riedl-2009/metadata.json",
+    "bytes": 1071,
+    "sha256": "0878e24a47af8868dddfac4df7b8994bf64b95a5bd473540c1cdca77c56c2196"
+  },
+  {
+    "path": "L182-kosfeld-okada-riedl-2009/original.pdf",
+    "bytes": 377216,
+    "sha256": "d0689bc799aaacb65496048fe2528621791f1d1066cbc2b83e61eb9bbe06e4b6"
+  },
+  {
+    "path": "L183-multilab-replication-2023/download-log.json",
+    "bytes": 261,
+    "sha256": "4322e0f0daced7cd0e18b307fe37dd07a4eccd8cc3c5c51423ded02d49dfdd3a"
+  },
+  {
+    "path": "L183-multilab-replication-2023/extracted.txt",
+    "bytes": 43369,
+    "sha256": "f2af91ce4fb4bb3afaab3b65f830a7100750dd49079e50d810aac1179aefcb95"
+  },
+  {
+    "path": "L183-multilab-replication-2023/metadata.json",
+    "bytes": 1196,
+    "sha256": "01bf0b5f91a6f3a2306e5b127b0a74b07097af420d17de07008dc32d9f46fe69"
+  },
+  {
+    "path": "L183-multilab-replication-2023/original.html",
+    "bytes": 183237,
+    "sha256": "bc044c758c49c9f86340f3ccd8304e41229b30dc87a3c4fb7cb1a0f8be8fd0bb"
+  },
+  {
+    "path": "L183-multilab-replication-2023/pdf-attempt-log.json",
+    "bytes": 291,
+    "sha256": "01abd9ae08fef7fe48ecd96664e322c0d34c21286e761f3fb8fc0d3619892da0"
+  },
+  {
+    "path": "L183-multilab-replication-2023/pdf-attempt-response.html",
+    "bytes": 1817,
+    "sha256": "2a879fe201e9f70d58769fa8d94baf15cf2889d92a447db550629e9688c06069"
+  },
+  {
+    "path": "L184-rustagi-engel-kosfeld-2010/download-log.json",
+    "bytes": 276,
+    "sha256": "307f3f8f6e267c8804852a4f41f8c66a139ce488c5b4731bfda3766b9ec89d84"
+  },
+  {
+    "path": "L184-rustagi-engel-kosfeld-2010/extracted.txt",
+    "bytes": 32975,
+    "sha256": "5a5e6fc6531032a3ac946051459a4aba30ed6372e464bac357056e26af2f7b4b"
+  },
+  {
+    "path": "L184-rustagi-engel-kosfeld-2010/metadata.json",
+    "bytes": 1164,
+    "sha256": "7226ec97374229340cc1727fb0fbb9ee67b54b54ebbcf7055747629d0ca74125"
+  },
+  {
+    "path": "L184-rustagi-engel-kosfeld-2010/original.pdf",
+    "bytes": 509876,
+    "sha256": "68444ae6f8e695aa082136e4f809a6a8b48cd7950a4c210ac4b9e427e6e5ca3d"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2249,
+    "sha256": "d6b2be50640b48bcc9f8e8fff9bdc0112c1ac83df16397aa7dfd86f358e410b3"
+  },
+  {
+    "path": "reuse-context.json",
+    "bytes": 3152,
+    "sha256": "05a46c8d22f039230eeaec0228ec69a7a77754d68d4cf429e754a811ba3fe291"
+  }
+]

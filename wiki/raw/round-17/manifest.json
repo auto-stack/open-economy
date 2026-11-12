@@ -1,0 +1,19 @@
+{
+  "date_local": "2026-11-12",
+  "generated_at_utc": "2026-11-12T00:58:38.374412+00:00",
+  "new_network_sources": 0,
+  "new_full_originals": 0,
+  "reused_sources": 22,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 8983,
+      "sha256": "0fb7c7c3726ff59815822acd479c1cf6e6d0cd739cf37992fb0151ce7f34316e"
+    },
+    {
+      "path": "source-reuse.json",
+      "bytes": 28912,
+      "sha256": "cac1feb5992229d58d5602d6902b42fb655fe1b4a05a7210edfe9fcddc5c9056"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "L12",
+  "requested_url": "https://snap.stanford.edu/class/cs224w-readings/fortunato06community.pdf",
+  "retrieved_at_utc": "2026-11-11T08:40:51.451651+00:00",
+  "status_code": 200,
+  "final_url": "https://snap.stanford.edu/class/cs224w-readings/fortunato06community.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 551364,
+  "sha256": "ae642cd3dadd484dd7d6ef259806de3d6a04d7b48f487e5a0a706fe23d1bc508",
+  "pdf_pages": 8,
+  "download_status": "downloaded",
+  "author": "Santo Fortunato; Marc Barthelemy",
+  "title": "Resolution limit in community detection",
+  "publication_year": 2007,
+  "archived_version": "Archive header arXiv:physics/0607100v2 2006-07-14; body typesetting date 2008-02-02; not final journal typesetting",
+  "reading_scope": "PDF pages 1-5; sections I-II,IV-V",
+  "reading_status": "targeted_passages_read",
+  "evidence_role": "source_material_not_project_conclusion"
+}

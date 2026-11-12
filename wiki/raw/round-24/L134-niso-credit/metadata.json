@@ -1,0 +1,30 @@
+{
+  "id": "L134-niso-credit",
+  "title": "Contributor Roles",
+  "authors": "NISO CRediT",
+  "publication": "Official role taxonomy and implementation explanation, retrieved2026-11-12",
+  "url": "https://credit.niso.org/contributor-roles/",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Definition,Extended Description andFAQ on Contributor Roles page; not full ANSI/NISO standard text.",
+  "selection_status": "adopted_targeted_html",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "format": "html",
+  "pages": null,
+  "sha256": "b6ef430bd854dbb094f2ef6dd38869e69f80e151041ff1ebd15430a5edd647eb",
+  "archived_file": "original.html",
+  "download_status": "original_archived_identity_checked",
+  "original_downloaded": true,
+  "final_url": "https://credit.niso.org/contributor-roles/",
+  "status_code": 200,
+  "bytes": 52716,
+  "retrieved_at_utc": "2026-11-12T04:20:18.814576+00:00",
+  "actual_version": "NISO CRediT official explanatory webpage,retrieved2026-11-12.",
+  "knowledge_base_status": "provenance and extraction stored;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "original.html",
+      "sha256": "b6ef430bd854dbb094f2ef6dd38869e69f80e151041ff1ebd15430a5edd647eb",
+      "bytes": 52716
+    }
+  ]
+}

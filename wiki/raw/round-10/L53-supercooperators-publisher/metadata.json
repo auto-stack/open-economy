@@ -1,0 +1,21 @@
+{
+  "id": "L53-supercooperators-publisher",
+  "requested_url": "https://www.simonandschuster.net/books/SuperCooperators/Martin-Nowak/9781451626636",
+  "retrieved_at_utc": "2026-11-11T16:52:40.455560+00:00",
+  "research_date": "2026-11-12",
+  "file": "original.html",
+  "status_code": 200,
+  "final_url": "https://www.simonandschuster.net/books/SuperCooperators/Martin-Nowak/9781451626636",
+  "bytes": 106917,
+  "sha256": "e164a4e19df78aa02c89b851ab88110dba87a33254e3369892181486c52ebb8f",
+  "download_status": "downloaded",
+  "extracted_chars": 5631,
+  "author": "Simon and Schuster",
+  "title": "SuperCooperators publisher catalogue",
+  "archived_version": "Publisher page for paperback ISBN9781451626636, March 27 2012",
+  "reading_scope": "Title, authors and edition metadata only; not full book or evidence for promotional claims",
+  "reading_status": "bibliographic_metadata_checked",
+  "source_id": "L53",
+  "directory": "L53-supercooperators-publisher",
+  "copyright_notice": "Original notices retained; no redistribution license inferred"
+}

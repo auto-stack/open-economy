@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "batch": "round-10",
+  "research_date": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "scope": "Initial route discussion: humans, human nature and cooperation evolution",
+  "sources": [
+    {
+      "id": "L51-nowak-2006",
+      "requested_url": "https://inters.org/files/five-rules-evolution-cooperation.pdf",
+      "retrieved_at_utc": "2026-11-11T16:53:55.967352+00:00",
+      "research_date": "2026-11-12",
+      "status_code": 200,
+      "final_url": "https://inters.org/files/five-rules-evolution-cooperation.pdf",
+      "file": "original.pdf",
+      "bytes": 727940,
+      "sha256": "782d39e667187c3880e30a6d82e20fc1faefecf6d0e38e11027af2257ee1d5b5",
+      "download_status": "downloaded",
+      "pdf_pages": 11,
+      "extracted_chars": 31134,
+      "author": "Martin A. Nowak",
+      "title": "Five Rules for the Evolution of Cooperation",
+      "publication_year": 2006,
+      "doi": "10.1126/science.1133755",
+      "archived_version": "11-page print of the Science article webpage; not four-page journal typesetting",
+      "reading_scope": "PDF pp.1-4: abstract, introduction and selected mechanism discussions; not all proofs",
+      "reading_status": "targeted_passages_read",
+      "source_id": "L51",
+      "directory": "L51-nowak-2006",
+      "copyright_notice": "Original notices retained; no redistribution license inferred"
+    },
+    {
+      "id": "L52-ohtsuki-et-al-2006",
+      "requested_url": "https://personal.math.ubc.ca/~hauert/publications/reprints/ohtsuki_nature06.pdf",
+      "retrieved_at_utc": "2026-11-11T16:53:55.967600+00:00",
+      "research_date": "2026-11-12",
+      "status_code": 200,
+      "final_url": "https://personal.math.ubc.ca/~hauert/publications/reprints/ohtsuki_nature06.pdf",
+      "file": "original.pdf",
+      "bytes": 280985,
+      "sha256": "6bc37f8ee60bea9d6acecd0db4362cdcdfd1cc8a6956c662c7f2b38c5b7e543a",
+      "download_status": "downloaded",
+      "pdf_pages": 4,
+      "extracted_chars": 20722,
+      "author": "Hisashi Ohtsuki; Christoph Hauert; Erez Lieberman; Martin A. Nowak",
+      "title": "A Simple Rule for the Evolution of Cooperation on Graphs and Social Networks",
+      "publication_year": 2006,
+      "doi": "10.1038/nature04605",
+      "archived_version": "Four-page author-hosted published Nature article",
+      "reading_scope": "PDF pp.1-3; first page visually checked; supplement not replicated",
+      "reading_status": "targeted_passages_read",
+      "source_id": "L52",
+      "directory": "L52-ohtsuki-et-al-2006",
+      "copyright_notice": "Original notices retained; no redistribution license inferred"
+    },
+    {
+      "id": "L53-supercooperators-publisher",
+      "requested_url": "https://www.simonandschuster.net/books/SuperCooperators/Martin-Nowak/9781451626636",
+      "retrieved_at_utc": "2026-11-11T16:52:40.455560+00:00",
+      "research_date": "2026-11-12",
+      "file": "original.html",
+      "status_code": 200,
+      "final_url": "https://www.simonandschuster.net/books/SuperCooperators/Martin-Nowak/9781451626636",
+      "bytes": 106917,
+      "sha256": "e164a4e19df78aa02c89b851ab88110dba87a33254e3369892181486c52ebb8f",
+      "download_status": "downloaded",
+      "extracted_chars": 5631,
+      "author": "Simon and Schuster",
+      "title": "SuperCooperators publisher catalogue",
+      "archived_version": "Publisher page for paperback ISBN9781451626636, March 27 2012",
+      "reading_scope": "Title, authors and edition metadata only; not full book or evidence for promotional claims",
+      "reading_status": "bibliographic_metadata_checked",
+      "source_id": "L53",
+      "directory": "L53-supercooperators-publisher",
+      "copyright_notice": "Original notices retained; no redistribution license inferred"
+    }
+  ],
+  "files": [
+    {
+      "path": "L51-nowak-2006/attempt-pmc.json",
+      "bytes": 579,
+      "sha256": "519006bf9c1086aad04cb62f6202e1e888f5d0a1984c0dfa3ab9384bc8ff8506"
+    },
+    {
+      "path": "L51-nowak-2006/extracted.txt",
+      "bytes": 32268,
+      "sha256": "04e12ab55802396cbdd9a1e92bd3b3529ff40b2cfdab78314dccb5486645eba3"
+    },
+    {
+      "path": "L51-nowak-2006/metadata.json",
+      "bytes": 1091,
+      "sha256": "fef139664b51892e7f0d2d888651a20f1a06ea733400426de0bd57ae96d17dda"
+    },
+    {
+      "path": "L51-nowak-2006/original.pdf",
+      "bytes": 727940,
+      "sha256": "782d39e667187c3880e30a6d82e20fc1faefecf6d0e38e11027af2257ee1d5b5"
+    },
+    {
+      "path": "L51-nowak-2006/read-p1.png",
+      "bytes": 128789,
+      "sha256": "71ae0fed83cbbe1433998fbca9fa653ec00618d6ffff92bd0075ee63b53d13f2"
+    },
+    {
+      "path": "L51-nowak-2006/response-pmc.html",
+      "bytes": 21305,
+      "sha256": "2a15f62003a10513571b3e70c7990a001b9c4a20f4e1cb95ed0760b784a3d100"
+    },
+    {
+      "path": "L52-ohtsuki-et-al-2006/attempt-pmc.json",
+      "bytes": 587,
+      "sha256": "d8627b6ca5ee7a04b37b72f0eabc080de63e9a0ad7fab61e2613396cff218caa"
+    },
+    {
+      "path": "L52-ohtsuki-et-al-2006/extracted.txt",
+      "bytes": 21352,
+      "sha256": "db6ee564c0587f13a8de6d724c5f7262971bfb13ac72919d52f3edcbd715710d"
+    },
+    {
+      "path": "L52-ohtsuki-et-al-2006/metadata.json",
+      "bytes": 1172,
+      "sha256": "13bfb911ef934d834380c7dc85aef2896daffe2aabb3e14ff91fc079a85587a8"
+    },
+    {
+      "path": "L52-ohtsuki-et-al-2006/original.pdf",
+      "bytes": 280985,
+      "sha256": "6bc37f8ee60bea9d6acecd0db4362cdcdfd1cc8a6956c662c7f2b38c5b7e543a"
+    },
+    {
+      "path": "L52-ohtsuki-et-al-2006/read-p1.png",
+      "bytes": 166310,
+      "sha256": "a0c5b45c378fe929f3fa7fd953e10b283c5ea3b6f14e1f18fefe9ced78ebd2e3"
+    },
+    {
+      "path": "L52-ohtsuki-et-al-2006/response-pmc.html",
+      "bytes": 21306,
+      "sha256": "7269949199b174c7d3b50ecff87305693a91031272c9cc958d2adbf6509acba7"
+    },
+    {
+      "path": "L53-supercooperators-publisher/extracted.txt",
+      "bytes": 5788,
+      "sha256": "4b45a52e27a728281cf070be58ff94d6744d9728decceac4e749134c31145f4e"
+    },
+    {
+      "path": "L53-supercooperators-publisher/metadata.json",
+      "bytes": 1070,
+      "sha256": "7991c9d43331a6e6ef58a708b1a7f26422c2a46512e50faac9af3b85c4af7730"
+    },
+    {
+      "path": "L53-supercooperators-publisher/original.html",
+      "bytes": 106917,
+      "sha256": "e164a4e19df78aa02c89b851ab88110dba87a33254e3369892181486c52ebb8f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1840,
+      "sha256": "5cf75c1505632d2781b559ddef4ee919b0e3c94797497e0c8cd0e9090d63a109"
+    },
+    {
+      "path": "search-01.json",
+      "bytes": 35568,
+      "sha256": "770098a5dc913aeab18f909339d56836eac9f2fb86740a2e16899409533e52f4"
+    },
+    {
+      "path": "search-02.json",
+      "bytes": 34104,
+      "sha256": "4bab9860dff0a0172eb7e015811695c9f014003411c3b9985fb3b44855480787"
+    },
+    {
+      "path": "search-03.json",
+      "bytes": 30152,
+      "sha256": "cf661aac41671413cb02ff9e873d322a0c60338a3fd12e416b7b641c99d38daf"
+    }
+  ],
+  "excludes": [
+    "manifest.json itself"
+  ]
+}

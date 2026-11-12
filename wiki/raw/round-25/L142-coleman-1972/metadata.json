@@ -1,0 +1,22 @@
+{
+  "id": "L142-coleman-1972",
+  "title": "Systems of Social Exchange",
+  "authors": "James S.Coleman",
+  "publication": "JournalMathematicalSociology2(2),1972,145-163;publisher abstract only unless full text obtained",
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/0022250X.1972.9989811",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Official publisher abstract and bibliography via search batch3;no full model or equilibrium proof.",
+  "selection_status": "abstract_only_context",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_failed_abstract_tool_text_only",
+  "original_downloaded": false,
+  "actual_version": "JournalMathematicalSociology2(2),1972,145-163;DOI10.1080/0022250X.1972.9989811;2010online date not original publication.",
+  "knowledge_base_status": "raw and provenance archived;not yet converted/imported into AutoDown",
+  "source_files": [
+    {
+      "file": "web-tool-text.partial.txt",
+      "bytes": 1606,
+      "sha256": "d24f8dcffd7caf64c187ce1ac1a44d73bcf134777010c92f66b0a99192e36e68"
+    }
+  ]
+}

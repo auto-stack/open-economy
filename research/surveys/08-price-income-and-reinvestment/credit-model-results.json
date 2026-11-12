@@ -1,0 +1,338 @@
+{
+  "date_local": "2026-11-12",
+  "status": "assumed_teaching_examples_not_empirical_results_or_operating_rules",
+  "incentive_finance": {
+    "investment": 100.0,
+    "own_cash": 20.0,
+    "expected_project_cash_less_cost": 20.0,
+    "minimum_success_residual": 60.0,
+    "maximum_expected_external_payment": 72.0,
+    "external_funding_needed": 80.0,
+    "external_funding_gap": 8.0,
+    "minimum_own_cash_in_this_model": 28.0
+  },
+  "waiting_option": {
+    "discount": 0.95,
+    "investment_cost": 100.0,
+    "state_values": [
+      200,
+      40
+    ],
+    "state_probabilities": [
+      0.5,
+      0.5
+    ],
+    "invest_now_present_net_cash": 14.0,
+    "wait_for_information_present_net_cash": 47.5,
+    "scope": "One-period information arrival, investment opportunity retained, no delay damage or setup lead time"
+  },
+  "public_budget_early_unawarded_recognition": {
+    "award_schedule": [
+      4,
+      0,
+      0,
+      0
+    ],
+    "fee_schedule": [
+      40,
+      20,
+      20,
+      40
+    ],
+    "initial_public_maintenance_cash": 4,
+    "initial_platform_cash": 12,
+    "required_extra_public_cash_for_schedule": 4.0,
+    "public_schedule_feasible": false,
+    "platform_schedule_feasible": true,
+    "rows": [
+      {
+        "period": 1,
+        "technical_fee": 40,
+        "public_inflow": 16.0,
+        "platform_inflow": 24.0,
+        "maintenance_due": 12.0,
+        "award_plan": 4,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 4.0,
+        "platform_signed_forecast_balance": 16.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 120.0
+      },
+      {
+        "period": 2,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 8.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 108.0
+      },
+      {
+        "period": 3,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": -4.0,
+        "platform_signed_forecast_balance": 0.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 96.0
+      },
+      {
+        "period": 4,
+        "technical_fee": 40,
+        "public_inflow": 16.0,
+        "platform_inflow": 24.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 4.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 104.0
+      }
+    ]
+  },
+  "public_budget_deferred_unawarded_recognition": {
+    "award_schedule": [
+      0,
+      0,
+      0,
+      4
+    ],
+    "fee_schedule": [
+      40,
+      20,
+      20,
+      40
+    ],
+    "initial_public_maintenance_cash": 4,
+    "initial_platform_cash": 12,
+    "required_extra_public_cash_for_schedule": 0.0,
+    "public_schedule_feasible": true,
+    "platform_schedule_feasible": true,
+    "rows": [
+      {
+        "period": 1,
+        "technical_fee": 40,
+        "public_inflow": 16.0,
+        "platform_inflow": 24.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 8.0,
+        "platform_signed_forecast_balance": 16.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 124.0
+      },
+      {
+        "period": 2,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 4.0,
+        "platform_signed_forecast_balance": 8.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 112.0
+      },
+      {
+        "period": 3,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 0.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 100.0
+      },
+      {
+        "period": 4,
+        "technical_fee": 40,
+        "public_inflow": 16.0,
+        "platform_inflow": 24.0,
+        "maintenance_due": 12.0,
+        "award_plan": 4,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 4.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 104.0
+      }
+    ]
+  },
+  "public_budget_zero_interest_bridge": {
+    "award_schedule": [
+      4,
+      0,
+      0,
+      0
+    ],
+    "fee_schedule": [
+      40,
+      20,
+      20,
+      40
+    ],
+    "initial_public_maintenance_cash": 4,
+    "initial_platform_cash": 12,
+    "required_extra_public_cash_for_schedule": 0.0,
+    "public_schedule_feasible": true,
+    "platform_schedule_feasible": true,
+    "rows": [
+      {
+        "period": 1,
+        "technical_fee": 40,
+        "public_inflow": 16.0,
+        "platform_inflow": 24.0,
+        "maintenance_due": 12.0,
+        "award_plan": 4,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 4.0,
+        "platform_signed_forecast_balance": 16.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 120.0
+      },
+      {
+        "period": 2,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 8.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 108.0
+      },
+      {
+        "period": 3,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 4.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 0.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 100.0
+      },
+      {
+        "period": 4,
+        "technical_fee": 40,
+        "public_inflow": 16.0,
+        "platform_inflow": 24.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 4.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 4.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 104.0
+      }
+    ]
+  },
+  "public_budget_bridge_with_weaker_recovery": {
+    "award_schedule": [
+      4,
+      0,
+      0,
+      0
+    ],
+    "fee_schedule": [
+      40,
+      20,
+      20,
+      20
+    ],
+    "initial_public_maintenance_cash": 4,
+    "initial_platform_cash": 12,
+    "required_extra_public_cash_for_schedule": 8.0,
+    "public_schedule_feasible": false,
+    "platform_schedule_feasible": false,
+    "rows": [
+      {
+        "period": 1,
+        "technical_fee": 40,
+        "public_inflow": 16.0,
+        "platform_inflow": 24.0,
+        "maintenance_due": 12.0,
+        "award_plan": 4,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 4.0,
+        "platform_signed_forecast_balance": 16.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 120.0
+      },
+      {
+        "period": 2,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 8.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 108.0
+      },
+      {
+        "period": 3,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 4.0,
+        "scheduled_principal_repayment": 0.0,
+        "public_signed_forecast_balance": 0.0,
+        "platform_signed_forecast_balance": 0.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 100.0
+      },
+      {
+        "period": 4,
+        "technical_fee": 20,
+        "public_inflow": 8.0,
+        "platform_inflow": 12.0,
+        "maintenance_due": 12.0,
+        "award_plan": 0,
+        "bridge_receipt": 0.0,
+        "scheduled_principal_repayment": 4.0,
+        "public_signed_forecast_balance": -8.0,
+        "platform_signed_forecast_balance": -8.0,
+        "customer_principal_payable_and_unavailable": 100.0,
+        "gross_cash_signed_forecast": 84.0
+      }
+    ]
+  },
+  "limits": "All parameters assumed. Award schedules apply only before grants become binding. Zero-interest bridge is arithmetic only. Customer principal stays unavailable. No terminal reserve floor or proof of long-run sustainability."
+}

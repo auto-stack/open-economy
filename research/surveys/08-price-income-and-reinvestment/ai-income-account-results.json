@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-12",
+  "status": "exact_rational_accounting_checks_pass",
+  "empirical_parameters": false,
+  "policy_recommendation": false,
+  "periods": 1,
+  "cases_restart_from_same_initial_state": true,
+  "initial_cash": {
+    "A": 40,
+    "B": 40,
+    "firm": 100,
+    "public": 20
+  },
+  "total_initial_cash": 200,
+  "purchase_rules": {
+    "A_fraction_of_available_cash": 0.8,
+    "B_fraction_of_available_cash": 0.2
+  },
+  "assumptions": [
+    "fixed_cash_input80",
+    "maintenance8_already_inside_wages_not_added_again",
+    "unit_service_price1",
+    "no_extra_marginal_cash_cost_below_capacity",
+    "B_has_no_further_supplier_cost_in_this_aggregation",
+    "existing_assets_and_resource_capacity_are_given",
+    "no_bank_money_creation_or_debt",
+    "no_next_period_behavior_equation"
+  ],
+  "scientific_limit": "Cash closure and one counterexample to capacity implying sales; not proof of resource feasibility, endogenous income equilibrium, or actual AI distribution.",
+  "cases": [
+    {
+      "scenario": "reference",
+      "wage_payment": 60,
+      "asset_service_payment": 20,
+      "maintenance_inside_wages": 8,
+      "service_capacity": 100,
+      "available_before_purchases": {
+        "A": 100.0,
+        "B": 60.0
+      },
+      "group_A_purchase": 80.0,
+      "group_B_purchase": 12.0,
+      "public_purchase": 0,
+      "redistribution": 0,
+      "actual_sales": 92.0,
+      "unused_capacity": 8.0,
+      "firm_cash_change": 12.0,
+      "final_cash": {
+        "A": 20.0,
+        "B": 48.0,
+        "firm": 112.0,
+        "public": 20.0
+      },
+      "cash_total": 200.0
+    },
+    {
+      "scenario": "higher_capacity_changed_payments",
+      "wage_payment": 20,
+      "asset_service_payment": 60,
+      "maintenance_inside_wages": 8,
+      "service_capacity": 140,
+      "available_before_purchases": {
+        "A": 60.0,
+        "B": 100.0
+      },
+      "group_A_purchase": 48.0,
+      "group_B_purchase": 20.0,
+      "public_purchase": 0,
+      "redistribution": 0,
+      "actual_sales": 68.0,
+      "unused_capacity": 72.0,
+      "firm_cash_change": -12.0,
+      "final_cash": {
+        "A": 12.0,
+        "B": 80.0,
+        "firm": 88.0,
+        "public": 20.0
+      },
+      "cash_total": 200.0
+    },
+    {
+      "scenario": "higher_capacity_with_transfer",
+      "wage_payment": 20,
+      "asset_service_payment": 60,
+      "maintenance_inside_wages": 8,
+      "service_capacity": 140,
+      "available_before_purchases": {
+        "A": 80.0,
+        "B": 80.0
+      },
+      "group_A_purchase": 64.0,
+      "group_B_purchase": 16.0,
+      "public_purchase": 0,
+      "redistribution": 20,
+      "actual_sales": 80.0,
+      "unused_capacity": 60.0,
+      "firm_cash_change": 0.0,
+      "final_cash": {
+        "A": 16.0,
+        "B": 64.0,
+        "firm": 100.0,
+        "public": 20.0
+      },
+      "cash_total": 200.0
+    },
+    {
+      "scenario": "higher_capacity_with_public_purchase",
+      "wage_payment": 20,
+      "asset_service_payment": 60,
+      "maintenance_inside_wages": 8,
+      "service_capacity": 140,
+      "available_before_purchases": {
+        "A": 60.0,
+        "B": 100.0
+      },
+      "group_A_purchase": 48.0,
+      "group_B_purchase": 20.0,
+      "public_purchase": 10,
+      "redistribution": 0,
+      "actual_sales": 78.0,
+      "unused_capacity": 62.0,
+      "firm_cash_change": -2.0,
+      "final_cash": {
+        "A": 12.0,
+        "B": 80.0,
+        "firm": 98.0,
+        "public": 10.0
+      },
+      "cash_total": 200.0
+    }
+  ],
+  "ledger_rows": 19
+}

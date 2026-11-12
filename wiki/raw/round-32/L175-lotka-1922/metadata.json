@@ -1,0 +1,22 @@
+{
+  "id": "L175-lotka-1922",
+  "title": "Contribution to the Energetics of Evolution",
+  "authors": "Alfred J.Lotka",
+  "publication": "PNAS8,1922,147-151;actual file extent to inspect;historic hypothesis not physical axiom",
+  "url": "https://www.sustainable.soltechdesigns.com/lotka1922.pdf",
+  "research_date_local": "2026-11-12",
+  "read_scope": "Tool return printed147-150body;no original PDF download or visual inspection;old population/food estimates not independently adopted",
+  "selection_status": "primary_paper_tool_selections_only",
+  "rights": "Original rights retained; local research archive, not blanket redistribution permission.",
+  "download_status": "original_requests_failed_primary_tool_passages_only",
+  "original_downloaded": false,
+  "actual_version": "PNAS8(6),1922,147-151;original request406;tool shows5page copy with next article starting on151",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/reading-notes.md",
+  "knowledge_base_status": "raw archived;not converted/imported into AutoDown",
+  "format": "partial_tool_return",
+  "source_file": {
+    "file": "tool-return-selected.partial.txt",
+    "bytes": 17821,
+    "sha256": "aefb628b19bf1ec987b161e8351eadcca9a2f6f36385da51710d7a9f976dca70"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "date": "2026-11-12",
+  "raw_files_checked": 19,
+  "links_checked": 269,
+  "original_pdfs": [
+    {
+      "id": "L152-garicano-2000",
+      "pages": 31
+    },
+    {
+      "id": "L153-bloom-et-al-2010",
+      "pages": 58
+    }
+  ],
+  "partial_official_tool_sources": 1,
+  "reused_original_sources": 5,
+  "finite_examples_checked": 3,
+  "errors": [],
+  "scope": "Archive integrity,internal versions,local links and assumed examples;not empirical validation of Ordo,influence or productivity law"
+}
