@@ -1,0 +1,88 @@
+{
+  "date_local": "2026-11-13",
+  "checks": {
+    "L289": {
+      "identity": "同一场抵制运动中的交通服务",
+      "sequence": [
+        "1955-12-05 一日号召、下午成立协会",
+        "1956-03-01 会议材料编者说明记载运力不足",
+        "1956年夏 组织者回顾出租车及拼车替代",
+        "1956-10-26 运输负责人致辞职信，最迟10月31日生效",
+        "1956-11-13 临时禁令；随后讲话明确停止正式派车"
+      ],
+      "unobserved": "未确认翌日派车人、乘客替代出行及实际到岗。"
+    },
+    "L290": {
+      "same_program_as": [
+        "L291",
+        "L292"
+      ],
+      "unit": "会议、组卡与轮领安排",
+      "max_group_size": 6,
+      "cards_held_by": [
+        "group",
+        "clinic"
+      ],
+      "nonindependence": "不将三份研究当作同组从建组至2017年逐次服务的连续面板。"
+    },
+    "L291": {
+      "locator": "Table 3 and Methods",
+      "eligible_people": 2406,
+      "joined_later": 901,
+      "returned_to_individual_care_still_analyzed_as_ever_joined": 11,
+      "retention_at_24_months_pct": {
+        "in_CAG": 97.5,
+        "not_in_CAG": 82.3
+      },
+      "eligibility": "满六个月治疗后进入分析，入组前时段归未入组。",
+      "outcome": "包括由组员代领记录的照护联系；转至其他机构时删失。"
+    },
+    "L292": {
+      "year_of_interviews": 2017,
+      "group_members": 61,
+      "providers": 18,
+      "individual_interviews": 27,
+      "focus_groups": 8,
+      "case_roles": {
+        "IDI 13": "原联络人不再参加，小组继续（成员叙述）。",
+        "FGD 2": "夫妻离异后药未递交，护士转述；另一渠道未知。",
+        "FGD 4": "有联络人逐户走访。"
+      },
+      "selection": "普通成员选有病毒学失败经历者；接受访谈的联络人组内至少有一位这样的成员。"
+    },
+    "L293": {
+      "offered_free_service_pumps": 200,
+      "repaired_pumps": 169,
+      "completed_repairs": 599,
+      "within_three_days_pct": 90,
+      "survey_match_pct": {
+        "same_household_same_respondent": 59,
+        "same_household_other_respondent": 30,
+        "same_dwelling_other_household": 11
+      },
+      "handover": "2015年底，从研究项目转为本地机构 FundiFix。"
+    },
+    "L294": {
+      "locator": "PDF pp. 3–6, Figure 3",
+      "waterpoints_compared": 300,
+      "signed_first_twelve_months_pct": 22,
+      "unit": "水点真实签约；非L293逐台试点续签或全部家庭获水率。"
+    },
+    "L295": {
+      "locator": "authors’ PDF, pp. 4–5, 9–11; Table 2",
+      "handed_over_practices_identified": 652,
+      "patients": 241429,
+      "patients_exposed_to_handover": 43767,
+      "comparison_patients": 197662,
+      "periods_years": [
+        1,
+        5
+      ],
+      "year_five_relative_effect_percent": {
+        "gp_visits": -3.7,
+        "specialist_visits": 3.7
+      },
+      "boundary": "就诊各自分母不同；保险账单不能观测所有需要和是否完全满足。"
+    }
+  }
+}

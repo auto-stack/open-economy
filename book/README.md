@@ -81,7 +81,7 @@
 
 ## 第四部分 多种人群组织
 
-第四部分第1章：[组织为何形成和延续](part-04/01-formation-and-continuity.md)，配[论证卡](argument-cards/part-04-01-formation-and-continuity.md)。从共同收益接到参加、规则实施、维护、改变和外部后果；新增实验与森林案例按实际版本和读页使用，不将其概括成所有组织的起源定律。
+第四部分第 1 章[《组织为何形成和延续》](part-04/01-formation-and-continuity.md)从一张只约定星期一的传单写起，追到第二天谁来派车、下个月谁替病友取药，以及原来依赖服务的人后来去了哪里。[专题综述](../research/surveys/07-organization-formation/formation-handover-and-service-continuity-2026.md) · [论证卡](argument-cards/part-04-01-formation-and-continuity.md)
 
 ## 第五部分 经济与开放合作
 

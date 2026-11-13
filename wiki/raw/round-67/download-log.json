@@ -1,0 +1,121 @@
+[
+  {
+    "path": "L289-montgomery/leaflet-study.pdf",
+    "url": "https://bpb-us-e2.wpmucdn.com/websites.umass.edu/dist/9/3171/files/2025/12/FlemingMontgomeryBusBoycott2026.pdf",
+    "bytes": 534101,
+    "sha256": "807baf02dca6380afe1a956a7991235118fb682ab50232f0fddedfef1bf4ee4b",
+    "retrieved_utc": "2026-11-13T14:43:17.706925+00:00"
+  },
+  {
+    "path": "L289-montgomery/summer-speech.html",
+    "url": "https://kinginstitute.stanford.edu/king-papers/documents/montgomery-story-address-delivered-forty-seventh-annual-naacp-convention",
+    "bytes": 85319,
+    "sha256": "83b5e82cfb601a1ccfe9d17cedd6a5d48a30ad6eba7f2e8aec7477a0ca067daf",
+    "retrieved_utc": "2026-11-13T14:43:18.324219+00:00"
+  },
+  {
+    "path": "L289-montgomery/march-notes.html",
+    "url": "https://kinginstitute.stanford.edu/king-papers/documents/notes-mia-mass-meeting-hutchinson-street-baptist-church-donald-t-ferron",
+    "bytes": 45760,
+    "sha256": "8f76017a39279f98cf822275b9a0df87baa7d0522144083a02b8b332a4f38671",
+    "retrieved_utc": "2026-11-13T14:43:16.839712+00:00"
+  },
+  {
+    "path": "L289-montgomery/resignation.html",
+    "url": "https://kinginstitute.stanford.edu/king-papers/documents/b-j-simms",
+    "bytes": 44141,
+    "sha256": "925804e8fcb81965cfd9d5c6defb1f5e22faae399318c3ec6457dff1fa99102f",
+    "retrieved_utc": "2026-11-13T14:43:15.344437+00:00"
+  },
+  {
+    "path": "L289-montgomery/injunction.html",
+    "url": "https://kinginstitute.stanford.edu/king-papers/documents/address-mia-mass-meeting-holt-street-baptist-church",
+    "bytes": 78464,
+    "sha256": "fe5fca9cf6909d30ef48d2fb791079a5dc5cc4d13100b25229eb6f36653066c7",
+    "retrieved_utc": "2026-11-13T14:43:17.975580+00:00"
+  },
+  {
+    "path": "L290-tete-pilot/original.pdf",
+    "url": "https://scienceportal.msf.org/api/assets/6372/download/13555?filename=DeCroo.ScalingUp+CAGs+in+Mozambique.2013.pdf",
+    "bytes": 585003,
+    "sha256": "766d81af9885c804a06154c23813ab25952c07d6751d433a6b9bf60820fbc309",
+    "retrieved_utc": "2026-11-13T14:43:17.147227+00:00"
+  },
+  {
+    "requested": "L291-tete-cohort/article.pdf",
+    "url": "https://bmjopen.bmj.com/content/bmjopen/7/8/e016800.full.pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://bmjopen.bmj.com/content/bmjopen/7/8/e016800.full.pdf"
+  },
+  {
+    "path": "L292-tete-interviews/article.pdf",
+    "url": "https://link.springer.com/content/pdf/10.1186/s12889-021-12087-8.pdf",
+    "bytes": 577093,
+    "sha256": "cb1573ae1dc5ccb2228a5d7df4b346f2fa410198c28b008c470629ba55a9eb0a",
+    "retrieved_utc": "2026-11-13T14:43:19.200626+00:00"
+  },
+  {
+    "requested": "L293-kwale-water/article.pdf",
+    "url": "https://publichealth.jmir.org/2024/1/e42462/PDF",
+    "error": "AssertionError "
+  },
+  {
+    "path": "L291-tete-cohort/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5629627/fullTextXML",
+    "bytes": 88505,
+    "sha256": "582af20d044f12fd09692d02971dbd0a28a0b91a8baec5595e158b43eaae0156",
+    "retrieved_utc": "2026-11-13T14:44:05.451311+00:00"
+  },
+  {
+    "requested": "L293-kwale-water/article.html",
+    "url": "https://publichealth.jmir.org/2024/1/e42462/",
+    "error": "AttributeError 'NoneType' object has no attribute 'get_text'"
+  },
+  {
+    "requested": "L294-kwale-contracts/author.pdf",
+    "url": "https://ora.ox.ac.uk/objects/uuid%3Aebf834e4-bde3-40dd-9636-48f27c26ddb3/files/r1r66j1544",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://ora.ox.ac.uk/objects/uuid%3Aebf834e4-bde3-40dd-9636-48f27c26ddb3/files/r1r66j1544"
+  },
+  {
+    "path": "L293-kwale-water/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10828938/fullTextXML",
+    "bytes": 126631,
+    "sha256": "51701a7331852fed0ed0997496e860386e0d854d23e3324a897791323368e4ab",
+    "retrieved_utc": "2026-11-13T14:44:34.875770+00:00"
+  },
+  {
+    "path": "L295-swiss-handovers/author.pdf",
+    "url": "https://bss-basel.ch/files/artikel/The_Impact_of_Physician_Exits_Discussion_Paper.pdf",
+    "bytes": 177382,
+    "sha256": "5e516d43b2068c3191c4de883f271d3aa5e4268a4efea643beb1e748715c138e",
+    "retrieved_utc": "2026-11-13T14:46:08.363050+00:00"
+  },
+  {
+    "requested": "L294-kwale-contracts/publisher.pdf",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0305750X20303582/pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://www.sciencedirect.com/science/article/pii/S0305750X20303582/pdf"
+  },
+  {
+    "requested": "L294-kwale-contracts/ora.pdf",
+    "url": "https://ora.ox.ac.uk/objects/uuid:ebf834e4-bde3-40dd-9636-48f27c26ddb3/files/r1r66j1544",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://ora.ox.ac.uk/objects/uuid:ebf834e4-bde3-40dd-9636-48f27c26ddb3/files/r1r66j1544"
+  },
+  {
+    "path": "L294-kwale-contracts/university-record.html",
+    "url": "https://research.vu.nl/en/publications/institutional-pluralism-and-water-user-behavior-in-rural-africa",
+    "bytes": 63758,
+    "sha256": "8ffd34863ca4ddadbbdd56acd6a93da8c5cce005d4911691be2046d4bd4cfda8",
+    "retrieved_utc": "2026-11-13T14:48:29.969462+00:00"
+  },
+  {
+    "requested": "L294-kwale-contracts/article.pdf",
+    "url": "https://core.ac.uk/download/355146380.pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://core.ac.uk/download/355146380.pdf"
+  },
+  {
+    "path": "L294-kwale-contracts/open-copy.pdf",
+    "url": "https://fileserver-az.core.ac.uk/download/355146380.pdf",
+    "bytes": 1928538,
+    "sha256": "25a5a30b39018971e17b0308e5ce861447d94b18e7de3e15010612eaa0aca9fd",
+    "retrieved_utc": "2026-11-13T14:50:05.346449+00:00"
+  }
+]

@@ -1,0 +1,177 @@
+{
+  "round": 67,
+  "research_round": 72,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L289",
+      "title": "Montgomery bus boycott transportation dossier: leaflet, launch, operations, resignation and injunction",
+      "authors": "David Fleming; Martin Luther King, Jr.; Donald T. Ferron; B. J. Simms; King Papers editors",
+      "year": "1955–1956; 2026 volume",
+      "record_url": "https://doi.org/10.1177/07410883251372209",
+      "version": "Published historical study with Figure 1 plus four documentary editions",
+      "read_scope": "Fleming PDF pp. 6–13 and Figure 1; 1 March, summer, 26 October and November 1956 records",
+      "role": "既有网络、一日动员、派车、运力约束和停运。会议导言与讲话人各自标明，辞职未确认次日接替人。",
+      "files": [
+        "L289-montgomery/injunction.html",
+        "L289-montgomery/injunction.txt",
+        "L289-montgomery/leaflet-study.pdf",
+        "L289-montgomery/leaflet-study.txt",
+        "L289-montgomery/march-notes.html",
+        "L289-montgomery/march-notes.txt",
+        "L289-montgomery/resignation.html",
+        "L289-montgomery/resignation.txt",
+        "L289-montgomery/summer-speech.html",
+        "L289-montgomery/summer-speech.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L289-montgomery/leaflet-study.pdf",
+          "url": "https://bpb-us-e2.wpmucdn.com/websites.umass.edu/dist/9/3171/files/2025/12/FlemingMontgomeryBusBoycott2026.pdf"
+        },
+        {
+          "path": "L289-montgomery/summer-speech.html",
+          "url": "https://kinginstitute.stanford.edu/king-papers/documents/montgomery-story-address-delivered-forty-seventh-annual-naacp-convention"
+        },
+        {
+          "path": "L289-montgomery/march-notes.html",
+          "url": "https://kinginstitute.stanford.edu/king-papers/documents/notes-mia-mass-meeting-hutchinson-street-baptist-church-donald-t-ferron"
+        },
+        {
+          "path": "L289-montgomery/resignation.html",
+          "url": "https://kinginstitute.stanford.edu/king-papers/documents/b-j-simms"
+        },
+        {
+          "path": "L289-montgomery/injunction.html",
+          "url": "https://kinginstitute.stanford.edu/king-papers/documents/address-mia-mass-meeting-holt-street-baptist-church"
+        }
+      ]
+    },
+    {
+      "source_id": "L290",
+      "title": "Scaling Up Community ART Groups in Mozambique",
+      "authors": "T. Decroo et al.",
+      "year": "2013",
+      "record_url": "https://scienceportal.msf.org/api/assets/6372/download/13555?filename=DeCroo.ScalingUp+CAGs+in+Mozambique.2013.pdf",
+      "version": "Implementers’ published report held by MSF",
+      "read_scope": "PDF pp. 3–5, Phase One and routine records",
+      "role": "太特试点由社区会议发展为按月轮领，描述实际形成顺序和专业支持。",
+      "files": [
+        "L290-tete-pilot/original.pdf",
+        "L290-tete-pilot/original.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L290-tete-pilot/original.pdf",
+          "url": "https://scienceportal.msf.org/api/assets/6372/download/13555?filename=DeCroo.ScalingUp+CAGs+in+Mozambique.2013.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L291",
+      "title": "Effect of Community ART Groups on retention-in-care among patients on ART in Tete Province, Mozambique: a cohort study",
+      "authors": "Tom Decroo et al.",
+      "year": "2017",
+      "record_url": "https://doi.org/10.1136/bmjopen-2017-016800",
+      "version": "Europe PMC full-text JATS",
+      "read_scope": "Methods; Tables 1–3 and footnotes; limitations",
+      "role": "八机构、变动暴露与留在照护，代领可计联系。",
+      "files": [
+        "L291-tete-cohort/article.txt",
+        "L291-tete-cohort/article.xml"
+      ],
+      "downloads": [
+        {
+          "path": "L291-tete-cohort/article.xml",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5629627/fullTextXML"
+        }
+      ]
+    },
+    {
+      "source_id": "L292",
+      "title": "“I don’t know when he will be back”: life-changing events challenge the community ART Group model– a qualitative research study, Tete, Mozambique",
+      "authors": "I. A. P. Tarquino, E. Venables, R. R. Simone, J. M. de Amaral Fidelis, T. Decroo",
+      "year": "2021",
+      "record_url": "https://doi.org/10.1186/s12889-021-12087-8",
+      "version": "Published PDF",
+      "read_scope": "PDF pp. 3–6, 8; IDI 13, IDI 39, FGD 2, FGD 4",
+      "role": "同一个组的具体变化、另组送药中断，访谈有定向选择。",
+      "files": [
+        "L292-tete-interviews/article.pdf",
+        "L292-tete-interviews/article.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L292-tete-interviews/article.pdf",
+          "url": "https://link.springer.com/content/pdf/10.1186/s12889-021-12087-8.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L293",
+      "title": "The Impact of Rapid Handpump Repairs on Diarrhea Morbidity in Children: Cross-Sectional Study in Kwale County, Kenya",
+      "authors": "Patrick Thomson, Justin Stoler, Michelle Byford, David J Bradley",
+      "year": "2024",
+      "record_url": "https://doi.org/10.2196/42462",
+      "version": "Europe PMC full-text JATS",
+      "read_scope": "Handpump Repair Service; Data Sources; Inclusion Criteria; Limitations",
+      "role": "试点和本地机构的责任变化，维修日志和住户回访；不可由修好直接推断家庭持续用水。",
+      "files": [
+        "L293-kwale-water/article.txt",
+        "L293-kwale-water/article.xml"
+      ],
+      "downloads": [
+        {
+          "path": "L293-kwale-water/article.xml",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10828938/fullTextXML"
+        }
+      ]
+    },
+    {
+      "source_id": "L294",
+      "title": "Institutional pluralism and water user behavior in rural Africa",
+      "authors": "Johanna Koehler, Patrick Thomson, Susanna Goodall, Jacob Katuva, Rob Hope",
+      "year": "2020 online; 2021 volume",
+      "record_url": "https://doi.org/10.1016/j.worlddev.2020.105231",
+      "version": "Published PDF via CORE; Vrije Universiteit Amsterdam bibliographic record",
+      "read_scope": "PDF pp. 3–6, sections 3–4, Figure 3",
+      "role": "同一地区和服务商的合同采用，不是免费试点逐泵续签。",
+      "files": [
+        "L294-kwale-contracts/open-copy.pdf",
+        "L294-kwale-contracts/open-copy.txt",
+        "L294-kwale-contracts/university-record.html",
+        "L294-kwale-contracts/university-record.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L294-kwale-contracts/university-record.html",
+          "url": "https://research.vu.nl/en/publications/institutional-pluralism-and-water-user-behavior-in-rural-africa"
+        },
+        {
+          "path": "L294-kwale-contracts/open-copy.pdf",
+          "url": "https://fileserver-az.core.ac.uk/download/355146380.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L295",
+      "title": "The Impact of Physician Exits in Primary Care: A Study of Practice Handovers",
+      "authors": "Linn Hjalmarsson, Boris Kaiser, Tamara Bischof",
+      "year": "2023",
+      "record_url": "https://doi.org/10.1016/j.healthpol.2023.104867",
+      "version": "Authors’ discussion paper, 22 February; journal abstract cross-checked",
+      "read_scope": "PDF pp. 4–5, 9–11, 14; Table 2",
+      "role": "离任与继任医生配对，交接前的患者名单与后来的保险利用；费用与需要是否满足分开。",
+      "files": [
+        "L295-swiss-handovers/author.pdf",
+        "L295-swiss-handovers/author.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L295-swiss-handovers/author.pdf",
+          "url": "https://bss-basel.ch/files/artikel/The_Impact_of_Physician_Exits_Discussion_Paper.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -34,7 +34,7 @@
 
 | 单元与承接 | 新增条件或论证任务 | 向后交付及地位 | 依据与未完任务 |
 |---|---|---|---|
-| P4.1 组织为何形成和延续；承接P3.1–3 | 分开技术可行、启动、规则接受、执行与维护；检查遗留关系 | 形成与延续的比较维度，不以形成后有用倒推起源 | [章稿](part-04/01-formation-and-continuity.md)、[形成survey](../research/surveys/07-organization-formation/README.md)；未解释所有强制与继承关系 |
+| P4.1 组织为何形成和延续，承接 P3.1–4 | 辨认首次协作后的再约定、实际接手者、到期任务与原使用者 | 为 P4.2 交付依赖程度、替代渠道、服务中断及转移负担的比较问题 | [章稿](part-04/01-formation-and-continuity.md) · [形成与交接综述](../research/surveys/07-organization-formation/formation-handover-and-service-continuity-2026.md) |
 | P4.2 照护、知识与公共服务；承接P2.2、P3.2和P4.1 | 固定依赖、自愿程度、使用属性、替代支持与退出差异 | 相同维护问题下不同的责任和支持条件；分析类型对照 | [四种组织比较](../research/surveys/07-organization-formation/organization-comparison-and-boundaries.md)；真实案例证据与发生率待补 |
 | P4.3 公司、职场与决定权；承接P3.3和P4.1 | 区分资产、经营、员工发声、监督、风险与实际外部机会 | 可比较的公司治理问题，不从资本推无限权力或从民主标签推效果 | [治理专题](../research/surveys/05-firm-authority-and-democracy/firm-power-and-democratic-governance.md)；关键原著与治理效果待深入 |
 | P4.4 组织之间的组织；承接P4.2–3 | 加入多重成员、公共授权、不能退出者、问责、基础设施及外部代价 | 进入税费、公共预算和跨组织依赖的权限与责任接口 | [四种组织边界](../research/surveys/07-organization-formation/organization-comparison-and-boundaries.md)；完整国家与国际制度史留论文路线 |

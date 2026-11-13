@@ -1,5 +1,7 @@
 # 通用组织理论与论文路线
 
+第 72 轮沿同一项共同活动追踪组织形成、实际继任和原使用者的处境，从抵制公交中的替代交通、社区取药、手压泵维修与诊所交接修订第四部分第 1 章。[专题综述](surveys/07-organization-formation/formation-handover-and-service-continuity-2026.md) · [书章](../book/part-04/01-formation-and-continuity.md) · [归档资料](../wiki/raw/round-67/README.md)
+
 第 71 轮完成[共同活动中的意义、受益与贡献认定](surveys/07-organization-formation/meaning-and-participation-over-time-2026.md)。以同人访谈、配对结案、受益者对照和二十年后追访，修订第三部分第 4 章[《人的意义与共同生活》](../book/part-03/04-human-meaning-and-common-life.md)。[原件、读页与复核](../wiki/raw/round-66/README.md)
 
 第70轮沿同一履约案件的三级判决、平台举证与评审、真实申诉及裁后随访，更新[规则解释、复核与后续合作综述](surveys/07-organization-formation/disputed-performance-and-review-2026.md)与第三部分第3章[《规则、权力与共同目的》](../book/part-03/03-rules-power-and-common-purposes.md)。[第65批来源及读取边界](../wiki/raw/round-65/README.md)
