@@ -1,0 +1,509 @@
+{
+  "round": 74,
+  "research_rounds": [
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86
+  ],
+  "date_local": "2026-11-14",
+  "chapters": [
+    {
+      "research_round": 79,
+      "chapter": "book/part-05/04-transactions-prices-and-market-rules.md",
+      "survey": "research/surveys/08-price-income-and-reinvestment/procurement-and-platform-options-2026.md",
+      "argument_card": "book/argument-cards/part-05-04-transactions-prices-and-market-rules.md",
+      "source_ids": [
+        "L339",
+        "L340",
+        "L353"
+      ],
+      "prior_materials": "前批议价与价格模型"
+    },
+    {
+      "research_round": 80,
+      "chapter": "book/part-05/05-accounts-credit-and-money.md",
+      "survey": "research/surveys/02-wealth-money-history/objects-promises-and-settlement-2026.md",
+      "argument_card": "book/argument-cards/part-05-05-accounts-credit-and-money.md",
+      "source_ids": [
+        "L341"
+      ],
+      "prior_materials": "第21–22批的交子、会子、雅典钱币与阿姆斯特丹银行材料"
+    },
+    {
+      "research_round": 81,
+      "chapter": "book/part-05/06-investment-income-and-reinvestment.md",
+      "survey": "research/surveys/08-price-income-and-reinvestment/daqin-funding-and-use-2026.md",
+      "argument_card": "book/argument-cards/part-05-06-investment-income-and-reinvestment.md",
+      "source_ids": [
+        "L342"
+      ],
+      "prior_materials": "前批融资模型和资金用途工作簿"
+    },
+    {
+      "research_round": 82,
+      "chapter": "book/part-05/07-sustaining-shared-work.md",
+      "survey": "research/surveys/03-competition-cooperation-distribution/support-for-shared-maintenance-2026.md",
+      "argument_card": "book/argument-cards/part-05-07-sustaining-shared-work.md",
+      "source_ids": [
+        "L343",
+        "L344",
+        "L345"
+      ],
+      "prior_materials": "前批公共品、受托维护与贡献分配比较"
+    },
+    {
+      "research_round": 83,
+      "chapter": "book/part-06/01-technology-and-organizational-conditions.md",
+      "survey": "research/surveys/06-technological-levers-and-organizational-evolution/task-productivity-and-bottlenecks-2026.md",
+      "argument_card": "book/argument-cards/part-06-01-technology-and-organizational-conditions.md",
+      "source_ids": [
+        "L346",
+        "L347",
+        "L348",
+        "L354",
+        "L355",
+        "L356"
+      ],
+      "prior_materials": "第18批 L81 客服研究、既有收入反馈算例"
+    },
+    {
+      "research_round": 84,
+      "chapter": "book/part-06/02-organizing-the-same-service.md",
+      "survey": "research/surveys/03-competition-cooperation-distribution/same-service-alternatives-2026.md",
+      "argument_card": "book/argument-cards/part-06-02-organizing-the-same-service.md",
+      "source_ids": [
+        "L343",
+        "L345",
+        "L351"
+      ],
+      "prior_materials": "前批同服务现金对照"
+    },
+    {
+      "research_round": 85,
+      "chapter": "book/part-06/03-autoos-roles-funds-and-responsibilities.md",
+      "survey": "research/surveys/03-competition-cooperation-distribution/settlement-refunds-and-stewardship-2026.md",
+      "argument_card": "book/argument-cards/part-06-03-autoos-roles-funds-and-responsibilities.md",
+      "source_ids": [
+        "L349",
+        "L352"
+      ],
+      "prior_materials": "第9批 H02 与 Q8，既有资金逐期核算"
+    },
+    {
+      "research_round": 86,
+      "chapter": "book/part-06/04-testing-failure-and-revision.md",
+      "survey": "research/surveys/03-competition-cooperation-distribution/assessment-selection-and-revision-2026.md",
+      "argument_card": "book/argument-cards/part-06-04-testing-failure-and-revision.md",
+      "source_ids": [
+        "L347",
+        "L350"
+      ],
+      "prior_materials": "前批资料查找基线及重点扫描逐页核验"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "L339",
+      "title": "2018年全国基本医疗保障事业发展统计公报 / 国家医保局答复第4046号建议",
+      "record_url": "https://www.nhsa.gov.cn/art/2019/6/30/art_7_1477.html",
+      "read_scope": "集采中选价相对2017年试点城市同种药品最低采购价的比较。 4+7首个年度的承诺量、同名药采购占比、30天回款率。",
+      "role": "特定试点的基准、履约和付款。全国通用价格仍须其他样本。",
+      "files": [
+        "L339/outcome.html",
+        "L339/outcome.txt",
+        "L339/procurement.html",
+        "L339/procurement.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L339/outcome.html",
+          "url": "https://www.nhsa.gov.cn/art/2019/6/30/art_7_1477.html",
+          "title": "2018年全国基本医疗保障事业发展统计公报",
+          "read_scope": "集采中选价相对2017年试点城市同种药品最低采购价的比较。"
+        },
+        {
+          "path": "L339/procurement.html",
+          "url": "https://www.nhsa.gov.cn/art/2020/9/24/art_110_6849.html",
+          "title": "国家医保局答复第4046号建议",
+          "read_scope": "4+7首个年度的承诺量、同名药采购占比、30天回款率。"
+        }
+      ]
+    },
+    {
+      "source_id": "L340",
+      "title": "市场监管总局对平台限定交易的调查与处罚",
+      "record_url": "https://www.samr.gov.cn/zt/qhfldzf/art/2021/art_a10f74fa09cd49ee8db7804ba834db2a.html",
+      "read_scope": "2021年调查认定、相关市场和平台规则。",
+      "role": "调查认定的平台限制交易、技术及惩罚措施。案内判定不能代表全行业。",
+      "files": [
+        "L340/competition.html",
+        "L340/competition.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L340/competition.html",
+          "url": "https://www.samr.gov.cn/zt/qhfldzf/art/2021/art_a10f74fa09cd49ee8db7804ba834db2a.html",
+          "title": "市场监管总局对平台限定交易的调查与处罚",
+          "read_scope": "2021年调查认定、相关市场和平台规则。"
+        }
+      ]
+    },
+    {
+      "source_id": "L341",
+      "title": "中国国家博物馆藏大明通行宝钞",
+      "record_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25374.shtml",
+      "read_scope": "券面面额、钱贯图像、发钞与伪造条款。",
+      "role": "实物及券面设计。发行年代的两处用语有差异，未据此判定年代争议或百姓接受程度。",
+      "files": [
+        "L341/note.html",
+        "L341/note.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L341/note.html",
+          "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25374.shtml",
+          "title": "中国国家博物馆藏大明通行宝钞",
+          "read_scope": "券面面额、钱贯图像、发钞与伪造条款。"
+        }
+      ]
+    },
+    {
+      "source_id": "L342",
+      "title": "大秦铁路2024年度募集资金存放与实际使用专项报告 / 大秦铁路2025年募集资金存放、管理与实际使用情况专项报告",
+      "record_url": "https://static.cninfo.com.cn/finalpage/2025-04-30/1223415156.PDF",
+      "read_scope": "年末累计实际使用与两项募投项目的分列。 同一发行、次年项目付款、结余用途与时点。",
+      "role": "同一笔募集资金分期使用、结余处置的披露。未识别工点净产出。",
+      "files": [
+        "L342/finance24.pdf",
+        "L342/finance24.txt",
+        "L342/finance25.pdf",
+        "L342/finance25.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L342/finance24.pdf",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-30/1223415156.PDF",
+          "title": "大秦铁路2024年度募集资金存放与实际使用专项报告",
+          "read_scope": "年末累计实际使用与两项募投项目的分列。"
+        },
+        {
+          "path": "L342/finance25.pdf",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225258005.PDF",
+          "title": "大秦铁路2025年募集资金存放、管理与实际使用情况专项报告",
+          "read_scope": "同一发行、次年项目付款、结余用途与时点。"
+        }
+      ]
+    },
+    {
+      "source_id": "L343",
+      "title": "Daniel Stenberg 给 curl 邮件组的项目启动说明 / Sovereign Tech Agency 对 curl 的项目记录",
+      "record_url": "https://curl.se/mail/lib-2022-10/0048.html",
+      "read_scope": "资助拟支持的人员和工作周期。 2022–2023年项目金额及工作目的。",
+      "role": "出资方与承接方分别记载预算、期间及计划。未取得工时和各受款人净收入。",
+      "files": [
+        "L343/curl-developer.html",
+        "L343/curl-developer.txt",
+        "L343/curl-investment.html",
+        "L343/curl-investment.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L343/curl-developer.html",
+          "url": "https://curl.se/mail/lib-2022-10/0048.html",
+          "title": "Daniel Stenberg 给 curl 邮件组的项目启动说明",
+          "read_scope": "资助拟支持的人员和工作周期。"
+        },
+        {
+          "path": "L343/curl-investment.html",
+          "url": "https://www.sovereign.tech/tech/curl",
+          "title": "Sovereign Tech Agency 对 curl 的项目记录",
+          "read_scope": "2022–2023年项目金额及工作目的。"
+        }
+      ]
+    },
+    {
+      "source_id": "L344",
+      "title": "openEuler 社区2023年12月运作报告",
+      "record_url": "https://www.openeuler.org/zh/news/openEuler/20240112-yuebao/20240112-yuebao.html",
+      "read_scope": "安全公告与漏洞修复的不同计数。",
+      "role": "社区报告的安全公告与修复计数。没有逐用户安装记录。",
+      "files": [
+        "L344/euler.html",
+        "L344/euler.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L344/euler.html",
+          "url": "https://www.openeuler.org/zh/news/openEuler/20240112-yuebao/20240112-yuebao.html",
+          "title": "openEuler 社区2023年12月运作报告",
+          "read_scope": "安全公告与漏洞修复的不同计数。"
+        }
+      ]
+    },
+    {
+      "source_id": "L345",
+      "title": "SQLite Consortium",
+      "record_url": "https://www.sqlite.org/consortium.html",
+      "read_scope": "会员、技术支持、非会员的使用条件及经费。",
+      "role": "共同出资和支持边界。未采用未披露的会员到款额。",
+      "files": [
+        "L345/sqlite.html",
+        "L345/sqlite.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L345/sqlite.html",
+          "url": "https://www.sqlite.org/consortium.html",
+          "title": "SQLite Consortium",
+          "read_scope": "会员、技术支持、非会员的使用条件及经费。"
+        }
+      ]
+    },
+    {
+      "source_id": "L346",
+      "title": "Cheng、Jia、Li、Li，The Rise of Robots in China",
+      "record_url": "https://www.ruixuejia.com/uploads/4/6/3/3/46339953/robots190218.pdf",
+      "read_scope": "两省企业调查、采用差异与观察设计。",
+      "role": "两省企业的设备采用调查。未识别机器人净产出或因果效应。",
+      "files": [
+        "L346/robots.pdf",
+        "L346/robots.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L346/robots.pdf",
+          "url": "https://www.ruixuejia.com/uploads/4/6/3/3/46339953/robots190218.pdf",
+          "title": "Cheng、Jia、Li、Li，The Rise of Robots in China",
+          "read_scope": "两省企业调查、采用差异与观察设计。"
+        }
+      ]
+    },
+    {
+      "source_id": "L347",
+      "title": "METR：2025年初有经验开源开发者的计时实验 / METR：2026年2月后续招募与任务选择",
+      "record_url": "https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf",
+      "read_scope": "论文摘要、设计、主要结果及外推条件。 招募选择和延续实验识别困难。",
+      "role": "早期任务计时随机实验及后续招募、选择偏差。样本和工具有日期。",
+      "files": [
+        "L347/devtrial.pdf",
+        "L347/devtrial.txt",
+        "L347/followup.html",
+        "L347/followup.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L347/devtrial.pdf",
+          "url": "https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf",
+          "title": "METR：2025年初有经验开源开发者的计时实验",
+          "read_scope": "论文摘要、设计、主要结果及外推条件。"
+        },
+        {
+          "path": "L347/followup.html",
+          "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+          "title": "METR：2026年2月后续招募与任务选择",
+          "read_scope": "招募选择和延续实验识别困难。"
+        }
+      ]
+    },
+    {
+      "source_id": "L348",
+      "title": "国际能源署 Energy and AI 执行摘要",
+      "record_url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+      "read_scope": "数据中心耗电估计与基准情景。",
+      "role": "全球数据中心用电估计与基准预测。未估计单项 AI 任务成本。",
+      "files": [
+        "L348/power.html",
+        "L348/power.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L348/power.html",
+          "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+          "title": "国际能源署 Energy and AI 执行摘要",
+          "read_scope": "数据中心耗电估计与基准情景。"
+        }
+      ]
+    },
+    {
+      "source_id": "L349",
+      "title": "Open Collective 受托管理者支付支出的流程 / Open Collective Processing Refunds",
+      "record_url": "https://documentation.opencollective.com/fiscal-hosts/expense-payment/paying-expenses-as-a-fiscal-host",
+      "read_scope": "项目批准、资金托管方审核和支付。 退款窗口、操作权限及支付渠道限制。",
+      "role": "支出的认可审核与不同渠道的退款规则。供候选流程对照。",
+      "files": [
+        "L349/expenses.html",
+        "L349/expenses.txt",
+        "L349/refund.html",
+        "L349/refund.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L349/expenses.html",
+          "url": "https://documentation.opencollective.com/fiscal-hosts/expense-payment/paying-expenses-as-a-fiscal-host",
+          "title": "Open Collective 受托管理者支付支出的流程",
+          "read_scope": "项目批准、资金托管方审核和支付。"
+        },
+        {
+          "path": "L349/refund.html",
+          "url": "https://documentation.opencollective.com/fiscal-hosts/processing-refunds",
+          "title": "Open Collective Processing Refunds",
+          "read_scope": "退款窗口、操作权限及支付渠道限制。"
+        }
+      ]
+    },
+    {
+      "source_id": "L350",
+      "title": "curl 维护者说明停止漏洞奖金 / curl 维护者十月回访：ignore the slop",
+      "record_url": "https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/",
+      "read_scope": "2026年1月变更、历史记录、确认率与同时改换渠道。 同年后续观察、核验负担和作者解释。",
+      "role": "同一维护者在两次报告中记录参与和核验变化。奖金与报告渠道同时调整。",
+      "files": [
+        "L350/bounty.html",
+        "L350/bounty.txt",
+        "L350/october.html",
+        "L350/october.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L350/bounty.html",
+          "url": "https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/",
+          "title": "curl 维护者说明停止漏洞奖金",
+          "read_scope": "2026年1月变更、历史记录、确认率与同时改换渠道。"
+        },
+        {
+          "path": "L350/october.html",
+          "url": "https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/",
+          "title": "curl 维护者十月回访：ignore the slop",
+          "read_scope": "同年后续观察、核验负担和作者解释。"
+        }
+      ]
+    },
+    {
+      "source_id": "L351",
+      "title": "Crossref REST API 访问方式 / Crossref Metadata Plus",
+      "record_url": "https://www.crossref.org/documentation/retrieve-metadata/rest-api/access-and-authentication/",
+      "read_scope": "公共与订阅访问，区分使用与服务等级。 优先服务、支持、快照及服务水平约定。",
+      "role": "公共查找与付费支持权益的制度对照。未测相对采购成本。",
+      "files": [
+        "L351/access.html",
+        "L351/access.txt",
+        "L351/plus.html",
+        "L351/plus.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L351/access.html",
+          "url": "https://www.crossref.org/documentation/retrieve-metadata/rest-api/access-and-authentication/",
+          "title": "Crossref REST API 访问方式",
+          "read_scope": "公共与订阅访问，区分使用与服务等级。"
+        },
+        {
+          "path": "L351/plus.html",
+          "url": "https://www.crossref.org/services/metadata-retrieval/metadata-plus/",
+          "title": "Crossref Metadata Plus",
+          "read_scope": "优先服务、支持、快照及服务水平约定。"
+        }
+      ]
+    },
+    {
+      "source_id": "L352",
+      "title": "木兰宽松许可证第二版",
+      "record_url": "https://opensource.org/license/MulanPSL-2.0",
+      "read_scope": "版权许可、无商标许可、分发限制、免责声明，定位以条款标题为准。",
+      "role": "软件复用、声明与责任边界的许可文本。不能据此推定资料服务已选该许可。",
+      "files": [
+        "L352/mulan.html",
+        "L352/mulan.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L352/mulan.html",
+          "url": "https://opensource.org/license/MulanPSL-2.0",
+          "title": "木兰宽松许可证第二版",
+          "read_scope": "版权许可、无商标许可、分发限制、免责声明，定位以条款标题为准。"
+        }
+      ]
+    },
+    {
+      "source_id": "L353",
+      "title": "Blake、Nosko、Tadelis：eBay 付费搜索现场实验（NBER 工作稿 2014）",
+      "record_url": "https://www.nber.org/system/files/working_papers/w20171/w20171.pdf",
+      "read_scope": "摘要、导论与品牌词停投实验；仅报告所测短期结果。",
+      "role": "广告停投的品牌词现场实验。仅及于 eBay 相应流量及观测期。",
+      "files": [
+        "L353/paid-search.pdf",
+        "L353/paid-search.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L353/paid-search.pdf",
+          "url": "https://www.nber.org/system/files/working_papers/w20171/w20171.pdf",
+          "title": "Blake、Nosko、Tadelis：eBay 付费搜索现场实验（NBER 工作稿 2014）",
+          "read_scope": "摘要、导论与品牌词停投实验；仅报告所测短期结果。"
+        }
+      ]
+    },
+    {
+      "source_id": "L354",
+      "title": "国家能源局，2024年可再生能源并网运行情况",
+      "record_url": "https://www.nea.gov.cn/20250221/e10f363cabe3458aaf78ba4558970054/c.html",
+      "read_scope": "光伏发电量及利用率，全国年度口径。",
+      "role": "年度全国并网发电量与利用率。未计特定地点时段可调电力。",
+      "files": [
+        "L354/solar.html",
+        "L354/solar.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L354/solar.html",
+          "url": "https://www.nea.gov.cn/20250221/e10f363cabe3458aaf78ba4558970054/c.html",
+          "title": "国家能源局，2024年可再生能源并网运行情况",
+          "read_scope": "光伏发电量及利用率，全国年度口径。"
+        }
+      ]
+    },
+    {
+      "source_id": "L355",
+      "title": "Seymour 等，虚拟训练向真实操作的迁移",
+      "record_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A12368674+AND+SRC%3AMED&resultType=core&format=json",
+      "read_scope": "作者摘要、设计与主要结果；Europe PMC 书目记录，未采用数据库引文数。",
+      "role": "随机训练后特定手术步骤的错误数。仅用作者摘要，未与等时非虚拟训练对照。",
+      "files": [
+        "L355/simulation.json",
+        "L355/simulation.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L355/simulation.json",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A12368674+AND+SRC%3AMED&resultType=core&format=json",
+          "title": "Seymour 等，虚拟训练向真实操作的迁移",
+          "read_scope": "作者摘要、设计与主要结果；Europe PMC 书目记录，未采用数据库引文数。"
+        }
+      ]
+    },
+    {
+      "source_id": "L356",
+      "title": "Brucks、Levav，Virtual communication curbs creative idea generation",
+      "record_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35477754+AND+SRC%3AMED&resultType=core&format=json",
+      "read_scope": "作者摘要、设计与主要结果；Europe PMC 书目记录，未采用数据库引文数。",
+      "role": "共同产生及挑选想法的不同结果。仅用作者摘要，不能外推到所有远程活动。",
+      "files": [
+        "L356/video.json",
+        "L356/video.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L356/video.json",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35477754+AND+SRC%3AMED&resultType=core&format=json",
+          "title": "Brucks、Levav，Virtual communication curbs creative idea generation",
+          "read_scope": "作者摘要、设计与主要结果；Europe PMC 书目记录，未采用数据库引文数。"
+        }
+      ]
+    }
+  ]
+}

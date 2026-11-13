@@ -1,0 +1,139 @@
+{
+  "files": [
+    {
+      "path": "L296-spouse-hospital/admissions.pdf",
+      "bytes": 653320,
+      "sha256": "681f229f38204f795b099a2fa10d7f6419b3d51fb542ead6c996fc156b6c3966"
+    },
+    {
+      "path": "L296-spouse-hospital/admissions.txt",
+      "bytes": 25720,
+      "sha256": "cec17f213cd70ea79741963166ac013d3a187bae28a8d3893480c25e3d548d3f"
+    },
+    {
+      "path": "L297-emergency-plans/interviews.txt",
+      "bytes": 41332,
+      "sha256": "832f01ee32f1f04393b279fef34e2c8fc47c76c529ea35891d6cbaef588276a3"
+    },
+    {
+      "path": "L297-emergency-plans/interviews.xml",
+      "bytes": 109908,
+      "sha256": "317811bd140ec5f62340c444623fdaaa519987aac210720b5a455836ef9cde24"
+    },
+    {
+      "path": "L298-npm-cohort/dependencies.pdf",
+      "bytes": 1787125,
+      "sha256": "62eec79534651efb09038b5620618375ba356b065d9ad2cd2ff174e87437ff61"
+    },
+    {
+      "path": "L298-npm-cohort/dependencies.txt",
+      "bytes": 83894,
+      "sha256": "2b2e8769190c57e17765b410bdb24820a984c2203d2e1d6b6b6130b8598c8eee"
+    },
+    {
+      "path": "L299-npm-interviews/navigating.pdf",
+      "bytes": 966746,
+      "sha256": "3d9986434eefe6c2179f9cb21af7a671827657d9de80ae342dda66c80e0e9430"
+    },
+    {
+      "path": "L299-npm-interviews/navigating.txt",
+      "bytes": 94358,
+      "sha256": "4b56308d14c2c85f4d39b9f15b58c9b66387ca1747001a51346217241f907b27"
+    },
+    {
+      "path": "L300-sass/end-of-life.html",
+      "bytes": 11222,
+      "sha256": "48bad33cdcdfb258e27658310a3910caff12ffcada1129da45f9e399319e1540"
+    },
+    {
+      "path": "L300-sass/end-of-life.txt",
+      "bytes": 1484,
+      "sha256": "dd2d1b30ead1e90ea82e41d8066cc86693d307892456f805378a4887a3a7ed4d"
+    },
+    {
+      "path": "L300-sass/migration.html",
+      "bytes": 383124,
+      "sha256": "9830be6b6b80f8d7d3bb64a778de78e73db7c6263fb4649a1c1703be63663626"
+    },
+    {
+      "path": "L300-sass/migration.txt",
+      "bytes": 10435,
+      "sha256": "5480baf5583f8c9921d7d0ff245fa3e190e41d3cd5e75af9b5182175202c9440"
+    },
+    {
+      "path": "L300-sass/v9-LICENSE.txt",
+      "bytes": 1063,
+      "sha256": "61d8b58ea5fb43d0de642683f0ca9846e57d8a014d40ab75dd1457417c0b3108"
+    },
+    {
+      "path": "L301-chicago-enrollment/enrollment.pdf",
+      "bytes": 3497130,
+      "sha256": "f81d01e93384446c3934fa6e470651342c5d78ab49ce72e410e14dca51cd60ba"
+    },
+    {
+      "path": "L301-chicago-enrollment/enrollment.txt",
+      "bytes": 183114,
+      "sha256": "842f0f05ab5fda5c42e37c8fbafbce1d45b63b0a0d127cd9c7f38c0a1a6b5535"
+    },
+    {
+      "path": "L302-chicago-outcomes/outcomes.pdf",
+      "bytes": 3794229,
+      "sha256": "62491b0dc260689df0d7da84a59e169f2ae4b097c327ffbd1c9012cd60077344"
+    },
+    {
+      "path": "L302-chicago-outcomes/outcomes.txt",
+      "bytes": 312940,
+      "sha256": "5f4a36a3961c58e7bdccbc26e31804581f29bde874d91ba2d824b8d812f41dd9"
+    },
+    {
+      "path": "L303-transition-law/board-excerpt.pdf",
+      "bytes": 8672908,
+      "sha256": "95bee9363380ea5a425aca131a3ea68731994c7b7f47ee2af1d10335d3645c99"
+    },
+    {
+      "path": "L303-transition-law/board-excerpt.txt",
+      "bytes": 476149,
+      "sha256": "08d9152e3187389fc45545503882f24b35cd86dc2bbb5d474abe187ecf68346f"
+    },
+    {
+      "path": "L303-transition-law/session2012.pdf",
+      "bytes": 37012,
+      "sha256": "659c6a6a084432bebfce6c9dc5db89551b2dd171fe3ebdadaaf8df0081167c74"
+    },
+    {
+      "path": "L303-transition-law/session2012.txt",
+      "bytes": 12978,
+      "sha256": "2e79d249a8ebf9e1f033b6fc296604b07093da0294496be667199c50bf023586"
+    },
+    {
+      "path": "L304-chicago-iep/short-report.pdf",
+      "bytes": 158797,
+      "sha256": "a84669dc399da956dd37662ea4cf9cb0d35ee1a8981a5f0c26116a3f837621ce"
+    },
+    {
+      "path": "L304-chicago-iep/short-report.txt",
+      "bytes": 5886,
+      "sha256": "2037aa0d7855f5928a3e16df653d49d6c51817d60ed669bb001cec7afb642a86"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4745,
+      "sha256": "529c1e4f997f05c14cf292557cf737266db3fce390720535637c894ad08ff0db"
+    },
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 1999,
+      "sha256": "6fa9fcf561b35f024effdde3609b4065c178a1a2b39b17e673fcff5dfa83a99e"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 7113,
+      "sha256": "7d554c67eae3f93cbcb58542b2591884058999bcc7d4b2ff671c4a9bcc523938"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 9044,
+      "sha256": "f33ff815c83829fd061775533af0ce587b4f155cf06734b45134dd5f6ac712e0"
+    }
+  ]
+}

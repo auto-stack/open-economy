@@ -1,0 +1,203 @@
+{
+  "round": 70,
+  "research_round": 75,
+  "date_local": "2026-11-14",
+  "sources": [
+    {
+      "source_id": "L312",
+      "title": "Adjudication R167121, D. Paulley and Network Rail; claimant’s January 2025 account",
+      "authors": "Rail Ombudsman (R. Tackley); Doug Paulley",
+      "year": "2024 incident, January 2025 public account",
+      "record_url": "https://www.kingqueen.org.uk/wp-content/uploads/2025/01/Adjudication-R167121.pdf",
+      "version": "Adjudication PDF published by claimant, first-person follow-up",
+      "read_scope": "PDF 1–5, 7, especially booking, description of segmented video, rail records, response, conditional award; claimant’s discussion of Birmingham",
+      "role": "核对承诺项目、成功登车、失约和裁给金额；区分个案与当事人的制度倡议。",
+      "files": [
+        "L312-birmingham/adjudication.pdf",
+        "L312-birmingham/adjudication.txt",
+        "L312-birmingham/passenger.html",
+        "L312-birmingham/passenger.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L312-birmingham/adjudication.pdf",
+          "url": "https://www.kingqueen.org.uk/wp-content/uploads/2025/01/Adjudication-R167121.pdf"
+        },
+        {
+          "path": "L312-birmingham/passenger.html",
+          "url": "https://www.kingqueen.org.uk/rail-ombudsman-compensation/"
+        }
+      ]
+    },
+    {
+      "source_id": "L313",
+      "title": "Communications between stations; Experiences of Passenger Assist; ATP redress decision Annex B",
+      "authors": "Office of Rail and Road; M·E·L Research Ltd",
+      "year": "2025",
+      "record_url": "https://www.orr.gov.uk/communications-between-stations-when-assisting-passengers",
+      "version": "Inspection and decision HTML; survey report PDF",
+      "read_scope": "Five-station visits, Handover Protocol, electronic acknowledgement; survey PDF 4, 6, 59–60 including sampling frame; ATP A8.1–4",
+      "role": "站际交接、服务使用者样本和后来的补救规则分别说明；无个案因果归因。",
+      "files": [
+        "L313-rail-handover/experience.pdf",
+        "L313-rail-handover/experience.txt",
+        "L313-rail-handover/redress.html",
+        "L313-rail-handover/redress.txt",
+        "L313-rail-handover/stations.html",
+        "L313-rail-handover/stations.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L313-rail-handover/stations.html",
+          "url": "https://www.orr.gov.uk/communications-between-stations-when-assisting-passengers"
+        },
+        {
+          "path": "L313-rail-handover/redress.html",
+          "url": "https://www.orr.gov.uk/consultation-accessible-travel-policy-atp-guidance-redress-requirements-decision-document-html-annex-b"
+        },
+        {
+          "path": "L313-rail-handover/experience.pdf",
+          "url": "https://www.orr.gov.uk/sites/default/files/2025-07/2024-2025-experiences-of-passenger-assist-research-report.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L314",
+      "title": "Access charging framework for use of Network Rail infrastructure: user guide",
+      "authors": "Office of Rail and Road",
+      "year": "2024",
+      "record_url": "https://www.orr.gov.uk/access-charging-framework-use-network-rail-infrastructure-user-guide",
+      "version": "Regulator guide, HTML",
+      "read_scope": "Opening framework and Table 1: CP7, Managed Station QX, Network Grant",
+      "role": "区分公共拨款、运营商为日常站务支付的费用、当场派工与个案赔偿。",
+      "files": [
+        "L314-rail-funding/charges.html",
+        "L314-rail-funding/charges.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L314-rail-funding/charges.html",
+          "url": "https://www.orr.gov.uk/access-charging-framework-use-network-rail-infrastructure-user-guide"
+        }
+      ]
+    },
+    {
+      "source_id": "L315",
+      "title": "Pictou Landing Band Council and Maurina Beadle v. Attorney General of Canada, 2013 FC 342",
+      "authors": "Federal Court of Canada, Justice Leonard S. Mandamin",
+      "year": "2013",
+      "record_url": "https://fncaringsociety.com/sites/default/files/Ruling-%20Fed%20Court%20Beadle%20and%20Pictou%20Landing%20FN_0.pdf",
+      "version": "Scanned court reasons and judgment (40 pages); local searchable OCR",
+      "read_scope": "Judgment paras 7–27, 79–83, 104–120 and 124–127; order at PDF 39. Windows.Media.Ocr, 185 dpi, English. PDF 4 para 11: 80% verified against scan and restored in text.",
+      "role": "照护安排、垫付、项目边界、拒付、司法审查和金额待定。",
+      "files": [
+        "L315-pictou/judgment.pdf",
+        "L315-pictou/judgment.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L315-pictou/judgment.pdf",
+          "url": "https://fncaringsociety.com/sites/default/files/Ruling-%20Fed%20Court%20Beadle%20and%20Pictou%20Landing%20FN_0.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L316",
+      "title": "Federal Court of Appeal A-158-13, written arguments for Canada and for the Council and Beadle",
+      "authors": "Attorney General of Canada; Pictou Landing Band Council and Maurina Beadle",
+      "year": "2013",
+      "record_url": "https://fncaringsociety.com/sites/default/files/RESPONDENT%27S%20FACTUM_Oct%202013.pdf",
+      "version": "Two opposing appellate factums, public copies",
+      "read_scope": "Respondents’ paras 27–36 (especially PDF 12–14); appellant’s paras 28–31 (PDF 9), 57–58, 73 and following",
+      "role": "对同一组班次、公共预算和比较标准的不同主张；非上诉法院判令。",
+      "files": [
+        "L316-pictou-positions/canada.pdf",
+        "L316-pictou-positions/canada.txt",
+        "L316-pictou-positions/council.pdf",
+        "L316-pictou-positions/council.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L316-pictou-positions/council.pdf",
+          "url": "https://fncaringsociety.com/sites/default/files/RESPONDENT%27S%20FACTUM_Oct%202013.pdf"
+        },
+        {
+          "path": "L316-pictou-positions/canada.pdf",
+          "url": "https://fncaringsociety.com/sites/default/files/AGCFactum_Aug%202013.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L317",
+      "title": "House of Commons Debates, 41st Parliament, 2nd Session, No. 213, Hughes–Valcourt exchange",
+      "authors": "House of Commons of Canada; Carol Hughes and Bernard Valcourt",
+      "year": "2015",
+      "record_url": "https://www.ourcommons.ca/Content/House/412/Debates/213/HAN213-E.PDF",
+      "version": "Official Hansard PDF consulted online; two bilingual entries from OpenParliament API archived",
+      "read_scope": "May 13, 2015, PDF 75, corresponding records for Hughes (3) and Valcourt (102); compare English text with original",
+      "role": "部长公开表示正进行偿付，未提供转账明细或回答诉讼费用数额。",
+      "files": [
+        "L317-pictou-payment/answer.json",
+        "L317-pictou-payment/answer.txt",
+        "L317-pictou-payment/question.json",
+        "L317-pictou-payment/question.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L317-pictou-payment/question.json",
+          "url": "https://api.openparliament.ca/debates/2015/5/13/carol-hughes-3/?format=json"
+        },
+        {
+          "path": "L317-pictou-payment/answer.json",
+          "url": "https://api.openparliament.ca/debates/2015/5/13/bernard-valcourt-102/?format=json"
+        }
+      ]
+    },
+    {
+      "source_id": "L318",
+      "title": "Audit of Jordan’s Principle; Submit a request under Jordan’s Principle",
+      "authors": "Indigenous Services Canada",
+      "year": "2025 audit; 2026 updated guide",
+      "record_url": "https://www.sac.gc.ca/eng/1753100031042/1753100058429",
+      "version": "Departmental audit and request guide HTML",
+      "read_scope": "Audit scope, intake, section 3.3 manual linking of payments, sections 3.4–3.5 and conclusion; guide on local coordinators, decisions, reimbursement, appeals",
+      "role": "后续审计和书面程序，不能倒推早年家庭个案结果。",
+      "files": [
+        "L318-jordan-audit/audit.html",
+        "L318-jordan-audit/audit.txt",
+        "L318-jordan-audit/requests.html",
+        "L318-jordan-audit/requests.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L318-jordan-audit/audit.html",
+          "url": "https://www.sac.gc.ca/eng/1753100031042/1753100058429"
+        },
+        {
+          "path": "L318-jordan-audit/requests.html",
+          "url": "https://www.sac-isc.gc.ca/eng/1568396296543/1582657596387"
+        }
+      ]
+    },
+    {
+      "source_id": "L319",
+      "title": "Organizations and meta-organizations",
+      "authors": "Göran Ahrne and Nils Brunsson",
+      "year": "2005",
+      "record_url": "https://doi.org/10.1016/j.scaman.2005.09.005",
+      "version": "Author abstract indexed by RePEc; journal abstract verified",
+      "read_scope": "Abstract only: membership composed of organizations; Scandinavian Journal of Management 21(4), 429–449",
+      "role": "仅用于分辨组织成员资格与跨组织协作关系。",
+      "files": [
+        "L319-meta-organization/abstract.html",
+        "L319-meta-organization/abstract.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L319-meta-organization/abstract.html",
+          "url": "https://ideas.repec.org/a/eee/scaman/v21y2005i4p429-449.html"
+        }
+      ]
+    }
+  ]
+}

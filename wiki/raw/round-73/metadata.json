@@ -1,0 +1,156 @@
+{
+  "round": 73,
+  "research_round": 78,
+  "date_local": "2026-11-14",
+  "sources": [
+    {
+      "source_id": "L333",
+      "title": "国家铁路局关于印发《铁路营业线施工安全管理办法》的通知",
+      "authors": "国家铁路局",
+      "year": "2021",
+      "record_url": "https://www.nra.gov.cn/xxgk/gkml/ztjg/gfzd/gfxw/202206/t20220620_327362.shtml",
+      "version": "公开文件全文",
+      "read_scope": "条16、18–21、24–28、51、61",
+      "role": "审核和行车职责；规范不替代工点销记。",
+      "files": [
+        "L333-rail-rules/rules.html",
+        "L333-rail-rules/rules.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L333-rail-rules/rules.html",
+          "url": "https://www.nra.gov.cn/xxgk/gkml/ztjg/gfzd/gfxw/202206/t20220620_327362.shtml"
+        }
+      ]
+    },
+    {
+      "source_id": "L334",
+      "title": "2023 年度社会责任报告；调整每股分配金额及 2023 年度权益分派实施公告",
+      "authors": "大秦铁路股份有限公司",
+      "year": "2024",
+      "record_url": "https://dataclouds.cninfo.com.cn/shgonggao/2024/2024-04-27/cca3434603a611ef9ba1fa163e26e5de.pdf",
+      "version": "公司披露的三份 PDF",
+      "read_scope": "报告第10页；临2024-028第1–2页；临2024-029第1–2页",
+      "role": "集中修组织与年度股利的披露边界，核预案和实施金额。",
+      "files": [
+        "L334-daqin-maintenance/adjustment.pdf",
+        "L334-daqin-maintenance/adjustment.txt",
+        "L334-daqin-maintenance/implementation.pdf",
+        "L334-daqin-maintenance/implementation.txt",
+        "L334-daqin-maintenance/report.pdf",
+        "L334-daqin-maintenance/report.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L334-daqin-maintenance/report.pdf",
+          "url": "https://dataclouds.cninfo.com.cn/shgonggao/2024/2024-04-27/cca3434603a611ef9ba1fa163e26e5de.pdf"
+        },
+        {
+          "path": "L334-daqin-maintenance/implementation.pdf",
+          "url": "https://static.cninfo.com.cn/finalpage/2024-07-04/1220527318.PDF"
+        },
+        {
+          "path": "L334-daqin-maintenance/adjustment.pdf",
+          "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-07-03/601006_20240703_IXME.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L335",
+      "title": "成都试验：新型农业经营体系创新实践",
+      "authors": "李秀中，第一财经日报",
+      "year": "2014",
+      "record_url": "https://m.yicai.com/news/3864420.html",
+      "version": "记者直接采访",
+      "read_scope": "4月29日抢种，理事长和经理人谈预算、年收入与分红",
+      "role": "用工决定、报批和管理报酬，非逐笔支付。",
+      "files": [
+        "L335-yangliu-budget/field.html",
+        "L335-yangliu-budget/field.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L335-yangliu-budget/field.html",
+          "url": "https://m.yicai.com/news/3864420.html"
+        }
+      ]
+    },
+    {
+      "source_id": "L336",
+      "title": "农业职业经理人市场的形成机制与工资合约——基于崇州市农业“共营制”的现实观察",
+      "authors": "韩文龙、谢璐，《财经科学》2017(6)，58–69",
+      "year": "2017",
+      "record_url": "https://yangtze.silkroadinfo.org.cn/2017/8/17/20170817102007.pdf",
+      "version": "公开 PDF 的网页解析文字；未取得 PDF 字节",
+      "read_scope": "题名、摘要、第三节（四）（五）；无刊页与公开本逐页对照",
+      "role": "三种合约及杨柳与其他社的区别。",
+      "files": [
+        "L336-chongzhou-contracts/study-web-text.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L336-chongzhou-contracts/study-web-text.txt",
+          "url": "https://yangtze.silkroadinfo.org.cn/2017/8/17/20170817102007.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L337",
+      "title": "90后女孩“慧”种田；谋求高质量发展，“天府粮仓”成都片区的共赢实践",
+      "authors": "吴宇佳、杨蕊荻；苏杭",
+      "year": "2022, 2024",
+      "record_url": "https://www.thepaper.cn/newsDetail_forward_18164547",
+      "version": "当事人采访与社员后续回访",
+      "read_scope": "机械插秧、北斗导航、土地适度集中三段",
+      "role": "机社购机、作业量、工费、年度亩分红及补贴。",
+      "files": [
+        "L337-yangliu-followup/dividends.html",
+        "L337-yangliu-followup/dividends.txt",
+        "L337-yangliu-followup/planting.html",
+        "L337-yangliu-followup/planting.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L337-yangliu-followup/planting.html",
+          "url": "https://www.thepaper.cn/newsDetail_forward_18164547"
+        },
+        {
+          "path": "L337-yangliu-followup/dividends.html",
+          "url": "https://cbgc.scol.com.cn/news/5678246"
+        }
+      ]
+    },
+    {
+      "source_id": "L338",
+      "title": "平桂飞碟奖励员工合理化建议",
+      "authors": "罗雪兰，中国有色金属报",
+      "year": "2017",
+      "record_url": "https://www.cnmn.com.cn/ShowNews1.aspx?id=372529",
+      "version": "具名行业记者报道",
+      "read_scope": "正文三段；钛矿仓建议、年节约用语及奖金上限",
+      "role": "一次奖励与预计节支；没有分配增量的决算。",
+      "files": [
+        "L338-pinggui-award/warehouse.html",
+        "L338-pinggui-award/warehouse.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L338-pinggui-award/warehouse.html",
+          "url": "https://www.cnmn.com.cn/ShowNews1.aspx?id=372529"
+        }
+      ]
+    }
+  ],
+  "reused": [
+    {
+      "source_id": "L328",
+      "file": "../round-72/L328-daqin-reports/report-2024.pdf",
+      "read_scope": "PDF第37、156和165页，年度实施与两处附注"
+    },
+    {
+      "source_id": "L329",
+      "file": "../round-72/L329-track-work/rails.html",
+      "read_scope": "2023年4月24日换轨进度及车间作业范围"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# 第 70 批　跨组织的换乘、照护与救济
+
+2026 年 11 月 14 日，第 75 轮。新增 L312–L319 八组资料，共 14 份来源文件。七组为案件、当事方、监管或审计资料，L319 为论文的作者摘要。每份文件旁有同名可检索文字。既有 L278 的风电工程裁判继续保存在[第 65 批](../round-65/README.md)。[专题综述](../../../research/surveys/07-organization-formation/interorganizational-handoffs-and-redress-2026.md) · [章节讨论稿](../../../book/part-04/04-organizations-between-organizations.md) · [论证卡](../../../book/argument-cards/part-04-04-organizations-between-organizations.md)
+
+| 来源 | 本地原件与可核出处 | 实际读段、作用与限制 |
+|---|---|---|
+| L312 伯明翰新街站 R167121 | [裁决 PDF](L312-birmingham/adjudication.pdf) · [逐页文字](L312-birmingham/adjudication.txt) · [乘客叙述](L312-birmingham/passenger.html) · [当事人发布的裁决副本](https://www.kingqueen.org.uk/wp-content/uploads/2025/01/Adjudication-R167121.pdf) | PDF 第 1–5、7 页。从预订、录像在卷中的描述、答复到裁给及接受条件。当事人 2025 年 1 月回顾确认身份和金额；其对以后应赔多少的意见为当事方观点。第 3 页屏幕 17:34，第 4 页同句的“14 分钟”和第二个 17:20 不一致。 |
+| L313 英国铁路与公路办公室（ORR），交接、体验与救济 | [五站检查](L313-rail-handover/stations.html) · [用户调查 PDF](L313-rail-handover/experience.pdf) · [规则附件](L313-rail-handover/redress.html) · [检查出处](https://www.orr.gov.uk/communications-between-stations-when-assisting-passengers) | 2025 年 5 月检查的范围、交接协议、电子确认沿革。M·E·L Research 年度调查 PDF 第 4、6、59–60 页为比例及抽样框。2025 年 10 月规则 A8.1–4；A8.1 的修订痕迹以 HTML 的删除、增加格式为准。三个文件不证明具体站班已纠正。 |
+| L314 ORR，直营车站收费与网络拨款 | [收费指南](L314-rail-funding/charges.html) · [表 1 出处](https://www.orr.gov.uk/access-charging-framework-use-network-rail-infrastructure-user-guide) | 2024–29 监管期、收费权限、表 1 Managed Station QX 与 Network Grant 的付款方及用途。表为整网预测，与具体坡板无单笔对应。 |
+| L315 加拿大联邦法院，2013 FC 342 | [判决扫描](L315-pictou/judgment.pdf) · [逐页本地 OCR](L315-pictou/judgment.txt) · [法院文件公开副本](https://fncaringsociety.com/sites/default/files/Ruling-%20Fed%20Court%20Beadle%20and%20Pictou%20Landing%20FN_0.pdf) | 第 7–27、79–83、104–120、124–127 段与判令（扫描第 39 页）。判令确认超出上限的偿付资格，数额留给双方。原件全 40 页为扫描；文字由 Windows 英文识别生成，数字、姓名及法律措辞须回到影印页。 |
+| L316 A-158-13 双方上诉书状 | [社区与家庭书状](L316-pictou-positions/council.pdf) · [加拿大政府书状](L316-pictou-positions/canada.pdf) · [社区一方出处](https://fncaringsociety.com/sites/default/files/RESPONDENT%27S%20FACTUM_Oct%202013.pdf) · [联邦一方出处](https://fncaringsociety.com/sites/default/files/AGCFactum_Aug%202013.pdf) | 社区与家庭第 27–36 段，联邦第 28–31、57–58、73 段及以后对通常标准的辩论。核支出分母、28 天内照护安排和争议双方解释。双方文件是诉辩，不是第二份法院判决。 |
+| L317 2015 年 5 月 13 日加拿大下议院第 213 次会议 | [Hughes 提问的双语记录](L317-pictou-payment/question.json) · [Valcourt 回答的双语记录](L317-pictou-payment/answer.json) · [下议院正式 PDF 第 75 页](https://www.ourcommons.ca/Content/House/412/Debates/213/HAN213-E.PDF) | 两条相关发言以 OpenParliament 开放接口的原始 JSON 保存，逐句同正式记录核对。包含议员提问与部长报告正偿付的陈述，未附金额、收据或家庭结果。官方整场会议 PDF 通过网页查阅，存档范围为有关问答。 |
+| L318 加拿大原住民服务部，内部审计和申请流程 | [2025 年审计](L318-jordan-audit/audit.html) · [申请、报销及复核](L318-jordan-audit/requests.html) · [审计出处](https://www.sac.gc.ca/eng/1753100031042/1753100058429) | 审计目的、范围、受理积压、付款与个案对应、事后清算和结果指标。申请说明核社区协调、直接提供、拒付复核及报销，页面 2026 年 8 月更新。均不回推为 2010–2013 年的程序。 |
+| L319 Ahrne、Brunsson（2005） | [RePEc 所收作者摘要](L319-meta-organization/abstract.html) · [期刊 DOI](https://doi.org/10.1016/j.scaman.2005.09.005) | *Scandinavian Journal of Management* 21(4), 429–449。本轮只采用成员为组织的定义，不据摘要评估全文的组织变迁理论。 |
+
+[来源元数据](metadata.json)记录作者、版本、可回取地址和读段；[下载记录](download-log.json)保存获取状态及原件哈希；[数字与口径](crosscheck-metadata.json)区分程序、实际服务和使用者结果；[文件清单](manifest.json)可用于验证本地副本。

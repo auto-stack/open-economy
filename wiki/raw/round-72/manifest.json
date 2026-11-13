@@ -1,0 +1,159 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 4504,
+      "sha256": "61ef7832cd3e361394431b4ff0855ded28134253be13081e7f70ad9891ab538e"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 6839,
+      "sha256": "f9d76b50694c15aabba681a8006bc58d3d7c3cccdd23c6d70432fa02c40a3e18"
+    },
+    {
+      "path": "L327-daqin-engineering/control.pdf",
+      "bytes": 726181,
+      "sha256": "0d92ce55c22134b9e147eec333d33cdc00f31c7f0d6b6e70a6f6bb722d257003"
+    },
+    {
+      "path": "L327-daqin-engineering/control.txt",
+      "bytes": 21418,
+      "sha256": "6ad90db3dd058e5fe650e7d0b0af9900ff89b0360cba832b53d29ed2bdd1ebcb"
+    },
+    {
+      "path": "L327-daqin-engineering/formation.pdf",
+      "bytes": 821732,
+      "sha256": "cdf383f63cff53290fba3a6d89e89b36722bbeab3ba4f097e2967cf5acbdba7f"
+    },
+    {
+      "path": "L327-daqin-engineering/formation.txt",
+      "bytes": 58602,
+      "sha256": "3700ccebdba5472a96189b8334fe37674c0dfaa6c97fd1783b1b4faf351777bb"
+    },
+    {
+      "path": "L328-daqin-reports/report-2024.pdf",
+      "bytes": 1545113,
+      "sha256": "fbe3da961b678c2d12df5bb265cf7a3e365ece1042f32ccb5384602352707a8c"
+    },
+    {
+      "path": "L328-daqin-reports/report-2024.txt",
+      "bytes": 589309,
+      "sha256": "048640abaf552f466a72ed7bcb8d6bf2cc1636c2ec1e7f494c07cea906aab634"
+    },
+    {
+      "path": "L328-daqin-reports/report-2025.pdf",
+      "bytes": 1393508,
+      "sha256": "14167934c9ce7efffc4a90382498498f65f1c69219f7ec72e2275c46f5e0b695"
+    },
+    {
+      "path": "L328-daqin-reports/report-2025.txt",
+      "bytes": 613238,
+      "sha256": "fbbb8d506c1a05d3d6d9f5c7aa2bb199dcfb2c8aa601ac09fb9bb57bcb1e2f9d"
+    },
+    {
+      "path": "L329-track-work/rails.html",
+      "bytes": 28410,
+      "sha256": "6e179feabce26fcf596568fafb9739cdd4c09bb9956f0dcd204717fb0a996648"
+    },
+    {
+      "path": "L329-track-work/rails.txt",
+      "bytes": 3229,
+      "sha256": "2513d8d43504405ba7aaaf279b1278cb38a951d87d9d6f2151945d02e0c947fd"
+    },
+    {
+      "path": "L329-track-work/turnout.html",
+      "bytes": 27597,
+      "sha256": "d6edc67be29e5b8ffc2952ca7dd98b6893994e84cc5c3989c479e8eb85b74247"
+    },
+    {
+      "path": "L329-track-work/turnout.txt",
+      "bytes": 3771,
+      "sha256": "4366adf68e4ee0ebfb4a14d3782d104092b2f448c531350efc54d50ec3da5e7b"
+    },
+    {
+      "path": "L330-driver-handover/cab.html",
+      "bytes": 49125,
+      "sha256": "a06456e68e89aec66acb54b001f137498452b9e44b4a60aa73d37e16d0ad9c1a"
+    },
+    {
+      "path": "L330-driver-handover/cab.txt",
+      "bytes": 26910,
+      "sha256": "aac13cea4c5f634557f07e9792d8f8895b434875b1cdecd648c70f4a5f60e54d"
+    },
+    {
+      "path": "L330-driver-handover/driver.html",
+      "bytes": 65833,
+      "sha256": "1529bf32c28a5f4ef39424c2c2f722832fe827e36d7f1f34be8cec9ec775a9c4"
+    },
+    {
+      "path": "L330-driver-handover/driver.txt",
+      "bytes": 12466,
+      "sha256": "02e809df3a42453ba85b178365617984e2cd25c784fee04908707d19e37297f0"
+    },
+    {
+      "path": "L330-driver-handover/track-family.html",
+      "bytes": 39839,
+      "sha256": "b7493c592adb5ea94a639035fc18b3028fe67b95269828ea979011cbe7135af3"
+    },
+    {
+      "path": "L330-driver-handover/track-family.txt",
+      "bytes": 18024,
+      "sha256": "327de7a8fd95c153a4ccd6111e257ca0df6f322be5f277211536345206c505b6"
+    },
+    {
+      "path": "L331-steel-plants/author-2024.pdf",
+      "bytes": 1990790,
+      "sha256": "c03edde361f1ae2fdc442b10ca92938944af09c87181fdef2e63e3401e0e58a4"
+    },
+    {
+      "path": "L331-steel-plants/author-2024.txt",
+      "bytes": 456751,
+      "sha256": "3616845d0b3800395ca4cbe623fac808647136a85a2f61e795fa1faa85b32aac"
+    },
+    {
+      "path": "L331-steel-plants/current-working-paper.pdf",
+      "bytes": 10877855,
+      "sha256": "5cadbbf311a4da298cd014b8ab8388374cef4eb8af02dd5b90e662e76392a9e6"
+    },
+    {
+      "path": "L331-steel-plants/current-working-paper.txt",
+      "bytes": 480461,
+      "sha256": "53a697718d7787880abdf44b2d9bd0a6d1fb717722f21442d5db9cf3cbd81a8a"
+    },
+    {
+      "path": "L331-steel-plants/journal.html",
+      "bytes": 32004,
+      "sha256": "2b361e46645cc3854870bc1b5b0b9cc532e47b7af39a8f48b5c38c5b0196ab5e"
+    },
+    {
+      "path": "L331-steel-plants/journal.txt",
+      "bytes": 2639,
+      "sha256": "fe1dedc8179dd11a15d7f1eb961086d2b0952c09c973347e7dd52e479ecd09e3"
+    },
+    {
+      "path": "L332-steel-replication/package-readme.txt",
+      "bytes": 22699,
+      "sha256": "aa6977ba37699390784e6e6f83d7d03b7c1b53b2c1e9938f4e8f6bdb63a08e90"
+    },
+    {
+      "path": "L332-steel-replication/record.json",
+      "bytes": 4043,
+      "sha256": "81a89ea140216c612ac0f179e41224a66e76bac45e96fc06d710b968bcb36589"
+    },
+    {
+      "path": "L332-steel-replication/replication.zip",
+      "bytes": 51235086,
+      "sha256": "4959d391ff8750bead5428eb4d6dea54630f65b244dcfb0aabd4f7b5b91671c8"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 7898,
+      "sha256": "9a1fbde073658632c7ae8c6d33a30a32d138534a9b4a877a3a8e057622412d7d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5399,
+      "sha256": "160099589e309273797d7d07358bcaa1c06b4bb2d8d7f022e00601ae6ef2219d"
+    }
+  ]
+}

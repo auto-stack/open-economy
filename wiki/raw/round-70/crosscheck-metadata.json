@@ -1,0 +1,52 @@
+{
+  "checks": [
+    {
+      "source": "L312",
+      "incident": "2024-08-16",
+      "complaint": "2024-08-17",
+      "escalation": "2024-10-18",
+      "response": "2024-11-28",
+      "arrived_at": "17:20",
+      "departure_board_display": "17:34",
+      "operators_on_itinerary": 3,
+      "station_operator": "Network Rail",
+      "award_gbp": 1200,
+      "extra_award_for_delay_gbp": 0,
+      "acceptance_window_working_days": 20,
+      "normal_compliance_window_after_acceptance_working_days": 20,
+      "unit": "预订包括下车、协助换车及上车；乘客登车，裁决认定陪同缺失。独立离站时间存在原文歧义，到账与否未核实。"
+    },
+    {
+      "source": "L313–L314",
+      "visited_busy_stations": 5,
+      "new_acknowledgement_function": "2024-10",
+      "completed_survey_responses": 8707,
+      "all_booked_assistance_pct": 78,
+      "none_pct": 11,
+      "release_of_redress_amendment": "2025-10-29",
+      "funding_period": "2024-04-01/2029-03-31",
+      "unit": "体验、现场接手、费用分摊与事后救济为不同问题。每人每年最多两次调查，抽样框排除只通过应用预约的人。"
+    },
+    {
+      "source": "L315–L317",
+      "direct_care_cost_cad": 82164,
+      "period": [
+        "2010-05-27",
+        "2011-03-31"
+      ],
+      "approximate_monthly_cost_cad_by_february_2011": 8200,
+      "share_of_two_relevant_programmes_monthly_personal_and_home_care_budget": "nearly 80%",
+      "federal_appeal_factum_hours_per_28_days": 492,
+      "disputed_monthly_threshold_cad": 2200,
+      "funding_denial": "2011-05-27",
+      "judgment": "2013-04-04",
+      "ministerial_reply": "2015-05-13",
+      "unit": "82,164 与 8,200 为对母子两人居家服务的不同时间口径。超额偿付资格仅涉及 Jeremy 的需要，金额由双方商定；部长报告偿付，非银行流水。"
+    },
+    {
+      "source": "L318–L319; reused L278",
+      "scope": "2025 departmental audit and 2026 page are subsequent evidence, not historical treatment; L319 based on primary authors’ abstract; L278 covers engineering contracting parties only",
+      "unit": "既有 L278 暂缓费用争议但同时开展工程。卷宗不能证明终端用户有直接救济。"
+    }
+  ]
+}

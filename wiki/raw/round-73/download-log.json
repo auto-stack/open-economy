@@ -1,0 +1,79 @@
+[
+  {
+    "path": "L333-rail-rules/rules.html",
+    "url": "https://www.nra.gov.cn/xxgk/gkml/ztjg/gfzd/gfxw/202206/t20220620_327362.shtml",
+    "final_url": "https://www.nra.gov.cn/xxgk/gkml/ztjg/gfzd/gfxw/202206/t20220620_327362.shtml",
+    "bytes": 76878,
+    "sha256": "97fef65636c9e726ae9e41a59d6c6a7713e0af43cf81bd16b20f8ef79f6c81b1",
+    "retrieved_utc": "2026-11-13T17:23:12.138209+00:00"
+  },
+  {
+    "path": "L334-daqin-maintenance/report.pdf",
+    "url": "https://dataclouds.cninfo.com.cn/shgonggao/2024/2024-04-27/cca3434603a611ef9ba1fa163e26e5de.pdf",
+    "final_url": "https://dataclouds.cninfo.com.cn/shgonggao/2024/2024-04-27/cca3434603a611ef9ba1fa163e26e5de.pdf",
+    "bytes": 6412324,
+    "sha256": "0cab6ceb099f4b48f38f7d9a14f12bdbc472153f473080f77a4874c75b156051",
+    "retrieved_utc": "2026-11-13T17:23:19.465684+00:00"
+  },
+  {
+    "path": "L335-yangliu-budget/field.html",
+    "url": "https://m.yicai.com/news/3864420.html",
+    "final_url": "https://m.yicai.com/news/3864420.html",
+    "bytes": 42004,
+    "sha256": "e22915b30a0b9ee5015918d635ef24f8bd3111bf61974494ee368b8d19bfd0f3",
+    "retrieved_utc": "2026-11-13T17:23:11.987708+00:00"
+  },
+  {
+    "path": "L336-chongzhou-contracts/study.pdf",
+    "url": "https://yangtze.silkroadinfo.org.cn/2017/8/17/20170817102007.pdf",
+    "error": "HTTPSConnectionPool(host='yangtze.silkroadinfo.org.cn', port=443): Max retries exceeded with url: /2017/8/17/20170817102007.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  {
+    "path": "L337-yangliu-followup/planting.html",
+    "url": "https://www.thepaper.cn/newsDetail_forward_18164547",
+    "final_url": "https://www.thepaper.cn/newsDetail_forward_18164547",
+    "bytes": 51236,
+    "sha256": "66321549b3ae29aec2527fe2901eb0c8a443f1682a7a46123dc33f4ddf5ee6ad",
+    "retrieved_utc": "2026-11-13T17:23:11.988283+00:00"
+  },
+  {
+    "path": "L337-yangliu-followup/dividends.html",
+    "url": "https://cbgc.scol.com.cn/news/5678246",
+    "final_url": "https://cbgc.scol.com.cn/news/5678246",
+    "bytes": 96664,
+    "sha256": "805914a4a8349ff9970498050d805b5819816365fddc26983eb4eaaa73805c8e",
+    "retrieved_utc": "2026-11-13T17:23:12.211685+00:00"
+  },
+  {
+    "path": "L338-pinggui-award/warehouse.html",
+    "url": "https://www.cnmn.com.cn/ShowNews1.aspx?id=372529",
+    "final_url": "https://www.cnmn.com.cn/ShowNews1.aspx?id=372529",
+    "bytes": 36862,
+    "sha256": "53a1cc836a17288e3d93b38ca51ad9866ebd2e6f4cba3a8651fc6ae89ab9f380",
+    "retrieved_utc": "2026-11-13T17:23:11.893268+00:00"
+  },
+  {
+    "path": "L334-daqin-maintenance/implementation.pdf",
+    "url": "https://static.cninfo.com.cn/finalpage/2024-07-04/1220527318.PDF",
+    "final_url": "https://static.cninfo.com.cn/finalpage/2024-07-04/1220527318.PDF",
+    "sha256": "4fc0c3ea28850616329bf91fef13604bc3c57bf02eb17435923e363c8b7e49e1",
+    "retrieved_utc": "2026-11-13T17:34:28.239507+00:00",
+    "bytes": 739944
+  },
+  {
+    "path": "L334-daqin-maintenance/adjustment.pdf",
+    "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-07-03/601006_20240703_IXME.pdf",
+    "final_url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-07-03/601006_20240703_IXME.pdf",
+    "sha256": "c683ac19c0069bf1d3b761e2a4430f9de5414a1b3283e62226368c2ffe752de3",
+    "retrieved_utc": "2026-11-13T17:35:40.051966+00:00",
+    "bytes": 239097
+  },
+  {
+    "path": "L336-chongzhou-contracts/study-web-text.txt",
+    "url": "https://yangtze.silkroadinfo.org.cn/2017/8/17/20170817102007.pdf",
+    "method": "在线读取公开 PDF 解析行 0–355，依原顺序归并为可检索文字；无本地 PDF 字节",
+    "bytes": 32457,
+    "sha256": "de874cec914ce371911ad22109deb8e18986fb99611306800834330502fb8b94",
+    "retrieved_utc": "2026-11-13T17:37:20.819990+00:00"
+  }
+]

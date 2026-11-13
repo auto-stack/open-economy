@@ -1,0 +1,14 @@
+# 第 73 批　谁决定生产，谁承担成本，谁领取回报
+
+2026 年 11 月 14 日，第 78 轮。新增 L333–L338 六组资料。取得五份网页原件、三份公司披露 PDF，均附可检索文字。另存一篇合约研究的网页解析全文，原 PDF 直链未能下载。复用前批 L328 的 2024 年年报及 L329 的施工方原件。[专题综述](../../../research/surveys/03-competition-cooperation-distribution/decision-rights-costs-and-returns-china-2026.md) · [书章](../../../book/part-05/03-rights-control-and-distribution.md) · [六项核查](../../../book/argument-cards/part-05-03-rights-control-and-distribution.md)
+
+| 资料与原址 | 本地文件 | 实际读段、证据用途与边界 |
+|---|---|---|
+| L333 国家铁路局，国铁运输监〔2021〕31 号，《铁路营业线施工安全管理办法》。[发布页](https://www.nra.gov.cn/xxgk/gkml/ztjg/gfzd/gfxw/202206/t20220620_327362.shtml) | [网页](L333-rail-rules/rules.html) · [文字](L333-rail-rules/rules.txt) | 第 16、18–21、24–28、51、61 条。适用于 2023 年铁路案例的规范文本。审核、调度、施工和设备管理共同确认、签认开通；不能据此补写当日签名。 |
+| L334 大秦铁路股份有限公司，《2023 年度社会责任报告》、2024 年 7 月调整及权益分派实施公告。[公司披露 PDF](https://dataclouds.cninfo.com.cn/shgonggao/2024/2024-04-27/cca3434603a611ef9ba1fa163e26e5de.pdf) | [原件](L334-daqin-maintenance/report.pdf) · [逐页文字](L334-daqin-maintenance/report.txt) · [调整公告](L334-daqin-maintenance/adjustment.pdf) · [文字](L334-daqin-maintenance/adjustment.txt) · [实施公告](L334-daqin-maintenance/implementation.pdf) · [文字](L334-daqin-maintenance/implementation.txt) | PDF 第 10 页典型事例 8、同页股东回报。三级指挥与多线集中修口径，每股 0.44 元为当时预案，7 月实施公告第 1–2 页列 0.38193 元、登记日与支付办法。[L328 后续年报](../round-72/L328-daqin-reports/report-2024.pdf)第 37 页确认实施。本轮复用 [L329 施工者当期记录](../round-72/L329-track-work/rails.txt)缩小到两车间、区段和日期。 |
+| L335 李秀中，《成都试验：新型农业经营体系创新实践》，2014-05-28。[第一财经日报](https://m.yicai.com/news/3864420.html) | [网页](L335-yangliu-budget/field.html) · [文字](L335-yangliu-budget/field.txt) | 4 月 29 日抢种、理事长陈永建与王志全谈年度计划、预算、早期收费、2013 年规则调整及个人报酬。自述收入有别于支付明细。 |
+| L336 韩文龙、谢璐，《农业职业经理人市场的形成机制与工资合约——基于崇州市农业“共营制”的现实观察》，《财经科学》2017 年第 6 期，58–69 页。[公开研究文本](https://yangtze.silkroadinfo.org.cn/2017/8/17/20170817102007.pdf) | [网页解析的可检索全文](L336-chongzhou-contracts/study-web-text.txt) | 在线读取题名、摘要及第三节（四）（五），核对合约治理和具名合作社类型的比较。已保存公开文本解析器返回的 0–355 行，保留文字层本身的识别误差。未取得该 PDF 字节或期刊原排版，按节定位。 |
+| L337 吴宇佳、杨蕊荻，崇州融媒采访（2022-05-19）；苏杭，《四川农村日报》（2024-11-26）。[插秧机采访](https://www.thepaper.cn/newsDetail_forward_18164547) · [社员分红回访](https://cbgc.scol.com.cn/news/5678246) | [机插网页](L337-yangliu-followup/planting.html) · [文字](L337-yangliu-followup/planting.txt) · [分红网页](L337-yangliu-followup/dividends.html) · [文字](L337-yangliu-followup/dividends.txt) | “机械插秧”“北斗导航”中的购机、人工报价、手机单条记录。后篇“土地适度集中”列 2023 年分红、补贴和李燕自述，另述尚未结算的 2024 年预计数。 |
+| L338 罗雪兰，《平桂飞碟奖励员工合理化建议》，《中国有色金属报》，2017-05-18。[原报道](https://www.cnmn.com.cn/ShowNews1.aspx?id=372529) | [网页](L338-pinggui-award/warehouse.html) · [文字](L338-pinggui-award/warehouse.txt) | 正文三段。核对具名获奖人、建议奖上限和预估年度人工节约。另两项建议有各自的效果；科技成果奖是另一类别。报道无工资单或项目决算。 |
+
+[来源元数据](metadata.json) · [取得方式与下载记录](download-log.json) · [数字与口径核对](crosscheck-metadata.json) · [校验清单](manifest.json)

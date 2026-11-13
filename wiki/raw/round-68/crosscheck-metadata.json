@@ -1,0 +1,61 @@
+{
+  "checks": [
+    {
+      "source": "L296–L297",
+      "analytic_dyads": 2804,
+      "post_admission_days": 180,
+      "survey_respondents": 452,
+      "caregivers_hospitalized": 75,
+      "planned_in_advance": 52,
+      "no_care_plan": 23,
+      "unexpected_admissions": 51,
+      "journey_mapping_interviews": 18,
+      "unit": "75 includes both planned and unexpected admissions; qualitative interviews are not a follow-up of each dyad in the cohort."
+    },
+    {
+      "source": "L298–L300",
+      "direct_still_active_dependents": 2288,
+      "observed_removals": 419,
+      "observation_cutoff": "2023-09-01",
+      "explicit_notice_HR": 1.58,
+      "confidence_interval": [
+        1.26,
+        1.98
+      ],
+      "interview_participants": 33,
+      "node_sass_eol": "2024-07-24",
+      "hmrc_merge": "2024-10-23",
+      "unit": "Manifest removal and successful production migration have distinct endpoints; the named case postdates the dataset."
+    },
+    {
+      "source": "L301–L302, L304",
+      "closed_elementary_schools_in_2013_sample": 47,
+      "spring_K_to_7": 10708,
+      "reenrolled_in_district": 10062,
+      "unobserved_in_fall_district_roster": 646,
+      "welcoming_school_pct_of_returners": 66,
+      "welcoming_school_if_same_building_pct": 83,
+      "welcoming_school_if_new_building_pct": "about half",
+      "welcoming_schools_interviewed": 6,
+      "iep_interviews": 29,
+      "iep_designated": 15,
+      "iep_other_CPS": 14,
+      "unit": "Same closure policy; qualitative samples and academic outcome models have different inclusion rules."
+    },
+    {
+      "source": "L303",
+      "section": "105 ILCS 5/34-225(a)–(d)",
+      "act": "97-1133",
+      "effective": "2012-11-30",
+      "act_pdf_pages": [
+        4,
+        5
+      ],
+      "cps_exhibit_pages": [
+        96,
+        97
+      ],
+      "unit": "Named official, written plan, resource commitment for at least first full academic year; performance requires separate evidence."
+    }
+  ]
+}

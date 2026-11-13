@@ -1,0 +1,140 @@
+[
+  {
+    "path": "L312-birmingham/adjudication.pdf",
+    "url": "https://www.kingqueen.org.uk/wp-content/uploads/2025/01/Adjudication-R167121.pdf",
+    "final_url": "https://www.kingqueen.org.uk/wp-content/uploads/2025/01/Adjudication-R167121.pdf",
+    "retrieved_utc": "2026-11-13T16:08:28.553244+00:00",
+    "bytes": 174325,
+    "sha256": "9b53e6aa1ea59a9c8ebfee06cba17e8c48871e90cb94b46307c9c4f3bbe6e6d7",
+    "text_len": 18492
+  },
+  {
+    "path": "L313-rail-handover/stations.html",
+    "url": "https://www.orr.gov.uk/communications-between-stations-when-assisting-passengers",
+    "final_url": "https://www.orr.gov.uk/communications-between-stations-when-assisting-passengers",
+    "retrieved_utc": "2026-11-13T16:08:21.172275+00:00",
+    "bytes": 143801,
+    "sha256": "feaf09ff0109c0afe683d688d9db5e674636453fb0d409387e7e884207794954",
+    "text_len": 15428
+  },
+  {
+    "path": "L313-rail-handover/redress.html",
+    "url": "https://www.orr.gov.uk/consultation-accessible-travel-policy-atp-guidance-redress-requirements-decision-document-html-annex-b",
+    "final_url": "https://www.orr.gov.uk/consultation-accessible-travel-policy-atp-guidance-redress-requirements-decision-document-html-annex-b",
+    "retrieved_utc": "2026-11-13T16:08:21.129676+00:00",
+    "bytes": 128819,
+    "sha256": "7795a115adf40bab051ebd822faf22b12d33973a2c25af5700ba282825d03a83",
+    "text_len": 3308
+  },
+  {
+    "path": "L314-rail-funding/charges.html",
+    "url": "https://www.orr.gov.uk/access-charging-framework-use-network-rail-infrastructure-user-guide",
+    "final_url": "https://www.orr.gov.uk/access-charging-framework-use-network-rail-infrastructure-user-guide",
+    "retrieved_utc": "2026-11-13T16:08:20.750113+00:00",
+    "bytes": 133410,
+    "sha256": "e23440e4d6a791b963693fedc3721169483f089784c4932ec6de9ddeb976bca3",
+    "text_len": 5312
+  },
+  {
+    "path": "L315-pictou/judgment.pdf",
+    "url": "https://fncaringsociety.com/sites/default/files/Ruling-%20Fed%20Court%20Beadle%20and%20Pictou%20Landing%20FN_0.pdf",
+    "final_url": "https://fncaringsociety.com/sites/default/files/Ruling-%20Fed%20Court%20Beadle%20and%20Pictou%20Landing%20FN_0.pdf",
+    "retrieved_utc": "2026-11-13T16:08:22.609927+00:00",
+    "bytes": 1764001,
+    "sha256": "1e8eea995a6d1d0e0182b6840a9b9841d86e3f1d536395cd98750c5a72e05f8e",
+    "text_len_at_initial_extraction": 630,
+    "derived_text_note": "The scan has no text layer. Local Windows OCR supplied all 40 pages; PDF 4 para 11 checked against the scan for 80%."
+  },
+  {
+    "path": "L316-pictou-positions/council.pdf",
+    "url": "https://fncaringsociety.com/sites/default/files/RESPONDENT%27S%20FACTUM_Oct%202013.pdf",
+    "final_url": "https://fncaringsociety.com/sites/default/files/RESPONDENT%27S%20FACTUM_Oct%202013.pdf",
+    "retrieved_utc": "2026-11-13T16:08:22.326699+00:00",
+    "bytes": 218301,
+    "sha256": "58b0ea37f0dbe28f4d98e9c9e6930009c47fc55919592feff272049ed7a413b0",
+    "text_len": 67232
+  },
+  {
+    "path": "L316-pictou-positions/canada.pdf",
+    "url": "https://fncaringsociety.com/sites/default/files/AGCFactum_Aug%202013.pdf",
+    "final_url": "https://fncaringsociety.com/sites/default/files/AGCFactum_Aug%202013.pdf",
+    "retrieved_utc": "2026-11-13T16:08:22.328184+00:00",
+    "bytes": 964655,
+    "sha256": "f68fbf9b859b917de9a7b8ff7cf9e5c3e2cc7ffcbe43c39c10b12b45f7c1f6dc",
+    "text_len": 61855
+  },
+  {
+    "requested": "L317-pictou-payment/hansard.html",
+    "url": "https://www.ourcommons.ca/documentviewer/en/41-2/house/sitting-213/hansard",
+    "error": "403 Client Error: Forbidden for url: https://www.ourcommons.ca/documentviewer/en/41-2/house/sitting-213/hansard"
+  },
+  {
+    "path": "L318-jordan-audit/audit.html",
+    "url": "https://www.sac.gc.ca/eng/1753100031042/1753100058429",
+    "final_url": "https://www.sac.gc.ca/eng/1753100031042/1753100058429",
+    "retrieved_utc": "2026-11-13T16:08:23.184078+00:00",
+    "bytes": 184755,
+    "sha256": "d9ca804832581c657f4cb92289d25f9d5da3b3a6bed0bb26240aba63dc0328a7",
+    "text_len": 130089
+  },
+  {
+    "path": "L318-jordan-audit/requests.html",
+    "url": "https://www.sac-isc.gc.ca/eng/1568396296543/1582657596387",
+    "final_url": "https://www.sac-isc.gc.ca/eng/1568396296543/1582657596387",
+    "retrieved_utc": "2026-11-13T16:08:25.427995+00:00",
+    "bytes": 54718,
+    "sha256": "070a3be4a5801747913c4bead2bb40f7b955c39cf6f6a14bf57aa7aaa96fc3dd",
+    "text_len": 26059
+  },
+  {
+    "requested": "L317-pictou-payment/hansard.pdf",
+    "url": "https://publications.gc.ca/collections/collection_2015/parl/X3-412-213-eng.pdf",
+    "error": "Publication URL did not return a PDF. The official Hansard was viewed online; bilingual question and answer were archived from the OpenParliament API."
+  },
+  {
+    "path": "L317-pictou-payment/question.json",
+    "url": "https://api.openparliament.ca/debates/2015/5/13/carol-hughes-3/?format=json",
+    "final_url": "https://api.openparliament.ca/debates/2015/5/13/carol-hughes-3/?format=json",
+    "retrieved_utc": "2026-11-13T16:13:16.092582+00:00",
+    "bytes": 1293,
+    "sha256": "71c8017597ebf571e274764088ace2148b6987e813f40fad546023c4543ce11a",
+    "text_len": 417
+  },
+  {
+    "path": "L317-pictou-payment/answer.json",
+    "url": "https://api.openparliament.ca/debates/2015/5/13/bernard-valcourt-102/?format=json",
+    "final_url": "https://api.openparliament.ca/debates/2015/5/13/bernard-valcourt-102/?format=json",
+    "retrieved_utc": "2026-11-13T16:13:14.206030+00:00",
+    "bytes": 1628,
+    "sha256": "587de81c55af8bf69c4bbb8d275b9eb0c4e0c321e8670b633c792755ca10f65d",
+    "text_len": 727,
+    "official_source": "https://www.ourcommons.ca/Content/House/412/Debates/213/HAN213-E.PDF#page=75"
+  },
+  {
+    "path": "L313-rail-handover/experience.pdf",
+    "url": "https://www.orr.gov.uk/sites/default/files/2025-07/2024-2025-experiences-of-passenger-assist-research-report.pdf",
+    "final_url": "https://www.orr.gov.uk/sites/default/files/2025-07/2024-2025-experiences-of-passenger-assist-research-report.pdf",
+    "retrieved_utc": "2026-11-13T16:13:44.523772+00:00",
+    "bytes": 2665783,
+    "sha256": "e3ba1cad0cd83a3cf109945f609f21b32d3afee004be588ee450c6d853722510",
+    "text_len": 134428
+  },
+  {
+    "path": "L319-meta-organization/abstract.html",
+    "url": "https://ideas.repec.org/a/eee/scaman/v21y2005i4p429-449.html",
+    "final_url": "https://ideas.repec.org/a/eee/scaman/v21y2005i4p429-449.html",
+    "retrieved_utc": "2026-11-13T16:15:27.401559+00:00",
+    "bytes": 31293,
+    "sha256": "a378cc7b0624a0c8a6eb89ec8aeae22bda7496f5cb6e7ec29840d6c630f1ee13",
+    "text_len": 4790
+  },
+  {
+    "path": "L312-birmingham/passenger.html",
+    "url": "https://www.kingqueen.org.uk/rail-ombudsman-compensation/",
+    "final_url": "https://www.kingqueen.org.uk/rail-ombudsman-compensation/",
+    "retrieved_utc": "2026-11-13T16:20:49.440601+00:00",
+    "bytes": 107291,
+    "sha256": "2f60e76099212df415f2a0b1f452a287244a9f48bd33d949f690911cc7189894",
+    "text_len": 5065
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "requested": "L320-school-glasses/trial.pdf",
+    "errors": [
+      {
+        "url": "https://www.bmj.com/content/bmj/349/bmj.g5740.full.pdf",
+        "error": "403 Client Error: Forbidden for url: https://www.bmj.com/content/bmj/349/bmj.g5740.full.pdf"
+      },
+      {
+        "url": "https://www.bmj.com/content/349/bmj.g5740.full.pdf",
+        "error": "403 Client Error: Forbidden for url: https://www.bmj.com/content/349/bmj.g5740.full.pdf"
+      }
+    ]
+  },
+  {
+    "path": "L321-glasses-cost/delivery.pdf",
+    "url": "https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/ordeal_mechanisms_information_and_cost_effectiveness_of_subsidized_eyeglasses_2022.pdf",
+    "final_url": "https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/ordeal_mechanisms_information_and_cost_effectiveness_of_subsidized_eyeglasses_2022.pdf",
+    "bytes": 830039,
+    "sha256": "3bd1ff481f8763c3272133a455f09ae5a0547a67e33785ea5cdb39621f6f160b",
+    "retrieved_utc": "2026-11-13T16:31:48.074203+00:00",
+    "prior_attempts": []
+  },
+  {
+    "requested": "L322-ecommerce/rural.pdf",
+    "errors": [
+      {
+        "url": "https://www.wita.org/wp-content/uploads/2021/11/aeri.20190382.pdf",
+        "error": "404 Client Error: Not Found for url: https://www.wita.org/wp-content/uploads/2021/11/aeri.20190382.pdf"
+      },
+      {
+        "url": "https://pubs.aeaweb.org/doi/pdf/10.1257/aeri.20190382",
+        "error": "403 Client Error: Forbidden for url: https://pubs.aeaweb.org/doi/pdf/10.1257/aeri.20190382"
+      }
+    ]
+  },
+  {
+    "path": "L323-xicheng/notice.html",
+    "url": "https://www.beijing.gov.cn/zhengce/gfxwj/202005/t20200520_1903693.html",
+    "final_url": "https://www.beijing.gov.cn/zhengce/gfxwj/202005/t20200520_1903693.html",
+    "bytes": 36412,
+    "sha256": "bc52554b51649f7e0773d7280d1b4472f9d638d549185c670ac5e369ea5fc170",
+    "retrieved_utc": "2026-11-13T16:31:40.120305+00:00",
+    "prior_attempts": []
+  },
+  {
+    "path": "L323-xicheng/implementation.html",
+    "url": "https://www.beijing.gov.cn/zhengce/zcjd/202104/t20210424_2367522.html",
+    "final_url": "https://www.beijing.gov.cn/zhengce/zcjd/202104/t20210424_2367522.html",
+    "bytes": 31458,
+    "sha256": "900d4a553f6a718d2077901b2fa4368d81dbde0b1f544aeab2f8807791e57f26",
+    "retrieved_utc": "2026-11-13T16:31:40.119284+00:00",
+    "prior_attempts": []
+  },
+  {
+    "path": "L324-school-housing/prices.pdf",
+    "url": "https://qks.sufe.edu.cn/j/PDFFull/A4853ef1b-4489-41e3-b927-20fe42b087dc.pdf",
+    "final_url": "https://qks.sufe.edu.cn/j/PDFFull/A4853ef1b-4489-41e3-b927-20fe42b087dc.pdf",
+    "bytes": 1353352,
+    "sha256": "3aa3885847005829e269e4e9ebafc43a075a48fd8de10725dd197961af8d88d7",
+    "retrieved_utc": "2026-11-13T16:31:41.789545+00:00",
+    "prior_attempts": [
+      {
+        "url": "https://cfr.cufe.edu.cn/__local/C/2C/1E/8A0FA8876AEE85F731630BE3B1C_9DD6CA10_1C6295.pdf",
+        "error": "403 Client Error: Forbidden for url: https://cfr.cufe.edu.cn/__local/C/2C/1E/8A0FA8876AEE85F731630BE3B1C_9DD6CA10_1C6295.pdf"
+      }
+    ]
+  },
+  {
+    "path": "L325-balance-sheet/accounts.html",
+    "url": "https://www.stats.gov.cn/sj/sjjd/202302/t20230202_1895931.html",
+    "final_url": "https://www.stats.gov.cn/sj/sjjd/202302/t20230202_1895931.html",
+    "bytes": 113681,
+    "sha256": "32dfda6fb3339d748c6c56d1ec2affd0d3bf0c41a447dbc6e93cbb2f50dabb70",
+    "retrieved_utc": "2026-11-13T16:31:40.585790+00:00",
+    "prior_attempts": []
+  },
+  {
+    "requested": "L326-health-settlement/case.html",
+    "errors": [
+      {
+        "url": "https://www.nhsa.gov.cn/art/2024/12/17/art_52_15144.html",
+        "error": "国家医疗保障局 医保动态 广东省实现病毒性肝炎等门诊慢特病跨省直接结算\n1\n国家医疗保障局政务服务窗口\n/col/col50/index.html\n医保动态\n/col/col52/index.html\n首页\n>\n国家医疗保障局政务服务窗口\n"
+      }
+    ]
+  },
+  {
+    "path": "L326-health-settlement/procedure.html",
+    "url": "https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html",
+    "final_url": "https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html",
+    "bytes": 74147,
+    "sha256": "84ca0161b19b0e683b8ddec9294c8be8910e03d83ebbaf1efcf5bfb487665649",
+    "retrieved_utc": "2026-11-13T16:31:40.901058+00:00",
+    "prior_attempts": []
+  },
+  {
+    "path": "L320-school-glasses/trial.pdf",
+    "url": "https://pureadmin.qub.ac.uk/ws/files/18242014/Effect_of_providing.pdf",
+    "final_url": "https://pureadmin.qub.ac.uk/ws/files/18242014/Effect_of_providing.pdf",
+    "bytes": 2407400,
+    "sha256": "e1ae02a7c4fe218f3fb02bf3a565cf1f0bbb74b75dbde5669495682de3df1aa4",
+    "retrieved_utc": "2026-11-13T16:32:50.132713+00:00",
+    "prior_attempts": []
+  },
+  {
+    "path": "L322-ecommerce/rural.pdf",
+    "url": "https://ben-faber.com/ECommerce_CFGL.pdf",
+    "final_url": "https://ben-faber.com/ECommerce_CFGL.pdf",
+    "bytes": 1316063,
+    "sha256": "ce7b06c1ad19fb03f986a79ba0771398d50bdeaeeb57772149cfdde6d5c59154",
+    "retrieved_utc": "2026-11-13T16:32:42.973393+00:00",
+    "prior_attempts": []
+  },
+  {
+    "path": "L326-health-settlement/case.html",
+    "url": "https://www.nhsa.gov.cn/art/2024/12/17/art_14_15143.html",
+    "final_url": "https://www.nhsa.gov.cn/art/2024/12/17/art_14_15143.html",
+    "bytes": 11986,
+    "sha256": "46ea913a339cce34dcd4fcad947a72e8d10547ab1de724bcfa6155f9f9120b9f",
+    "retrieved_utc": "2026-11-13T16:32:38.723780+00:00",
+    "prior_attempts": []
+  },
+  {
+    "path": "L325-balance-sheet/net-worth.html",
+    "url": "https://www.stats.gov.cn/zs/tjws/tjfx/202301/t20230101_1903698.html",
+    "final_url": "https://www.stats.gov.cn/zs/tjws/tjfx/202301/t20230101_1903698.html",
+    "bytes": 113222,
+    "sha256": "143c5715af38f563133c4bd18abde546d7c56221fb825a90f092dd422417c8bc",
+    "retrieved_utc": "2026-11-13T16:47:38.536843+00:00",
+    "prior_attempts": []
+  }
+]

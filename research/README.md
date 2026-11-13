@@ -1,5 +1,19 @@
 # 通用组织理论与论文路线
 
+第 79–86 轮为后续八章分别整理定向综述。第五部分由交易与支付史进入投资及共享维护，第六部分对同一任务比较技术、资金与责任，提出可被否定的制度假说。[逐章来源与读段](../wiki/raw/round-74/README.md) · [各章及论证卡](../book/README.md)
+
+第 78 轮沿三项中国生产决定核对审批、当期付出与后续回报，比较具体工点、一次购机和一项技改建议可追到的证据。[专题综述](surveys/03-competition-cooperation-distribution/decision-rights-costs-and-returns-china-2026.md) · [书章](../book/part-05/03-rights-control-and-distribution.md) · [第 73 批来源](../wiki/raw/round-73/README.md)
+
+第 77 轮研究同一线路和同一工厂的长期产出、设备养护与技能传递，核查公开年报、工程图表及钢铁厂研究的作图结果。[中国铁路与钢厂综述](surveys/02-wealth-money-history/production-specialization-and-accumulation-china-2026.md) · [章节](../book/part-05/02-production-specialization-and-accumulation.md) · [第 72 批来源](../wiki/raw/round-72/README.md)
+
+第 76 轮比较中国学校、村庄和城市住房的资源、使用与估值，同时为跨组织一章补入贵州参保人在广州结算的个案。[财富与机会综述](surveys/02-wealth-money-history/wealth-use-and-opportunity-china-2026.md) · [书章](../book/part-05/01-wealth-uses-and-opportunities.md) · [第 71 批来源](../wiki/raw/round-71/README.md)
+
+第 75 轮核对跨组织交接时的实际服务、资金和复核路径。[专题综述](surveys/07-organization-formation/interorganizational-handoffs-and-redress-2026.md) · [章节](../book/part-04/04-organizations-between-organizations.md) · [第 70 批来源](../wiki/raw/round-70/README.md)
+
+第 74 轮从同一工作安排的草案追到执行，核查资本支持、经理授权、集体批准与个体异议。[专题综述](surveys/05-firm-authority-and-democracy/work-arrangements-and-employee-voice-2026.md) · [章节](../book/part-04/03-firms-workplaces-and-decision-rights.md) · [第 69 批来源](../wiki/raw/round-69/README.md)
+
+第 73 轮比较照护伴侣暂离、软件停更和校点关闭后的原使用者，分别核查接续、负担与责任。[专题综述](surveys/07-organization-formation/care-software-and-public-service-interruptions-2026.md) · [书章](../book/part-04/02-care-knowledge-and-public-services.md) · [本地来源](../wiki/raw/round-68/README.md)
+
 第 72 轮沿同一项共同活动追踪组织形成、实际继任和原使用者的处境，从抵制公交中的替代交通、社区取药、手压泵维修与诊所交接修订第四部分第 1 章。[专题综述](surveys/07-organization-formation/formation-handover-and-service-continuity-2026.md) · [书章](../book/part-04/01-formation-and-continuity.md) · [归档资料](../wiki/raw/round-67/README.md)
 
 第 71 轮完成[共同活动中的意义、受益与贡献认定](surveys/07-organization-formation/meaning-and-participation-over-time-2026.md)。以同人访谈、配对结案、受益者对照和二十年后追访，修订第三部分第 4 章[《人的意义与共同生活》](../book/part-03/04-human-meaning-and-common-life.md)。[原件、读页与复核](../wiki/raw/round-66/README.md)

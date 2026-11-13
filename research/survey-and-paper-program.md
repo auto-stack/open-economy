@@ -1,5 +1,7 @@
 # 为书籍服务的年度综述与资料研究
 
+2026 年 11 月 14 日，六部分 28 章已有首轮讨论稿。第 79–86 轮把后八章的取证纳入既有专题，每章有可独立更新的综述与论证卡。[本次章别及来源](../wiki/raw/round-74/README.md) · [书稿总目](../book/outline.md)
+
 第59轮已将两轮演进研究写入第一部分第5章，用交接、技能重构和实际履行比较不同尺度的改变。[章节讨论稿](../book/part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](../book/argument-cards/part-01-05-how-organizations-evolve.md)
 
 2026年11月13日阶段更新：[组织怎样演进首轮](surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/README.md)开始供证P1.5。按对象与机制分专题，先补过程证据，综述服务书籍；不要求一章对应一篇发表论文。

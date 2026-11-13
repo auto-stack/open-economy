@@ -1,0 +1,204 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 2427,
+      "sha256": "a920c961fe70de31011c69aefb9d056354809821bfa467f0640b1574095845ec"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 8263,
+      "sha256": "04f87e3327ca3d7f9e57e74ed54cffb8e4c0c6b289ff2dcacfa888d44c97fd31"
+    },
+    {
+      "path": "L305-ctrip/study.pdf",
+      "bytes": 1010817,
+      "sha256": "95276557424e108ad47f59e849aeba27ac4cb780de75e30b0b6434bf63360a62"
+    },
+    {
+      "path": "L305-ctrip/study.txt",
+      "bytes": 123469,
+      "sha256": "416bc311af66a22d7f85f37fd397bed0e4b1949472c96c66868c2a43a4466bb0"
+    },
+    {
+      "path": "L306-boeing-offers/comparison.pdf",
+      "bytes": 284236,
+      "sha256": "3cc6daa5839edd28daae305ab025edea0fff0603aad49753a7258f4107e72f6c"
+    },
+    {
+      "path": "L306-boeing-offers/comparison.txt",
+      "bytes": 1413,
+      "sha256": "09f619726fab472d6b92821762678cd93922f0b337949a0dd6a60c26a2e3b7f8"
+    },
+    {
+      "path": "L306-boeing-offers/initial.pdf",
+      "bytes": 573031,
+      "sha256": "a50a76457455ce3cb34e6d895b5bf67f5967d3c32af0d9b294e68e38203eb217"
+    },
+    {
+      "path": "L306-boeing-offers/initial.txt",
+      "bytes": 25491,
+      "sha256": "aabbf3a99db04b026787c99beaa0a39ef1651ecd8936e509ec2e32a8eb365ef1"
+    },
+    {
+      "path": "L306-boeing-offers/mid-terms.pdf",
+      "bytes": 1995763,
+      "sha256": "d5a0db169d863284b959b5c435cb4378efc19387fd6cff36a3ef71bf74c61c2a"
+    },
+    {
+      "path": "L306-boeing-offers/mid-terms.txt",
+      "bytes": 726305,
+      "sha256": "345fd31c462dc80addaae500ac7b2f6909d0a9c2fa5ee935fa219c6df3bdaa15"
+    },
+    {
+      "path": "L306-boeing-offers/terms.pdf",
+      "bytes": 1996990,
+      "sha256": "7f6ff5843e55a14eacdc0ec89af6ad19accb06aeea43822b0264e51c1331d545"
+    },
+    {
+      "path": "L306-boeing-offers/terms.txt",
+      "bytes": 725807,
+      "sha256": "96475974a010c391c7e66df2091774f8adfb3ee1a2e9f089e88b3083c8bee00e"
+    },
+    {
+      "path": "L307-boeing-vote/oct-vote.html",
+      "bytes": 77778,
+      "sha256": "dfc9d7705d2d988965052d84c85adfa3ea2edf801d462201430fc1a469350c1f"
+    },
+    {
+      "path": "L307-boeing-vote/oct-vote.txt",
+      "bytes": 4896,
+      "sha256": "8be67c2d125ddc4e77ecea8f2427a9a0c397dc4de4af31e4319f1b875bfcebce"
+    },
+    {
+      "path": "L307-boeing-vote/ratified.html",
+      "bytes": 84722,
+      "sha256": "bb166aff39bb749136fab0e176d932b742f9a7a66f3d02da073a9ed791f7dd48"
+    },
+    {
+      "path": "L307-boeing-vote/ratified.txt",
+      "bytes": 9549,
+      "sha256": "929e6630a7f0743f28460a790423e9e95ab7a7d5060f2cc061fde4be810455c3"
+    },
+    {
+      "path": "L307-boeing-vote/return.pdf",
+      "bytes": 657556,
+      "sha256": "52c38520a095a88a08dda6e68eefbf363a0a17e6be7e729a661ce50db9c5b4dc"
+    },
+    {
+      "path": "L307-boeing-vote/return.txt",
+      "bytes": 389,
+      "sha256": "75a8b76e73c42bfbaba3743c948b35354101f7a3b592cc79e0a15ce14cb70d6a"
+    },
+    {
+      "path": "L307-boeing-vote/sept-vote.pdf",
+      "bytes": 1816441,
+      "sha256": "2e5a7d802409bd01b605a3179ced916ff7168c7e609f4d40767cadafbb028e54"
+    },
+    {
+      "path": "L307-boeing-vote/sept-vote.txt",
+      "bytes": 39643,
+      "sha256": "0957c0d51694f2bbb41a25b0fbe16e01f03fd25b03e47929a707b3deee791548"
+    },
+    {
+      "path": "L307-boeing-vote/strike-faq.pdf",
+      "bytes": 2569346,
+      "sha256": "e0546719d8aec616dd4e82cbdac12874beff9ed6039b0f4ae886a14894ce9a00"
+    },
+    {
+      "path": "L307-boeing-vote/strike-faq.txt",
+      "bytes": 55591,
+      "sha256": "cbd077bf6e59062c79167d97edfbe9b3da47a8a4926cd32ad1cf6a84b4ce570a"
+    },
+    {
+      "path": "L308-boeing-restart/quarter.html",
+      "bytes": 423132,
+      "sha256": "0a0ff64537f22a4470211ff4dfbdd46e4840a977898d4a4c7bcc632c17133f5b"
+    },
+    {
+      "path": "L308-boeing-restart/quarter.txt",
+      "bytes": 30145,
+      "sha256": "1d8e13e745b71f16459da310fd315724f90c86820ed3f22756956c44bbaeaa86"
+    },
+    {
+      "path": "L308-boeing-restart/sick-leave.html",
+      "bytes": 59108,
+      "sha256": "560023964c11cc2f058022cbd82d714186b18c6d973de6bdaf6c02bb65bba601"
+    },
+    {
+      "path": "L308-boeing-restart/sick-leave.txt",
+      "bytes": 2231,
+      "sha256": "08d0aaf62c16ef7003eb0721b2a2a39ee7d2ab72374ea684457c7644addde56a"
+    },
+    {
+      "path": "L309-po-hearings/company.pdf",
+      "bytes": 167552,
+      "sha256": "73bd68cb7974c59f523b2a3b8e1bef678f5ebbe6344d363441e0d7c39e56db93"
+    },
+    {
+      "path": "L309-po-hearings/company.txt",
+      "bytes": 48320,
+      "sha256": "d7e6a6305fb4af62ae3874f9b60edb410c9eabed69933d80b31c2f88f42eed56"
+    },
+    {
+      "path": "L309-po-hearings/unions.pdf",
+      "bytes": 115157,
+      "sha256": "a0812faf01920ee2271986c1b0ff36211c3ca1853e048d674022e2ecd1e488a9"
+    },
+    {
+      "path": "L309-po-hearings/unions.txt",
+      "bytes": 24669,
+      "sha256": "2911025a743245e0c176fa01c2c62c1357119aaff2ca2d1bb638559b6d78b9b5"
+    },
+    {
+      "path": "L310-po-outcomes/followup.pdf",
+      "bytes": 150133,
+      "sha256": "0b235581f2b6cdbd1d1baf61a5342fdc70a69c838f04b26bd8a5521a318ece50"
+    },
+    {
+      "path": "L310-po-outcomes/followup.txt",
+      "bytes": 15821,
+      "sha256": "2eb3b11adb2e65c833580843c62adbb1305d97ed6f97cbd73fdf3c0f94a1826a"
+    },
+    {
+      "path": "L310-po-outcomes/hearing.pdf",
+      "bytes": 166453,
+      "sha256": "5df9685644cf2eb7a898288fe268022223cea65b0fc14617bb023d1b0a24123b"
+    },
+    {
+      "path": "L310-po-outcomes/hearing.txt",
+      "bytes": 46208,
+      "sha256": "3caa5cbd3f63c38c6166ae4208de9aabaea669cc5930cb457ccc9e9207927094"
+    },
+    {
+      "path": "L310-po-outcomes/inspections.json",
+      "bytes": 1925,
+      "sha256": "46d12589ff521d1a38b07edc5018c6829fe3fc2a2a5e9014f2c196e950ef6822"
+    },
+    {
+      "path": "L310-po-outcomes/inspections.txt",
+      "bytes": 1068,
+      "sha256": "3c7a1f829eb5f1f5806aebc7f64ddc5355d7f4ec0649da18f310b849000d6ae1"
+    },
+    {
+      "path": "L311-leonard/order.pdf",
+      "bytes": 210575,
+      "sha256": "15c84802c57d601284a4e9dbce1f8f99db1185105a550ee47f61bc9b84edbc0b"
+    },
+    {
+      "path": "L311-leonard/order.txt",
+      "bytes": 36304,
+      "sha256": "dbb0704f504a4af021dba560a8115d6ccc5162dd19705ce92db2cb9fae987efd"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 9812,
+      "sha256": "132e395c8dd89d02a0c1546a0934ee164a3636eface8e8fa339683f937fbda70"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5324,
+      "sha256": "1b929174467a1b5d5020ae078d3b33f028cd9ea8b07144844fe9f69e8fb8f964"
+    }
+  ]
+}

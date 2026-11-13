@@ -1,8 +1,22 @@
 # 开放经济学 Open Economy
 
+全书六部分 28 章已形成首轮完整讨论稿。后八章从中国药品集采、纸币与融资，写到共享维护、AI 和机器人，再以同一项资料服务比较 AutoOS 的资金、权利及失败条件。[逐章阅读](book/outline.md) · [后八章综述与归档](wiki/raw/round-74/README.md) · [终章](book/part-06/04-testing-failure-and-revision.md)
+
+第五部分第 3 章[《权利、控制与分配》](book/part-05/03-rights-control-and-distribution.md)接着问谁可以让列车重新开动，谁能决定下一季怎样插秧，节下的费用又怎样进入工钱、佣金和分红。[中国案例综述](research/surveys/03-competition-cooperation-distribution/decision-rights-costs-and-returns-china-2026.md) · [本地资料](wiki/raw/round-73/README.md)
+
+第五部分第 2 章[《生产、分工与积累》](book/part-05/02-production-specialization-and-accumulation.md)从大秦线连续十三年的运量和一次三小时道岔整修，追到钢铁厂在专家撤走后仍能保留的本领。[专题综述](research/surveys/02-wealth-money-history/production-specialization-and-accumulation-china-2026.md) · [本地资料](wiki/raw/round-72/README.md)
+
+第五部分第 1 章[《财富、用途与机会》](book/part-05/01-wealth-uses-and-opportunities.md)沿陕甘配镜、三省农村电商及北京西城入学规则，追踪人们拿到什么、用上什么、价格记录了什么。[资料综述](research/surveys/02-wealth-money-history/wealth-use-and-opportunity-china-2026.md) · [原件归档](wiki/raw/round-71/README.md)
+
+第四部分四章均已有讨论稿。第 4 章从一个站台到另一个站台、从社区垫付到联邦偿付，追踪服务使用者能找谁接手。[《组织之间的组织》](book/part-04/04-organizations-between-organizations.md) · [研究综述](research/surveys/07-organization-formation/interorganizational-handoffs-and-redress-2026.md)
+
+第 3 章跟踪病假通知、居家办公和渡轮配员的决定经过。[《公司、职场与决定权》](book/part-04/03-firms-workplaces-and-decision-rights.md) · [研究综述](research/surveys/05-firm-authority-and-democracy/work-arrangements-and-employee-voice-2026.md)
+
+第 2 章从邻居替住院照护者守过的一夜，追到停更软件的使用项目和转学儿童，比较谁能接手、谁要等待、谁负责安排过渡。[《照护、知识与公共服务》](book/part-04/02-care-knowledge-and-public-services.md) · [专题综述](research/surveys/07-organization-formation/care-software-and-public-service-interruptions-2026.md)
+
 第三部分《人际合作、规范与意义》四章已完成本轮讨论稿。从合作怎样带来共同能力，写到人们怎样作出和修订承诺、遇到分歧时由谁解释规则，最后回到一个人为什么愿意把时间放在共同生活上。四章均有配套论证卡与研究出处。[第三部分目录](book/README.md#第三部分-人际合作-规范与意义) · [第四章《人的意义与共同生活》](book/part-03/04-human-meaning-and-common-life.md)
 
-第一部分五章已有讨论稿和论证卡。第1章《从集合到组织》用四节点中继、Python治理记录和双人视觉实验追问关系怎样产生共同能力。全书28个候选单元中已有16章讨论稿，余12个单元待起草。[第1章](book/part-01/01-from-collection-to-organization.md) · [八组主张的六项核查](book/argument-cards/part-01-01-from-collection-to-organization.md) · [五章通读记录](research/reviews/63-from-collection-to-organization-chapter.md)
+第一部分五章已有讨论稿和论证卡。第1章《从集合到组织》用四节点中继、Python治理记录和双人视觉实验追问关系怎样产生共同能力。全书六部分 28 章已有讨论稿与论证卡。[第1章](book/part-01/01-from-collection-to-organization.md) · [八组主张的六项核查](book/argument-cards/part-01-01-from-collection-to-organization.md) · [五章通读记录](research/reviews/63-from-collection-to-organization-chapter.md)
 
 第59轮写成第一部分第5章《组织怎样演进》，从接任者的行动进入第二部分关于人的问题。[章节讨论稿](book/part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](book/argument-cards/part-01-05-how-organizations-evolve.md)
 

@@ -1,0 +1,213 @@
+{
+  "round": 69,
+  "research_round": 74,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L305",
+      "title": "Does Working from Home Work? Evidence from a Chinese Experiment",
+      "authors": "Nicholas Bloom, James Liang, John Roberts, Zhichun Jenny Ying",
+      "year": "2015 volume (online 2014)",
+      "record_url": "https://doi.org/10.1093/qje/qju032",
+      "version": "Published QJE PDF, IACMR copy",
+      "read_scope": "PDF 1, 3–6, 15–20, 23, 35, 47; Fig. V, Tables I, II and VI; interviews with senior management",
+      "role": "分清立项动机、员工报名、按生日分派、期满重选的申请与实际工作地点。",
+      "files": [
+        "L305-ctrip/study.pdf",
+        "L305-ctrip/study.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L305-ctrip/study.pdf",
+          "url": "https://iacmr.org/wp-content/uploads/sites/26/2026/06/Bloom-et-al.-2015-Does-Working-from-Home-Work-Evidence-from-a-Chinese-Experiment-1.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L306",
+      "title": "2024 IAM–Boeing tentative agreements and proposal comparison",
+      "authors": "The Boeing Company and IAM Districts 751 and W24 (negotiated text); IAM District 751 (summaries)",
+      "year": "2024",
+      "record_url": "https://www.iam751.org/2024StrikeProposal/Redlined%20CBA%20IAM751W24_Oct%2031%202024.pdf",
+      "version": "September summary, two October redlines, first-to-final comparison",
+      "read_scope": "September PDF 5; October 18 and 31 texts PDF 57; final PDF 16 (§2.1), 105 (§19.9(b)), 217 (future work placement); comparison PDF 1",
+      "role": "核对病假报告条件的撤回、管理权限、仲裁效力及新机型选址承诺。",
+      "files": [
+        "L306-boeing-offers/comparison.pdf",
+        "L306-boeing-offers/comparison.txt",
+        "L306-boeing-offers/initial.pdf",
+        "L306-boeing-offers/initial.txt",
+        "L306-boeing-offers/mid-terms.pdf",
+        "L306-boeing-offers/mid-terms.txt",
+        "L306-boeing-offers/terms.pdf",
+        "L306-boeing-offers/terms.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L306-boeing-offers/comparison.pdf",
+          "url": "https://iam751.org/2024StrikeProposal/Key%20details%20from%20new%20Boeing%20proposal%20%2810_31_24%29.pdf"
+        },
+        {
+          "path": "L306-boeing-offers/initial.pdf",
+          "url": "https://www.iam751.org/2024Proposal/SummaryMachinistsReachHistoricTentativeAgreement.pdf"
+        },
+        {
+          "path": "L306-boeing-offers/mid-terms.pdf",
+          "url": "https://www.iam751.org/2024StrikeProposal/RedlinedCBAIAM751W24_Oct182024.pdf"
+        },
+        {
+          "path": "L306-boeing-offers/terms.pdf",
+          "url": "https://www.iam751.org/2024StrikeProposal/Redlined%20CBA%20IAM751W24_Oct%2031%202024.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L307",
+      "title": "Contract votes, strike assistance and return-to-work notice",
+      "authors": "IAM Union and IAM District 751",
+      "year": "2024",
+      "record_url": "https://www.goiam.org/news/imail/iam-union-workers-at-boeing-achieve-contract-victory-to-set-new-standards-for-aerospace-industry/",
+      "version": "Two issues of Aero Mechanic, two union announcements and a return notice",
+      "read_scope": "September issue strike FAQ; October issue PDF 2 reporting September votes; October 23 rejection, November 4 ratification and restart window",
+      "role": "区分否决整份合同、同意罢工与通过修订方案，核对补助、轮值和复工时间。",
+      "files": [
+        "L307-boeing-vote/oct-vote.html",
+        "L307-boeing-vote/oct-vote.txt",
+        "L307-boeing-vote/ratified.html",
+        "L307-boeing-vote/ratified.txt",
+        "L307-boeing-vote/return.pdf",
+        "L307-boeing-vote/return.txt",
+        "L307-boeing-vote/sept-vote.pdf",
+        "L307-boeing-vote/sept-vote.txt",
+        "L307-boeing-vote/strike-faq.pdf",
+        "L307-boeing-vote/strike-faq.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L307-boeing-vote/oct-vote.html",
+          "url": "https://www.goiam.org/press-releases/boeing-strike-will-continue-as-workers-reject-latest-proposal-from-company/"
+        },
+        {
+          "path": "L307-boeing-vote/ratified.html",
+          "url": "https://www.goiam.org/news/imail/iam-union-workers-at-boeing-achieve-contract-victory-to-set-new-standards-for-aerospace-industry/"
+        },
+        {
+          "path": "L307-boeing-vote/return.pdf",
+          "url": "https://www.iam751.org/2024StrikeProposal/November%204%2C%202024.pdf"
+        },
+        {
+          "path": "L307-boeing-vote/sept-vote.pdf",
+          "url": "https://www.iam751.org/Aero%20Mechanic/2024/October_2024_AeroMechanic_Web.pdf"
+        },
+        {
+          "path": "L307-boeing-vote/strike-faq.pdf",
+          "url": "https://www.iam751.org/Aero%20Mechanic/2024/September_2024_AeroMechanic_Web.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L308",
+      "title": "Boeing fourth-quarter results and Regarding Sick Leave Bonus Payout",
+      "authors": "The Boeing Company; IAM District 751",
+      "year": "2024–2025",
+      "record_url": "https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Reports-Fourth-Quarter-Results/default.aspx",
+      "version": "Investor release, January 28, 2025; union notice, December 10, 2024",
+      "read_scope": "Commercial Airplanes and cash flow; §8.4(e) cashout issue and scheduled backpay",
+      "role": "区分企业复产、应补差额和个人实际收款。",
+      "files": [
+        "L308-boeing-restart/quarter.html",
+        "L308-boeing-restart/quarter.txt",
+        "L308-boeing-restart/sick-leave.html",
+        "L308-boeing-restart/sick-leave.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L308-boeing-restart/quarter.html",
+          "url": "https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Reports-Fourth-Quarter-Results/default.aspx"
+        },
+        {
+          "path": "L308-boeing-restart/sick-leave.html",
+          "url": "https://www.iam751.org/index.cfm?HomeID=931560&zone=%2Funionactive%2Fview_article.cfm"
+        }
+      ]
+    },
+    {
+      "source_id": "L309",
+      "title": "P&O Ferries, HC 1231: oral evidence, 24 March 2022",
+      "authors": "UK House of Commons Transport and BEIS Committees; P&O Ferries, DP World and trade union witnesses",
+      "year": "2022",
+      "record_url": "https://committees.parliament.uk/oralevidence/9989/html/",
+      "version": "Two transcripts from the parliamentary API",
+      "read_scope": "Management Q97–100, Q113, Q124–129, Q152–154; unions Q16–18",
+      "role": "并读出资方、经营者及工会证词，辨认过去的轮班协商和裁员前的决定。",
+      "files": [
+        "L309-po-hearings/company.pdf",
+        "L309-po-hearings/company.txt",
+        "L309-po-hearings/unions.pdf",
+        "L309-po-hearings/unions.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L309-po-hearings/company.pdf",
+          "url": "https://committees-api.parliament.uk/api/OralEvidence/9989/Document/Pdf"
+        },
+        {
+          "path": "L309-po-hearings/unions.pdf",
+          "url": "https://committees-api.parliament.uk/api/OralEvidence/9987/Document/Pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L310",
+      "title": "P&O Ferries: written answer 5388, oral evidence 7 May 2024 and letter 17 May 2024",
+      "authors": "UK Department for Transport; Commons Business and Trade Committee; P&O Ferries",
+      "year": "2022 and 2024",
+      "record_url": "https://committees.parliament.uk/publications/44968/documents/223206/default/",
+      "version": "Parliamentary written answer (JSON) and two official PDFs",
+      "read_scope": "Written answer of May 24, 2022; 2024 hearing Q15, Q42–48; follow-up letter pp. 1–3",
+      "role": "查核计费检查工时、人数、轮期内休息日和实际记录的可得性。",
+      "files": [
+        "L310-po-outcomes/followup.pdf",
+        "L310-po-outcomes/followup.txt",
+        "L310-po-outcomes/hearing.pdf",
+        "L310-po-outcomes/hearing.txt",
+        "L310-po-outcomes/inspections.json",
+        "L310-po-outcomes/inspections.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L310-po-outcomes/followup.pdf",
+          "url": "https://committees-api.parliament.uk/api/Publications/44968/Document/223206/OriginalFormat"
+        },
+        {
+          "path": "L310-po-outcomes/hearing.pdf",
+          "url": "https://committees-api.parliament.uk/api/OralEvidence/14760/Document/Pdf"
+        },
+        {
+          "path": "L310-po-outcomes/inspections.json",
+          "url": "https://questions-statements-api.parliament.uk/api/writtenquestions/questions/1464439"
+        }
+      ]
+    },
+    {
+      "source_id": "L311",
+      "title": "Leonard v. The Boeing Company, No. C25-1551JLR, Dkt. 31",
+      "authors": "US District Court, Western District of Washington, Judge James L. Robart",
+      "year": "2026",
+      "record_url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2%3A2025cv01551/351448/31/0.pdf",
+      "version": "Court order of February 6, 2026, public PDF mirror",
+      "read_scope": "PDF 2–4 and 20; eligibility, allegations and remand order; compare dates with contemporaneous IAM notices",
+      "role": "跟踪原告陈述、个体奖金资格与诉讼的程序结果。",
+      "files": [
+        "L311-leonard/order.pdf",
+        "L311-leonard/order.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L311-leonard/order.pdf",
+          "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2%3A2025cv01551/351448/31/0.pdf"
+        }
+      ]
+    }
+  ]
+}

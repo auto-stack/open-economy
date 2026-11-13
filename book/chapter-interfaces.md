@@ -1,6 +1,6 @@
 # 二十八个单元的承接与论证地位
 
-2026年11月12日框架收束，11月13日起草更新。与[逐章提纲](outline.md)的六部分、28个候选单元逐项对应。P1.1–5均有正文和论证卡，全书已有16章稿，其余12个单元待起草。P编号用于本表定位。每行列出承接关系、新增条件与有限结论，理论条目另见[正式理论总表](../shared/theory-register.md)。
+2026年11月12日框架收束，11月14日起草更新。与[逐章提纲](outline.md)的六部分、28个候选单元逐项对应。P1.1–5均有正文和论证卡，全书 28 章均有讨论稿与论证卡。P编号用于本表定位。每行列出承接关系、新增条件与有限结论，理论条目另见[正式理论总表](../shared/theory-register.md)。
 
 ## 第一部分的五个单元
 
@@ -35,33 +35,33 @@
 | 单元与承接 | 新增条件或论证任务 | 向后交付及地位 | 依据与未完任务 |
 |---|---|---|---|
 | P4.1 组织为何形成和延续，承接 P3.1–4 | 辨认首次协作后的再约定、实际接手者、到期任务与原使用者 | 为 P4.2 交付依赖程度、替代渠道、服务中断及转移负担的比较问题 | [章稿](part-04/01-formation-and-continuity.md) · [形成与交接综述](../research/surveys/07-organization-formation/formation-handover-and-service-continuity-2026.md) |
-| P4.2 照护、知识与公共服务；承接P2.2、P3.2和P4.1 | 固定依赖、自愿程度、使用属性、替代支持与退出差异 | 相同维护问题下不同的责任和支持条件；分析类型对照 | [四种组织比较](../research/surveys/07-organization-formation/organization-comparison-and-boundaries.md)；真实案例证据与发生率待补 |
-| P4.3 公司、职场与决定权；承接P3.3和P4.1 | 区分资产、经营、员工发声、监督、风险与实际外部机会 | 可比较的公司治理问题，不从资本推无限权力或从民主标签推效果 | [治理专题](../research/surveys/05-firm-authority-and-democracy/firm-power-and-democratic-governance.md)；关键原著与治理效果待深入 |
-| P4.4 组织之间的组织；承接P4.2–3 | 加入多重成员、公共授权、不能退出者、问责、基础设施及外部代价 | 进入税费、公共预算和跨组织依赖的权限与责任接口 | [四种组织边界](../research/surveys/07-organization-formation/organization-comparison-and-boundaries.md)；完整国家与国际制度史留论文路线 |
+| P4.2 [照护、知识与公共服务](part-04/02-care-knowledge-and-public-services.md)；承接P2.2、P3.2和P4.1 | 固定依赖、自愿程度、使用属性、替代支持与退出差异 | 原使用者能否及时获得替代、谁实际承担以及谁有义务安排过渡 | [追踪研究](../research/surveys/07-organization-formation/care-software-and-public-service-interruptions-2026.md)、[论证卡](argument-cards/part-04-02-care-knowledge-and-public-services.md)；无法合并三类结果的发生率 |
+| P4.3 [公司、职场与决定权](part-04/03-firms-workplaces-and-decision-rights.md)；承接P3.3和P4.1–2 | 区分资产、经营、员工发声、监督、风险与实际外部机会 | 可比较的公司治理问题，不从资本推无限权力或从民主标签推效果 | [工作安排追踪](../research/surveys/05-firm-authority-and-democracy/work-arrangements-and-employee-voice-2026.md)、[论证卡](argument-cards/part-04-03-firms-workplaces-and-decision-rights.md)；逐人实施与异议的净效果待核 |
+| P4.4 [组织之间的组织](part-04/04-organizations-between-organizations.md)；承接P4.2–3 | 加入多重成员、公共授权、不能退出者、问责、基础设施及外部代价 | 进入税费、公共预算和跨组织依赖的权限与责任接口 | [同一任务跨组织交接](../research/surveys/07-organization-formation/interorganizational-handoffs-and-redress-2026.md)、[论证卡](argument-cards/part-04-04-organizations-between-organizations.md)；区分出资、派工、复核和最终承担；广州异地就医补查门诊直接结算与跨省清算 |
 
 ## 第五部分的七个单元
 
 | 单元与承接 | 新增条件或论证任务 | 向后交付及地位 | 依据与未完任务 |
 |---|---|---|---|
-| P5.1 财富、用途与机会；承接P2.2和P4 | 区分真实可用资源、能力、资产权利与估值，加入自然条件与已有积累 | 财富形成问题，不要求一切先经交易或只由当期劳动产生 | [财富与货币史](../research/surveys/02-wealth-money-history/README.md)；不是单一起源定理 |
-| P5.2 生产、分工与积累；承接P1.3–5和P5.1 | 列劳动照护、材料能源、设备知识、协作与损耗；分开产能和实际产出 | 数字与实体服务均需的资源、质量和维护账 | [技术专题](../research/surveys/06-technological-levers-and-organizational-evolution/README.md)、[双场景闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)；不以现金闭合证明物理可行 |
-| P5.3 权利、控制与分配；承接P3.4、P4.3–4和P5.1–2 | 区分使用、决定、经营、收益和责任；解释劳动资本约定及贡献评价 | 所有权影响收入与采用；因果归因、激励、正当回报各有责任 | [贡献基础](../research/surveys/03-competition-cooperation-distribution/contribution-foundations.md)、[融资论证](../research/surveys/08-price-income-and-reinvestment/financing-argument-map.md)；不宣布唯一分配公式 |
-| P5.4 交易、价格与市场规则；承接P3.1、P5.2–3 | 增加支付能力、替代机会、报价议价、信息、执行及公平条件 | 交换合作与份额竞争共存，价格与用途、贡献、应得分开 | [章稿](part-05/04-transactions-prices-and-market-rules.md)；具体市场结果需对应制度与证据 |
-| P5.5 记账、信用与货币的多种历史；承接P3.2、P4.4和P5.4 | 区分计价、支付、债务、认证、公共收支及不同历史路径 | 可信清偿与账务的制度条件，不用物物交换单线史替代研究 | [历史路径](../research/surveys/02-wealth-money-history/narrative-options.md)；旧版本与原读页保留 |
-| P5.6 投资、收入、风险与再投入；承接P5.2–5 | 增加未来回款、参与激励、融资、储备、到期现金，以及公共支出和保障的账户接口 | 资源、回款、可承诺收入、购买力和用途现金的闭环 | [章稿](part-05/06-investment-income-and-reinvestment.md)、[AI收入账](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)；未求解全经济动态均衡，原式疑点另列 |
-| P5.7 共享成果怎样获得持续支持；承接P4.2和P5.3–6 | 区分可复用上游、稀缺服务、奖励、维护合同与治理成本 | 比较自用、采购、会员、资助、经营与回流的条件 | [五种方式](../research/surveys/03-competition-cooperation-distribution/institutional-financing-comparison.md)；真实需求、投入和长期效果待验证 |
+| P5.1 [财富、用途与机会](part-05/01-wealth-uses-and-opportunities.md)；承接P2.2和P4 | 区分真实可用资源、能力、资产权利与估值，加入自然条件与已有积累 | 财富形成问题，不要求一切先经交易或只由当期劳动产生 | [中国案例综述](../research/surveys/02-wealth-money-history/wealth-use-and-opportunity-china-2026.md)、[论证卡](argument-cards/part-05-01-wealth-uses-and-opportunities.md)及[财富与货币史](../research/surveys/02-wealth-money-history/README.md)；案例没有给出统一起源顺序 |
+| P5.2 [生产、分工与积累](part-05/02-production-specialization-and-accumulation.md)；承接P1.3–5和P5.1 | 列劳动照护、材料能源、设备知识、协作与损耗；分开产能和实际产出 | 数字与实体服务均需的资源、质量和维护账 | [铁路与钢厂纵向证据](../research/surveys/02-wealth-money-history/production-specialization-and-accumulation-china-2026.md)、[六项核查](argument-cards/part-05-02-production-specialization-and-accumulation.md)及[双场景闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)；分别核算生产、维修与技能 |
+| P5.3 [权利、控制与分配](part-05/03-rights-control-and-distribution.md)；承接P3.4、P4.3–4和P5.1–2 | 区分使用、决定、经营、收益和责任；解释劳动资本约定及贡献评价 | 所有权影响收入与采用；因果归因、激励、正当回报各有责任 | [中国三案与分配口径](../research/surveys/03-competition-cooperation-distribution/decision-rights-costs-and-returns-china-2026.md)、[六项核查](argument-cards/part-05-03-rights-control-and-distribution.md)、[贡献基础](../research/surveys/03-competition-cooperation-distribution/contribution-foundations.md)、[融资论证](../research/surveys/08-price-income-and-reinvestment/financing-argument-map.md)；不宣布唯一分配公式 |
+| P5.4 [交易、价格与市场规则](part-05/04-transactions-prices-and-market-rules.md)；承接P3.1、P5.2–3 | 增加支付能力、替代机会、报价议价、信息、执行及公平条件 | 交换合作与份额竞争共存，价格与用途、贡献、应得分开 | [专题综述](../research/surveys/08-price-income-and-reinvestment/procurement-and-platform-options-2026.md)、[论证卡](argument-cards/part-05-04-transactions-prices-and-market-rules.md)。[章稿](part-05/04-transactions-prices-and-market-rules.md)；具体市场结果需对应制度与证据 |
+| P5.5 [记账、信用与货币的多种历史](part-05/05-accounts-credit-and-money.md)；承接P3.2、P4.4和P5.4 | 区分计价、支付、债务、认证、公共收支及不同历史路径 | 可信清偿与账务的制度条件，不用物物交换单线史替代研究 | [专题综述](../research/surveys/02-wealth-money-history/objects-promises-and-settlement-2026.md)、[论证卡](argument-cards/part-05-05-accounts-credit-and-money.md)。[历史路径](../research/surveys/02-wealth-money-history/narrative-options.md)；旧版本与原读页保留 |
+| P5.6 [投资、收入、风险与再投入](part-05/06-investment-income-and-reinvestment.md)；承接P5.2–5 | 增加未来回款、参与激励、融资、储备、到期现金，以及公共支出和保障的账户接口 | 资源、回款、可承诺收入、购买力和用途现金的闭环 | [专题综述](../research/surveys/08-price-income-and-reinvestment/daqin-funding-and-use-2026.md)、[论证卡](argument-cards/part-05-06-investment-income-and-reinvestment.md)。[章稿](part-05/06-investment-income-and-reinvestment.md)、[AI收入账](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)；未求解全经济动态均衡，原式疑点另列 |
+| P5.7 [共享成果怎样获得持续支持](part-05/07-sustaining-shared-work.md)；承接P4.2和P5.3–6 | 区分可复用上游、稀缺服务、奖励、维护合同与治理成本 | 比较自用、采购、会员、资助、经营与回流的条件 | [专题综述](../research/surveys/03-competition-cooperation-distribution/support-for-shared-maintenance-2026.md)、[论证卡](argument-cards/part-05-07-sustaining-shared-work.md)。[五种方式](../research/surveys/03-competition-cooperation-distribution/institutional-financing-comparison.md)；真实需求、投入和长期效果待验证 |
 
 ## 第六部分的四个单元
 
 | 单元与承接 | 新增条件或论证任务 | 向后交付及地位 | 依据与未完任务 |
 |---|---|---|---|
-| P6.1 技术改变了哪些组织条件；承接P1.4–5和P5.2–6 | 按任务分别改变成本、质量、资本、能源材料、控制和收入；保留集中与开放两种可能 | 技术对制度比较的参数与条件，不是AI必然开放的结论 | [双场景闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)；各技术部署效果另行查证 |
-| P6.2 同一服务可以怎样组织；承接P4与P5.7 | 固定质量、期限、可用资源、权利与外部代价，再比较实际可行的安排 | 维护等功能必要性与具体制度比较优势分开 | [比较协议](../research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md)、[桌面比较](../research/surveys/03-competition-cooperation-distribution/institutional-financing-comparison.md)；情景可行不等于现实采纳 |
-| P6.3 AutoOS的角色、资金与责任；承接P6.1–2 | 明确实际接受条件、服务费用、公共回流、权限、贡献回报与接替 | 可审阅的候选制度族；费率和评分均为待定应用参数 | [跨期设计](../research/surveys/03-competition-cooperation-distribution/open-business-finance-and-maintenance.md)；无真实用户、账单或预算，不当作运营事实 |
-| P6.4 怎样检验、失败与修订；承接P6.3及全书价值前提 | 指定质量、净投入、分布、参与、迁移与风险，比较替代解释和失败结果 | 可被否定的研究设计及有条件制度选择，不许只选支持案例 | [检验协议](../research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md)、[内部基线](../research/reviews/37-internal-knowledge-service-baseline.md)；未完成用户或制度因果试验 |
+| P6.1 [技术改变了哪些组织条件](part-06/01-technology-and-organizational-conditions.md)；承接P1.4–5和P5.2–6 | 按任务分别改变成本、质量、资本、能源材料、控制和收入；保留集中与开放两种可能 | 技术对制度比较的参数与条件，不是AI必然开放的结论 | [专题综述](../research/surveys/06-technological-levers-and-organizational-evolution/task-productivity-and-bottlenecks-2026.md)、[论证卡](argument-cards/part-06-01-technology-and-organizational-conditions.md)。[双场景闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)；各技术部署效果另行查证 |
+| P6.2 [同一服务可以怎样组织](part-06/02-organizing-the-same-service.md)；承接P4与P5.7 | 固定质量、期限、可用资源、权利与外部代价，再比较实际可行的安排 | 维护等功能必要性与具体制度比较优势分开 | [专题综述](../research/surveys/03-competition-cooperation-distribution/same-service-alternatives-2026.md)、[论证卡](argument-cards/part-06-02-organizing-the-same-service.md)。[比较协议](../research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md)、[桌面比较](../research/surveys/03-competition-cooperation-distribution/institutional-financing-comparison.md)；情景可行不等于现实采纳 |
+| P6.3 [AutoOS的角色、资金与责任](part-06/03-autoos-roles-funds-and-responsibilities.md)；承接P6.1–2 | 明确实际接受条件、服务费用、公共回流、权限、贡献回报与接替 | 可审阅的候选制度族；费率和评分均为待定应用参数 | [专题综述](../research/surveys/03-competition-cooperation-distribution/settlement-refunds-and-stewardship-2026.md)、[论证卡](argument-cards/part-06-03-autoos-roles-funds-and-responsibilities.md)。[跨期设计](../research/surveys/03-competition-cooperation-distribution/open-business-finance-and-maintenance.md)；无真实用户、账单或预算，不当作运营事实 |
+| P6.4 [怎样检验、失败与修订](part-06/04-testing-failure-and-revision.md)；承接P6.3及全书价值前提 | 指定质量、净投入、分布、参与、迁移与风险，比较替代解释和失败结果 | 可被否定的研究设计及有条件制度选择，不许只选支持案例 | [专题综述](../research/surveys/03-competition-cooperation-distribution/assessment-selection-and-revision-2026.md)、[论证卡](argument-cards/part-06-04-testing-failure-and-revision.md)。[检验协议](../research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md)、[内部基线](../research/reviews/37-internal-knowledge-service-baseline.md)；未完成用户或制度因果试验 |
 
 ## 叙述顺序与反馈的关系
 
 顺序帮助读者逐步获得语言与解释条件，不规定历史发生顺序，也不把相互影响的经济关系硬变成单向公理链。前文可以提出后文要回答的问题，但不能把尚未建立的后文答案作为已证前提。跨期、收入和权利反馈见[经济闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)。
 
-这28行完成问题和论证责任的对应，不代表28章已有正文，也不替代关键经验研究。若未来某项证据改变主张，先修订对应行及依赖章节；只有不能在既定范围内安置时，才提出结构调整。
+这 28 行对应本轮已成稿的全部章节；逐章列出的经验问题仍须单独检验。若未来某项证据改变主张，先修订对应行及依赖章节；只有不能在既定范围内安置时，才提出结构调整。

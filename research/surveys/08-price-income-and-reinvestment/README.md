@@ -1,5 +1,7 @@
 # 价格、议价、收入与有效需求：首轮机制survey
 
+2026 年 11 月 14 日，本专题为后续书章增补以下定向研究。[交易、价格与市场规则](procurement-and-platform-options-2026.md) · [投资、收入、风险与再投入](daqin-funding-and-use-2026.md)。[一手资料与版本](../../../wiki/raw/round-74/README.md)
+
 日期：2026年11月12日。性质：按[研究协议](protocol.md)完成第一轮定向检索和机制比较，不是全经济学或最新研究的系统综述。本轮聚焦价格／议价和收入／需求，信用创造、项目融资与再投入的完整研究留待下一单元。新采用L185–L188，见[实际版本与读页](reading-notes.md)、[检索选择](search-and-selection.md)和[第35批归档](../../../wiki/raw/round-35/README.md)。
 
 后续[信用、投资与再投入单元](credit-investment-and-reinvestment.md)已完成四项新来源的定向选读、三个有限模型及Open Business维护衔接，原件在[第36批](../../../wiki/raw/round-36/README.md)。下文保留第一单元结论及其范围，不将后续选读反填为已完成全部金融／宏观理论。

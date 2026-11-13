@@ -1,0 +1,164 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 2264,
+      "sha256": "62de20bced53a3cdd94851cc4dcb7214efb2b2e74589c7f806fef551691d299a"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 6983,
+      "sha256": "c0bd3f2d6aaf8f8c1d294238de95077f3668ba8709709a0673aa924f10ae42e9"
+    },
+    {
+      "path": "L312-birmingham/adjudication.pdf",
+      "bytes": 174325,
+      "sha256": "9b53e6aa1ea59a9c8ebfee06cba17e8c48871e90cb94b46307c9c4f3bbe6e6d7"
+    },
+    {
+      "path": "L312-birmingham/adjudication.txt",
+      "bytes": 18602,
+      "sha256": "099f8525fe4c366b3560a0c2ee7d3068d07bb7754180a3fd0de1b5428028b57f"
+    },
+    {
+      "path": "L312-birmingham/passenger.html",
+      "bytes": 107291,
+      "sha256": "2f60e76099212df415f2a0b1f452a287244a9f48bd33d949f690911cc7189894"
+    },
+    {
+      "path": "L312-birmingham/passenger.txt",
+      "bytes": 5114,
+      "sha256": "c63cd09cc4b4371a5e195b79d05452f2347e1ac92dbbd3f6422570fc02c266c2"
+    },
+    {
+      "path": "L313-rail-handover/experience.pdf",
+      "bytes": 2665783,
+      "sha256": "e3ba1cad0cd83a3cf109945f609f21b32d3afee004be588ee450c6d853722510"
+    },
+    {
+      "path": "L313-rail-handover/experience.txt",
+      "bytes": 134911,
+      "sha256": "4e680ce5f7885000dbf326f1d13ad63f7e81e99dcc9c8a0c476d24747db740b3"
+    },
+    {
+      "path": "L313-rail-handover/redress.html",
+      "bytes": 128819,
+      "sha256": "7795a115adf40bab051ebd822faf22b12d33973a2c25af5700ba282825d03a83"
+    },
+    {
+      "path": "L313-rail-handover/redress.txt",
+      "bytes": 3309,
+      "sha256": "cb9e195cb56a9ee32e17c36dec8d802f81fa7fe9abd0703803024b52d63723ec"
+    },
+    {
+      "path": "L313-rail-handover/stations.html",
+      "bytes": 143801,
+      "sha256": "feaf09ff0109c0afe683d688d9db5e674636453fb0d409387e7e884207794954"
+    },
+    {
+      "path": "L313-rail-handover/stations.txt",
+      "bytes": 15458,
+      "sha256": "d100172ca9d6877961de4d5c26205d1e8159ff12ce642ae62a08c5ee6480ef9b"
+    },
+    {
+      "path": "L314-rail-funding/charges.html",
+      "bytes": 133410,
+      "sha256": "e23440e4d6a791b963693fedc3721169483f089784c4932ec6de9ddeb976bca3"
+    },
+    {
+      "path": "L314-rail-funding/charges.txt",
+      "bytes": 5330,
+      "sha256": "3194455211042855bf312acda8c3367c567df63861096c8e8edff4b627ea72f4"
+    },
+    {
+      "path": "L315-pictou/judgment.pdf",
+      "bytes": 1764001,
+      "sha256": "1e8eea995a6d1d0e0182b6840a9b9841d86e3f1d536395cd98750c5a72e05f8e"
+    },
+    {
+      "path": "L315-pictou/judgment.txt",
+      "bytes": 59044,
+      "sha256": "eab7991583e0dbe4c5851de99becbd30141e13b6cbbc7c8eb99ce72b78573ab6"
+    },
+    {
+      "path": "L316-pictou-positions/canada.pdf",
+      "bytes": 964655,
+      "sha256": "f68fbf9b859b917de9a7b8ff7cf9e5c3e2cc7ffcbe43c39c10b12b45f7c1f6dc"
+    },
+    {
+      "path": "L316-pictou-positions/canada.txt",
+      "bytes": 61859,
+      "sha256": "105a6791db8bd9961c05a43db0fd6ed6618b0e213d8dc13078363264a966b453"
+    },
+    {
+      "path": "L316-pictou-positions/council.pdf",
+      "bytes": 218301,
+      "sha256": "58b0ea37f0dbe28f4d98e9c9e6930009c47fc55919592feff272049ed7a413b0"
+    },
+    {
+      "path": "L316-pictou-positions/council.txt",
+      "bytes": 67881,
+      "sha256": "6f64618c8a4e6569198122497cf63fc7942afa5a41816239eb28ab51e9503e6c"
+    },
+    {
+      "path": "L317-pictou-payment/answer.json",
+      "bytes": 1628,
+      "sha256": "587de81c55af8bf69c4bbb8d275b9eb0c4e0c321e8670b633c792755ca10f65d"
+    },
+    {
+      "path": "L317-pictou-payment/answer.txt",
+      "bytes": 739,
+      "sha256": "3c806734872113e678df1c19a3d970da053c43be6ef22964c81492c4f9b17c8d"
+    },
+    {
+      "path": "L317-pictou-payment/question.json",
+      "bytes": 1293,
+      "sha256": "71c8017597ebf571e274764088ace2148b6987e813f40fad546023c4543ce11a"
+    },
+    {
+      "path": "L317-pictou-payment/question.txt",
+      "bytes": 425,
+      "sha256": "356f6cd9708f0f0b714b0f558320e5a0f9c9187a357111565656bac41fd5da89"
+    },
+    {
+      "path": "L318-jordan-audit/audit.html",
+      "bytes": 184755,
+      "sha256": "d9ca804832581c657f4cb92289d25f9d5da3b3a6bed0bb26240aba63dc0328a7"
+    },
+    {
+      "path": "L318-jordan-audit/audit.txt",
+      "bytes": 130267,
+      "sha256": "dfb051da5b4af64005575ae0cdb0960497aa92492e64cad96fdf3e7efadbe94f"
+    },
+    {
+      "path": "L318-jordan-audit/requests.html",
+      "bytes": 54718,
+      "sha256": "070a3be4a5801747913c4bead2bb40f7b955c39cf6f6a14bf57aa7aaa96fc3dd"
+    },
+    {
+      "path": "L318-jordan-audit/requests.txt",
+      "bytes": 26067,
+      "sha256": "059fe7024d62c598020bb2bc3c6395781de1e71df4e690fa816438074cb81488"
+    },
+    {
+      "path": "L319-meta-organization/abstract.html",
+      "bytes": 31293,
+      "sha256": "a378cc7b0624a0c8a6eb89ec8aeae22bda7496f5cb6e7ec29840d6c630f1ee13"
+    },
+    {
+      "path": "L319-meta-organization/abstract.txt",
+      "bytes": 4794,
+      "sha256": "738608524c3389290427dbcfcc75aadc104e8f38e4662e62b6c5b027335a3719"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 9480,
+      "sha256": "d0d80a71dbcc0a96638a77a4cbf67ad611c0351e1d2a54a44a5160419db97127"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5180,
+      "sha256": "fe327cd1d894e9065a52153dae3beba325913adbd69e14d21de477167414c474"
+    }
+  ]
+}

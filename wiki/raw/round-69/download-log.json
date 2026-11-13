@@ -1,0 +1,191 @@
+[
+  {
+    "path": "L305-ctrip/study.pdf",
+    "url": "https://iacmr.org/wp-content/uploads/sites/26/2026/06/Bloom-et-al.-2015-Does-Working-from-Home-Work-Evidence-from-a-Chinese-Experiment-1.pdf",
+    "bytes": 1010817,
+    "sha256": "95276557424e108ad47f59e849aeba27ac4cb780de75e30b0b6434bf63360a62",
+    "retrieved_utc": "2026-11-13T15:36:20.044271+00:00"
+  },
+  {
+    "path": "L306-boeing-offers/comparison.pdf",
+    "url": "https://iam751.org/2024StrikeProposal/Key%20details%20from%20new%20Boeing%20proposal%20%2810_31_24%29.pdf",
+    "bytes": 284236,
+    "sha256": "3cc6daa5839edd28daae305ab025edea0fff0603aad49753a7258f4107e72f6c",
+    "retrieved_utc": "2026-11-13T15:35:02.624887+00:00"
+  },
+  {
+    "path": "L306-boeing-offers/initial.pdf",
+    "url": "https://www.iam751.org/2024Proposal/SummaryMachinistsReachHistoricTentativeAgreement.pdf",
+    "bytes": 573031,
+    "sha256": "a50a76457455ce3cb34e6d895b5bf67f5967d3c32af0d9b294e68e38203eb217",
+    "retrieved_utc": "2026-11-13T15:35:03.883740+00:00"
+  },
+  {
+    "path": "L306-boeing-offers/terms.pdf",
+    "url": "https://www.iam751.org/2024StrikeProposal/Redlined%20CBA%20IAM751W24_Oct%2031%202024.pdf",
+    "bytes": 1996990,
+    "sha256": "7f6ff5843e55a14eacdc0ec89af6ad19accb06aeea43822b0264e51c1331d545",
+    "retrieved_utc": "2026-11-13T15:35:00.181671+00:00"
+  },
+  {
+    "path": "L307-boeing-vote/oct-vote.html",
+    "url": "https://www.goiam.org/press-releases/boeing-strike-will-continue-as-workers-reject-latest-proposal-from-company/",
+    "bytes": 77778,
+    "sha256": "dfc9d7705d2d988965052d84c85adfa3ea2edf801d462201430fc1a469350c1f",
+    "retrieved_utc": "2026-11-13T15:34:45.246494+00:00"
+  },
+  {
+    "path": "L307-boeing-vote/return.pdf",
+    "url": "https://www.iam751.org/2024StrikeProposal/November%204%2C%202024.pdf",
+    "bytes": 657556,
+    "sha256": "52c38520a095a88a08dda6e68eefbf363a0a17e6be7e729a661ce50db9c5b4dc",
+    "retrieved_utc": "2026-11-13T15:35:00.880497+00:00"
+  },
+  {
+    "path": "L307-boeing-vote/ratified.html",
+    "url": "https://www.goiam.org/news/imail/iam-union-workers-at-boeing-achieve-contract-victory-to-set-new-standards-for-aerospace-industry/",
+    "bytes": 84722,
+    "sha256": "bb166aff39bb749136fab0e176d932b742f9a7a66f3d02da073a9ed791f7dd48",
+    "retrieved_utc": "2026-11-13T15:34:47.817646+00:00"
+  },
+  {
+    "path": "L307-boeing-vote/strike-faq.pdf",
+    "url": "https://www.iam751.org/Aero%20Mechanic/2024/September_2024_AeroMechanic_Web.pdf",
+    "bytes": 2569346,
+    "sha256": "e0546719d8aec616dd4e82cbdac12874beff9ed6039b0f4ae886a14894ce9a00",
+    "retrieved_utc": "2026-11-13T15:34:58.075094+00:00"
+  },
+  {
+    "path": "L308-boeing-restart/quarter.html",
+    "url": "https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Reports-Fourth-Quarter-Results/default.aspx",
+    "bytes": 423132,
+    "sha256": "0a0ff64537f22a4470211ff4dfbdd46e4840a977898d4a4c7bcc632c17133f5b",
+    "retrieved_utc": "2026-11-13T15:34:44.983640+00:00"
+  },
+  {
+    "requested": "L309-po-hearings/company.pdf",
+    "url": "https://committees.parliament.uk/oralevidence/9989/pdf/",
+    "error": [
+      "HTTPError: 403 Client Error: Forbidden for url: https://committees.parliament.uk/oralevidence/9989/pdf/"
+    ]
+  },
+  {
+    "requested": "L309-po-hearings/unions.pdf",
+    "url": "https://committees.parliament.uk/oralevidence/9987/pdf/",
+    "error": [
+      "HTTPError: 403 Client Error: Forbidden for url: https://committees.parliament.uk/oralevidence/9987/pdf/"
+    ]
+  },
+  {
+    "requested": "L310-po-outcomes/hours.html",
+    "url": "https://questions-statements.parliament.uk/written-questions/detail/2022-05-19/5388",
+    "error": [
+      "HTTPError: 403 Client Error: Forbidden for url: https://questions-statements.parliament.uk/written-questions/de"
+    ]
+  },
+  {
+    "requested": "L310-po-outcomes/followup.pdf",
+    "url": "https://committees.parliament.uk/publications/44968/documents/223206/default/",
+    "error": [
+      "HTTPError: 403 Client Error: Forbidden for url: https://committees.parliament.uk/publications/44968/documents/2"
+    ]
+  },
+  {
+    "requested": "L310-po-outcomes/hearing.pdf",
+    "url": "https://committees.parliament.uk/oralevidence/14760/pdf/",
+    "error": [
+      "HTTPError: 403 Client Error: Forbidden for url: https://committees.parliament.uk/oralevidence/14760/pdf/"
+    ]
+  },
+  {
+    "path": "L306-boeing-offers/mid-terms.pdf",
+    "url": "https://www.iam751.org/2024StrikeProposal/RedlinedCBAIAM751W24_Oct182024.pdf",
+    "bytes": 1995763,
+    "sha256": "d5a0db169d863284b959b5c435cb4378efc19387fd6cff36a3ef71bf74c61c2a",
+    "retrieved_utc": "2026-11-13T15:37:48.651647+00:00"
+  },
+  {
+    "path": "L307-boeing-vote/sept-vote.pdf",
+    "url": "https://www.iam751.org/Aero%20Mechanic/2024/October_2024_AeroMechanic_Web.pdf",
+    "bytes": 1816441,
+    "sha256": "2e5a7d802409bd01b605a3179ced916ff7168c7e609f4d40767cadafbb028e54",
+    "retrieved_utc": "2026-11-13T15:37:42.224472+00:00"
+  },
+  {
+    "requested": "L309-po-hearings/company.pdf",
+    "url": "https://committees-api.parliament.uk/api/OralEvidence/9989/Document/Pdf",
+    "error": [
+      "The API returned a PDF encoded in JSON. The decoded document is recorded in the successful entry below."
+    ]
+  },
+  {
+    "requested": "L309-po-hearings/unions.pdf",
+    "url": "https://committees-api.parliament.uk/api/OralEvidence/9987/Document/Pdf",
+    "error": [
+      "The API returned a PDF encoded in JSON. The decoded document is recorded in the successful entry below."
+    ]
+  },
+  {
+    "requested": "L310-po-outcomes/followup.pdf",
+    "url": "https://committees-api.parliament.uk/api/Publications/44968/Document/223206/Pdf",
+    "error": [
+      "HTTPError: 500 Server Error: Internal Server Error for url: https://committees-api.parliament.uk/api/Publicatio"
+    ]
+  },
+  {
+    "requested": "L310-po-outcomes/hearing.pdf",
+    "url": "https://committees-api.parliament.uk/api/OralEvidence/14760/Document/Pdf",
+    "error": [
+      "The API returned a PDF encoded in JSON. The decoded document is recorded in the successful entry below."
+    ]
+  },
+  {
+    "path": "L309-po-hearings/company.pdf",
+    "url": "https://committees-api.parliament.uk/api/OralEvidence/9989/Document/Pdf",
+    "bytes": 167552,
+    "sha256": "73bd68cb7974c59f523b2a3b8e1bef678f5ebbe6344d363441e0d7c39e56db93",
+    "retrieved_utc": "2026-11-13T15:39:14.748598+00:00"
+  },
+  {
+    "path": "L309-po-hearings/unions.pdf",
+    "url": "https://committees-api.parliament.uk/api/OralEvidence/9987/Document/Pdf",
+    "bytes": 115157,
+    "sha256": "a0812faf01920ee2271986c1b0ff36211c3ca1853e048d674022e2ecd1e488a9",
+    "retrieved_utc": "2026-11-13T15:39:14.081354+00:00"
+  },
+  {
+    "path": "L310-po-outcomes/hearing.pdf",
+    "url": "https://committees-api.parliament.uk/api/OralEvidence/14760/Document/Pdf",
+    "bytes": 166453,
+    "sha256": "5df9685644cf2eb7a898288fe268022223cea65b0fc14617bb023d1b0a24123b",
+    "retrieved_utc": "2026-11-13T15:39:21.280209+00:00"
+  },
+  {
+    "path": "L310-po-outcomes/followup.pdf",
+    "url": "https://committees-api.parliament.uk/api/Publications/44968/Document/223206/OriginalFormat",
+    "bytes": 150133,
+    "sha256": "0b235581f2b6cdbd1d1baf61a5342fdc70a69c838f04b26bd8a5521a318ece50",
+    "retrieved_utc": "2026-11-13T15:39:19.177063+00:00"
+  },
+  {
+    "path": "L310-po-outcomes/inspections.json",
+    "url": "https://questions-statements-api.parliament.uk/api/writtenquestions/questions/1464439",
+    "bytes": 1925,
+    "sha256": "46d12589ff521d1a38b07edc5018c6829fe3fc2a2a5e9014f2c196e950ef6822",
+    "retrieved_utc": "2026-11-13T15:39:11.863274+00:00"
+  },
+  {
+    "path": "L311-leonard/order.pdf",
+    "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2%3A2025cv01551/351448/31/0.pdf",
+    "bytes": 210575,
+    "sha256": "15c84802c57d601284a4e9dbce1f8f99db1185105a550ee47f61bc9b84edbc0b",
+    "retrieved_utc": "2026-11-13T15:42:04.426684+00:00"
+  },
+  {
+    "path": "L308-boeing-restart/sick-leave.html",
+    "url": "https://www.iam751.org/index.cfm?HomeID=931560&zone=%2Funionactive%2Fview_article.cfm",
+    "bytes": 59108,
+    "sha256": "560023964c11cc2f058022cbd82d714186b18c6d973de6bdaf6c02bb65bba601",
+    "retrieved_utc": "2026-11-13T15:42:00.944519+00:00"
+  }
+]

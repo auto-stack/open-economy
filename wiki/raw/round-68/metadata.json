@@ -1,0 +1,204 @@
+{
+  "round": 68,
+  "research_round": 73,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L296",
+      "title": "Hospitalizations of Caregivers Increases Risk of Hospitalization for Patients Living with Dementia",
+      "authors": "Rebecca S. Boxer, Andrea E. Daddato, Andrew Jessen, Jennifer D. Portz, Susan Shetterly",
+      "year": "2022 online; 2023 volume",
+      "record_url": "https://doi.org/10.1007/s11606-022-07902-w",
+      "version": "Published PDF",
+      "read_scope": "PDF 2–5, Figures 1–2; dyad matching, exposure and limitations",
+      "role": "在家同住伴侣与住院记录的配对；没有逐时照护。",
+      "files": [
+        "L296-spouse-hospital/admissions.pdf",
+        "L296-spouse-hospital/admissions.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L296-spouse-hospital/admissions.pdf",
+          "url": "https://link.springer.com/content/pdf/10.1007/s11606-022-07902-w.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L297",
+      "title": "Understanding Experiences of Caregivers of Spouses With Dementia During Caregiver Health Care Emergencies",
+      "authors": "Andrea E. Daddato et al.",
+      "year": "2024",
+      "record_url": "https://doi.org/10.1093/geront/gnad165",
+      "version": "Europe PMC full-text JATS",
+      "read_scope": "Tables 1–2, journey mapping interviews 9, 15, 18; limitations",
+      "role": "区分回溯的安排、实际到场与家属自述。",
+      "files": [
+        "L297-emergency-plans/interviews.txt",
+        "L297-emergency-plans/interviews.xml"
+      ],
+      "downloads": [
+        {
+          "path": "L297-emergency-plans/interviews.xml",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11194629/fullTextXML"
+        }
+      ]
+    },
+    {
+      "source_id": "L298",
+      "title": "Understanding the Response to Open-Source Dependency Abandonment in the npm Ecosystem",
+      "authors": "Courtney Miller, Mahmoud Jahanshahi, Audris Mockus, Bogdan Vasilescu, Christian Kästner",
+      "year": "2025",
+      "record_url": "https://doi.org/10.1109/ICSE55347.2025.00004",
+      "version": "Author-hosted ICSE PDF",
+      "read_scope": "PDF 3–4, 6–7, 9; abandonment, direct dependents, censoring, Fig. 5",
+      "role": "追踪事前直接依赖者移除声明；项目级观察。",
+      "files": [
+        "L298-npm-cohort/dependencies.pdf",
+        "L298-npm-cohort/dependencies.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L298-npm-cohort/dependencies.pdf",
+          "url": "https://courtney-e-miller.github.io/papers/QuantifyingOSSDependencyAbandonmentResponse.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L299",
+      "title": "“We Feel Like We’re Winging It:” A Study on Navigating Open-Source Dependency Abandonment",
+      "authors": "Courtney Miller, Christian Kästner, Bogdan Vasilescu",
+      "year": "2023",
+      "record_url": "https://courtney-e-miller.github.io/papers/WeFeelLikeWereWingingIt.pdf",
+      "version": "Author-hosted ESEC/FSE PDF",
+      "read_scope": "PDF 1, 4–5, 8; P32 and P30",
+      "role": "定向访谈讨论替代、分叉和接管受阻。",
+      "files": [
+        "L299-npm-interviews/navigating.pdf",
+        "L299-npm-interviews/navigating.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L299-npm-interviews/navigating.pdf",
+          "url": "https://courtney-e-miller.github.io/papers/WeFeelLikeWereWingingIt.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L300",
+      "title": "Node Sass end of life; HMRC frontend pull request 395; Node Sass v9 license",
+      "authors": "Natalie Weizenbaum; HMRC frontend contributors; Andrew Nesbitt",
+      "year": "2024 announcements and migration; v9.0.0 license",
+      "record_url": "https://sass-lang.com/blog/node-sass-is-end-of-life/",
+      "version": "First-party dated announcements, merged PR and versioned license text",
+      "read_scope": "24 July notice, 23 October merge and compatibility test discussion, MIT terms",
+      "role": "上游停更与同一实际下游的决定；不追踪最终用户。",
+      "files": [
+        "L300-sass/end-of-life.html",
+        "L300-sass/end-of-life.txt",
+        "L300-sass/migration.html",
+        "L300-sass/migration.txt",
+        "L300-sass/v9-LICENSE.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L300-sass/end-of-life.html",
+          "url": "https://sass-lang.com/blog/node-sass-is-end-of-life/"
+        },
+        {
+          "path": "L300-sass/migration.html",
+          "url": "https://github.com/hmrc/hmrc-frontend/pull/395"
+        },
+        {
+          "path": "L300-sass/v9-LICENSE.txt",
+          "url": "https://raw.githubusercontent.com/sass/node-sass/v9.0.0/LICENSE"
+        }
+      ]
+    },
+    {
+      "source_id": "L301",
+      "title": "School Closings in Chicago: Understanding Families’ Choices and Constraints for New School Enrollment",
+      "authors": "Marisa de la Torre, Molly F. Gordon, Paul Moore, Jennifer Cowhy; with Sanja Jagešić and Michelle Hanh Huynh",
+      "year": "2015",
+      "record_url": "https://consortium.uchicago.edu/publications/school-closings-chicago-understanding-families-choices-and-constraints-new-school",
+      "version": "Research report, WTTW-hosted copy matched to Consortium record",
+      "read_scope": "PDF 18–21; Appendix B, Table 1 and Figures 2, 4",
+      "role": "依据原校名册追到秋季学区内学校；出区不可判失学。",
+      "files": [
+        "L301-chicago-enrollment/enrollment.pdf",
+        "L301-chicago-enrollment/enrollment.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L301-chicago-enrollment/enrollment.pdf",
+          "url": "https://news.wttw.com/sites/default/files/article/file-attachments/University%20of%20Chicago%20School%20Closures%20Report.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L302",
+      "title": "School Closings in Chicago: Staff and Student Experiences and Academic Outcomes",
+      "authors": "Molly F. Gordon, Marisa de la Torre, Jennifer R. Cowhy, Paul T. Moore, Lauren Sartain, David Knight",
+      "year": "2018",
+      "record_url": "https://consortium.uchicago.edu/publications/school-closings-chicago-staff-and-student-experiences-and-academic-outcomes",
+      "version": "Research report via ERIC ED589712",
+      "read_scope": "PDF 4–7; chapters 2 and 4 on transition and student outcomes",
+      "role": "同一政策，不同证据：六校访谈与学籍结果。",
+      "files": [
+        "L302-chicago-outcomes/outcomes.pdf",
+        "L302-chicago-outcomes/outcomes.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L302-chicago-outcomes/outcomes.pdf",
+          "url": "https://files.eric.ed.gov/fulltext/ED589712.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L303",
+      "title": "Illinois Public Act 97-1133, 105 ILCS 5/34-225; CPS hearing exhibit with provision and amendment history",
+      "authors": "Illinois General Assembly; Chicago Public Schools hearing exhibit",
+      "year": "2012 act; later CPS exhibit",
+      "record_url": "https://www.ilga.gov/Legislation/publicacts/view/097-1133",
+      "version": "Enrolled act PDF; later annotated section filed in hearing record",
+      "read_scope": "Act PDF 4–5, §34-225(a)–(d); CPS exhibit PDF 96–97",
+      "role": "历史责任与最低资源期。学区后期附件独立核对条文。",
+      "files": [
+        "L303-transition-law/board-excerpt.pdf",
+        "L303-transition-law/board-excerpt.txt",
+        "L303-transition-law/session2012.pdf",
+        "L303-transition-law/session2012.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L303-transition-law/board-excerpt.pdf",
+          "url": "https://www.cps.edu/globalassets/cps-pages/about-cps/school-transitions/community-submitted-proposals/nr-colocation-virtual-public-hearing.pdf"
+        },
+        {
+          "path": "L303-transition-law/session2012.pdf",
+          "url": "https://www.ilga.gov/documents/legislation/publicacts/97/PDF/097-1133.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L304",
+      "title": "Forced to Choose: An Overview of Lessons Learned from Families of Students within Special Education",
+      "authors": "Jennifer R. Cowhy, Molly F. Gordon, Marisa de la Torre",
+      "year": "2023",
+      "record_url": "https://consortium.uchicago.edu/publications/forced-to-choose",
+      "version": "Author research overview, two pages",
+      "read_scope": "PDF 1–2, Findings and Data & methods; underlying study DOI 10.1177/08959048231198814",
+      "role": "需要个别化教育计划家庭的回访；未核逐项履行。",
+      "files": [
+        "L304-chicago-iep/short-report.pdf",
+        "L304-chicago-iep/short-report.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L304-chicago-iep/short-report.pdf",
+          "url": "https://consortium.uchicago.edu/sites/default/files/2023-10/Forced%20to%20Choose-Oct2023-Consortium.pdf"
+        }
+      ]
+    }
+  ]
+}

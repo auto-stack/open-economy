@@ -6,6 +6,10 @@
 
 ## 核心问题
 
+第 75 轮比较[跨组织交接中的服务、垫付与纠错](interorganizational-handoffs-and-redress-2026.md)。同一张换乘预订和同一家庭的居家照护将现场补位、持有预算、事后复核和使用者实际得到的帮助分别对齐。[第 70 批原件](../../../wiki/raw/round-70/README.md)
+
+第 73 轮追踪[照护、软件与公共服务中断后的原使用者](care-software-and-public-service-interruptions-2026.md)，把实际获得替代、接手劳动和制度义务并列。芝加哥学籍和家长访谈分别提供选择去向与使用障碍。[第 68 批归档](../../../wiki/raw/round-68/README.md)
+
 第 72 轮追踪[共同活动的形成、交接与服务延续](formation-handover-and-service-continuity-2026.md)。蒙哥马利的一日动员、太特的取药小组、夸莱的水泵维修和瑞士的诊所交接，将组织存续、任务有人接、原使用者能否获得服务分别取证。[第 67 批档案](../../../wiki/raw/round-67/README.md)
 
 第 71 轮追踪[共同活动中的意义、受益与贡献认定](meaning-and-participation-over-time-2026.md)。同人跨期访谈检验参加理由是否变化，结案记录和候补对照分别观察组织认定与服务对象结果。民权项目申请者的长期追访补入跨角色参与。[第 66 批原件与读页](../../../wiki/raw/round-66/README.md)

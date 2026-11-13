@@ -1,5 +1,11 @@
 # 财富与货币形成：历史文献 survey 第一版
 
+2026 年 11 月 14 日，本专题为后续书章增补以下定向研究。[记账、信用与货币的多种历史](objects-promises-and-settlement-2026.md)。[一手资料与版本](../../../wiki/raw/round-74/README.md)
+
+2026 年 11 月 14 日增补[生产、分工与积累的中国纵向研究](production-specialization-and-accumulation-china-2026.md)。用大秦线的运量、换轨和师徒交接，以及钢铁厂的设备与培训对照，追问可用财富怎样反复生产并留到下期。[第五部分第 2 章](../../../book/part-05/02-production-specialization-and-accumulation.md)
+
+2026 年 11 月 14 日增补[中国家庭的资源、用途与机会](wealth-use-and-opportunity-china-2026.md)，以陕甘配镜、三省电商和北京西城住房检验“可用财富”的含义，供[第五部分第 1 章](../../../book/part-05/01-wealth-uses-and-opportunities.md)使用。以下首版及其历史论证保留原取样范围。
+
 日期：2026年11月12日。性质：围绕明确问题的比较性叙述综述，含经济思想史、考古解释、民族志和制度说明；不是已完成穷尽检索的系统综述，也不是全球货币通史。
 
 用户要求先做历史研究，再决定书中经济基础的论证。此前[财富形成的研究提案](../../reviews/19-wealth-emergence-and-economic-foundations.md)保留为问题框架，不能用它预定本轮结论。正式79条总表、纲领0.3及八章既有讨论稿的论证地位不变。

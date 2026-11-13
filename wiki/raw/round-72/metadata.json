@@ -1,0 +1,174 @@
+{
+  "round": 72,
+  "research_round": 77,
+  "date_local": "2026-11-14",
+  "sources": [
+    {
+      "source_id": "L327",
+      "title": "大秦线开行20 kt级重载组合列车系统集成与创新；大秦线重载组合列车LOCOTROL系统运用情况的分析及建议",
+      "authors": "耿志修；袁日东",
+      "year": "2008, 2016",
+      "record_url": "https://www.engineering.org.cn/sscae/CN/1160100280094220614",
+      "version": "两份工程研究的原刊全文",
+      "read_scope": "耿文第3.7–3.8、5节；袁文第112页图1–2、表1–3、故障段落",
+      "role": "扩能配套、正式运行、试验和线路年度运量。",
+      "files": [
+        "L327-daqin-engineering/control.pdf",
+        "L327-daqin-engineering/control.txt",
+        "L327-daqin-engineering/formation.pdf",
+        "L327-daqin-engineering/formation.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L327-daqin-engineering/formation.pdf",
+          "url": "https://jf2.hep.com.cn/fa023826bd6f42a59e24723cd351dae5.pdf"
+        },
+        {
+          "path": "L327-daqin-engineering/control.pdf",
+          "url": "https://files.sciengine.com/pdfs/1000-128X/FD2DB66307F846F1974E7D27F14AF3C1.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L328",
+      "title": "大秦铁路股份有限公司2024年年度报告；2025年年度报告",
+      "authors": "大秦铁路股份有限公司",
+      "year": "2024、2025年度，次年披露",
+      "record_url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225257951.PDF",
+      "version": "公司完整年报，巨潮资讯不同文件入口",
+      "read_scope": "2024年报第9页、2025年报第11–12页，经营情况及核心竞争力",
+      "role": "同线实际货运量与分车型重车列数，和全公司指标区分。",
+      "files": [
+        "L328-daqin-reports/report-2024.pdf",
+        "L328-daqin-reports/report-2024.txt",
+        "L328-daqin-reports/report-2025.pdf",
+        "L328-daqin-reports/report-2025.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L328-daqin-reports/report-2025.pdf",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225257951.PDF"
+        },
+        {
+          "path": "L328-daqin-reports/report-2024.pdf",
+          "url": "https://dataclouds.cninfo.com.cn/shgonggao/2025/2025-04-30/bad4187424dc11f0a2b1fa163e957f7a.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L329",
+      "title": "直击大秦铁路道岔整修：1毫米中见担当；他们千里赴大秦，目的只有一个！",
+      "authors": "中国交通广播；祁映辰、曹隆鑫（郑州工务机械段）",
+      "year": "2020, 2023",
+      "record_url": "https://www.thepaper.cn/newsDetail_forward_22834437",
+      "version": "央广现场及郑州铁路方面发布的署名记录",
+      "read_scope": "遵化北站当日道岔作业；大修七、八车间、换轨计划及4月24日进度",
+      "role": "磨损部件、分工、现场质量检查与阶段完成。",
+      "files": [
+        "L329-track-work/rails.html",
+        "L329-track-work/rails.txt",
+        "L329-track-work/turnout.html",
+        "L329-track-work/turnout.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L329-track-work/rails.html",
+          "url": "https://www.thepaper.cn/newsDetail_forward_22834437"
+        },
+        {
+          "path": "L329-track-work/turnout.html",
+          "url": "https://www.cnr.cn/gsgb/2015yw/20200522/t20200522_525101138.shtml"
+        }
+      ]
+    },
+    {
+      "source_id": "L330",
+      "title": "“重载”奔跑；扎根燕山深处 三十年三代人，践诺一条路；多幸运，我的师父是您！",
+      "authors": "新华网所载随车采访及新华每日电讯报道；太原铁路师徒自述",
+      "year": "2018, 2019, 2024",
+      "record_url": "https://www.xinhuanet.com/politics/2019-07/29/c_1124811314.htm",
+      "version": "两篇现场采访与一份铁路人员自述",
+      "read_scope": "景生启与王亚军换班，王建设退休与韩玮的道尺回忆，王亚军2024年陈述",
+      "role": "分开师徒共事、实际交接、实际离任及未测的技能保持。",
+      "files": [
+        "L330-driver-handover/cab.html",
+        "L330-driver-handover/cab.txt",
+        "L330-driver-handover/driver.html",
+        "L330-driver-handover/driver.txt",
+        "L330-driver-handover/track-family.html",
+        "L330-driver-handover/track-family.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L330-driver-handover/cab.html",
+          "url": "https://www.xinhuanet.com/politics/2018-12/28/c_1123918041.htm"
+        },
+        {
+          "path": "L330-driver-handover/driver.html",
+          "url": "https://www.thepaper.cn/newsDetail_forward_28707998"
+        },
+        {
+          "path": "L330-driver-handover/track-family.html",
+          "url": "https://www.xinhuanet.com/politics/2019-07/29/c_1124811314.htm"
+        }
+      ]
+    },
+    {
+      "source_id": "L331",
+      "title": "Technology Transfer and Early Industrial Development: Evidence from the Sino-Soviet Alliance",
+      "authors": "Michela Giorcelli, Bo Li",
+      "year": "2026（另存2024-09及2025-12工作稿）",
+      "record_url": "https://doi.org/10.1093/restud/rdag047",
+      "version": "2026-05-21期刊在线发表；两份NBER全文及期刊网站发布说明已下载，OUP排版全文在线核对",
+      "read_scope": "§2–6, Figure 4, Tables 3–4; 2025-12稿PDF第10、13–16、20、24–25、41–42页",
+      "role": "撤出后不同转移状态、模型与维护和培训机制。",
+      "files": [
+        "L331-steel-plants/author-2024.pdf",
+        "L331-steel-plants/author-2024.txt",
+        "L331-steel-plants/current-working-paper.pdf",
+        "L331-steel-plants/current-working-paper.txt",
+        "L331-steel-plants/journal.html",
+        "L331-steel-plants/journal.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L331-steel-plants/author-2024.pdf",
+          "url": "https://www.nber.org/system/files/working_papers/w29455/revisions/w29455.rev4.pdf"
+        },
+        {
+          "path": "L331-steel-plants/journal.html",
+          "url": "https://www.restud.com/technology-transfer-and-early-industrial-development-evidence-from-the-sino-soviet-alliance/"
+        },
+        {
+          "path": "L331-steel-plants/current-working-paper.pdf",
+          "url": "https://www.nber.org/system/files/working_papers/w29455/w29455.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L332",
+      "title": "Replication Package for Technology Transfer and Early Industrial Development: Evidence from the Sino-Soviet Alliance",
+      "authors": "Michela Giorcelli, Bo Li",
+      "year": "2026-05-05",
+      "record_url": "https://doi.org/10.5281/zenodo.19175276",
+      "version": "Zenodo v1，JSON记录与原样ZIP，内含2026-04-22说明",
+      "read_scope": "readme.pdf, original_replication/Original DoFiles/Figure4.do, original_replication/Intermediate Output/Datasets/Figure4_DID_log_output.dta",
+      "role": "仅使用原分析公开的中间结果，区分受限原档、公开系数与合成微观数据。",
+      "files": [
+        "L332-steel-replication/package-readme.txt",
+        "L332-steel-replication/record.json",
+        "L332-steel-replication/replication.zip"
+      ],
+      "downloads": [
+        {
+          "path": "L332-steel-replication/record.json",
+          "url": "https://zenodo.org/api/records/19175276"
+        },
+        {
+          "path": "L332-steel-replication/replication.zip",
+          "url": "https://zenodo.org/records/19175276/files/Replication_Package_260506.zip?download=1"
+        }
+      ]
+    }
+  ]
+}

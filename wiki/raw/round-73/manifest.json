@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 2495,
+      "sha256": "937fd2077274060beae590ea9bb068b091deb2b7af6b9ba549f5fc30ebf9eb14"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 3930,
+      "sha256": "b6da19d83aaee1f388f66eb3d09fb6a9f0070b61e03e3990221932dfdcdc26e1"
+    },
+    {
+      "path": "L333-rail-rules/rules.html",
+      "bytes": 76878,
+      "sha256": "97fef65636c9e726ae9e41a59d6c6a7713e0af43cf81bd16b20f8ef79f6c81b1"
+    },
+    {
+      "path": "L333-rail-rules/rules.txt",
+      "bytes": 29808,
+      "sha256": "3ca9acff1390e14c838fac8f07c702de579d4c603199f87175947e5b8cefffa3"
+    },
+    {
+      "path": "L334-daqin-maintenance/adjustment.pdf",
+      "bytes": 239097,
+      "sha256": "c683ac19c0069bf1d3b761e2a4430f9de5414a1b3283e62226368c2ffe752de3"
+    },
+    {
+      "path": "L334-daqin-maintenance/adjustment.txt",
+      "bytes": 3948,
+      "sha256": "cceff78a789d3eb8cd618456cf102df07d0c8197dfda1ea599e428062232b87c"
+    },
+    {
+      "path": "L334-daqin-maintenance/implementation.pdf",
+      "bytes": 739944,
+      "sha256": "4fc0c3ea28850616329bf91fef13604bc3c57bf02eb17435923e363c8b7e49e1"
+    },
+    {
+      "path": "L334-daqin-maintenance/implementation.txt",
+      "bytes": 5266,
+      "sha256": "e387ac8aa086f173dec21b23246b447badb4a287c4f8adafa6eb695553424b22"
+    },
+    {
+      "path": "L334-daqin-maintenance/report.pdf",
+      "bytes": 6412324,
+      "sha256": "0cab6ceb099f4b48f38f7d9a14f12bdbc472153f473080f77a4874c75b156051"
+    },
+    {
+      "path": "L334-daqin-maintenance/report.txt",
+      "bytes": 40364,
+      "sha256": "5c6da1ae678abfa8247201ec2173e590690bb5d28b1252259004dd649ed02169"
+    },
+    {
+      "path": "L335-yangliu-budget/field.html",
+      "bytes": 42004,
+      "sha256": "e22915b30a0b9ee5015918d635ef24f8bd3111bf61974494ee368b8d19bfd0f3"
+    },
+    {
+      "path": "L335-yangliu-budget/field.txt",
+      "bytes": 11546,
+      "sha256": "b7ff5e4edb7909b34cd775190e607da59e2589837b9a77b9ebf00046dbaf8241"
+    },
+    {
+      "path": "L336-chongzhou-contracts/study-web-text.txt",
+      "bytes": 32457,
+      "sha256": "de874cec914ce371911ad22109deb8e18986fb99611306800834330502fb8b94"
+    },
+    {
+      "path": "L337-yangliu-followup/dividends.html",
+      "bytes": 96664,
+      "sha256": "805914a4a8349ff9970498050d805b5819816365fddc26983eb4eaaa73805c8e"
+    },
+    {
+      "path": "L337-yangliu-followup/dividends.txt",
+      "bytes": 12581,
+      "sha256": "69708b85703d26837ed39aeb3f22aa4092d4e89d20ca3be934872368e010ab42"
+    },
+    {
+      "path": "L337-yangliu-followup/planting.html",
+      "bytes": 51236,
+      "sha256": "66321549b3ae29aec2527fe2901eb0c8a443f1682a7a46123dc33f4ddf5ee6ad"
+    },
+    {
+      "path": "L337-yangliu-followup/planting.txt",
+      "bytes": 6229,
+      "sha256": "bdde835187719969fc67b48099c693f20fad594037f83ffc46c5a2fb2d35860f"
+    },
+    {
+      "path": "L338-pinggui-award/warehouse.html",
+      "bytes": 36862,
+      "sha256": "53a1cc836a17288e3d93b38ca51ad9866ebd2e6f4cba3a8651fc6ae89ab9f380"
+    },
+    {
+      "path": "L338-pinggui-award/warehouse.txt",
+      "bytes": 4791,
+      "sha256": "2d601c61f5648ca12250f266c2b0bc5d9b1cf2b5fa2f8650a17ad26d2d510744"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 6117,
+      "sha256": "6084699d40187b8d0e860c1987b594efec8018c253f3732f64591a24e3abfee9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4552,
+      "sha256": "c7764871ea8a8d9d7bb40ea54f29511b976770a5c2abacad942957e5e2e6ff28"
+    }
+  ]
+}

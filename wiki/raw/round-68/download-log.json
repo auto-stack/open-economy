@@ -1,0 +1,186 @@
+[
+  {
+    "path": "L298-npm-cohort/dependencies.pdf",
+    "url": "https://courtney-e-miller.github.io/papers/QuantifyingOSSDependencyAbandonmentResponse.pdf",
+    "bytes": 1787125,
+    "sha256": "62eec79534651efb09038b5620618375ba356b065d9ad2cd2ff174e87437ff61",
+    "retrieved_utc": "2026-11-13T15:07:29.257418+00:00"
+  },
+  {
+    "path": "L299-npm-interviews/navigating.pdf",
+    "url": "https://courtney-e-miller.github.io/papers/WeFeelLikeWereWingingIt.pdf",
+    "bytes": 966746,
+    "sha256": "3d9986434eefe6c2179f9cb21af7a671827657d9de80ae342dda66c80e0e9430",
+    "retrieved_utc": "2026-11-13T15:07:28.384551+00:00"
+  },
+  {
+    "path": "L300-sass/end-of-life.html",
+    "url": "https://sass-lang.com/blog/node-sass-is-end-of-life/",
+    "bytes": 11222,
+    "sha256": "48bad33cdcdfb258e27658310a3910caff12ffcada1129da45f9e399319e1540",
+    "retrieved_utc": "2026-11-13T15:07:27.588824+00:00"
+  },
+  {
+    "path": "L296-spouse-hospital/admissions.pdf",
+    "url": "https://link.springer.com/content/pdf/10.1007/s11606-022-07902-w.pdf",
+    "bytes": 653320,
+    "sha256": "681f229f38204f795b099a2fa10d7f6419b3d51fb542ead6c996fc156b6c3966",
+    "retrieved_utc": "2026-11-13T15:09:20.458525+00:00"
+  },
+  {
+    "path": "L297-emergency-plans/interviews.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11194629/fullTextXML",
+    "bytes": 109908,
+    "sha256": "317811bd140ec5f62340c444623fdaaa519987aac210720b5a455836ef9cde24",
+    "retrieved_utc": "2026-11-13T15:09:21.296919+00:00"
+  },
+  {
+    "path": "L300-sass/migration.html",
+    "url": "https://github.com/hmrc/hmrc-frontend/pull/395",
+    "bytes": 383124,
+    "sha256": "9830be6b6b80f8d7d3bb64a778de78e73db7c6263fb4649a1c1703be63663626",
+    "retrieved_utc": "2026-11-13T15:09:27.554446+00:00"
+  },
+  {
+    "path": "L302-chicago-outcomes/outcomes.pdf",
+    "url": "https://files.eric.ed.gov/fulltext/ED589712.pdf",
+    "bytes": 3794229,
+    "sha256": "62491b0dc260689df0d7da84a59e169f2ae4b097c327ffbd1c9012cd60077344",
+    "retrieved_utc": "2026-11-13T15:10:26.651022+00:00"
+  },
+  {
+    "path": "L301-chicago-enrollment/enrollment.pdf",
+    "url": "https://news.wttw.com/sites/default/files/article/file-attachments/University%20of%20Chicago%20School%20Closures%20Report.pdf",
+    "bytes": 3497130,
+    "sha256": "f81d01e93384446c3934fa6e470651342c5d78ab49ce72e410e14dca51cd60ba",
+    "retrieved_utc": "2026-11-13T15:11:55.188071+00:00"
+  },
+  {
+    "path": "L303-transition-law/board-excerpt.pdf",
+    "url": "https://www.cps.edu/globalassets/cps-pages/about-cps/school-transitions/community-submitted-proposals/nr-colocation-virtual-public-hearing.pdf",
+    "bytes": 8672908,
+    "sha256": "95bee9363380ea5a425aca131a3ea68731994c7b7f47ee2af1d10335d3645c99",
+    "retrieved_utc": "2026-11-13T15:16:45.741744+00:00"
+  },
+  {
+    "path": "L304-chicago-iep/short-report.pdf",
+    "url": "https://consortium.uchicago.edu/sites/default/files/2023-10/Forced%20to%20Choose-Oct2023-Consortium.pdf",
+    "bytes": 158797,
+    "sha256": "a84669dc399da956dd37662ea4cf9cb0d35ee1a8981a5f0c26116a3f837621ce",
+    "retrieved_utc": "2026-11-13T15:15:32.577634+00:00"
+  },
+  {
+    "path": "L303-transition-law/session2012.pdf",
+    "url": "https://www.ilga.gov/documents/legislation/publicacts/97/PDF/097-1133.pdf",
+    "bytes": 37012,
+    "sha256": "659c6a6a084432bebfce6c9dc5db89551b2dd171fe3ebdadaaf8df0081167c74",
+    "retrieved_utc": "2026-11-13T15:23:49.915527+00:00"
+  },
+  {
+    "path": "L300-sass/v9-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/sass/node-sass/v9.0.0/LICENSE",
+    "bytes": 1063,
+    "sha256": "61d8b58ea5fb43d0de642683f0ca9846e57d8a014d40ab75dd1457417c0b3108",
+    "retrieved_utc": "2026-11-13T15:24:32.988512+00:00"
+  },
+  {
+    "url": "https://consortium.uchicago.edu/publications/forced-to-choose",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://consortium.uchicago.edu/publications/school-closings-chicago-understanding-families-choices-and-constraints-new-school",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://consortium.uchicago.edu/sites/default/files/2018-10/School%20Closings%20in%20Chicago-May2018-Consortium.pdf",
+    "attempt_result": "ConnectionError"
+  },
+  {
+    "url": "https://consortium.uchicago.edu/sites/default/files/2023-06/School%20Closings%20in%20Chicago-Jan2015-Consortium.pdf",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://consortium.uchicago.edu/sites/default/files/2023-10/Forced%20to%20Choose-Oct2023-Consortium.pdf",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://consortium.uchicago.edu/sites/default/files/2023-10/Forced%20to%20Choose-Oct2023-Consortium.pdf?download=1",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://ilga.gov/documents/legislation/publicacts/97/PDF/097-1133.pdf",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://ilga.gov/legislation/publicacts/97/097-1133.htm",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://journals.sagepub.com/doi/full/10.1177/08959048231198814",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://law.justia.com/codes/illinois/2013/chapter-105/act-105-ilcs-5/article-34/",
+    "attempt_result": "HTTPError"
+  },
+  {
+    "url": "https://my.ilga.gov/ftp/Public%20Acts/97/097-1133.htm",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://my.ilga.gov/ftp/Public%20Acts/97/097-1133.htm",
+    "attempt_result": "SSLError"
+  },
+  {
+    "url": "https://schoolinfo.cps.edu/SchoolActions/Download.aspx?fid=2654",
+    "attempt_result": "AssertionError"
+  },
+  {
+    "url": "https://schoolinfo.cps.edu/SchoolActions/Download.aspx?fid=2654",
+    "attempt_result": "ConnectionError"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9905325/fullTextXML",
+    "attempt_result": "HTTPError"
+  },
+  {
+    "url": "https://www.ilga.gov/Legislation/publicacts/view/097-0474",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://www.ilga.gov/Legislation/publicacts/view/097-1133",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://www.ilga.gov/Legislation/publicacts/view/097-1133",
+    "attempt_result": "RecursionError"
+  },
+  {
+    "url": "https://www.ilga.gov/Legislation/publicacts/view/097-1133",
+    "attempt_result": "SSLError"
+  },
+  {
+    "url": "https://www.ilga.gov/documents/legislation/publicacts/97/PDF/097-0474.pdf",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://www.ilga.gov/documents/legislation/publicacts/97/PDF/097-1133.pdf",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://www.ilga.gov/documents/legislation/publicacts/97/PDF/097-1133.pdf",
+    "attempt_result": "SSLError"
+  },
+  {
+    "url": "https://www.ilga.gov/ftp/Public%20Acts/97/097-1133.htm",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://www.ilga.gov/legislation/publicacts/97/097-1133.htm",
+    "attempt_result": "ConnectTimeout"
+  },
+  {
+    "url": "https://www.ilga.gov/legislation/publicacts/fulltext.asp?Name=097-1133",
+    "attempt_result": "ConnectTimeout"
+  }
+]

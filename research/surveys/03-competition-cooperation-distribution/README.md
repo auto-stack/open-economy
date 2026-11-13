@@ -1,5 +1,9 @@
 # 公平竞争、开放协作与贡献分配：专题 survey 首版
 
+2026 年 11 月 14 日，本专题为后续书章增补以下定向研究。[共享成果怎样获得持续支持](support-for-shared-maintenance-2026.md) · [同一服务可以怎样组织](same-service-alternatives-2026.md) · [AutoOS的角色、资金与责任](settlement-refunds-and-stewardship-2026.md) · [怎样检验、失败与修订](assessment-selection-and-revision-2026.md)。[一手资料与版本](../../../wiki/raw/round-74/README.md)
+
+2026 年 11 月 14 日更新[一次生产决定的控制权、成本承担与收益分配](decision-rights-costs-and-returns-china-2026.md)，用大秦线检修、崇州杨柳插秧和广西矿仓技改检验按资、按劳与按贡献的证据要求。[书章](../../../book/part-05/03-rights-control-and-distribution.md) · [来源读段](../../../wiki/raw/round-73/README.md)
+
 日期：2026年11月12日。性质：问题导向的比较性叙述综述，完成经典机制与若干当代证据的首轮核查；不是穷尽学科、行业或最新文献的系统综述。先调查再定调，不将用户的研究方向预写成已证定律。
 
 本轮承接[财富与货币历史研究](../02-wealth-money-history/README.md)，回应两个相连的问题：市场为何可能奖励损害他人的竞争方式？共享成果如何获得持续投入，并在参与者之间安排回报？

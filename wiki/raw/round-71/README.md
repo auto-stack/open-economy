@@ -1,0 +1,15 @@
+# 第 71 批　中国家庭能使用的资源、服务和权利
+
+2026 年 11 月 14 日，第 76 轮。L320–L326 共七组、十份来源文件，其中四份 PDF、六份机构网页，均附同名可检索文字。L320 和 L321 分析同一配镜试验。L326 为第四部分第 4 章补入一笔跨省结算，其余六组服务于[财富与机会综述](../../../research/surveys/02-wealth-money-history/wealth-use-and-opportunity-china-2026.md)及[新章](../../../book/part-05/01-wealth-uses-and-opportunities.md)。
+
+| 来源与可回取版本 | 本地材料 | 实际读段、用途与边界 |
+|---|---|---|
+| L320 Ma 等（2014），BMJ，g5740。[发表记录](https://doi.org/10.1136/bmj.g5740) · [大学库期刊版](https://pureadmin.qub.ac.uk/ws/files/18242014/Effect_of_providing.pdf) | [PDF](L320-school-glasses/trial.pdf) · [逐页文字](L320-school-glasses/trial.txt) | 期刊第 2–4、9、11 页，方法、组别、交通、随访，表 3 成绩及表 5 佩戴。PDF 多一页库封面。41% 和 26% 为抽查，两组的比较基准均为处方对照。 |
+| L321 Sylvia、Ma、Shi、Rozelle（2022），Journal of Health Economics 82，102594。[期刊](https://doi.org/10.1016/j.jhealeco.2022.102594) · [开放全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC9811338/) | [大学托管期刊 PDF](L321-glasses-cost/delivery.pdf) · [文字](L321-glasses-cost/delivery.txt) | 同一试验图 1、表 5–7 和成本敏感性分析。区分拥有者中佩戴与全体有效覆盖。重复分析不计为独立重复试验。 |
+| L322 Couture、Faber、Gu、Liu（2021），AER: Insights 3(1)，35–50。[期刊](https://doi.org/10.1257/aeri.20190382) · [作者网站](https://ben-faber.com/ECommerce_CFGL.pdf) | [2020 年 7 月作者稿含附录](L322-ecommerce/rural.pdf) · [文字](L322-ecommerce/rural.txt) | 三省八县、村庄分配与实际进入、约一年家庭追访，表 1–3、图 2 和附录设计。表 3 两个加权比例为不同家庭范围的零售生活成本估计。 |
+| L323 西城区 2020 年入学意见及 2021 年执行问答。[意见原文](https://www.beijing.gov.cn/zhengce/gfxwj/202005/t20200520_1903693.html) · [问答原文](https://www.beijing.gov.cn/zhengce/zcjd/202104/t20210424_2367522.html) | [意见](L323-xicheng/notice.html) · [文字](L323-xicheng/notice.txt) · [问答](L323-xicheng/implementation.html) · [文字](L323-xicheng/implementation.txt) | 核当年购房取得产权证书、跨区迁入、提交材料及派位。以意见第七、八项及问答第 6–9 问区分一般程序和特定家庭。 |
+| L324 邵磊等（2023），《财经研究》49(7)，48–62。[期刊](https://qks.shufe.edu.cn/J/CJYJ/Article/Details/A4853ef1b-4489-41e3-b927-20fe42b087dc/CN) | [中央财经大学托管 PDF](L324-school-housing/prices.pdf) · [逐页文字](L324-school-housing/prices.txt) | 表 1 核西城、东城交易样本；表 2 列（3）与表 3 分期估计；表 4–5 为异质性分析。房屋成交单位不等于入学儿童。 |
+| L325 国家统计局（2017、2025），编表方案答问及[资产负债表分析要点](https://www.stats.gov.cn/zs/tjws/tjfx/202301/t20230101_1903698.html)。[官方原文](https://www.stats.gov.cn/sj/sjjd/202302/t20230202_1895931.html) | [网页](L325-balance-sheet/accounts.html) · [文字](L325-balance-sheet/accounts.txt) · [分析要点](L325-balance-sheet/net-worth.html) · [文字](L325-balance-sheet/net-worth.txt) | 时点与存量取自编表答问，资产净值公式见分析要点第四节第一项。问答发布日期 2017 年 10 月 31 日，与网页路径日期分别记录。 |
+| L326 国家医保局发布的广东个案（2024），国家医保局、财政部经办规程（2022）。[个案](https://www.nhsa.gov.cn/art/2024/12/17/art_14_15143.html) · [通知及规程](https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html) | [广东报道](L326-health-settlement/case.html) · [文字](L326-health-settlement/case.txt) · [规程](L326-health-settlement/procedure.html) · [文字](L326-health-settlement/procedure.txt) | 贵州参保、广州开药，一次门诊的费用与直接报销来自报道中的本人陈述。规程第 31、33 条、预付清算与第一响应人条款说明程序。未见该笔跨省最终清算凭据。 |
+
+[来源元数据](metadata.json)记录版本、取得地址及读段。[下载记录](download-log.json)保留失败入口与最终成功副本。[数字核对](crosscheck-metadata.json)说明分母、比较组和证据类型。[本地文件哈希清单](manifest.json)可校验原件与检索文字。PDF 表格请以原版列标题为准，双栏和横排附表的抽取文字可能错列。

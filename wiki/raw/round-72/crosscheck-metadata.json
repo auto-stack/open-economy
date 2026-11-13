@@ -1,0 +1,174 @@
+{
+  "checks": [
+    {
+      "source": "L327",
+      "unit": "线路年度运量/亿吨，原图柱顶标注（数字精度随图），非日均开行对数",
+      "figure": "袁日东图2，期刊第112页",
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ],
+      "actual": [
+        1.0,
+        1.2,
+        1.5,
+        2.0,
+        2.54,
+        3.0,
+        3.4,
+        3.3,
+        4.0,
+        4.4,
+        4.2,
+        4.4,
+        4.5
+      ],
+      "service_20000t": "2006-03-28",
+      "trial_30000t": "2014-04-02",
+      "monthly_emergency_braking_incidents": {
+        "in_2007": 36,
+        "in_2014_approx": 1
+      }
+    },
+    {
+      "source": "L328",
+      "unit": "大秦线年度货运量/万吨，非集团发送量，车次单位列/日",
+      "year_2024": {
+        "freight_10k_t": 39215,
+        "loaded_per_day": 77,
+        "loaded_20000t_per_day": 52.8
+      },
+      "year_2025": {
+        "freight_10k_t": 39004,
+        "loaded_per_day": 81.6,
+        "loaded_20000t_per_day": 50.7
+      }
+    },
+    {
+      "source": "L329",
+      "turnout_date": "2020-05-22",
+      "work_window_hours": 3,
+      "track_renewal_2023": {
+        "planned_windows": 49,
+        "planned_km": 63,
+        "as_of": "2023-04-24",
+        "reported_completed_km": 51.732
+      }
+    },
+    {
+      "source": "L330",
+      "track_retirement": {
+        "person": "王建设",
+        "year": 2018,
+        "reported_by": "韩玮在2019年回忆河南寺工区的道尺带教"
+      },
+      "driver_shift_handoff": {
+        "teacher": "景生启",
+        "driver": "王亚军",
+        "observed": 2018,
+        "followup_personal_account": 2024
+      },
+      "unknown": "没有退休前后按同题验收的个体数据。"
+    },
+    {
+      "source": "L331",
+      "clusters": 20,
+      "plants": 304,
+      "machinery_with_training": 98,
+      "machinery_only": 91,
+      "no_soviet_transfer": 115,
+      "archive_years": [
+        1949,
+        2000
+      ],
+      "withdrawal": "1960-07",
+      "published_pct_kh": {
+        "year2": 7.9,
+        "year20": 19.1,
+        "year40": 48.7
+      },
+      "maintenance": "预防性维修次数/全年维修次数",
+      "downtime": "意外停机小时/全年可运行小时"
+    },
+    {
+      "source": "L332",
+      "zip_md5": "2a1e9f2e0799e79859bda2c571853de3",
+      "member": "Replication_Package_260416_restud_rev1/original_replication/Intermediate Output/Datasets/Figure4_DID_log_output.dta",
+      "selected_results": {
+        "pc_7": {
+          "log_coef_and_95ci": [
+            0.11299999803304672,
+            0.07690396904945374,
+            0.14659862220287323
+          ],
+          "percent_estimate_and_95ci": [
+            11.9632,
+            7.9938,
+            15.7889
+          ]
+        },
+        "pc_20": {
+          "log_coef_and_95ci": [
+            0.06016860902309418,
+            -0.021429402753710747,
+            0.14176662266254425
+          ],
+          "percent_estimate_and_95ci": [
+            6.2016,
+            -2.1201,
+            15.2308
+          ]
+        },
+        "kh_2": {
+          "log_coef_and_95ci": [
+            0.07641548663377762,
+            0.039251357316970825,
+            0.11357961595058441
+          ],
+          "percent_estimate_and_95ci": [
+            7.9411,
+            4.0032,
+            12.0281
+          ]
+        },
+        "kh_20": {
+          "log_coef_and_95ci": [
+            0.17538851499557495,
+            0.11714340001344681,
+            0.2336336225271225
+          ],
+          "percent_estimate_and_95ci": [
+            19.1709,
+            12.4281,
+            26.3182
+          ]
+        },
+        "kh_40": {
+          "log_coef_and_95ci": [
+            0.39731428027153015,
+            0.3218871057033539,
+            0.4727414548397064
+          ],
+          "percent_estimate_and_95ci": [
+            48.7823,
+            37.9729,
+            60.4387
+          ]
+        }
+      },
+      "transform": "100*expm1(log coefficient); transform each interval endpoint identically",
+      "note": "PC=仅设备相对无转移；KH=附加培训相对仅设备。仅核中间输出，原始档案受限。"
+    }
+  ]
+}

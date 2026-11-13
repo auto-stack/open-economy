@@ -1,0 +1,124 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 3067,
+      "sha256": "9470acdf5aface60f0df14ba3c41c93b48fdbc780db171e0ae3fc688d9aa6481"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 6003,
+      "sha256": "7b98614d03365b79b82fe8339e68a4a0167891f08783a5c30884eed18b8fd237"
+    },
+    {
+      "path": "L320-school-glasses/trial.pdf",
+      "bytes": 2407400,
+      "sha256": "e1ae02a7c4fe218f3fb02bf3a565cf1f0bbb74b75dbde5669495682de3df1aa4"
+    },
+    {
+      "path": "L320-school-glasses/trial.txt",
+      "bytes": 69482,
+      "sha256": "c19b02f0811a51584014c4025152f89f26261cc2bfa70e82351bbf05dc148ddb"
+    },
+    {
+      "path": "L321-glasses-cost/delivery.pdf",
+      "bytes": 830039,
+      "sha256": "3bd1ff481f8763c3272133a455f09ae5a0547a67e33785ea5cdb39621f6f160b"
+    },
+    {
+      "path": "L321-glasses-cost/delivery.txt",
+      "bytes": 331187,
+      "sha256": "6dbf873927a6f98ae0b403018b3fc340221b7c396071c6e3f91b08049c4b654f"
+    },
+    {
+      "path": "L322-ecommerce/rural.pdf",
+      "bytes": 1316063,
+      "sha256": "ce7b06c1ad19fb03f986a79ba0771398d50bdeaeeb57772149cfdde6d5c59154"
+    },
+    {
+      "path": "L322-ecommerce/rural.txt",
+      "bytes": 392091,
+      "sha256": "1109926e6305af517332eba547eebf600d3f09bc3527392f143d97f160868ebc"
+    },
+    {
+      "path": "L323-xicheng/implementation.html",
+      "bytes": 31458,
+      "sha256": "900d4a553f6a718d2077901b2fa4368d81dbde0b1f544aeab2f8807791e57f26"
+    },
+    {
+      "path": "L323-xicheng/implementation.txt",
+      "bytes": 11838,
+      "sha256": "261540a3fccb277e3ba42257ca963f036a81f9b7fb951c00c0819af604d24c2e"
+    },
+    {
+      "path": "L323-xicheng/notice.html",
+      "bytes": 36412,
+      "sha256": "bc52554b51649f7e0773d7280d1b4472f9d638d549185c670ac5e369ea5fc170"
+    },
+    {
+      "path": "L323-xicheng/notice.txt",
+      "bytes": 10838,
+      "sha256": "cb50054b6e43f37edf7e508034063f76126aade7b84ca5add1dc47b9ae6663f8"
+    },
+    {
+      "path": "L324-school-housing/prices.pdf",
+      "bytes": 1353352,
+      "sha256": "3aa3885847005829e269e4e9ebafc43a075a48fd8de10725dd197961af8d88d7"
+    },
+    {
+      "path": "L324-school-housing/prices.txt",
+      "bytes": 67352,
+      "sha256": "c26b952cf2a021f82d167053f9b23b796319566a3187be312bd4c8c5762c6fe7"
+    },
+    {
+      "path": "L325-balance-sheet/accounts.html",
+      "bytes": 113681,
+      "sha256": "32dfda6fb3339d748c6c56d1ec2affd0d3bf0c41a447dbc6e93cbb2f50dabb70"
+    },
+    {
+      "path": "L325-balance-sheet/accounts.txt",
+      "bytes": 31782,
+      "sha256": "610f282182d36218758a987a79fc03733ec81e3bcea73387ca77ef02e48b95a6"
+    },
+    {
+      "path": "L325-balance-sheet/net-worth.html",
+      "bytes": 113222,
+      "sha256": "143c5715af38f563133c4bd18abde546d7c56221fb825a90f092dd422417c8bc"
+    },
+    {
+      "path": "L325-balance-sheet/net-worth.txt",
+      "bytes": 19585,
+      "sha256": "985c35feec83ea07d3427e37012e374cf5e0dcba126df170b08d359389eb5451"
+    },
+    {
+      "path": "L326-health-settlement/case.html",
+      "bytes": 11986,
+      "sha256": "46ea913a339cce34dcd4fcad947a72e8d10547ab1de724bcfa6155f9f9120b9f"
+    },
+    {
+      "path": "L326-health-settlement/case.txt",
+      "bytes": 1689,
+      "sha256": "f608e79cf2cbadb739b13600d466b0b3e9e0243e7d3705ebaafb089d7570f499"
+    },
+    {
+      "path": "L326-health-settlement/procedure.html",
+      "bytes": 74147,
+      "sha256": "84ca0161b19b0e683b8ddec9294c8be8910e03d83ebbaf1efcf5bfb487665649"
+    },
+    {
+      "path": "L326-health-settlement/procedure.txt",
+      "bytes": 45293,
+      "sha256": "fc451b29fd3658e08c8f0b5eb11961bb52f2e162f67ddebb62b4f6436b896648"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 7205,
+      "sha256": "1a2084a5750ecc2ec61c7c5b9f335d0c0623f7bb72c089bbb269c6202b26fa2f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4697,
+      "sha256": "2c4ee22899913ee74d9ee19e4fcfc5c1eb75906452d8ac4cc10ef354f2155307"
+    }
+  ]
+}

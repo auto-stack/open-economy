@@ -1,5 +1,7 @@
 # 持续输入、Ordo杠杆与组织演进
 
+2026 年 11 月 14 日，本专题为后续书章增补以下定向研究。[技术改变了哪些组织条件](task-productivity-and-bottlenecks-2026.md)。[一手资料与版本](../../../wiki/raw/round-74/README.md)
+
 第59轮已将两轮演进研究写入第一部分第5章，用交接、技能重构和实际履行比较不同尺度的改变。[章节讨论稿](../../../book/part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](../../../book/argument-cards/part-01-05-how-organizations-evolve.md)
 
 第58轮已补入团队换人、开源项目继任、技能再传和现场规则修订的过程证据。[组织怎样演进 · 综述0.2](variation-transmission-and-selection/review-2026.md) · [六组来源与六项核查](variation-transmission-and-selection/handover-evidence.md)

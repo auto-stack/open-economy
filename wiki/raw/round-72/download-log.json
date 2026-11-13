@@ -1,0 +1,134 @@
+[
+  {
+    "path": "L327-daqin-engineering/formation.pdf",
+    "url": "https://jf2.hep.com.cn/fa023826bd6f42a59e24723cd351dae5.pdf",
+    "final_url": "https://jf2.hep.com.cn/fa023826bd6f42a59e24723cd351dae5.pdf",
+    "bytes": 821732,
+    "sha256": "cdf383f63cff53290fba3a6d89e89b36722bbeab3ba4f097e2967cf5acbdba7f",
+    "retrieved_utc": "2026-11-13T17:00:46.667587+00:00"
+  },
+  {
+    "path": "L327-daqin-engineering/control.pdf",
+    "url": "https://files.sciengine.com/pdfs/1000-128X/FD2DB66307F846F1974E7D27F14AF3C1.pdf",
+    "final_url": "https://files.sciengine.com/pdfs/1000-128X/FD2DB66307F846F1974E7D27F14AF3C1.pdf",
+    "bytes": 726181,
+    "sha256": "0d92ce55c22134b9e147eec333d33cdc00f31c7f0d6b6e70a6f6bb722d257003",
+    "retrieved_utc": "2026-11-13T17:00:46.668254+00:00"
+  },
+  {
+    "requested": "L328-daqin-reports/report-2024.pdf",
+    "url": "https://static.cninfo.com.cn/finalpage/2025-04-30/1223415159.PDF",
+    "error": "404 Client Error: Not Found for url: https://static.cninfo.com.cn/finalpage/2025-04-30/1223415159.PDF"
+  },
+  {
+    "path": "L328-daqin-reports/report-2025.pdf",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225257951.PDF",
+    "final_url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225257951.PDF",
+    "bytes": 1393508,
+    "sha256": "14167934c9ce7efffc4a90382498498f65f1c69219f7ec72e2275c46f5e0b695",
+    "retrieved_utc": "2026-11-13T17:00:46.665208+00:00"
+  },
+  {
+    "path": "L329-track-work/rails.html",
+    "url": "https://www.thepaper.cn/newsDetail_forward_22834437",
+    "final_url": "https://www.thepaper.cn/newsDetail_forward_22834437",
+    "bytes": 28410,
+    "sha256": "6e179feabce26fcf596568fafb9739cdd4c09bb9956f0dcd204717fb0a996648",
+    "retrieved_utc": "2026-11-13T17:00:45.917253+00:00"
+  },
+  {
+    "path": "L329-track-work/turnout.html",
+    "url": "https://www.cnr.cn/gsgb/2015yw/20200522/t20200522_525101138.shtml",
+    "final_url": "https://www.cnr.cn/gsgb/2015yw/20200522/t20200522_525101138.shtml",
+    "bytes": 27597,
+    "sha256": "d6edc67be29e5b8ffc2952ca7dd98b6893994e84cc5c3989c479e8eb85b74247",
+    "retrieved_utc": "2026-11-13T17:00:45.339135+00:00"
+  },
+  {
+    "path": "L330-driver-handover/cab.html",
+    "url": "https://www.xinhuanet.com/politics/2018-12/28/c_1123918041.htm",
+    "final_url": "https://www.xinhuanet.com/politics/2018-12/28/c_1123918041.htm",
+    "bytes": 49125,
+    "sha256": "a06456e68e89aec66acb54b001f137498452b9e44b4a60aa73d37e16d0ad9c1a",
+    "retrieved_utc": "2026-11-13T17:00:45.433490+00:00"
+  },
+  {
+    "path": "L330-driver-handover/driver.html",
+    "url": "https://www.thepaper.cn/newsDetail_forward_28707998",
+    "final_url": "https://www.thepaper.cn/newsDetail_forward_28707998",
+    "bytes": 65833,
+    "sha256": "1529bf32c28a5f4ef39424c2c2f722832fe827e36d7f1f34be8cec9ec775a9c4",
+    "retrieved_utc": "2026-11-13T17:00:46.124229+00:00"
+  },
+  {
+    "requested": "L331-steel-plants/publication.html",
+    "url": "https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdag047/8688845",
+    "error": "403 Client Error: Forbidden for url: https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdag047/8688845"
+  },
+  {
+    "path": "L331-steel-plants/author-2024.pdf",
+    "url": "https://www.nber.org/system/files/working_papers/w29455/revisions/w29455.rev4.pdf",
+    "final_url": "https://www.nber.org/system/files/working_papers/w29455/revisions/w29455.rev4.pdf",
+    "bytes": 1990790,
+    "sha256": "c03edde361f1ae2fdc442b10ca92938944af09c87181fdef2e63e3401e0e58a4",
+    "retrieved_utc": "2026-11-13T17:00:53.547068+00:00"
+  },
+  {
+    "path": "L332-steel-replication/record.json",
+    "url": "https://zenodo.org/api/records/19175276",
+    "final_url": "https://zenodo.org/api/records/19175276",
+    "bytes": 4043,
+    "sha256": "81a89ea140216c612ac0f179e41224a66e76bac45e96fc06d710b968bcb36589",
+    "retrieved_utc": "2026-11-13T17:00:50.561986+00:00"
+  },
+  {
+    "path": "L332-steel-replication/replication.zip",
+    "url": "https://zenodo.org/records/19175276/files/Replication_Package_260506.zip?download=1",
+    "final_url": "https://zenodo.org/records/19175276/files/Replication_Package_260506.zip?download=1",
+    "bytes": 51235086,
+    "sha256": "4959d391ff8750bead5428eb4d6dea54630f65b244dcfb0aabd4f7b5b91671c8",
+    "retrieved_utc": "2026-11-13T17:01:27.456907+00:00"
+  },
+  {
+    "path": "L328-daqin-reports/report-2024.pdf",
+    "url": "https://dataclouds.cninfo.com.cn/shgonggao/2025/2025-04-30/bad4187424dc11f0a2b1fa163e957f7a.pdf",
+    "final_url": "https://dataclouds.cninfo.com.cn/shgonggao/2025/2025-04-30/bad4187424dc11f0a2b1fa163e957f7a.pdf",
+    "bytes": 1545113,
+    "sha256": "fbe3da961b678c2d12df5bb265cf7a3e365ece1042f32ccb5384602352707a8c",
+    "retrieved_utc": "2026-11-13T17:02:08.790927+00:00"
+  },
+  {
+    "path": "L330-driver-handover/track-family.html",
+    "url": "https://www.xinhuanet.com/politics/2019-07/29/c_1124811314.htm",
+    "final_url": "https://www.xinhuanet.com/politics/2019-07/29/c_1124811314.htm",
+    "bytes": 39839,
+    "sha256": "b7493c592adb5ea94a639035fc18b3028fe67b95269828ea979011cbe7135af3",
+    "retrieved_utc": "2026-11-13T17:02:07.760877+00:00"
+  },
+  {
+    "path": "L331-steel-plants/journal.html",
+    "url": "https://www.restud.com/technology-transfer-and-early-industrial-development-evidence-from-the-sino-soviet-alliance/",
+    "final_url": "https://www.restud.com/technology-transfer-and-early-industrial-development-evidence-from-the-sino-soviet-alliance/",
+    "bytes": 32004,
+    "sha256": "2b361e46645cc3854870bc1b5b0b9cc532e47b7af39a8f48b5c38c5b0196ab5e",
+    "retrieved_utc": "2026-11-13T17:02:12.509982+00:00"
+  },
+  {
+    "requested": "L331-steel-plants/published.pdf",
+    "url": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdag047/68352463/rdag047.pdf",
+    "error": "403 Client Error: Forbidden for url: https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdag047/68352463/rdag047.pdf"
+  },
+  {
+    "requested": "L331-steel-plants/author-2026.pdf",
+    "url": "https://www.giorcellimichela.com/uploads/8/3/7/0/83709646/giorcelli_bo_technology_transfer_china.pdf",
+    "error": "404 Client Error: Not Found for url: https://giorcellimichela.com/uploads/8/3/7/0/83709646/giorcelli_bo_technology_transfer_china.pdf"
+  },
+  {
+    "path": "L331-steel-plants/current-working-paper.pdf",
+    "url": "https://www.nber.org/system/files/working_papers/w29455/w29455.pdf",
+    "final_url": "https://www.nber.org/system/files/working_papers/w29455/w29455.pdf",
+    "bytes": 10877855,
+    "sha256": "5cadbbf311a4da298cd014b8ab8388374cef4eb8af02dd5b90e662e76392a9e6",
+    "retrieved_utc": "2026-11-13T17:04:59.801517+00:00"
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "checks": [
+    {
+      "source": "L320",
+      "screened_schools": 252,
+      "eligible_schools": 251,
+      "eligible_students": 3177,
+      "followed_students": 3052,
+      "median_township_county_hospital_distance_km": 30,
+      "range_km": [
+        1,
+        105
+      ],
+      "observed_wear_pct": {
+        "in_class": 41,
+        "prescription": 26
+      },
+      "self_reported_pct": {
+        "in_class": 68,
+        "prescription": 37
+      },
+      "baseline_adjusted_math_sd_vs_prescription": {
+        "in_class": [
+          0.11,
+          0.01,
+          0.21
+        ],
+        "voucher": [
+          0.04,
+          -0.05,
+          0.14
+        ]
+      },
+      "note": "后两组数依次为点估计、95%区间下限、上限。两种干预各与处方组比较。"
+    },
+    {
+      "source": "L321",
+      "same_trial_as": "L320",
+      "checks_at_months": [
+        1,
+        7
+      ],
+      "in_class_with_education_7mo_unconditional_wear_pct": 44.4,
+      "cost_unit": "relative cost per additional child observed wearing eyeglasses",
+      "note": "到校发镜加教育基准成本效益最佳；无健康教育时凭券与到校有效覆盖接近。"
+    },
+    {
+      "source": "L322",
+      "provinces": [
+        "安徽",
+        "河南",
+        "贵州"
+      ],
+      "counties": 8,
+      "villages_assigned": [
+        60,
+        40
+      ],
+      "terminals_implemented_by_arm": [
+        38,
+        5
+      ],
+      "weighted_reduction_retail_cost_of_living_pct": {
+        "all": 0.73,
+        "ever_users": 4.722
+      },
+      "note": "原来缺包裹服务的村；加权且以渠道份额和替代弹性估算，使用者非随机子样本。"
+    },
+    {
+      "source": "L323",
+      "policy_year": 2020,
+      "threshold": "2020-07-31",
+      "implementation_qa_year": 2021,
+      "questions": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "note": "日期后购房且取得产权证书，特定情形见问答。"
+    },
+    {
+      "source": "L324",
+      "period": [
+        "2018-05",
+        "2020-12"
+      ],
+      "xicheng_transactions": 12996,
+      "dongcheng_transactions": 7330,
+      "relative_price_pct_announced": -1.36,
+      "phase_pct_approx": [
+        -0.6,
+        -2.2
+      ],
+      "note": "表2列（3）及表3；过渡期估计不能排除零。主结果限成交房。"
+    },
+    {
+      "source": "L325",
+      "issued": "2017-10-31",
+      "unit": "特定时点；同一核算主体和资产边界；净值等于资产减负债",
+      "net_worth_definition_date": "2025-06-16"
+    },
+    {
+      "source": "L326",
+      "case_published": "2024-12-17",
+      "medical_fee_cny": 387.53,
+      "direct_reimbursement_cny": 185.72,
+      "regulation_year": 2022,
+      "settlement_sections": [
+        31,
+        33
+      ],
+      "note": "贵州参保、广州开药，本人陈述由官方报道；无个案的部门清算凭据。"
+    }
+  ]
+}

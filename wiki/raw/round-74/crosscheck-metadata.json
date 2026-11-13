@@ -1,0 +1,69 @@
+{
+  "edition": "2026-11-14",
+  "source_checks": [
+    {
+      "file": "L339/outcome.txt",
+      "page": null,
+      "terms": [
+        "52%",
+        "2017年同种药品最低采购价"
+      ],
+      "all_found": true
+    },
+    {
+      "file": "L339/procurement.txt",
+      "page": null,
+      "terms": [
+        "2.4倍",
+        "约定采购量"
+      ],
+      "all_found": true
+    },
+    {
+      "file": "L342/finance24.txt",
+      "page": 1,
+      "terms": [
+        "3,697,022,245.55",
+        "2024"
+      ],
+      "all_found": true
+    },
+    {
+      "file": "L342/finance25.txt",
+      "page": 4,
+      "terms": [
+        "29,396,962,060.51",
+        "25,699,939,814.96"
+      ],
+      "all_found": true
+    },
+    {
+      "file": "L350/bounty.txt",
+      "page": null,
+      "terms": [
+        "87 confirmed vulnerabilities",
+        "100,000 USD"
+      ],
+      "all_found": true
+    },
+    {
+      "file": "L350/october.txt",
+      "page": null,
+      "terms": [
+        "Since spring 2026",
+        "hundreds of lines"
+      ],
+      "all_found": true
+    }
+  ],
+  "negative_control": "在2024报告的全文查2025年累计数（29,396,962,060.51），结果未命中。",
+  "method": "在本轮采用的原件检索副本中按预定字段核对；PDF页码自1计。用同一编写者已选的已知题，不能当作用户找资料的正确率或交接实验。",
+  "arithmetic": {
+    "cumulative_delta_yuan": "25,699,939,814.96",
+    "earmarked_first_failure_month": 6,
+    "earmarked_gap": "0.4",
+    "annual_forecast": "44",
+    "repair_transfers": "13.6",
+    "partial_refund_net": "63"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "checks": [
+    {
+      "source": "L305",
+      "methods_roster": 994,
+      "introduction_invited": 996,
+      "volunteers": 503,
+      "eligible": 249,
+      "experiment_months": 9,
+      "estimated_performance_gain_pct": 13,
+      "table_VI_petition_to_office": [
+        27,
+        110
+      ],
+      "table_VI_petition_to_home": [
+        27,
+        74
+      ],
+      "unit": "表 VI 申请数与图 V 在职者的实际工作地点分别核对。绩效估计适用于符合条件、主动报名者的随机分组。"
+    },
+    {
+      "source": "L306–L307",
+      "september_12_contract_rejected_pct": 94.6,
+      "september_12_strike_approved_pct": 96,
+      "october_18_notice_language": "First day of absence or as soon thereafter as reasonably possible",
+      "october_23_contract_rejected_pct": 64,
+      "november_4_contract_approved_pct": 59,
+      "return_window": [
+        "2024-11-06",
+        "2024-11-12"
+      ],
+      "strike_weekly_benefit_usd": 250,
+      "benefit_start_week": 3,
+      "weekly_picket_hours": 4,
+      "unit": "第 8.4(c)(1) 条首、中、末三版与整份合同票数是不同观察单位。"
+    },
+    {
+      "source": "L306, L308, L311",
+      "workforce_direction": "§2.1, subject to contract terms",
+      "arbitration": "§19.9(b), binding on submitted issue",
+      "production_restarted": [
+        "737",
+        "767",
+        "777/777X"
+      ],
+      "cashout_clause": "§8.4(e)",
+      "cashout_notice": "2024-12-10",
+      "scheduled_backpay": "2024-12-26",
+      "ratification_bonus_usd": 12000,
+      "eligibility_reference": "2024-09-12",
+      "leonard_remand": "2026-02-06",
+      "unit": "复产、折现补差、批准奖金诉讼是不同结果。法院在发回州法院的裁定中没有决定是否应补发奖金。"
+    },
+    {
+      "source": "L309–L310",
+      "dismissal_date": "2022-03-17",
+      "seafarers_in_2024_hearing": 786,
+      "company_stated_settlement_arrangement_gbp": 36500000,
+      "chargeable_detention_inspection_hours_by_vessel": [
+        150,
+        101
+      ],
+      "on_rotation_rest": "Dover–Calais, rotations exceeding one month: one paid day off expected per month during rotation, date agreed with onboard management",
+      "unit": "议会问答中的两项时数属于扣船后的计费检查。轮期内休息安排按公司事后书面澄清记录，未取得逐人的在船休息记录。"
+    }
+  ]
+}
