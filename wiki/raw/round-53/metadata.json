@@ -1,0 +1,22 @@
+{
+  "date_local": "2026-11-13",
+  "round": 53,
+  "source_ids": [
+    "L233",
+    "L234",
+    "L235",
+    "L236",
+    "L237",
+    "L238"
+  ],
+  "grouping_note": "L234 groups five related Python project records. L238 uses the 2016-09-09 HBS working paper. L233 has selected text only.",
+  "accepted_full_files": {
+    "html": 8,
+    "pdf": 1
+  },
+  "partial_paper_text": 1,
+  "download_log_scope": "Direct primary file requests. Web search, conversion and version discovery are saved separately.",
+  "local_request_count": 14,
+  "local_qualified_downloads": 9,
+  "review_v0_1_snapshot_sha256": "0ff561239e692a5955126a5a671bb638d97fbe68260f23945d3c8fccbc354029"
+}

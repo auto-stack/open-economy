@@ -1,0 +1,112 @@
+{
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L23",
+      "title": "On the Criteria To Be Used in Decomposing Systems into Modules",
+      "source_metadata": "../round-05/L23-parnas-1972/metadata.json",
+      "prior_read_scope": "All 6 pages; emphasis pp.1054-1058 on criteria, changes, implementation, and hierarchy",
+      "use": "Methodological context for record provenance, preservation, reuse and checking; not evidence that the synthetic comparison predicts human performance.",
+      "new_download": false,
+      "new_primary_reading": false,
+      "artifacts": [
+        {
+          "path": "../round-05/L23-parnas-1972/original.pdf",
+          "bytes": 589565,
+          "sha256": "7008fd6abc833ded750e52dbac4968e8eda339f66b462ca4427f1953f98df9c4"
+        }
+      ]
+    },
+    {
+      "source_id": "L47",
+      "title": "PROV-DM: The PROV Data Model",
+      "source_metadata": "../round-09/L47-w3c-prov-dm-2013/metadata.json",
+      "prior_read_scope": "Sections 2.1.1,2.1.3,5.3.2,5.3.3; no adoption of complete implementation requirements",
+      "use": "Methodological context for record provenance, preservation, reuse and checking; not evidence that the synthetic comparison predicts human performance.",
+      "new_download": false,
+      "new_primary_reading": false,
+      "artifacts": [
+        {
+          "path": "../round-09/L47-w3c-prov-dm-2013/original.html",
+          "bytes": 271572,
+          "sha256": "5c925c21bc96c285b25017c3b90d82cf74251d07713b71fcb81ca60f873c9e88"
+        }
+      ],
+      "prior_read_scope_extension": "See ../round-47/read-scope-extension.json and prior reading notes; no further extension this round."
+    },
+    {
+      "source_id": "L225",
+      "title": "Ten Simple Rules for Reproducible Computational Research",
+      "source_metadata": "../round-47/L225-sandve-et-al-2013/metadata.json",
+      "prior_read_scope": "PDF1–3 targeted main text; focus rules1–5,7–10; PDF3 visually checked",
+      "use": "Methodological context for record provenance, preservation, reuse and checking; not evidence that the synthetic comparison predicts human performance.",
+      "new_download": false,
+      "new_primary_reading": false,
+      "artifacts": [
+        {
+          "path": "../round-47/L225-sandve-et-al-2013/original.pdf",
+          "bytes": 131527,
+          "sha256": "35648a3880bdd8bf30e8212a3847b7bd35f504ee5ccbd1ad3856d206acd181db"
+        }
+      ]
+    },
+    {
+      "source_id": "L226",
+      "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+      "source_metadata": "../round-47/L226-wilkinson-et-al-2016/metadata.json",
+      "prior_read_scope": "PDF1 introduction,3–4 machine actionability and principles,5 principles before implementation; examples only located; PDF4 visually checked",
+      "use": "Methodological context for record provenance, preservation, reuse and checking; not evidence that the synthetic comparison predicts human performance.",
+      "new_download": false,
+      "new_primary_reading": false,
+      "artifacts": [
+        {
+          "path": "../round-47/L226-wilkinson-et-al-2016/original.pdf",
+          "bytes": 254899,
+          "sha256": "cdddd9f4808f7e3e1f013139c3915ef4d7cdccb008fa947ef5f72b4c7b6ffde7"
+        },
+        {
+          "path": "../round-47/L226-wilkinson-et-al-2016/addendum.pdf",
+          "bytes": 695015,
+          "sha256": "11399eb6a0ba4a802b2c92eeb03f79d39cdf82258c31942ed0905fb8c2f08222"
+        }
+      ]
+    },
+    {
+      "source_id": "L227",
+      "title": "Data availability, reusability, and analytic reproducibility: evaluating the impact of a mandatory open data policy at the journal Cognition",
+      "source_metadata": "../round-47/L227-hardwicke-et-al-2018/metadata.json",
+      "prior_read_scope": "Zero-based passages1,9,11,13–25,29,38–49 selected,53,55–58,63–78,82selected,97–103; formulas and external supplementary reports not independently checked",
+      "use": "Methodological context for record provenance, preservation, reuse and checking; not evidence that the synthetic comparison predicts human performance.",
+      "new_download": false,
+      "new_primary_reading": false,
+      "artifacts": [
+        {
+          "path": "../round-47/L227-hardwicke-et-al-2018/bioc.xml",
+          "bytes": 119435,
+          "sha256": "30cbd23238a0f4e55dd1915243b8fe51f1c50855e2aa540c8c2181966a605237"
+        }
+      ]
+    },
+    {
+      "source_id": "L228",
+      "title": "The preregistration revolution",
+      "source_metadata": "../round-47/L228-nosek-et-al-2018/metadata.json",
+      "prior_read_scope": "Abstract/introduction and HTML#s3,#s6,#s7,#s12,#s13,#s14,#s20; cited studies not independently reread",
+      "use": "Methodological context for record provenance, preservation, reuse and checking; not evidence that the synthetic comparison predicts human performance.",
+      "new_download": false,
+      "new_primary_reading": false,
+      "artifacts": [
+        {
+          "path": "../round-47/L228-nosek-et-al-2018/original.html",
+          "bytes": 196972,
+          "sha256": "bee53e018b1ec7a9feb52ce8ac01894ed2baf09692573f1119ef4b1f09ecb7da"
+        }
+      ]
+    }
+  ],
+  "reused_sources": 6,
+  "reused_substantive_artifacts": 7,
+  "new_network_sources": 0,
+  "new_downloads": 0,
+  "new_primary_reading": false
+}

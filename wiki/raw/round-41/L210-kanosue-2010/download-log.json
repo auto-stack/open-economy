@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://link.springer.com/content/pdf/10.1007/s00421-009-1256-6.pdf",
+    "target": "L210-kanosue-2010/original.pdf",
+    "time_utc": "2026-11-13T01:03:15.586687+00:00",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s00421-009-1256-6?error=cookies_not_supported&code=469231e7-bd28-4aa3-b2ef-fcbe571a71bc",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 331529,
+    "error": "ValueError('Non-PDF response rejected')"
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s00421-009-1256-6",
+    "target": "L210-kanosue-2010/original.html",
+    "time_utc": "2026-11-13T01:03:54.996399+00:00",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s00421-009-1256-6?error=cookies_not_supported&code=19a06b19-8bd0-4675-8e7d-ba50a3f5270a",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 331495,
+    "sha256": "c4a34d2e7e51db16f6d68fc8d3aa5b108a795ea6d0d6a413320e70427fdb6e7f"
+  }
+]

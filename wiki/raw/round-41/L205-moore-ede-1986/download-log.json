@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://journals.physiology.org/doi/pdf/10.1152/ajpregu.1986.250.5.R737",
+    "target": "L205-moore-ede-1986/original.pdf",
+    "time_utc": "2026-11-13T01:03:13.888935+00:00",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.988.3734&rep=rep1&type=pdf",
+    "target": "L205-moore-ede-1986/citeseer-copy.pdf",
+    "time_utc": "2026-11-13T01:03:54.057568+00:00",
+    "error": "URLError(TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))"
+  },
+  {
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3706563&retmode=xml",
+    "target": "L205-moore-ede-1986/pubmed.xml",
+    "time_utc": "2026-11-13T01:03:58.554450+00:00",
+    "status": 200,
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3706563&retmode=xml",
+    "content_type": "text/xml; charset=UTF-8",
+    "bytes": 6095,
+    "sha256": "9bedd46a0cf82e1f11e831a946632379e7855c72017eb50adda8e96d53ad80c2"
+  }
+]

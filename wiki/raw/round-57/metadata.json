@@ -1,0 +1,18 @@
+{
+  "round": 57,
+  "research_round": 62,
+  "date_local": "2026-11-13",
+  "new_sources": [
+    "L242",
+    "L243",
+    "L244",
+    "L245"
+  ],
+  "source_class": "four published original studies, selected author datasets, supplementary materials and code",
+  "project_derived": "painter-comparison.json",
+  "programme": "../../../research/surveys/01-organization-maintenance/relational-organization-and-boundaries/painter-feedback-audit.py",
+  "sessions_checked": 20,
+  "scheduled_trials": 19200,
+  "analyzed_trials": 18944,
+  "independent_dyads": 20
+}

@@ -1,0 +1,87 @@
+{
+  "date_local": "2026-11-13",
+  "purpose": "Purposeful source-relation audit of6 claims in3 existing argument cards; preserve before/after and source roles.",
+  "new_network_requests": 0,
+  "new_literature_ids": 0,
+  "new_external_reading_scope": false,
+  "selected_claims": 6,
+  "selected_cards": 3,
+  "author_blind": false,
+  "human_time_measured": false,
+  "direct_effect_evidence_gap_scope": "Only the reviewed claim-support traces, not a claim about all possible repository or external evidence.",
+  "before_cards": [
+    {
+      "path": "book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "snapshot": "before/book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "sha256": "b4aaf7ed30e04048c06b16041f4d58270a1a93ef740b4c444c6e1d0112bb3481"
+    },
+    {
+      "path": "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "snapshot": "before/book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "sha256": "7f6a20cff66c8435e3af1be91f412e957ced2b0b037ae62d422566bea2015578"
+    },
+    {
+      "path": "book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "snapshot": "before/book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "sha256": "a190a01c23ce2c420fbc46039572c59d935026b59267f9d8ed93ebbd4e9cd015"
+    }
+  ],
+  "after_cards": [
+    {
+      "path": "book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "snapshot": "after/book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "sha256": "b53efb6b2b92daf7c551137d8f6fb1543ab21be67960feb4757a6dc12934d8ac"
+    },
+    {
+      "path": "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "snapshot": "after/book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "sha256": "29eb9626bfb00e9776a31386b94a2f248d58d6d5473ed5e384c79d2ad5a811c6"
+    },
+    {
+      "path": "book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "snapshot": "after/book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "sha256": "ff7c7a404dda7a6109d0613d49f65d4a5b6986a921cf71711c53eb1db995bc59"
+    }
+  ],
+  "project_materials": [
+    {
+      "path": "research/surveys/06-technological-levers-and-organizational-evolution/models.md",
+      "snapshot": "project-materials/models.md",
+      "sha256": "d8597547b0120283ab7163b9a2687c0613b4246f55e1a092b2031f4d5ca30d18",
+      "role": "project derivation, not external empirical evidence"
+    },
+    {
+      "path": "research/reviews/16-shared-commitments.md",
+      "snapshot": "project-materials/16-shared-commitments.md",
+      "sha256": "57f4d9a2123500cfc4cb7eb14d13503a43cb28db6873250ebaf9dcea9d8558e9",
+      "role": "project derivation, not external empirical evidence"
+    }
+  ],
+  "context_records": [
+    {
+      "origin": "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/costs-and-adaptation-2026-11-13/reading-notes.md",
+      "snapshot": "context-records/01-reading-notes.md",
+      "sha256": "97ab18df0fbf74b525a920a271ec8f81f25301d8b9078c71b5016d41708e8a7e"
+    },
+    {
+      "origin": "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md",
+      "snapshot": "context-records/02-reading-notes.md",
+      "sha256": "fd1317731d7d0bee105e8f1618934727062aedc48d26cb54156cadd4c76d4895"
+    },
+    {
+      "origin": "research/surveys/01-organization-maintenance/primary-followup-2026-11-13/reading-notes.md",
+      "snapshot": "context-records/03-reading-notes.md",
+      "sha256": "57350936ff8aaf4bbeb138eada0943ae4f7bb257649e816654d9fd663f29f070"
+    },
+    {
+      "origin": "research/reviews/16-reading-notes.md",
+      "snapshot": "context-records/04-reading-notes.md",
+      "sha256": "04b3711cc299881755fa0067250f8788c843968026acafa3b667118aca089be4"
+    }
+  ],
+  "audit_record_origin": "../../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13",
+  "snapshot_link_context": "Original Markdown copied without rewriting links; resolve relative references in the recorded origin context.",
+  "original_manuscript_bodies_changed": false,
+  "old_receipts_rewritten": false,
+  "source_package_updated": false
+}

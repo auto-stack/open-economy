@@ -1,0 +1,103 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "status": "pass",
+  "checks": {
+    "raw38": {
+      "entries": 11,
+      "failures": []
+    },
+    "raw39": {
+      "entries": 63,
+      "failures": []
+    },
+    "raw40": {
+      "entries": 65,
+      "failures": []
+    },
+    "raw40_inventory_exact": true,
+    "record_counts": {
+      "backward": 88,
+      "forward": 34,
+      "backward_matches_export": true,
+      "forward_matches_snapshot": true,
+      "new_pdf_files": 6,
+      "new_work_ids": [
+        "L199",
+        "L200",
+        "L201",
+        "L202",
+        "L203"
+      ],
+      "not_inclusion_counts": true
+    },
+    "sources": [
+      {
+        "id": "L196",
+        "sha_match": true,
+        "pages_match": true,
+        "ignored_original": true,
+        "scope_record_exists": true
+      },
+      {
+        "id": "L199",
+        "sha_match": true,
+        "pages_match": true,
+        "ignored_original": true,
+        "scope_record_exists": true
+      },
+      {
+        "id": "L200",
+        "sha_match": true,
+        "pages_match": true,
+        "ignored_original": true,
+        "scope_record_exists": true
+      },
+      {
+        "id": "L201",
+        "sha_match": true,
+        "pages_match": true,
+        "ignored_original": true,
+        "scope_record_exists": true
+      },
+      {
+        "id": "L202",
+        "sha_match": true,
+        "pages_match": true,
+        "ignored_original": true,
+        "scope_record_exists": true
+      },
+      {
+        "id": "L203",
+        "sha_match": true,
+        "pages_match": true,
+        "ignored_original": true,
+        "scope_record_exists": true
+      }
+    ],
+    "forward_reference_checks": {
+      "L200-bich-menatti-health": true,
+      "L201-horseman-2025": true,
+      "L202-farnsworth-2025": true
+    },
+    "withdrawn_candidate_not_adopted": true,
+    "review01_snapshot_unchanged": true,
+    "theory_register_unchanged": true,
+    "framework_tag_unchanged": true,
+    "charter04_unchanged": true,
+    "old_source_package": {
+      "manifest_unchanged": true,
+      "zip_sha_match": true,
+      "new_batch_absent": true
+    },
+    "local_links": {
+      "checked": 414,
+      "broken": []
+    },
+    "chapter_footnotes": {
+      "failures": []
+    },
+    "chapter_draft_count": 11
+  },
+  "failures": [],
+  "scope": "Sources, hashes, reference relationships, counts, local links, footnotes and protected baseline; not a scientific replication or independent full review"
+}

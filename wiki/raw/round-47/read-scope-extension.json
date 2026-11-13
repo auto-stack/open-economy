@@ -1,0 +1,15 @@
+{
+  "source_id": "L47",
+  "new_download": false,
+  "prior_metadata_modified": false,
+  "source": "../round-09/L47-w3c-prov-dm-2013/original.html",
+  "sections_newly_read": [
+    "5.1.8",
+    "5.2.2",
+    "5.4",
+    "5.4.1",
+    "5.4.2",
+    "7"
+  ],
+  "not_read": "Complete companion PROV-CONSTRAINTS specification; no full implementation or proof claimed"
+}

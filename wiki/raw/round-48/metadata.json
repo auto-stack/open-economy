@@ -1,0 +1,19 @@
+{
+  "date_local": "2026-11-13",
+  "purpose": "Internal structured-record comparison; reuse previously archived literature and freeze own synthetic fixtures, reference decisions, code, protocol, amendments and outputs.",
+  "new_network_requests": 0,
+  "new_source_ids": 0,
+  "internal_files_frozen": 22,
+  "origin": "../../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13",
+  "script_sha256": "4ee383f89aaa4085659bca2ed9ac711de6b3bef394fcee0f50e026de4e9736fe",
+  "protocol_sha256": "e494844cdf6cd12688ae4106f1ba2fdf2dbdedd64bc3fc12b5d3943990881d23",
+  "results_sha256": "cc004e83fa14526366f4395f9259f3192fef9989c9baa50182f1212daf4188d1",
+  "human_participants": 0,
+  "human_time_measured": false,
+  "empirical_organization_data": false,
+  "reference_answers_available_to_reader": false,
+  "reference_answers_available_to_author": true,
+  "blind_experiment": false,
+  "post_run_amendment": "internal-comparison/amendment.md",
+  "source_package_updated": false
+}

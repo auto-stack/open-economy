@@ -1,0 +1,8 @@
+{
+  "requested_as": "L196 homeostasis",
+  "candidate_pmcid": "PMC11613639",
+  "disposition": "rejected wrong article, not a source for L196",
+  "reason": "Search-profile hit refers to a different paper; DOI search gives PMID39383321, no PMCID in EuropePMC",
+  "original_response": "discovery/rejected-wrong-pmcid.html",
+  "sha256": "d02a46fe03fc7a2545a585b5e1d07cdb3f2c08aef8bcbfacc5fbf23aa14c0b38"
+}

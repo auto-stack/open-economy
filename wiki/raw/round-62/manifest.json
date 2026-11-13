@@ -1,0 +1,184 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 4341,
+      "sha256": "cb6640ba7e75cf16e28072255abfcac4385dab1a1978ff754b9419a573503318"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 16005,
+      "sha256": "080a5e321b801d85cf66ff2d4ef4242f4fe07696580beead5b7192597a8b62c7"
+    },
+    {
+      "path": "L262-goal-change/article-extracted.txt",
+      "bytes": 106991,
+      "sha256": "6c2a254a7116a894aacb2125170560eaad5e9c74c0010c47e35003c4c3fd89f9"
+    },
+    {
+      "path": "L262-goal-change/crossref.json",
+      "bytes": 17678,
+      "sha256": "327a547d88eca702d1ad0b072e9b2d0d0ce7b9830458ae050a88a8e57b02d4c4"
+    },
+    {
+      "path": "L262-goal-change/osf/analysis-files.json",
+      "bytes": 21930,
+      "sha256": "3f51ea78a0d78a60ff1440f808e190d8b0a2ecc35968472fd797313ab8004aa8"
+    },
+    {
+      "path": "L262-goal-change/osf/analysis-plan.docx",
+      "bytes": 41172,
+      "sha256": "c6eabfa8a8fdfa412aa9c2f6e1e5b8cf05811c6f724814c54e1f9465d2c53bcb"
+    },
+    {
+      "path": "L262-goal-change/osf/analysis.Rmd",
+      "bytes": 44470,
+      "sha256": "3fc16ae60e6c11ba511d61db3f75f5b698b062aa6e93ccc89bf5b93d6602e933"
+    },
+    {
+      "path": "L262-goal-change/osf/baseline.pdf",
+      "bytes": 1710863,
+      "sha256": "0cf5b0722ea80cd33b63321f2387fd5c468680950c647118048b80453916ab34"
+    },
+    {
+      "path": "L262-goal-change/osf/baseline.txt",
+      "bytes": 61671,
+      "sha256": "12f014556dda9a17e566c1fed364cb417224346f62c4567fe82ecce32d723b43"
+    },
+    {
+      "path": "L262-goal-change/osf/changed-goals.xlsx",
+      "bytes": 21624,
+      "sha256": "bd2062af62c3af06a84522ae7e940f5c8aa69fbc795edc1617cb83e9126ea20e"
+    },
+    {
+      "path": "L262-goal-change/osf/clean-data.sav",
+      "bytes": 300138,
+      "sha256": "3c0d0d2fe3ca1c123c484314eac1802571fb0f72dd64a00eeb2081c757e9983c"
+    },
+    {
+      "path": "L262-goal-change/osf/coded-frequencies.xlsx",
+      "bytes": 18030,
+      "sha256": "85992f9c3b03379d01f93dca8f7ea035f6aa982b2221396cbc3b00c97500bb3a"
+    },
+    {
+      "path": "L262-goal-change/osf/follow-up.pdf",
+      "bytes": 911059,
+      "sha256": "26d2fe3ba92c51d1ee4b42f739dc457947a247e29f265cb3fa6af9f520371d0b"
+    },
+    {
+      "path": "L262-goal-change/osf/follow-up.txt",
+      "bytes": 25782,
+      "sha256": "f5a5d84d1e03db6f164a7bee27a1e150b5739b04b9d5b1b37d381c1aedc02e80"
+    },
+    {
+      "path": "L262-goal-change/osf/nature-of-change.docx",
+      "bytes": 14535,
+      "sha256": "2a631a3b79cf657a8499fad5d3552cd6deec3357dbe56135537a8451819a6b14"
+    },
+    {
+      "path": "L262-goal-change/osf/results.html",
+      "bytes": 4047719,
+      "sha256": "5245d9f9bd15ed4a8337ab2c5ef68936899751a6fb332fb4e6c16fea93cbf58d"
+    },
+    {
+      "path": "L262-goal-change/osf-list.json",
+      "bytes": 7425,
+      "sha256": "e6fef2519e45c65be0ef62942adaf58a65725099f3ccda21210dd418e9d9f322"
+    },
+    {
+      "path": "L263-intention-diary/article.html",
+      "bytes": 459831,
+      "sha256": "557f0afb2094d15f6e46632d58154a869973f46fcb0afa60ef0b8ca7a77df3c6"
+    },
+    {
+      "path": "L263-intention-diary/osf/analysis.R",
+      "bytes": 11220,
+      "sha256": "cee390fe322d6bff2e2dc01048266167cc1adbe247301a83f41e591e75ea954a"
+    },
+    {
+      "path": "L263-intention-diary/osf/descriptives.docx",
+      "bytes": 146889,
+      "sha256": "b3c7812dda8ccd0653353a65ca2704bf93f10f5b640745dd5e5195e8d70ce2dd"
+    },
+    {
+      "path": "L263-intention-diary/osf/reasons.xlsx",
+      "bytes": 91070,
+      "sha256": "338bfb4b75c3efb2d77a75764608093175add1dae1bb5f32524f23b2fdeae452"
+    },
+    {
+      "path": "L263-intention-diary/osf-list.json",
+      "bytes": 3614,
+      "sha256": "50e5bd1292a4f15483e85bcccb5360e9f8464fb4265c65c242da82e6a7344dec"
+    },
+    {
+      "path": "L263-intention-diary/table1.html",
+      "bytes": 218244,
+      "sha256": "7bb42b540cc539a9e58f156af3fb333a2e6782bc5c8ee4efd9ec0f1c0f640643"
+    },
+    {
+      "path": "L264-london-strike/article.pdf",
+      "bytes": 798517,
+      "sha256": "d480e69f9dd5f6bdc59075e924592664b8c4ca691cb35c3be529bb9188014fd8"
+    },
+    {
+      "path": "L264-london-strike/article.txt",
+      "bytes": 96341,
+      "sha256": "e2f8c44060c09c411ba2cf9d5af96229486e48fc3c6a55444544dd0c3e3c5b61"
+    },
+    {
+      "path": "L264-london-strike/dataverse.json",
+      "bytes": 7111,
+      "sha256": "7018d255b278a12ba5d461c4d440316d97df690aab0b2289c52d4fc727d6fd4f"
+    },
+    {
+      "path": "L264-london-strike/replication.zip",
+      "bytes": 15565405,
+      "sha256": "d069e9dfdb78cad1e3bbb0d489e86fed969b6c7739d64115b56baeea566f496b"
+    },
+    {
+      "path": "L265-planned-activity/article-body.txt",
+      "bytes": 38006,
+      "sha256": "a1e8b6886a87eb28e870416f9cf83e32f69ca6ae5ba864821a382c7c6d0a454d"
+    },
+    {
+      "path": "L265-planned-activity/article.xml",
+      "bytes": 138750,
+      "sha256": "91e887b3f910984a1be77538f36f0730fc21d01ce82589993b7ca87aef4cf0d5"
+    },
+    {
+      "path": "L265-planned-activity/epmc.json",
+      "bytes": 1118,
+      "sha256": "c75004579e349ac887fbe8fe82035960ab5d2884da4a677f7328faa0397b519d"
+    },
+    {
+      "path": "L266-road-not-taken/article.pdf",
+      "bytes": 1085427,
+      "sha256": "64d1b5f7014b29dbcb817a11321576f904ee719bce217d94b172dc9c04068b3c"
+    },
+    {
+      "path": "L266-road-not-taken/article.txt",
+      "bytes": 108756,
+      "sha256": "5bc9aa9d1a661ac09704078cb0cdb0522a4c2705e3ce1a7e1f0cffe5eddb4c0c"
+    },
+    {
+      "path": "L266-road-not-taken/osf/study1a.R",
+      "bytes": 1394,
+      "sha256": "6f61e63bf18302b2d6cd5a215c6e88c7193c81a7219ffde44751dbbd32bd3df1"
+    },
+    {
+      "path": "L266-road-not-taken/osf/study1a.xlsx",
+      "bytes": 331878,
+      "sha256": "95e39464ee280acf3cac218ea50b611cb75f934d4908b598632510cf6cd40488"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 4245,
+      "sha256": "0fcfa57aff55ed66d620b011b8744071989a7f0af82163da9f83806edc1ccd93"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4300,
+      "sha256": "21600679c8cc6811d8bdd379d93a63ba51128db5c3ace3cf3810111e8a0ecfae"
+    }
+  ]
+}

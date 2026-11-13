@@ -1,0 +1,396 @@
+{
+  "date_local": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "purpose": "Book chapter synthesis using previously archived and read evidence; no new literature retrieval or expansion of reading claims.",
+  "new_network_sources": 0,
+  "new_downloads": 0,
+  "new_primary_reading": false,
+  "reused_study_families": 17,
+  "reused_artifacts": 19,
+  "artifact_types": {
+    "PDF": 16,
+    "BioC_XML_exports": 2,
+    "complete_erratum_tool_transcription": 1
+  },
+  "chapter": "../../../book/part-01/02-entropy-information-and-ordo.md",
+  "argument_card": "../../../book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+  "sources": [
+    {
+      "source_id": "L15",
+      "title": "A Mathematical Theory of Communication",
+      "source_metadata": "../round-04/L15-shannon-1948/metadata.json",
+      "retained_version": "Corrected reprint of Bell System Technical Journal 27, 379-423, 623-656",
+      "prior_read_scope": "Introduction and section 6; PDF pp. 1,10-12",
+      "reading_notes": "../../../research/reviews/04-reading-notes.md",
+      "chapter_reuse_scope": "熵定义与信息量口径",
+      "artifacts": [
+        {
+          "path": "../round-04/L15-shannon-1948/original.pdf",
+          "material_type": "PDF",
+          "bytes": 366296,
+          "sha256": "6e4e3411984f3edf99dbfe8b941cb5e8a321379ff0cae6ae5c1f592ad8882ca8",
+          "scope": "Introduction and section 6; PDF pp. 1,10-12",
+          "source_url": "https://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L16",
+      "title": "Irreversibility and Heat Generation in the Computing Process",
+      "source_metadata": "../round-04/L16-landauer-1961/metadata.json",
+      "retained_version": "2000 IBM reprint of 1961 paper; reprint pp. 261-269",
+      "prior_read_scope": "Sections 3-4; PDF pp. 4-5 / reprint pp. 264-265",
+      "reading_notes": "../../../research/reviews/04-reading-notes.md",
+      "chapter_reuse_scope": "存储器擦除的物理条件；非任意bit固定成本",
+      "artifacts": [
+        {
+          "path": "../round-04/L16-landauer-1961/original.pdf",
+          "material_type": "PDF",
+          "bytes": 833997,
+          "sha256": "aca8682acbc592a2069ee525fec9c64499833c9b19902ba07720444e07b240cc",
+          "scope": "Sections 3-4; PDF pp. 4-5 / reprint pp. 264-265",
+          "source_url": "https://www.cpt.univ-mrs.fr/~verga/pdfs/Landauer-1961uq.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L17",
+      "title": "Second Law and Landauer Principle Far from Equilibrium",
+      "source_metadata": "../round-04/L17-esposito-vandenbroeck-2011/metadata.json",
+      "retained_version": "arXiv:1104.5165v2, 2011-08-09; published EPL 95,40004",
+      "prior_read_scope": "Preprint pp. 1-3, equations 3-15",
+      "reading_notes": "../../../research/reviews/04-reading-notes.md",
+      "chapter_reuse_scope": "经典非平衡自由能与指定平衡参照",
+      "artifacts": [
+        {
+          "path": "../round-04/L17-esposito-vandenbroeck-2011/original-arxiv.pdf",
+          "material_type": "PDF",
+          "bytes": 162214,
+          "sha256": "ae680955c3f0d3e081d9897ddce7d77a7e6775e9b45e3ec5a924853668c40471",
+          "scope": "Preprint pp. 1-3, equations 3-15",
+          "source_url": "https://arxiv.org/pdf/1104.5165",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L20",
+      "title": "Semantic Information, Autonomous Agency and Non-equilibrium Statistical Physics",
+      "source_metadata": "../round-04/L20-kolchinsky-wolpert-2018/metadata.json",
+      "retained_version": "Author-hosted PDF; Interface Focus 8,20180041",
+      "prior_read_scope": "Sections 3-4, section 5 and 5.1.1; PDF pp. 5-7; introduction framing; extension in round42: PDF8–12 selected stored/observed information, viability and multiplier sections",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/reading-notes.md",
+      "chapter_reuse_scope": "反事实信息扰动与指定存续指标；含第42批补读",
+      "artifacts": [
+        {
+          "path": "../round-04/L20-kolchinsky-wolpert-2018/original.pdf",
+          "material_type": "PDF",
+          "bytes": 613384,
+          "sha256": "96ec1360b30771bbd6dd54ce2e80f833072a9e40d9a74d3ee7bf27a2c9673e80",
+          "scope": "Sections 3-4, section 5 and 5.1.1; PDF pp. 5-7; introduction framing; extension in round42: PDF8–12 selected stored/observed information, viability and multiplier sections",
+          "source_url": "https://artemyk.github.io/assets/pdf/papers/Kolchinsky_Wolpert_2018_Semantic%20information%2C%20autonomous%20agency%20and%20non-equilibrium%20statistical%20physics.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L21",
+      "title": "Lectures on Statistical Physics: The Fundamentals of Statistical Mechanics",
+      "source_metadata": "../round-04/L21-tong-statphys/metadata.json",
+      "retained_version": "University lecture chapter, publication year not verified",
+      "prior_read_scope": "Sections 1.2.1 and 1.3.3; printed pp. 5,22-24 / PDF pp. 11,28-30",
+      "reading_notes": "../../../research/reviews/04-reading-notes.md",
+      "chapter_reuse_scope": "同一物理状态分布的熵及粗粒化条件",
+      "artifacts": [
+        {
+          "path": "../round-04/L21-tong-statphys/original-native.pdf",
+          "material_type": "PDF",
+          "bytes": 1055584,
+          "sha256": "8075bc90335044e8726fd11fdebb38dad628a977e33c81663384cb157076ae3d",
+          "scope": "Sections 1.2.1 and 1.3.3; printed pp. 5,22-24 / PDF pp. 11,28-30",
+          "source_url": "https://www.damtp.cam.ac.uk/user/tong/statphys/one.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L211",
+      "title": "Generalized Jarzynski Equality under Nonequilibrium Feedback Control",
+      "source_metadata": "../round-42/L211-sagawa-ueda-2010/metadata.json",
+      "retained_version": "arXiv:0907.4914v3; margin 20 Jan 2010; internal Dated May 28, 2018; not verified identical to journal typesetting",
+      "prior_read_scope": "PDF1–4 targeted: setup, Eqs1–4, ratchet and proof; PDF1 key equations visually checked; references not individually read",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/reading-notes.md",
+      "chapter_reuse_scope": "反馈平均功界、单位与适用条件",
+      "artifacts": [
+        {
+          "path": "../round-42/L211-sagawa-ueda-2010/original.pdf",
+          "material_type": "PDF",
+          "bytes": 146038,
+          "sha256": "ef3bf9a2f6c65c612bf175af8b5399d9d4561903b0b067450e431fd2bc587c53",
+          "scope": "PDF1–4 targeted: setup, Eqs1–4, ratchet and proof; PDF1 key equations visually checked; references not individually read",
+          "source_url": "https://arxiv.org/pdf/0907.4914",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L212",
+      "title": "Semantic Information in a Model of Resource Gathering Agents",
+      "source_metadata": "../round-42/L212-sowinski-et-al-2023/metadata.json",
+      "retained_version": "Author-hosted journal typesetting PRX Life1,023003; published2023-10-17; CC BY4.0 in original",
+      "prior_read_scope": "PDF1–8 targeted: abstract, II model, III results, IV discussion on page8; appendices not fully read; PDF5 Eqs4–5 and Figures2–3 visually checked",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/reading-notes.md",
+      "chapter_reuse_scope": "指定觅食模型的信息阈值、平台和寿命",
+      "artifacts": [
+        {
+          "path": "../round-42/L212-sowinski-et-al-2023/original.pdf",
+          "material_type": "PDF",
+          "bytes": 1927028,
+          "sha256": "d11f45757144458bdd73c01c872198128397d446ca681a3b8a946eb82fbfe233",
+          "scope": "PDF1–8 targeted: abstract, II model, III results, IV discussion on page8; appendices not fully read; PDF5 Eqs4–5 and Figures2–3 visually checked",
+          "source_url": "https://artemyk.github.io/assets/pdf/papers/Sowinski-SemanticInformationInAModelOfResourceGatheringAgents.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L213",
+      "title": "Minimal Energy Cost for Thermodynamic Information Processing: Measurement and Information Erasure",
+      "source_metadata": "../round-43/L213-sagawa-ueda-2009/metadata.json",
+      "retained_version": "arXiv0809.4098v3; margin2009-05-30; internal Dated2018-10-23; actual PDF title uses of, journal title uses for",
+      "prior_read_scope": "PDF1–4 setup, Eqs2–5, memory example and proof; PDF2 key equations visually checked; original proof used only together with2011 erratum",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/costs-and-adaptation-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "测量及擦除成本；连同2011更正采用",
+      "artifacts": [
+        {
+          "path": "../round-43/L213-sagawa-ueda-2009/original.pdf",
+          "material_type": "PDF",
+          "bytes": 419901,
+          "sha256": "d317e8b6e34397d7b93f09c4afd7f8ca6fb7eba05e5f91fadb5d6157d669849f",
+          "scope": "PDF1–4 setup, Eqs2–5, memory example and proof; PDF2 key equations visually checked; original proof used only together with2011 erratum",
+          "source_url": "https://arxiv.org/pdf/0809.4098",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        },
+        {
+          "path": "../round-43/L213-sagawa-ueda-2009/erratum-tool-text.txt",
+          "material_type": "complete erratum tool transcription; publisher PDF not obtained",
+          "bytes": 4637,
+          "sha256": "d18623243f07fa5295e05ee04673c3ed6b7d3dbbc427bad37cad0be832e5bd2f",
+          "scope": "2011 erratum, DOI10.1103/PhysRevLett.106.189901; corrected measurement scope",
+          "source_url": "https://doi.org/10.1103/PhysRevLett.106.189901",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L215",
+      "title": "Optimal resource allocation in cellular sensing systems",
+      "source_metadata": "../round-43/L215-govern-tenwolde-2014/metadata.json",
+      "retained_version": "AMOLF institutional repository final journal PDF:6main-text pages17486–17491 plus8SI pages,14PDF pages; online2014-11-24, issue2014-12-09",
+      "prior_read_scope": "PDF1–6 body and PDF8–11 selected SI2–5 sections S24–S28 and short-integration limitation; PDF3 Eq4 and PDF11 short-time condition visually checked; not full SI reading",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/costs-and-adaptation-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "感知网络三类瓶颈及长短积分条件",
+      "artifacts": [
+        {
+          "path": "../round-43/L215-govern-tenwolde-2014/original.pdf",
+          "material_type": "PDF",
+          "bytes": 1002267,
+          "sha256": "beb9a8aafbc3ef2cbf6cdd889b820c47cb0254d30d43dbad947cb6c9642ecdcd",
+          "scope": "PDF1–6 body and PDF8–11 selected SI2–5 sections S24–S28 and short-integration limitation; PDF3 Eq4 and PDF11 short-time condition visually checked; not full SI reading",
+          "source_url": "https://ir.amolf.nl/pub/6320/15816OA.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L217",
+      "title": "Bayesian Online Changepoint Detection",
+      "source_metadata": "../round-44/L217-adams-mackay-2007/metadata.json",
+      "retained_version": "Author-hosted7page copy; associated arXiv0710.3742, particular arXiv version not verified",
+      "prior_read_scope": "PDF1–4 assumptions, Eqs1–5, Algorithm1, computational complexity and example setup; PDF3 algorithm visually checked",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/detection-and-learning-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "给定分段模型的变点检测；更新时序限制",
+      "artifacts": [
+        {
+          "path": "../round-44/L217-adams-mackay-2007/original.pdf",
+          "material_type": "PDF",
+          "bytes": 478625,
+          "sha256": "f7ea09e5b7b1e92d4dba8c67aea19ea17d1aaee6a34ace977c7fba821d06657c",
+          "scope": "PDF1–4 assumptions, Eqs1–5, Algorithm1, computational complexity and example setup; PDF3 algorithm visually checked",
+          "source_url": "https://www.cs.princeton.edu/~rpa/pubs/adams2007changepoint.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L218",
+      "title": "An Approximately Bayesian Delta-Rule Model Explains the Dynamics of Belief Updating in a Changing Environment",
+      "source_metadata": "../round-44/L218-nassar-et-al-2010/metadata.json",
+      "retained_version": "NCBI BioC export of NIH author manuscript PMC2945906 / NIHMS236537; not publisher JATS; some formula text absent",
+      "prior_read_scope": "Zero-based passages10–14,24–25,31–40,55–60,68–77,80–81,84–90,94; no claim original equations visually verified",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/detection-and-learning-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "噪声与变化下行为更新；BioC公式空缺不作公式依据",
+      "artifacts": [
+        {
+          "path": "../round-44/L218-nassar-et-al-2010/bioc.xml",
+          "material_type": "BioC XML export",
+          "bytes": 102629,
+          "sha256": "76e627683eae6fd185eb1138f5627071e4e1ba011b14134436760f018f942f3a",
+          "scope": "Zero-based passages10–14,24–25,31–40,55–60,68–77,80–81,84–90,94; no claim original equations visually verified",
+          "source_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC2945906/unicode",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L219",
+      "title": "Humans Use Directed and Random Exploration to Solve the Explore–Exploit Dilemma",
+      "source_metadata": "../round-44/L219-wilson-et-al-2014/metadata.json",
+      "retained_version": "NCBI BioC export of NIH author manuscript PMC5635655 / NIHMS875891; not publisher JATS; some formula text absent",
+      "prior_read_scope": "Zero-based passages13,16–28,32–46; task and sample, fitting, first free choice, results and limitations; supplement not read",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/detection-and-learning-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "给定期限的定向和随机探索；只采用主文",
+      "artifacts": [
+        {
+          "path": "../round-44/L219-wilson-et-al-2014/bioc.xml",
+          "material_type": "BioC XML export",
+          "bytes": 56422,
+          "sha256": "fa1564f8aacdd623bf4d8ea682fa0179b796c7e23e4ec1c43da98be070f2493e",
+          "scope": "Zero-based passages13,16–28,32–46; task and sample, fitting, first free choice, results and limitations; supplement not read",
+          "source_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC5635655/unicode",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L220",
+      "title": "Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic",
+      "source_metadata": "../round-44/L220-griffiths-et-al-2015/metadata.json",
+      "retained_version": "Author-hosted journal typesetting13pages, Topics in Cognitive Science7,217–229",
+      "prior_read_scope": "PDF2–10, focused on Section4, PDF8 value of computation and PDF9 ideal elementary operation caveats; PDF8 formula visually checked",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/detection-and-learning-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "任务、算法部件与计算成本的资源理性分析",
+      "artifacts": [
+        {
+          "path": "../round-44/L220-griffiths-et-al-2015/original.pdf",
+          "material_type": "PDF",
+          "bytes": 241895,
+          "sha256": "7d0ee042d87035db4d7d8fa14f811d3fccde192e57c44372ef31389b375f5ea4",
+          "scope": "PDF2–10, focused on Section4, PDF8 value of computation and PDF9 ideal elementary operation caveats; PDF8 formula visually checked",
+          "source_url": "https://cocosci.princeton.edu/tom/papers/RationalUseOfCognitiveResources.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L221",
+      "title": "Context, Learning, and Extinction",
+      "source_metadata": "../round-45/L221-gershman-blei-niv-2010/metadata.json",
+      "retained_version": "Author-hosted journal typesetting Psychological Review117,197–209;13PDF pages",
+      "prior_read_scope": "PDF1 abstract, PDF2–4 model and inference, PDF11 limitations; PDF3 Eq1 prior and footnotes visually checked",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "给定特征与先验下增加潜在情境",
+      "artifacts": [
+        {
+          "path": "../round-45/L221-gershman-blei-niv-2010/original.pdf",
+          "material_type": "PDF",
+          "bytes": 217124,
+          "sha256": "36f0346f0d3942a7d3c3449e2c19424958e508501711e2004e8686d3635c2cc9",
+          "scope": "PDF1 abstract, PDF2–4 model and inference, PDF11 limitations; PDF3 Eq1 prior and footnotes visually checked",
+          "source_url": "https://www.cs.columbia.edu/~blei/papers/GershmanBleiNiv2010.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L222",
+      "title": "Automated reverse engineering of nonlinear dynamical systems",
+      "source_metadata": "../round-45/L222-bongard-lipson-2007/metadata.json",
+      "retained_version": "Journal PDF from Genetic Programming Human-Competitive awards archive;1download cover plus6article pages9943–9948; PDF page=printed page–9941",
+      "prior_read_scope": "PDF2–7 targeted algorithm, specified inputs, main results and limitations; PDF4 inputs and Table3 visually checked; SI not read",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "给定变量与算子下生成新方程及辨别试验",
+      "artifacts": [
+        {
+          "path": "../round-45/L222-bongard-lipson-2007/original.pdf",
+          "material_type": "PDF",
+          "bytes": 5765811,
+          "sha256": "fca79bfcb3f6cd3bf53765ef5ecc063d555f30b5f99dd4d67e70943abb62b6e4",
+          "scope": "PDF2–7 targeted algorithm, specified inputs, main results and limitations; PDF4 inputs and Table3 visually checked; SI not read",
+          "source_url": "https://www.genetic-programming.org/hc2007/12-Bongard/Bongard-Paper.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L223",
+      "title": "Serious fun: Preschoolers engage in more exploratory play when evidence is confounded",
+      "source_metadata": "../round-45/L223-schulz-bonawitz-2007/metadata.json",
+      "retained_version": "MIT author manuscript13pages; cover final-version-submission literal2/8/07; no mapping to journal1045–1050",
+      "prior_read_scope": "PDF4–9 methods, results and discussion; PDF13 footnotes; PDF8 informative actions and lack of direct causal-learning test visually checked",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "产生可辨别证据不等于已学对因果",
+      "artifacts": [
+        {
+          "path": "../round-45/L223-schulz-bonawitz-2007/original.pdf",
+          "material_type": "PDF",
+          "bytes": 134751,
+          "sha256": "16adfbb9fd309deb39b5f75e5cec0b6246e8c0bc108accc94fdec88b4d968a06",
+          "scope": "PDF4–9 methods, results and discussion; PDF13 footnotes; PDF8 informative actions and lack of direct causal-learning test visually checked",
+          "source_url": "https://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    },
+    {
+      "source_id": "L224",
+      "title": "Safe Exploration for Optimization with Gaussian Processes",
+      "source_metadata": "../round-45/L224-sui-et-al-2015/metadata.json",
+      "retained_version": "PMLR37 main paper997–1005,9PDF pages; same-family extended version12pages adds proof appendix",
+      "prior_read_scope": "MainPDF2–7 model, algorithm, assumptions and theory, selected synthetic/movie evaluation; extendedPDF10 and12 selected proof; mainPDF5 and extendedPDF12 visually checked; not full independent proof verification or clinical evaluation",
+      "reading_notes": "../../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md",
+      "chapter_reuse_scope": "条件安全优化、可认证区域与静态指标限制",
+      "artifacts": [
+        {
+          "path": "../round-45/L224-sui-et-al-2015/original.pdf",
+          "material_type": "PDF",
+          "bytes": 369748,
+          "sha256": "2ce477c022c19edc608b3c6c99c9cabf326fa970393d177e7bb1f1d93a39228f",
+          "scope": "MainPDF2–7 model, algorithm, assumptions and theory, selected synthetic/movie evaluation; extendedPDF10 and12 selected proof; mainPDF5 and extendedPDF12 visually checked; not full independent proof verification or clinical evaluation",
+          "source_url": "https://proceedings.mlr.press/v37/sui15.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        },
+        {
+          "path": "../round-45/L224-sui-et-al-2015/extended.pdf",
+          "material_type": "PDF, same study family",
+          "bytes": 409650,
+          "sha256": "548fec3f929c320d45a682328ad4178ab9753800eafff9f6aee62c7701033a5b",
+          "scope": "Extended PDF10 and12 selected proof segments; not independent complete proof verification",
+          "source_url": "https://proceedings.mlr.press/v37/sui15-supp.pdf",
+          "new_download_this_round": false,
+          "new_primary_reading_this_round": false
+        }
+      ]
+    }
+  ]
+}

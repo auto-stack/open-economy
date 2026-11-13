@@ -1,0 +1,39 @@
+{
+  "id": "L224",
+  "title": "Safe Exploration for Optimization with Gaussian Processes",
+  "authors": [
+    "Yanan Sui",
+    "Alkis Gotovos",
+    "Joel W. Burdick",
+    "Andreas Krause"
+  ],
+  "doi": null,
+  "publication_year": 2015,
+  "adopted_file": "original.pdf",
+  "bytes": 369748,
+  "sha256": "2ce477c022c19edc608b3c6c99c9cabf326fa970393d177e7bb1f1d93a39228f",
+  "pdf_pages": 9,
+  "source_url": "https://proceedings.mlr.press/v37/sui15.pdf",
+  "final_url": "https://proceedings.mlr.press/v37/sui15.pdf",
+  "retrieved_at_utc": "2026-11-13T02:29:58.530011+00:00",
+  "version": "PMLR37 main paper997–1005,9PDF pages; same-family extended version12pages adds proof appendix",
+  "reading_scope": "MainPDF2–7 model, algorithm, assumptions and theory, selected synthetic/movie evaluation; extendedPDF10 and12 selected proof; mainPDF5 and extendedPDF12 visually checked; not full independent proof verification or clinical evaluation",
+  "content_status": "full_pdf_targeted_reading",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "pmlr_id": "v37/sui15",
+  "publication_url": "https://proceedings.mlr.press/v37/sui15.html",
+  "additional_pdf": {
+    "file": "extended.pdf",
+    "bytes": 409650,
+    "sha256": "548fec3f929c320d45a682328ad4178ab9753800eafff9f6aee62c7701033a5b",
+    "pdf_pages": 12,
+    "source_url": "https://proceedings.mlr.press/v37/sui15-supp.pdf",
+    "retrieved_at_utc": "2026-11-13T02:34:52.325176+00:00",
+    "family_duplicate_not_independent_study": true,
+    "reading_scope": "PDF10 and12 selected: monotonicity, confidence and safety lemma11; not whole proof appendix"
+  },
+  "safety_scope": "static latent function threshold, high-probability guarantee under explicit assumptions; not per-outcome or dynamic recoverability guarantee"
+}

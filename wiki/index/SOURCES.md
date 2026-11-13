@@ -1,5 +1,62 @@
 # 来源编号、实际版本与读取范围
 
+第 66 批新增 L284–L288。照护互助与热线访谈用于追踪当事人的理由，STAR 记录机构结案，较早的随机评估独立观察青少年结果，“自由之夏”从旧申请追到约二十年后的去向。[本批原件、版本、页码及样本核对](../raw/round-66/README.md)
+
+第65批新增L278–L283。Robin Rigg三级判决、淘宝同案评审、复职访谈摘要、抚养争议长期随访、Reddit随机申诉实验与维基编辑记录分别覆盖权限、复核机会和裁后关系。来源版本、部分取得项及申诉分母核对见[第65批](../raw/round-65/README.md)。
+
+第64批新增L272–L277。信任与承诺、先期投入与重谈、提前通知、释放时段的实际补排、跨班交接及儿童解除共同约定，分别核对承诺前后谁作了什么安排。L273含表3的六行分母复核。[原件、来源作用及读页](../raw/round-64/README.md)
+
+第63批新增L267–L271。儿童双端拉绳、四人拆题估算、三人查案、分时与同时投篮、双人讨论顺序分别检验配合的不同条件。L268附开放数据及按小组和题目配对的复核。既有L181、L239–L240按原编号引用。[读取范围及文件](../raw/round-63/README.md)
+
+第62批新增L262–L266。以同一人的目标前后文本、未完成原因、行为时序、外部中断及实际手段选择，分别查验目标、办法和约束。L262、L263、L264、L266附公开资料复算。[来源、读段与文件校验](../raw/round-62/README.md)
+
+第61批新增L255–L261，以意向、行动与延迟评价的测量时序比较七项真实研究。L258有作者公开的匿名日记及本地描述性复核，L261另附表2更正。[来源、读页与下载](../raw/round-61/README.md)
+
+第60批新增L249–L254。居家支持、配镜与托育采用试验报告，助力轮采用同人里程研究及同队列访谈摘要，分别追查支持、实际活动和当事人感到的机会。[版本、页表和本地文件](../raw/round-60/README.md)
+
+第59批新增L246–L248。三项人体研究分别提供生理与感受的时序、同量不同温度后的续饮比较及六周饮水安排的观察。[版本、读段与复算范围](../raw/round-59/README.md)
+
+第58批记录《从集合到组织》章稿的采用范围，关联已有原件、模型和两次项目再分析。[章稿来源与读段](../raw/round-58/README.md)
+
+第57批收录L242–L245。Painter的20对行为时序可复算相同目标的独立汇总与共控；其余研究补入回放、扰动时刻与撤去连接后的结果。[版本、读段和数据范围](../raw/round-57/README.md)
+
+第56批复用L240的工作簿，核对目标、成员视角、时限和可用的动作记录，对应本章实时互调的因果边界。[原件及派生结果](../raw/round-56/README.md)
+
+第55批新增L239–L241三项实验全文，复用L09–L12和L234，供第一部分第1章比较任务、边界与关系作用。[各来源的读段与限制](../raw/round-55/README.md)
+
+第54批将第52、53批的实际采用原件、选段和项目例子对应到章稿主张。[第54批来源复用记录](../raw/round-54/README.md)
+
+第58轮已补入团队换人、开源项目继任、技能再传和现场规则修订的过程证据。[第53批归档](../raw/round-53/README.md) · [六组来源与六项核查](../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md)。本批编号L233–L238，L234合收同一治理事件的五份记录。
+
+2026年11月13日演进首轮：[第52批](../raw/round-52/README.md)新增L229–L232：Lewontin1970选择条件、Mesoudi与Thornton2018文化积累定义、Derex与Boyd2016连接实验、Ostrom与Basurto2011规则变迁。旧L179补得完整HTML并扩读，官方108(Suppl2)题录与旧108(26)差异单列；[实读范围](../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/reading-notes.md)不以全文取得冒称通读。历史目录及计数保留。
+
+2026年11月13日章稿整合：[第51批](../raw/round-51/README.md)复用12项既有来源、14个文件，供[接口、记忆与技术杠杆](../../book/part-01/04-interfaces-memory-and-technological-levers.md)。未新增来源编号或读段；[八组核查](../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-claims-2026-11-13.md)区分来源作用、反向材料和未知项。
+
+2026年11月13日争议案例试用：[第50批](../raw/round-50/README.md)复用L58、L158、L160–L162，新增L160 PDF4、L161 PDF16和L162 PDF9–10／17指定读段。五份PDF不等于五份独立实证；新AEA页面仅作出版版本语境，两项库站检查响应不采用为正文。见[六项格式](../../shared/source-check-format.md)及[案例记录](../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/cases.json)。
+
+2026年11月13日真实资料核查：[第49批](../raw/round-49/README.md)回用L213、L224、L208、L74，区分更正、定理条件、研究动机、结果和替代解释。[六项关系记录](../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/case-register.json)另标项目推导与未验证项，未新增来源编号或扩大外部实读范围。
+
+2026年11月13日内部对照：[第48批](../raw/round-48/README.md)复用L23、L47、L225–L228六项来源，未增加来源编号或外部阅读范围。[七项内部情境](../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13/README.md)是自有合成材料，不作外部经验数据。旧来源目录及计数保留。
+
+2026年11月13日补充：[第47批](../raw/round-47/README.md)采用L225–L228，服务[解释的保存与共同修订综述](../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)。类型及实际读段见[原始阅读](../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/reading-notes.md)；复用L23并扩读L47，旧目录计数与元数据保持原快照。
+
+| 新来源 | 实际材料 | 采用类型 |
+|---|---|---|
+| [L225](../raw/round-47/L225-sandve-et-al-2013/metadata.json) Sandve等2013 | 主PDF4页，主文1–3选读 | 计算研究方法建议 |
+| [L226](../raw/round-47/L226-wilkinson-et-al-2016/metadata.json) Wilkinson等2016／2019 | 主PDF9页、补记2页；指定读页及图文差异单列 | FAIR高层原则及地址迁移补记 |
+| [L227](../raw/round-47/L227-hardwicke-et-al-2018/metadata.json) Hardwicke等2018 | BioC完整导出，184个passage，指定段选读 | 政策前后观察与目标数值复算 |
+| [L228](../raw/round-47/L228-nosek-et-al-2018/metadata.json) Nosek等2018 | PMC完整HTML指定节，主PDF未取得 | 方法论；关联评论仅题录，不作更正 |
+
+2026年11月13日书稿整合：[第46批](../raw/round-46/README.md)复用17项既有研究、19个文件，供[第一部分第2章](../../book/part-01/02-entropy-information-and-ordo.md)。没有新增来源编号或扩大实读范围；[复用清单](../raw/round-46/source-reuse.json)记录原批次路径、版本、用途及校验值，历史来源目录计数保留。
+
+2026年11月13日最新补充：[第45批](../raw/round-45/README.md)采用L221–L224，主PDF4份、同家族扩展1份；[实际版本与读页](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md)区分模型、生成证据、行为与条件定理。下方历史目录计数及快照保留。
+
+2026年11月13日最新补充：[第44批](../raw/round-44/README.md)采用L217–L220。两项BioC的year字段与期刊出版年不同，官方PubMed交叉核对和转换空缺见[读段记录](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/detection-and-learning-2026-11-13/reading-notes.md)；历史结构化目录保留原快照及计数。
+
+2026年11月13日最新补充：[第43批](../raw/round-43/README.md)新增主研究L213–L216，L213的2011更正作为同一文献家族单列；[实际稿本与读页](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/costs-and-adaptation-2026-11-13/reading-notes.md)说明完整PDF、JATS与工具转换文本的差别。下方历史目录及其计数保留。
+
+2026年11月13日补充入口：[第42批](../raw/round-42/README.md)新增L211、L212，扩读L20，详见其稳定编号元数据与[专题读页](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/reading-notes.md)。下方193条历史目录的计数与结构化快照保留，不代表当前所有后续批次。
+
 日期：2026年11月12日。193条档案记录、192个编号槽位，含失败和候选。下表按元数据记载，不自动代表全文、采用或通读；完整字段及文件哈希见[结构化目录](source-catalog.jsonl)。本轮注释见[版本与解析注释](source-annotations.json)。
 
 后续文字补充：L185[155、157–159页](../derived/cited-page-text-2026-11-12/L185/cited-pages.md)、L189[393–395页](../derived/cited-page-text-2026-11-12/L189/cited-pages.md)、L190[663–668页](../derived/cited-page-text-2026-11-12/L190/cited-pages.md)已完成本地OCR及图像校订，见[公式／页码核对](../derived/cited-page-text-2026-11-12/formula-and-page-checks.md)。原始PDF文字层不变；新增状态单列在[派生文本目录](derived-text-catalog.jsonl)，表内原元数据和旧基线不回写。

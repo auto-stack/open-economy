@@ -1,0 +1,107 @@
+{
+  "kind": "finite chosen examples, no empirical calibration or original-algorithm replication",
+  "structure": {
+    "initial_features": [
+      "1",
+      "x"
+    ],
+    "generated_features": [
+      "1",
+      "x",
+      "x*x"
+    ],
+    "threshold": 0.1,
+    "initial_coefficients": [
+      0.0,
+      1.0
+    ],
+    "diagnostic_error": 0.25,
+    "refitted_affine_max_training_error": 0.16666666666666669,
+    "expanded_coefficients": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "new_observations": [
+      [
+        0.5,
+        0.25
+      ],
+      [
+        0.75,
+        0.5625
+      ]
+    ],
+    "incremental_query_budget": 2,
+    "budget_remaining": 0,
+    "validation_x": 0.75,
+    "validation_prediction": 0.5625,
+    "validation_observed": 0.5625,
+    "alternate_matches_all_observations": true,
+    "unobserved_x": 0.25,
+    "expanded_at_unobserved": 0.0625,
+    "alternate_at_unobserved": 0.0390625,
+    "output_unit": "toy response units; input and response not money, heat or Ordo"
+  },
+  "safety": {
+    "domain": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "true_function_for_external_evaluation_only": [
+      1.2,
+      1.1,
+      0.6,
+      0.1,
+      0.8,
+      1.5
+    ],
+    "threshold": 0.5,
+    "valid_lipschitz": 0.7,
+    "initial_safe_seed": 0,
+    "new_queries": [
+      1
+    ],
+    "remaining_budget": 1,
+    "certified_set": [
+      0,
+      1
+    ],
+    "best_certified_value": 1.2,
+    "true_global_max": 1.5,
+    "underestimated_lipschitz": 0.1,
+    "wrongly_certified_unsafe_points": [
+      3
+    ],
+    "certified_with_additional_externally_verified_seed5": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "scope": "noiseless Lipschitz certificate, not SAFEOPT or a GP safety proof"
+  },
+  "mean_vs_outcome": {
+    "mean": 0.6,
+    "threshold": 0.5,
+    "equally_likely_zero_mean_noise": [
+      -0.2,
+      0.2
+    ],
+    "outcomes": [
+      0.39999999999999997,
+      0.8
+    ],
+    "below_threshold_fraction": 0.5
+  },
+  "limits": [
+    "grammar, variables and diagnostic design supplied externally",
+    "fixture admissibility supplied externally, not inferred from fit",
+    "passing finite validation does not identify a unique true function",
+    "static input safety is not dynamic recoverability or social legitimacy"
+  ]
+}

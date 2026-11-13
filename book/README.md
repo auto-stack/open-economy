@@ -1,12 +1,36 @@
 # 开放经济学书籍路线
 
+第一部分五章已有讨论稿和论证卡，全书28个候选单元中已起草16章，余12个单元。[从集合到组织](part-01/01-from-collection-to-organization.md) · [第1章论证卡](argument-cards/part-01-01-from-collection-to-organization.md) · [五章通读记录](../research/reviews/63-from-collection-to-organization-chapter.md)
+
+全书正文采用轻松、明快的叙事科普笔调，面向对人和社会好奇、未必学过物理或经济学的读者。[正文怎样讲故事和证据](#正文怎样讲故事和证据)
+
+第56轮成稿：[接口、记忆与技术杠杆](part-01/04-interfaces-memory-and-technological-levers.md)及[论证卡](argument-cards/part-01-04-interfaces-memory-and-technological-levers.md)已形成，承接信息与维护，向演进及人的共同活动交付条件。该轮共14章讨论稿、14张卡，余14单元待起草；下列第52–55轮记录保留起草前语境。
+
+第55轮研究记录（本章起草前）：[六项轻量记录](../shared/source-check-format.md)已用[两个实质争议案例](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/README.md)试填，保留不同来源作用、版本及未验证项。[专题综述0.4](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)与证据接口已更新，未批量建空卡或改写章稿正文，当时13章讨论稿。
+
+第54轮研究记录（本章起草前）：[三张卡的六项核查](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/README.md)已完成。三张卡补原件定位、条件与来源角色，章稿正文未改；[综述0.3](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)分别保存更正、替代解释、项目推导及未验证项，当时13章讨论稿。
+
+第53轮研究记录（本章起草前）：[三种保存方式的比较](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13/README.md)说明充分资料、可靠关联与整理成本须分开；完整资料自建索引与预附索引表现相同，错误关联可漏掉反向证据。[综述0.2](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)与证据接口已更新，当时13章讨论稿。
+
+第52轮研究入口（本章起草前）：[接口、记忆与共同修订资料综述](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)及[证据接口](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-evidence.md)已经形成首版，解释怎样连同反向证据、误差与边界保存、核验和复用。该阶段尚未形成完整书章，当时13章／15单元待起草。
+
+当前研究补充：[熵、信息与Ordo](part-01/02-entropy-information-and-ordo.md)及[论证卡](argument-cards/part-01-02-entropy-information-and-ordo.md)已形成讨论稿，将“异常—扩展解释—有限试验—检验与修订”接到成本、投入维护、个人目标和共同承诺。
+
+第56轮起草时第一部分第2、3、4章已有讨论稿。彼时共14章讨论稿、14张论证卡，28单元中其余14待起草；文献结论、条件推论、待验证假说和价值问题分开。framework-v0.1时的11章状态保留，详见[第56轮书稿整合](../research/reviews/56-interfaces-memory-and-levers-chapter.md)。
+
 《开放经济学》探索复杂群体组织的通用基础，继而研究人的形成、人际合作、规范与多种社会组织，最后讨论经济协调及AutoOS的Open Business。组织能力怎样形成和维持，是贯穿全书的解释问题；哪些能力及生活值得支持，需要另外展开价值论证。
 
-当前采用[纲领0.4](../docs/charter.md)和[第41轮框架收束](../research/reviews/41-framework-closure.md)。六部分、28候选单元与11章稿保留，三项接口已形成[理论核心](../shared/minimal-theory-core.md)、[组织边界](../research/surveys/07-organization-formation/organization-comparison-and-boundaries.md)及[AI经济闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)。[逐章承接](chapter-interfaces.md)和[范围说明](framework-scope.md)是后续起草入口；Git基线及来源包按[第42轮](../research/reviews/42-git-baseline-and-source-package.md)落实。
+资料研究以本书为最终目标，优先利用已有综述建立资料地图，并形成可逐年更新的专题综述与章级证据。首个入口是[组织持续与自维持2026年资料综述](../research/surveys/01-organization-maintenance/review-2026.md)，整体安排见[年度综述与资料研究](../research/survey-and-paper-program.md)。已核实的材料按具体主张进入书稿，不等待综述发表或全部专题完成。
 
-写作查阅已有[来源编号与实际读页目录](../wiki/index/SOURCES.md)。本轮[内部资料质量基线](../research/reviews/37-internal-knowledge-service-baseline.md)盘点资料、核查范围并记录维护事项，没有新增章节或把资料质量检查当作理论／制度验证；当前十一章、28候选单元保持。
+2026年11月13日补充：[第45轮](../research/reviews/45-homeostasis-review-followup.md)利用2024年稳态综述和后续资料，将多机制协调、设定点口径、维持中的变化及转变机制加入第二部分第1、2章，并同步论证卡；其他部分按[章节对应表](../research/surveys/01-organization-maintenance/followup-2026-11-13/chapter-mapping.md)继续补证。章节数量和正式理论总表不变。
 
-当前统一入口：[候选逐章提纲](outline.md)、[六部分论证地图](argument-map.md)与[信用／投资及回流维护研究](../research/reviews/36-credit-investment-feedback-and-maintenance.md)。第五部分第4、6章现有讨论稿，并衔接Open Business跨期设计。28个候选单元中十一章有讨论稿，其余17待起草与补证；此前形成、价格与术语研究保留，不把题材有位置当作已经成稿。
+同日[第46轮](../research/reviews/46-primary-regulation-and-2026.md)继续追读原始概念分析和2026年研究，补充共同设定点的阈值判据、维持的时间尺度及间歇性；对应[综述0.3](../research/surveys/01-organization-maintenance/review-2026.md)和[本轮章节表](../research/surveys/01-organization-maintenance/primary-followup-2026-11-13/chapter-mapping.md)。间歇节能、发育理论等保留各自的待检验或未读状态。
+
+当前采用[纲领0.4](../docs/charter.md)和[第41轮框架收束](../research/reviews/41-framework-closure.md)。六部分和28候选单元保留；框架标签时11章稿，当前16章稿，三项接口已形成[理论核心](../shared/minimal-theory-core.md)、[组织边界](../research/surveys/07-organization-formation/organization-comparison-and-boundaries.md)及[AI经济闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)。[逐章承接](chapter-interfaces.md)和[范围说明](framework-scope.md)是后续起草入口；Git基线及来源包按[第42轮](../research/reviews/42-git-baseline-and-source-package.md)落实。
+
+写作查阅已有[来源编号与实际读页目录](../wiki/index/SOURCES.md)。本轮[内部资料质量基线](../research/reviews/37-internal-knowledge-service-baseline.md)盘点资料、核查范围并记录维护事项，没有新增章节或把资料质量检查当作理论／制度验证；该次基线为十一章；当前16章、28候选单元。
+
+当前统一入口：[候选逐章提纲](outline.md)、[六部分论证地图](argument-map.md)与[信用／投资及回流维护研究](../research/reviews/36-credit-investment-feedback-and-maintenance.md)。第五部分第4、6章现有讨论稿，并衔接Open Business跨期设计。28个候选单元中16章有讨论稿，其余12个待起草与补证；此前形成、价格与术语研究保留，不把题材有位置当作已经成稿。
 
 2026年11月12日此前的结构修订按用户要求将“人作为组织—共同承诺—人的意义”整理为第二、第三部分共八章讨论稿，并建立相应论证卡。该阶段采用[原纲领0.3](../docs/history/charter-v0.3-2026-11-12.md)的六部分结构；[纲领0.2](../docs/history/charter-v0.2-2026-11-12.md)与[原开篇](history/part-02-01-human-as-organization-before-restructure-2026-11-12.md)保留历史。八章进入书稿，不代表全部命题已经确立，也不代表其余部分已经成稿。
 
@@ -14,7 +38,7 @@
 
 | 部分 | 主要内容与问题 | 当前状态 |
 |---|---|---|
-| 一 通用组织基础 | 识别、维护、熵与信息、能力、模块接口、层级、记忆与复用；持续的可用支持与技术杠杆怎样改变能力，哪些结论能跨领域成立？ | Q1–Q5研究与模型已形成，输入与杠杆专题初步survey，正文待起草 |
+| 一 通用组织基础 | 识别、维护、熵与信息、能力、模块接口、层级、记忆与复用；持续的可用支持与技术杠杆怎样改变能力，哪些结论能跨领域成立？ | 五章均有讨论稿与论证卡，跨任务度量和独立机制继续补证 |
 | 二 作为组织的人 | 身体与支持、维持与发展、感受与目标、目标冲突与修订；生命组织怎样获得行动能力并形成和改变目标？ | 四章讨论稿 |
 | 三 人际合作 规范与意义 | 合作与竞争、共同承诺、规则与权力、共同目的与人的意义；可改变目标的人怎样共同生活并评价共同目的？ | 四章讨论稿 |
 | 四 多种人群组织 | 家庭、社区、村落、城市、学校、公司、职场、行业、市场、社会、阶层、阶级与国家；成员、依赖、权力、退出、维护与外部影响怎样不同？公司另比较内部治理、员工参与与授权 | 第1章讨论稿已起草；公司专题及少量案例继续深化，不按规模排成进化阶梯 |
@@ -23,23 +47,35 @@
 
 第一部分保留原有组织基础与能力机制的范围。第二至第三部分增加人的连接，第四部分比较领域差异，第五至第六部分研究经济机制和应用。Open Business继续作为候选应用，不预设为所有组织问题的答案。
 
+## 第一部分 通用组织基础
+
+第1章从四节点中继写到共同指针与制度授权，介绍关系作用的工作定义和检验共同能力的比较基准。[从集合到组织](part-01/01-from-collection-to-organization.md) · [论证卡](argument-cards/part-01-01-from-collection-to-organization.md)
+
+第2章：[熵、信息与Ordo](part-01/02-entropy-information-and-ordo.md)，配[论证卡](argument-cards/part-01-02-entropy-information-and-ordo.md)。区分物理量、信息量和任务能力，将反馈、控制成本、异常识别、解释扩展及有限检验作为有条件的机制讨论，不预设统一Ordo标量。
+
+第3章：[输入、维护与持续](part-01/03-inputs-maintenance-and-continuity.md)，配[论证卡](argument-cards/part-01-03-inputs-maintenance-and-continuity.md)。以可用支持、损耗、维护者和期限为主线，使用既有投入模型的条件推论，保留实际速率、物理映射与维护频率的待验证问题。
+
+第4章：[接口、记忆与技术杠杆](part-01/04-interfaces-memory-and-technological-levers.md)，配[论证卡](argument-cards/part-01-04-interfaces-memory-and-technological-levers.md)。从有限检验进入可核验共同记忆，比较接口、复用、共同修订与全周期杠杆；八组关键主张采用六项格式核查，真实净收益与治理效果仍待验证。
+
+第5章从成员交接、技艺再传和规则履行进入演进问题，连接到第二部分的身体、经验与目标形成。[章节讨论稿](part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](argument-cards/part-01-05-how-organizations-evolve.md)
+
 ## 第二部分 作为组织的人
 
 | 章 | 书稿 | 论证任务与论证卡 |
 |---|---|---|
 | 二 1 | [人作为组织](part-02/01-human-as-organization.md) | 构成、维护、能力与个人持续；[论证卡](argument-cards/part-02-01-human-as-organization.md) |
 | 二 2 | [维持生命与发展机会](part-02/02-maintenance-and-development.md) | 区分生命、修复、行动、支持与真实选择；[论证卡](argument-cards/part-02-02-maintenance-and-development.md) |
-| 二 3 | [感受 欲望与目标](part-02/03-feelings-desires-and-goals.md) | 区分感受、想要、愉快、目标认可与学习反馈；[论证卡](argument-cards/part-02-03-feelings-desires-and-goals.md) |
-| 二 4 | [目标冲突与修订](part-02/04-goal-conflict-and-revision.md) | 区分可行、执行与评价，连接目标改变与共同责任；[论证卡](argument-cards/part-02-04-goal-conflict-and-revision.md) |
+| 二 3 | [感受、欲望与目标](part-02/03-feelings-desires-and-goals.md) | 用预选、当时行动和事后复评区分感受、愉快与目标认可，核对学习反馈。[论证卡](argument-cards/part-02-03-feelings-desires-and-goals.md) |
+| 二 4 | [目标冲突与修订](part-02/04-goal-conflict-and-revision.md) | 从空座位追查原目标、替代办法、外部障碍与后续选择，接到搭档的等待和交接。[论证卡](argument-cards/part-02-04-goal-conflict-and-revision.md) |
 
 ## 第三部分 人际合作 规范与意义
 
 | 章 | 书稿 | 论证任务与论证卡 |
 |---|---|---|
-| 三 1 | [竞争、合作与共同能力](part-03/01-cooperation-and-common-capabilities.md) | 联合讨论形成、维持、选择及其与秩的联系，区分收益、激励与群体整合；[论证卡](argument-cards/part-03-01-cooperation-and-common-capabilities.md) |
-| 三 2 | [可依赖且可修订的共同承诺](part-03/02-revisable-shared-commitments.md) | 将个人改变接到他人的安排，比较任务与修订交接条件；[论证卡](argument-cards/part-03-02-revisable-shared-commitments.md) |
-| 三 3 | [规则 权力与共同目的](part-03/03-rules-power-and-common-purposes.md) | 从履约分歧进入规范、授权及组织目的评价；[论证卡](argument-cards/part-03-03-rules-power-and-common-purposes.md) |
-| 三 4 | [人的意义与共同生活](part-03/04-human-meaning-and-common-life.md) | 区分意义体验、生活价值与宇宙使命，提出可讨论的价值方向；[论证卡](argument-cards/part-03-04-human-meaning-and-common-life.md) |
+| 三 1 | [合作与共同能力](part-03/01-cooperation-and-common-capabilities.md) | 从双端拉绳到集体估算、查案与投篮，比较个人可行性、独立汇总和相互配合，追问竞争规则如何改变合作。[论证卡](argument-cards/part-03-01-cooperation-and-common-capabilities.md) |
+| 三 2 | [可依赖且可修订的共同承诺](part-03/02-revisable-shared-commitments.md) | 从等图纸与伙伴取珠写到谈判、预约和交班，追踪谁先投入、变更后谁还来得及行动。[论证卡](argument-cards/part-03-02-revisable-shared-commitments.md) |
+| 三 3 | [规则、权力与共同目的](part-03/03-rules-power-and-common-purposes.md) | 从接线图与风机基础的履约争议，追到谁能复核、谁能执行、原伙伴后来还怎样合作。[论证卡](argument-cards/part-03-03-rules-power-and-common-purposes.md) |
+| 三 4 | [人的意义与共同生活](part-03/04-human-meaning-and-common-life.md) | 从一小时照护、热线值班和配对满周年，分别追问当事人珍惜什么、别人得到什么、组织承认什么，再讨论意义与尊严。[专题综述](../research/surveys/07-organization-formation/meaning-and-participation-over-time-2026.md) · [论证卡](argument-cards/part-03-04-human-meaning-and-common-life.md) |
 
 第三部分最后一章回到个人生活，是对形成机制的反思，不把意义归结为群体用途。它为组织比较与经济评价提出价值问题，不替代这些领域的事实研究。
 
@@ -67,6 +103,14 @@
 各章末尾简要核对地位，详细条件与证据放入论证卡。正式[79条总表](../shared/theory-register.md)仍为0.2理论基线；人类路线的新概念、假说及价值提案暂不增加稳定编号。
 
 此次采用资料见[第十七批归档](../wiki/raw/round-17/README.md)。沿用已归档原文并记录章节用途、版本、读取范围及校验，没有把旧下载重新计为新增全文。旧AI讨论与文献中的实验指令均不构成当前用户指令。
+
+## 正文怎样讲故事和证据
+
+让读者有机会比作者先猜一步。第一章可以从一句“请问，您在排队吗？”讲起。等读者发现，数得清站台上有几个人，却看不出谁接着谁上车，“组织”这个词才有了用处。遇到值得惊讶的实验，也可以先交代研究者让人做了什么，请读者猜结果，再揭晓发生了什么。幽默可以来自猜错后的会心一笑。写到失业、强迫或不公时，把篇幅留给当事人的处境和选择。
+
+从小场景走向大问题时，把中间一步讲给读者听。一条接线能决定信号去哪儿。那么到了人群里，一句话要经过谁，才会让大家真的改变安排？这样转入授权与制度，读者既能带着前面的问题向前走，也能看出人会理解、质疑或拒绝一条指令。思想实验可以说“想象一下”，真实故事和实验中的人物、话语及数字都要有出处。
+
+让读者在正文里知道一项判断有多牢靠。写“研究者看到了什么”“如果这个条件成立，会怎样”“还可以做哪个试验”，比连续标出论证类别更自然。凡是会改变结论的限制，留在发现旁边。版本、筛选步骤、推导和逐项复核放入脚注、论证卡及资料综述。第一章的车站开场和两路摇杆实验提供了两种[正文示例](part-01/01-from-collection-to-organization.md)。
 
 ## 叙述安排与后续工作
 
@@ -120,4 +164,4 @@
 
 经济部分仍可追踪免费知识的创作、保留、发现、使用、交易关联与维护。意义与使命不能替代必要报酬或维护预算。
 
-后续按[28单元承接表](chapter-interfaces.md)审阅既有11章并起草未成稿单元，第四部分以成员、权力和退出不同的案例补证。理论路线补竞争解释与有限机制，见[研究依赖](../docs/research-dependencies.md)。Open Business分别检验技术可行、预算、参与、激励、履约、分配及规范理由；框架收束不代表这些验证已经完成。
+后续按[28单元承接表](chapter-interfaces.md)审阅已有的16章讨论稿，并推进余下12个单元。第四部分需要比较成员资格、权力和退出条件不同的案例。理论路线补竞争解释与有限机制，见[研究依赖](../docs/research-dependencies.md)。Open Business的技术可行性、预算、参与、激励、履约、分配及规范理由各有待核查的前提。

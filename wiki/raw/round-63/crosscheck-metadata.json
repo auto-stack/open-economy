@@ -1,0 +1,66 @@
+{
+  "source": "L268, study 1",
+  "date_local": "2026-11-13",
+  "reproduction_script": "research/surveys/03-competition-cooperation-distribution/check-deliberation-estimates.py",
+  "script_sha256": "82f48ea548fe3becd015ed3608b8674e6ef5079f71c2b74d9ab157fb04b26b48",
+  "inputs": [
+    {
+      "path": "L268-deliberation/osf/data_experiment_1__by_participant.csv",
+      "bytes": 165046,
+      "sha256": "7c8b6438cc4a336c56729611626b774c9e09f59afb14fe55bd9a9758299754f6"
+    },
+    {
+      "path": "L268-deliberation/osf/data_experiment_1__with_features.csv",
+      "bytes": 71207,
+      "sha256": "126e5e8e643218bc26458cdc0ac015e7a73be9274c7b24356db92932eb5e9f48"
+    },
+    {
+      "path": "L268-deliberation/osf/figure_1.m",
+      "bytes": 10696,
+      "sha256": "effe05d771f2f59b605b41828a72cfc6f77a819c18fd6afb63f64db634d31a00"
+    }
+  ],
+  "paired_key": [
+    "group_id",
+    "question_id"
+  ],
+  "figure_1c_method": "依作者figure_1.m，第三题个人初答大于1000置缺，排除组168、317、516、195、260。初值按题的中位数与其绝对中位差为尺度；初答均值或共识值离中心超过2.5个尺度均剔除。误差取与作者真值的绝对距离除以该题尺度，先在组内平均，再对组等权。",
+  "additional_method": "在上述可比组题中另外要求四份非缺失初答来自四个不同主体，初答平均等于作者组表记录。以组题为单位分别比较到真值距离；最佳初答按该题真值事后选出。后一比较由本书提出，无额外实验组，无显著性检验。",
+  "output": {
+    "figure_1c": {
+      "paired_group_items": 325,
+      "groups": 125,
+      "normalized_error_independent_mean": 1.178642460108858,
+      "normalized_error_consensus": 0.719741033124156
+    },
+    "complete_four_person_subset": {
+      "groups": 119,
+      "group_items": 294,
+      "consensus_vs_baseline": {
+        "mean": {
+          "closer": 216,
+          "tied": 6,
+          "farther": 72
+        },
+        "best_afterwards": {
+          "closer": 94,
+          "tied": 61,
+          "farther": 139
+        }
+      },
+      "obelisk_example": {
+        "group": 70,
+        "item": 2,
+        "initial": [
+          300.0,
+          80.0,
+          200.0,
+          40.0
+        ],
+        "mean": 155.0,
+        "consensus": 220.0,
+        "correct": 206
+      }
+    }
+  }
+}

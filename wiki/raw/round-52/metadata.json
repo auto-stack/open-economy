@@ -1,0 +1,27 @@
+{
+  "date_local": "2026-11-13",
+  "purpose": "First research round for P1.5 variation,transmission,selection and loss",
+  "new_ids": [
+    "L229",
+    "L230",
+    "L231",
+    "L232"
+  ],
+  "existing_id_full_document_upgrade": [
+    "L179"
+  ],
+  "scope_unchanged_reuse": [
+    "L51",
+    "L56",
+    "L176"
+  ],
+  "substantive_documents": {
+    "pdf": 3,
+    "complete_html": 2
+  },
+  "read_scope_note": "Selected passages only; extraction does not constitute full reading.",
+  "old_package_coverage": "Rounds1-37 only; raw52 not added.",
+  "git_policy": "Complete originals stay local under existing ignore rules; reviewed descriptive records remain trackable.",
+  "no_git_commit_tag_push": true,
+  "not_imported_into_AutoDown": true
+}

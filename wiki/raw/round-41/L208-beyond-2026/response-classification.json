@@ -1,0 +1,10 @@
+{
+  "adopted_fulltext": "original.xml",
+  "identity_doi": "10.14814/phy2.71150",
+  "pmcid": "PMC13681041",
+  "xml_type": "JATS article, verified root and IDs",
+  "rejected_response": "../discovery/rejected-bioc-error.html",
+  "reason": "BioC endpoint returned a no-result help page; never adopted as XML full text",
+  "pmc_html": "original.html is supplementary response; XML is authoritative for actual read text",
+  "pdf_not_obtained": true
+}

@@ -1,0 +1,15 @@
+{
+  "source_id": "L179",
+  "date_local": "2026-11-13",
+  "old_metadata": "../round-32/L179-boyd-richerson-henrich-2011/metadata.json",
+  "old_metadata_sha256": "17fc8f6564cb81a22c032a7fde9d6a2c4dcb9dd31d41f014c23306ddd1a7b959",
+  "old_scope": "Tool-return first-page framing only; PDF requests failed. Old files unchanged.",
+  "new_metadata": "L179-boyd-richerson-henrich-2011/metadata.json",
+  "new_acquisition": "Full PMC HTML; same source identifier; targeted new reading only.",
+  "bibliographic_clarification": {
+    "old_record": "108(26):10918-25",
+    "official_PMC_and_PubMed_this_round": "108(Suppl2):10918-10925",
+    "evidence": "discovery/pubmed-records.xml",
+    "action": "Keep historical raw record; use clarified citation in new work."
+  }
+}

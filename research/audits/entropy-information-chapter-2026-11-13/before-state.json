@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-13",
+  "purpose": "Before authorized chapter handoff edits; previous round receipts remain historical.",
+  "files": {
+    "book/part-01/03-inputs-maintenance-and-continuity.md": "3437b0a9eb65d5e301348c7389816bcb4eccf6a6820447c55418881d2ab4399e",
+    "book/part-02/01-human-as-organization.md": "cf84aef7698074bdd3ad5ecb553a5aed9293465ab678955c54c4066288b9082b",
+    "book/part-02/04-goal-conflict-and-revision.md": "2db8bda0ddfc95ced98607ab74fbfe9a4ec4b6980730b497da2f4225ed4c8f8b",
+    "book/part-03/02-revisable-shared-commitments.md": "d5bb2d555255d2f31721825ea76b9e8875af8f5951f344610e771e905a653b73",
+    "shared/theory-register.md": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+    "docs/charter.md": "5e0d915622a5bf025edd97b71985b46235fbccda1573a0643bd796b511909f4c",
+    "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md": "eda4f4053413f6956c46f21559e93c99a5b9fa70864e84db92d84d7aaccd35af"
+  },
+  "maintenance_scientific_sections_normalized_sha256": "934c72bbc8a8f60bab739e59b636956049b492202aa6937cc73d89e0a4c50f91"
+}

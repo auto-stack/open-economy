@@ -1,10 +1,28 @@
 # 六部分的论证地图
 
+第一部分以[《从集合到组织》](part-01/01-from-collection-to-organization.md)起步。信号可达、信息有用、运行能维持、做法可复用和做法得到传承各自增加条件。定义、模型反例与两项视觉任务的作用边界见[章节论证卡](argument-cards/part-01-01-from-collection-to-organization.md)，逐章承接见[通读记录](../research/reviews/63-from-collection-to-organization-chapter.md)。
+
+第一部分第5章从成员和职权交接，推到变体怎样越过一次行动而延续。下一部分转入学习者自身的身体与目标。[章节讨论稿](part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](argument-cards/part-01-05-how-organizations-evolve.md)
+
+第57轮研究：P1.4之后的[演进机制接口](../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/chapter-evidence.md)先辨认规则、工具与关系的变体、保留、传递、采用和丢失。文化积累、任务改进与正当性分开；尚不从选择或传播成功推出统一Ordo或Open Business必要性。
+
+第56轮章稿：[接口、记忆与技术杠杆](part-01/04-interfaces-memory-and-technological-levers.md)及[论证卡](argument-cards/part-01-04-interfaces-memory-and-technological-levers.md)现已形成。信息修订—投入维护—可核验共同记忆—演进对象逐层承接；真实效应与价值判断不由接口或记录自动推出。该轮14章、余14单元。
+
+第55轮来源格式：[六项核查记录](../shared/source-check-format.md)和[两组争议](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/README.md)把主张、说话者、反向材料和版本分开。格式能留下未裁决项，不意味着真实效率已经提高；正文及正式理论不改。
+
+第54轮真实资料补证：[三卡六项回查](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/README.md)区分来源作用，保留维护假说缺口，并补三张卡的就近定位。章稿原结论与理论地位保留，不把可追查或未见冲突当作现实净收益验证。
+
+第53轮内部对照：[解释资料的保存与关联](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13/README.md)为第一部分第4单元增加条件例子：材料充分不等于整理免费，关联正确不由文件完整自动保证。尚未增加完整章稿；人的理解与真实复用收益继续补证。
+
+2026年11月13日第52轮补充：[第4单元证据接口](../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-evidence.md)把有限检验接到可追查的共同记忆，保留分层核验、反向证据、误差、边界、修订与维护。来源模型和文件公开不直接保证解释真实或新场景有效；本轮为研究补证，仍13章讨论稿。
+
 日期：2026年11月12日。状态：第41轮收束后的框架基线候选，六部分、28候选单元及11章讨论稿保留。[逐章承接](chapter-interfaces.md)与[范围边界](framework-scope.md)明确各单元的解释责任；原始风险及研究进展见[第32轮复核](../research/reviews/32-framework-completeness-and-inference-audit.md)和[书籍路线](README.md)。框架收口不表示正文、通用理论或实证验证已全部完成。
+
+第56轮起草记录：第一部分[第2章](part-01/02-entropy-information-and-ordo.md)、[第3章](part-01/03-inputs-maintenance-and-continuity.md)与[第4章](part-01/04-interfaces-memory-and-technological-levers.md)均有正文及论证卡，当时14章，仍为28候选单元。第4章把解释修订接到可核验共同记忆和全周期杠杆，向演进增加保存、传递、采用和丢失的对象；11章仍指原框架标签时的状态。
 
 按复核继续补充：[统一术语和跨层接口](../shared/concept-interfaces.md)、[组织与经济机制连接](../research/reviews/33-organization-and-economic-interfaces.md)、[共享服务比较协议](../research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md)及[候选逐章提纲](outline.md)。竞争与合作联合研究关系的形成、维持、选择和改变；两者与Ordo的联系需落实机制与任务结果，不设固定正负关系。
 
-后续已完成[形成与维护定向研究](../research/surveys/07-organization-formation/README.md)，修订第三部分三章并新增[第四部分开篇](part-04/01-formation-and-continuity.md)。经济机制已补价格／收入与[信用／投资研究](../research/surveys/08-price-income-and-reinvestment/credit-investment-and-reinvestment.md)，形成第五部分第4、6章；现有十一章讨论稿，已接入[回流维护设计](../research/surveys/03-competition-cooperation-distribution/open-business-finance-and-maintenance.md)，宏观与制度效果仍需验证。
+后续已完成[形成与维护定向研究](../research/surveys/07-organization-formation/README.md)，修订第三部分三章并新增[第四部分开篇](part-04/01-formation-and-continuity.md)。经济机制已补价格／收入与[信用／投资研究](../research/surveys/08-price-income-and-reinvestment/credit-investment-and-reinvestment.md)，形成第五部分第4、6章；该阶段形成十一章讨论稿，已接入[回流维护设计](../research/surveys/03-competition-cooperation-distribution/open-business-finance-and-maintenance.md)，宏观与制度效果仍需验证。
 
 ## 总问题与说明责任
 

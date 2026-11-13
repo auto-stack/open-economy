@@ -1,0 +1,114 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "status": "pass",
+  "checks": {
+    "raw38_manifest": {
+      "entries": 11,
+      "failures": []
+    },
+    "raw39_manifest": {
+      "entries": 63,
+      "failures": []
+    },
+    "raw40_manifest": {
+      "entries": 65,
+      "failures": []
+    },
+    "raw41_manifest": {
+      "entries": 71,
+      "failures": []
+    },
+    "raw41_inventory_exact": true,
+    "source_counts": {
+      "records": 7,
+      "complete_documents_obtained": 3,
+      "abstract_or_preview": 4,
+      "pdf_files": 2
+    },
+    "source_integrity": [
+      {
+        "id": "L204",
+        "hash_matches": true,
+        "doi_in_payload": true,
+        "page_count_matches": true,
+        "content_state": "original_abstract_only",
+        "ignored_original": true
+      },
+      {
+        "id": "L205",
+        "hash_matches": true,
+        "doi_in_payload": true,
+        "page_count_matches": true,
+        "content_state": "original_abstract_only",
+        "ignored_original": true
+      },
+      {
+        "id": "L206",
+        "hash_matches": true,
+        "doi_in_payload": true,
+        "page_count_matches": true,
+        "content_state": "full_text_targeted_reading",
+        "ignored_original": true
+      },
+      {
+        "id": "L207",
+        "hash_matches": true,
+        "doi_in_payload": true,
+        "page_count_matches": true,
+        "content_state": "full_text_targeted_reading",
+        "ignored_original": true
+      },
+      {
+        "id": "L208",
+        "hash_matches": true,
+        "doi_in_payload": true,
+        "page_count_matches": true,
+        "content_state": "full_text_targeted_reading",
+        "ignored_original": true
+      },
+      {
+        "id": "L209",
+        "hash_matches": true,
+        "doi_in_payload": true,
+        "page_count_matches": true,
+        "content_state": "publisher_abstract_preview_only",
+        "ignored_original": true
+      },
+      {
+        "id": "L210",
+        "hash_matches": true,
+        "doi_in_payload": true,
+        "page_count_matches": true,
+        "content_state": "publisher_abstract_preview_only",
+        "ignored_original": true
+      }
+    ],
+    "JATS_identity": {
+      "article_root": true,
+      "doi": true,
+      "body_present": true,
+      "not_bioc_error": true
+    },
+    "2026_seed_citation_checks": {
+      "L207_PDF28": true,
+      "L208_JATS_references": true
+    },
+    "review02_snapshot": true,
+    "formal_register_unchanged": true,
+    "framework_tag_unchanged": true,
+    "charter04_unchanged": true,
+    "old_source_package": {
+      "manifest_unchanged": true,
+      "zip_unchanged": true,
+      "new_batch_absent": true
+    },
+    "links": {
+      "checked": 443,
+      "broken": []
+    },
+    "footnote_failures": [],
+    "book_draft_count": 11
+  },
+  "failures": [],
+  "scope": "Payload states, hashes, IDs, citations, counts, links and protected framework; not independent scientific review, model reproduction or complete literature coverage"
+}

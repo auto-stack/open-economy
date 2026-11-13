@@ -1,0 +1,26 @@
+{
+  "new_main_studies": 4,
+  "new_source_ids": [
+    "L221",
+    "L222",
+    "L223",
+    "L224"
+  ],
+  "main_pdf_files": 4,
+  "additional_same_family_pdf_files": 1,
+  "pdf_files_total": 5,
+  "new_independent_studies_from_supplement": 0,
+  "successful_primary_file_requests": 7,
+  "failed_primary_file_requests": 0,
+  "other_downloaded_primary_records": [
+    "PubMed XML forL222andL223",
+    "PMLR publication HTML forL224"
+  ],
+  "not_read_or_not_replicated": [
+    "fullSI forL222",
+    "original behavioral datasets",
+    "full independent proof verification forL224",
+    "clinical efficacy assessment"
+  ],
+  "new_2026_publications_adopted": 0
+}

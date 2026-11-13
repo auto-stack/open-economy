@@ -1,0 +1,9 @@
+{
+  "date_local": "2026-11-13",
+  "stage": "Initial run retained before a semantic-scope correction and explicit preparation-cost accounting.",
+  "original_protocol_sha256": "e494844cdf6cd12688ae4106f1ba2fdf2dbdedd64bc3fc12b5d3943990881d23",
+  "initial_script_sha256": "7901949b502e1675c5a30a13c5398e91973d1c3700098b6a931434fd9f63b986",
+  "initial_results_sha256": "97fc3bbc0de5120c8ea576690028610e34c5e8c7da6a20cfcf3152c6da79d401",
+  "issue": "The curve wording implied a guarantee over a continuous interval from finitely many points. Correct the wording to inspected points and require requested point coverage. Also explicitly record index loading/snapshot validation bytes; compute builder digest during its existing read pass.",
+  "outcomes_not_selected_or_removed": true
+}

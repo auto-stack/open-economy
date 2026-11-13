@@ -1,0 +1,41 @@
+{
+  "date_local": "2026-11-13",
+  "success_files": "每份采用材料实际URL及字节数、SHA-256见四项metadata；压缩包选件另记成员名与CRC32。",
+  "capture": [
+    {
+      "source": "L242–L245",
+      "medium": "PMC Open Data S3",
+      "result": "200，四篇全文XML和附件目录均读取"
+    },
+    {
+      "source": "L243",
+      "medium": "OSF",
+      "result": "无论文view_only参数的文件接口401；带论文参数200列目录。远程ZIP范围请求206，行为目录20个会话全部提取。"
+    },
+    {
+      "source": "L243",
+      "medium": "期刊图源压缩包",
+      "result": "206，按目录取Fig.2b–d、3d与作图程序并校验；无整包重存。"
+    },
+    {
+      "source": "L243",
+      "medium": "GitHub",
+      "result": "默认分支并非main；raw主机连接中断，改用公开Git blobs按SHA取件，文件逐个校验。"
+    },
+    {
+      "source": "L244",
+      "medium": "4TU",
+      "result": "200，完整ZIP下载及目录校验。"
+    },
+    {
+      "source": "L245",
+      "medium": "出版社与数据",
+      "result": "eLife网页返回验证页；API和PMC正式全文200。DataCite登记200；Figshare网站、API与下载入口403。未取得行为文件。"
+    },
+    {
+      "source": "筛选线索",
+      "medium": "eScholarship",
+      "result": "PDF入口内容未通过PDF签名核查，不作正文依据。"
+    }
+  ]
+}

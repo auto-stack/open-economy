@@ -1,5 +1,63 @@
 # 通用组织理论与论文路线
 
+第 71 轮完成[共同活动中的意义、受益与贡献认定](surveys/07-organization-formation/meaning-and-participation-over-time-2026.md)。以同人访谈、配对结案、受益者对照和二十年后追访，修订第三部分第 4 章[《人的意义与共同生活》](../book/part-03/04-human-meaning-and-common-life.md)。[原件、读页与复核](../wiki/raw/round-66/README.md)
+
+第70轮沿同一履约案件的三级判决、平台举证与评审、真实申诉及裁后随访，更新[规则解释、复核与后续合作综述](surveys/07-organization-formation/disputed-performance-and-review-2026.md)与第三部分第3章[《规则、权力与共同目的》](../book/part-03/03-rules-power-and-common-purposes.md)。[第65批来源及读取边界](../wiki/raw/round-65/README.md)
+
+第69轮追踪承诺作出后谁开始承担风险或支付成本，以及条件变化后，等待、重谈、补排和接班怎样改变原安排。六项原始研究进入[年度专题综述](surveys/07-organization-formation/reliance-and-revision-2026.md)、第三部分第2章[《可依赖且可修订的共同承诺》](../book/part-03/02-revisable-shared-commitments.md)与[第64批原件](../wiki/raw/round-64/README.md)。
+
+第68轮回到同一任务，比较单人能否完成、独立答案汇总后有多准，以及相互配合或改变争胜规则后发生什么。五项原始研究、公开估算数据的同组同题复核已写入[专题综述](surveys/03-competition-cooperation-distribution/competition-cooperation-and-order.md#6-同一任务中的个人汇总与配合)和第三部分第1章[《合作与共同能力》](../book/part-03/01-cooperation-and-common-capabilities.md)。[第63批原件](../wiki/raw/round-63/README.md)
+
+第67轮考察原计划落空后的目标修订、手段调整与执行受阻。五项研究的观察窗及识别限制列入[年度综述第四版](surveys/01-organization-maintenance/human-regulation-and-action/review-2026.md#原计划与后续行动的同人追踪)，用于修订[《目标冲突与修订》](../book/part-02/04-goal-conflict-and-revision.md)。四组公开数据的描述性复核见[第62批](../wiki/raw/round-62/README.md)。
+
+第66轮考察同一人的事前意向、实际行动与事后认可，比较日常选择、学期目标和较长期的真实决定，复核公开的目标搁置日记。[年度综述](surveys/01-organization-maintenance/human-regulation-and-action/review-2026.md) · [《感受、欲望与目标》](../book/part-02/03-feelings-desires-and-goals.md) · [第61批来源](../wiki/raw/round-61/README.md)
+
+第65轮更新[第二部分2026年资料综述](surveys/01-organization-maintenance/human-regulation-and-action/review-2026.md)，用同人换轮、居家干预、随机配镜与工点托育比较外部支持和可行活动。结果及识别边界已写入[《维持生命与发展机会》](../book/part-02/02-maintenance-and-development.md)。[第60批来源](../wiki/raw/round-60/README.md)
+
+第64轮进入第二部分，第1章以三项人体研究补充身体状态、感受与行动的证据，后续三个单元的研究问题见[专题综述与章节安排](surveys/01-organization-maintenance/human-regulation-and-action/review-2026.md)。
+
+第63轮将前三轮研究写入[《从集合到组织》讨论稿](../book/part-01/01-from-collection-to-organization.md)，按[六项格式核查八组主张](../book/argument-cards/part-01-01-from-collection-to-organization.md)，并完成[第一部分五章通读](reviews/63-from-collection-to-organization-chapter.md)。
+
+第62轮用同目标逐帧数据比较独立汇总与实时共控，核查轨迹／力回放及扰动研究，形成最小三条件实验。[研究与数据复算](surveys/01-organization-maintenance/relational-organization-and-boundaries/live-control-and-replay.md) · [第62轮](reviews/62-live-control-and-replay.md) · [第57批来源](../wiki/raw/round-57/README.md)
+
+第61轮核对L240的全部联合试次，并在同组同角度条件下比较两种固定汇总规则。[逐次结果与识别边界](surveys/01-organization-maintenance/relational-organization-and-boundaries/dyad-trial-comparison.md) · [本轮记录](reviews/61-dyad-trial-matching.md) · [第56批归档](../wiki/raw/round-56/README.md)
+
+第60轮回到第一部分第1章，比较集合与组织的判据、同一过程的不同边界，以及把共同能力归到成员关系上的证据。[从集合到组织 · 综述0.1](surveys/01-organization-maintenance/relational-organization-and-boundaries/review-2026.md) · [本轮记录](reviews/60-from-collection-to-organization.md) · [第55批来源](../wiki/raw/round-55/README.md)
+
+第59轮已将两轮演进研究写入第一部分第5章，用交接、技能重构和实际履行比较不同尺度的改变。[章节讨论稿](../book/part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](../book/argument-cards/part-01-05-how-organizations-evolve.md)
+
+第58轮已补入团队换人、开源项目继任、技能再传和现场规则修订的过程证据。[组织怎样演进 · 综述0.2](surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/review-2026.md) · [六组来源与六项核查](surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md)
+
+当前研究：[第57轮组织演进首轮](reviews/57-variation-transmission-and-organizational-evolution.md)形成[资料综述0.1](surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/review-2026-v0.1.snapshot.md)、六组主张核查及四路径识别反例。4个新来源、旧L179全文补得见[第52批](../wiki/raw/round-52/README.md)；未新增完整书章。
+
+当前：[第56轮章稿整合](reviews/56-interfaces-memory-and-levers-chapter.md)完成第一部分[第4章](../book/part-01/04-interfaces-memory-and-technological-levers.md)及论证卡，[八组关键主张](surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-claims-2026-11-13.md)采用六项格式。综述0.4正文保持，来源复用见[第51批](../wiki/raw/round-51/README.md)，没有新检索或经验数据。
+
+当前：[第55轮轻量格式与争议试用](reviews/55-lightweight-source-check-and-disputed-cases.md)完成[六项格式](../shared/source-check-format.md)及跨文化博弈、足球认同／冲突两例。保留争议与未复算项，[综述升为0.4](surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)，[第50批](../wiki/raw/round-50/README.md)保存新读段和网页响应，不报告实际节时。
+
+当前：[第54轮真实卡片核查](reviews/54-real-card-evidence-and-boundary-audit.md)完成三卡六项关联回查，补行级来源与用途，保留维护假说的直接验证缺口。形成[逐项记录](surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/case-register.json)，[综述升为0.3](surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)；[第49批](../wiki/raw/round-49/README.md)留存前后快照，未做真实用户效率测量。
+
+当前：[第53轮内部对照](reviews/53-internal-comparison-of-explanation-records.md)已完成，区分结论中的范围、资料充分、关系正确与整理成本；[专题综述0.2](surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)保留[0.1快照](surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026-v0.1.snapshot.md)。这是固定规则与合成材料的比较，没有真实用户计时；[第48批](../wiki/raw/round-48/README.md)保存采用资料与冻结记录。
+
+当前：[第52轮解释的保存与共同修订](reviews/52-explanation-memory-interfaces-and-revision.md)，形成[2026资料综述0.1](surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)及[第4单元证据接口](surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-evidence.md)。新增4项来源、复用2项，完整材料及失败见[第47批](../wiki/raw/round-47/README.md)；尚未新增书章。
+
+当前：[第51轮书稿与衔接](reviews/51-information-ordo-chapter-and-handoffs.md)，完成[熵、信息与Ordo讨论稿](../book/part-01/02-entropy-information-and-ordo.md)及论证卡，区分文献结论、条件推论、待验证假说与价值问题。已有综述0.4正文不变，采用的17项研究与19个文件见[第46批复用记录](../wiki/raw/round-46/README.md)，没有新增下载。
+
+当前：[第50轮新解释与受限试验](reviews/50-new-explanations-and-safe-tests.md)，[专题综述升为0.4](surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)。比较新增潜在原因、方程生成、探索证据及SafeOpt的条件；[有限例子](surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/models.md)检验结构扩展、留出验证与认证边界，原件见[第45批](../wiki/raw/round-45/README.md)。
+
+当前：[第49轮失效检测与有限成本学习](reviews/49-failure-detection-and-affordable-learning.md)，[熵、信息与Ordo综述升为0.3](surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)。新增运行长度推断、噪声与变化、人类探索、资源理性原文；[付费观测例子](surveys/04-influence-and-social-equivalence/entropy-information-ordo/detection-and-learning-2026-11-13/models.md)不外加真实切换时间，原件与转换限制见[第44批](../wiki/raw/round-44/README.md)。
+
+当前：[第48轮控制器成本、净收益与适应](reviews/48-controller-costs-net-benefits-and-adaptation.md)，[熵、信息与Ordo综述升为0.2](surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)，补测量／复位成本、更正条件、资源瓶颈和恢复与修订的区别；[有限演算](surveys/04-influence-and-social-equivalence/entropy-information-ordo/costs-and-adaptation-2026-11-13/models.md)与原文结论分别标记，原件及失败见[第43批](../wiki/raw/round-43/README.md)。
+
+当前：[第47轮章稿与信息研究](reviews/47-maintenance-draft-and-information-research.md)，先完成第一部分[输入、维护与持续](../book/part-01/03-inputs-maintenance-and-continuity.md)，再启动[熵、信息与Ordo深入研究](surveys/04-influence-and-social-equivalence/entropy-information-ordo/README.md)。新专题形成2026综述0.1、原文读页与章级证据包；原件见[第42批](../wiki/raw/round-42/README.md)。
+
+当前：[第46轮原始调节论述与2026年后续资料](reviews/46-primary-regulation-and-2026.md)，[2026资料综述升为0.3](surveys/01-organization-maintenance/review-2026.md)。新增阈值判据、动态／稳态因果关系和间歇调节，补第二部分两章与论证卡；3项完整文献选读、4项摘要／预览分别标记，原始文件和失败见[第41批](../wiki/raw/round-41/README.md)。
+
+此前：[第45轮2024年稳态综述及引用路线](reviews/45-homeostasis-review-followup.md)，已取得L196完整PDF，归档L199–L203及88条回溯／34条向前候选记录；[0.2综述快照](surveys/01-organization-maintenance/review-2026-v0.2.snapshot.md)保留当轮整理。选读与未读状态分别记录，原件见[第40批](../wiki/raw/round-40/README.md)。
+
+研究定位：[第44轮以书籍为目标的年度资料综述](reviews/44-book-first-living-reviews.md)。已有综述作为优先资料入口，按[研究安排](survey-and-paper-program.md)形成可持续更新的专题材料；[协议0.3](surveys/01-organization-maintenance/protocol.md)落实书籍供证与年度版本，发表新颖性不作为研究门槛。
+
+前一阶段：[第43轮校准与机制试提取](reviews/43-maintenance-survey-calibration.md)保留86次题录出现、去重81项及六项目的性试提取的实际记录；当时关于发表差异的推进条件由第44轮调整。原文见[第39批](../wiki/raw/round-39/README.md)，方法入口见[第38批](../wiki/raw/round-38/README.md)，框架标签和旧来源包保留。
+
 版本管理更新：[第42轮Git基线与来源包](reviews/42-git-baseline-and-source-package.md)，将原创成果、模型、协议和来源描述纳管，第三方原件、完整OCR和检查图片独立保留本地。`framework-v0.1`以实际Git对象记录，运行检查见[说明](../docs/repository-validation.md)，没有远端推送。
 
 最新：[第41轮全书框架收束](reviews/41-framework-closure.md)，完成理论核心、四种组织边界及数字／实体服务的AI经济闭环；新增一组逐笔守恒的假设现金反例。纲领更新0.4，28单元逐项归位，未增加正式公设或外部原文读页；Git与独立来源包仍待实施。

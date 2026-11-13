@@ -1,0 +1,35 @@
+[
+  {
+    "path": "records/aea-article.html",
+    "requested_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20180805",
+    "retrieved_at_utc": "2026-11-13T04:31:27.603798+00:00",
+    "status_code": 200,
+    "final_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20180805",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 31363,
+    "sha256": "48bf6a58af14ee1bd662743366abe45d605c5b91a57d23434b724326dfae0014",
+    "saved": true
+  },
+  {
+    "path": "records/econstor-193.html",
+    "requested_url": "https://www.econstor.eu/handle/10419/307961",
+    "retrieved_at_utc": "2026-11-13T04:31:27.604448+00:00",
+    "status_code": 200,
+    "final_url": "https://www.econstor.eu/handle/10419/307961",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 7874,
+    "sha256": "9da98a52504b62f564e0caec11a95088f56b88b7c131822bfdc87aa5a929a667",
+    "saved": true
+  },
+  {
+    "path": "records/econstor-194.html",
+    "requested_url": "https://www.econstor.eu/handle/10419/307962",
+    "retrieved_at_utc": "2026-11-13T04:31:27.604750+00:00",
+    "status_code": 200,
+    "final_url": "https://www.econstor.eu/handle/10419/307962",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 7874,
+    "sha256": "ad385a6c8b9c6715cc25a884047b3807eb4dbf1225ff42109266df36f2033891",
+    "saved": true
+  }
+]

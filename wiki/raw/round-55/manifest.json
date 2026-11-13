@@ -1,0 +1,131 @@
+{
+  "algorithm": "sha256",
+  "excludes": "manifest.json itself",
+  "files": [
+    {
+      "path": "acquisition-attempts.json",
+      "bytes": 3598,
+      "sha256": "37aaa6387b4875c28b54e39fc8d39a487574b3349368910f179895ab504b5b9c"
+    },
+    {
+      "path": "discovery/figure-check.json",
+      "bytes": 16597,
+      "sha256": "4eab5032b6b50c72fb0025082d9c571a49a04f01390ba6ef19d9bf6f989184ed"
+    },
+    {
+      "path": "discovery/search-responses.json",
+      "bytes": 82953,
+      "sha256": "277320bbf433ae8e5065dca4a6c1df4e9ea10221ba82f675a09b6337ad113d2f"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 3947,
+      "sha256": "83788a21c4ab6c3c5b378895b7557869fa6437017913d035aa05a83d4a4a51e3"
+    },
+    {
+      "path": "L239-bahrami-2010/article.jats.xml",
+      "bytes": 52137,
+      "sha256": "c8c5038ede130f9bbee3f9e6cf2a3f25626d6f802e09c810188d47316587bec8"
+    },
+    {
+      "path": "L239-bahrami-2010/metadata.json",
+      "bytes": 1687,
+      "sha256": "09540355aaba95577ace467fdf62e95806af63a4bd7e228baa4a9c80e4f4719a"
+    },
+    {
+      "path": "L239-bahrami-2010/original.pdf",
+      "bytes": 776884,
+      "sha256": "943e6e9caa50306748374825bca123622b566ced60de38539476d88f5af408bd"
+    },
+    {
+      "path": "L239-bahrami-2010/original.txt",
+      "bytes": 40199,
+      "sha256": "a7c3cb79e139e163d4553e972772c4da404da2ef01b9db16b803234d1873267e"
+    },
+    {
+      "path": "L240-wisdom-dyads/article.jats.xml",
+      "bytes": 161370,
+      "sha256": "c9faf1643608f95477f636e41b2ff9b1b59f35a24a1ec66e9b2357c960cf331d"
+    },
+    {
+      "path": "L240-wisdom-dyads/gr1.jpg",
+      "bytes": 16391,
+      "sha256": "0de11771d7c80fe57caa95004234b17c83e2cdd01c660d3977124ed24633ca10"
+    },
+    {
+      "path": "L240-wisdom-dyads/gr2.jpg",
+      "bytes": 31211,
+      "sha256": "a93ced01d37918dd9187c4cf5abcf0fdef6c4dc05bf6ba02640bed10365593f7"
+    },
+    {
+      "path": "L240-wisdom-dyads/gr3.jpg",
+      "bytes": 36508,
+      "sha256": "fd0ba60a12b412a30667cb129ef8f186882e25d729ff6bc754496aa87409ddf9"
+    },
+    {
+      "path": "L240-wisdom-dyads/metadata.json",
+      "bytes": 3127,
+      "sha256": "5f862972f97f6716352521afe5664a985b6cbc1a5815f1a9384cf0bb30c043f8"
+    },
+    {
+      "path": "L240-wisdom-dyads/mmc2.xlsx",
+      "bytes": 3078309,
+      "sha256": "2bd19b101608ebd2d212327f2809f404bd960191bbb393f2e930c90f2d2d6842"
+    },
+    {
+      "path": "L240-wisdom-dyads/original.json",
+      "bytes": 138659,
+      "sha256": "d6d44cd71d23bc50cb1fbd3f865d5a3777c30fa1eb4fb033fc84a207f0c6d23b"
+    },
+    {
+      "path": "L240-wisdom-dyads/original.txt",
+      "bytes": 81577,
+      "sha256": "16207ffe15e15601ea8595a790d021a85576b32646cb7b755bfb60202fae4442"
+    },
+    {
+      "path": "L240-wisdom-dyads/supplement-acquisition.json",
+      "bytes": 394,
+      "sha256": "10211713a4f0efb7871adfe24262fd03a3dc5628876f7e7d50bc5e6997e15829"
+    },
+    {
+      "path": "L241-cooperative-transport/article.jats.xml",
+      "bytes": 207928,
+      "sha256": "21348e36db3958af17493e242455bce6f1aba82967df6c085317d7c0662f3b60"
+    },
+    {
+      "path": "L241-cooperative-transport/metadata.json",
+      "bytes": 2252,
+      "sha256": "0929a2f5e9db9479bc4da6e4c69688080c8fdd0035b51d25a61b5fca52a9722a"
+    },
+    {
+      "path": "L241-cooperative-transport/original.json",
+      "bytes": 111622,
+      "sha256": "4d012b1f9c9c5f71a48c4b7f17924298b671988d998368b08f31c46dc574b358"
+    },
+    {
+      "path": "L241-cooperative-transport/original.pdf",
+      "bytes": 9634201,
+      "sha256": "96a4412d10f0f5c64a9c39ce3b15a4900cc845b8a6000ecc31b0f15717386e36"
+    },
+    {
+      "path": "L241-cooperative-transport/original.txt",
+      "bytes": 74144,
+      "sha256": "29728a17db12edc6771b9d4796a5870e4ee0031d4432d06bca33faaf73cf8c36"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 1160,
+      "sha256": "8f4dad371bd2370a53f3f49d1b4ec75ca7355dd200c4e798b7d3ec87ad91ecdf"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3539,
+      "sha256": "1a0d442bf558a33b2af2bf2f15f60609ded9aac85927c6876e698230f2c7d81d"
+    },
+    {
+      "path": "source-reuse.json",
+      "bytes": 3043,
+      "sha256": "d21b4e1e1822ec449484c171dba6f5933d281faed979d25a1cff1928b7b30709"
+    }
+  ]
+}

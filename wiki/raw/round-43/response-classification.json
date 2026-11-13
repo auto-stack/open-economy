@@ -1,0 +1,18 @@
+{
+  "new_main_studies": 4,
+  "new_full_pdfs": 3,
+  "new_full_jats": 1,
+  "new_main_ids": [
+    "L213",
+    "L214",
+    "L215",
+    "L216"
+  ],
+  "correction_family": "L213",
+  "correction_complete_tool_conversion": 1,
+  "correction_raw_pdf": 0,
+  "xml_failure_not_used_as_fulltext": "L215 EuropePMC500 twice; AMOLF PDF adopted",
+  "discovery_only_hits": "not automatically adopted or marked read",
+  "authors_simulations_replicated": false,
+  "publisher_non_pdf_not_adopted": "L216 publisher request returned cookie HTML; valid mirrored journal PDF adopted"
+}

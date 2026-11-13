@@ -1,0 +1,31 @@
+{
+  "responses": [
+    {
+      "path": "records/aea-article.html",
+      "status_code": 200,
+      "title": "Building Nations through Shared Experiences: Evidence from African Football - American Economic Association",
+      "adopted": true,
+      "kind": "publisher publication/version context",
+      "sha256": "48bf6a58af14ee1bd662743366abe45d605c5b91a57d23434b724326dfae0014"
+    },
+    {
+      "path": "records/econstor-193.html",
+      "status_code": 200,
+      "title": "Making sure you're not a bot!",
+      "adopted": false,
+      "kind": "anti-bot check page, not repository metadata or article body",
+      "sha256": "9da98a52504b62f564e0caec11a95088f56b88b7c131822bfdc87aa5a929a667"
+    },
+    {
+      "path": "records/econstor-194.html",
+      "status_code": 200,
+      "title": "Making sure you're not a bot!",
+      "adopted": false,
+      "kind": "anti-bot check page, not repository metadata or article body",
+      "sha256": "ad385a6c8b9c6715cc25a884047b3807eb4dbf1225ff42109266df36f2033891"
+    }
+  ],
+  "successful_publication_records": 1,
+  "pdfs_downloaded_this_round": 0,
+  "search_lead_not_adopted": "Search return points to a longer Binmore discussion hosted at UCSD; not read/adopted as an additional commentary body."
+}

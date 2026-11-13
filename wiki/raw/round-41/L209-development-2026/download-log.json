@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10539-026-10007-x.pdf",
+    "target": "L209-development-2026/original.pdf",
+    "time_utc": "2026-11-13T01:03:15.051095+00:00",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s10539-026-10007-x?error=cookies_not_supported&code=9636379d-9c8f-44ef-9f6d-4e163e6558bd",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 497672,
+    "error": "ValueError('Non-PDF response rejected')"
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s10539-026-10007-x",
+    "target": "L209-development-2026/original.html",
+    "time_utc": "2026-11-13T01:03:54.956019+00:00",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s10539-026-10007-x?error=cookies_not_supported&code=1c511df0-c042-47b7-b0cb-9170736d2944",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 497672,
+    "sha256": "ec0e3c56b35badc50e552c69ea8f20b80c56a4bbe7ac22dde6ee0e02fb587971"
+  },
+  {
+    "url": "https://philsci-archive.pitt.edu/27852/1/Autonomy%20and%20Development%20-%20Forthcoming%20in%20Biology%20%26%20Philosophy%20.pdf",
+    "target": "L209-development-2026/author.pdf",
+    "time_utc": "2026-11-13T01:05:12.207798+00:00",
+    "status": 200,
+    "final_url": "https://philsci-archive.pitt.edu/27852/1/Autonomy%20and%20Development%20-%20Forthcoming%20in%20Biology%20%26%20Philosophy%20.pdf",
+    "content_type": "text/html",
+    "bytes": 244,
+    "error": "ValueError('Non-PDF response rejected')"
+  },
+  {
+    "url": "https://philsci-archive.pitt.edu/id/eprint/27852/contents",
+    "time_utc": "2026-11-13T01:07:06.769645+00:00",
+    "status": 200,
+    "final_url": "https://philsci-archive.pitt.edu/id/eprint/27852/contents",
+    "content_type": "text/html",
+    "bytes": 244,
+    "file": "repository-response.html",
+    "sha256": "6a12f0900508d20a3544ba029fd7bef1bc97c085f692fa17ac64b96ac075e5a4",
+    "target": "L209-development-2026/repository-response.html"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "status": "passed",
+  "drafts": 12,
+  "argument_cards": 12,
+  "remaining_candidate_units": 16,
+  "chapter_written_before_new_research": true,
+  "phase_one_preserved": true,
+  "checked_markdown_files": 19,
+  "broken_links": [],
+  "raw_manifests_verified": {
+    "round-38": 11,
+    "round-39": 63,
+    "round-40": 65,
+    "round-41": 71,
+    "round-42": 18
+  },
+  "new_source_ids": [
+    "L211",
+    "L212"
+  ],
+  "new_full_pdfs": 2,
+  "reused_source_ids": [
+    "L20"
+  ],
+  "visual_checks": [
+    "L211 PDF1 equations3–4",
+    "L20 PDF9 equations5.11–5.12 and caveats",
+    "L212 PDF5 equations4–5 and Figures2–3"
+  ],
+  "formal_register_sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+  "formal_register_unchanged": true,
+  "charter_equals_tag": true,
+  "tag_commit": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d",
+  "old_package_manifest_equals_tag": true,
+  "old_package_sha256": "f0c5d85ff3b17254fca988964c47585a1e5ccd89a1016e30dc35a919b24fa8b6",
+  "git_ignore_boundaries_verified": true,
+  "no_commit_tag_or_push_performed": true,
+  "limits": [
+    "purposeful synthesis, not exhaustive systematic review",
+    "original simulations not rerun",
+    "unified Ordo measure not established"
+  ]
+}

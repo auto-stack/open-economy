@@ -1,0 +1,86 @@
+[
+  {
+    "retrieved_utc": "2026-11-13T06:06:13.959038+00:00",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3371582/",
+    "source": "L239-bahrami-2010",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3371582/",
+    "error": "no verified article body"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:14.712611+00:00",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3371582/fullTextXML",
+    "source": "L239-bahrami-2010",
+    "status": 500,
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3371582/fullTextXML",
+    "error": "500 Server Error:  for url: https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3371582/fullTextXML"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:13.959301+00:00",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6562237/",
+    "source": "L240-wisdom-dyads",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6562237/",
+    "error": "no verified article body"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:14.684173+00:00",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6562237/fullTextXML",
+    "source": "L240-wisdom-dyads",
+    "error": "HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=12)"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:13.959217+00:00",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11725855/",
+    "source": "L241-cooperative-transport",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11725855/",
+    "error": "no verified article body"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:14.699697+00:00",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11725855/fullTextXML",
+    "source": "L241-cooperative-transport",
+    "error": "HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=12)"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:57.931120+00:00",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC3371582/unicode",
+    "source": "L239-bahrami-2010",
+    "status": 429,
+    "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC3371582/unicode",
+    "error": "429 Client Error: Too Many Requests for url: https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC3371582/unicode"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:59.004307+00:00",
+    "url": "https://pdodds.w3.uvm.edu/files/papers/others/2010/bahrami2010a.pdf",
+    "source": "L239-bahrami-2010",
+    "status": 200,
+    "final_url": "https://pdodds.w3.uvm.edu/files/papers/others/2010/bahrami2010a.pdf",
+    "file": "L239-bahrami-2010/original.pdf",
+    "bytes": 776884,
+    "sha256": "943e6e9caa50306748374825bca123622b566ced60de38539476d88f5af408bd"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:57.931441+00:00",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC6562237/unicode",
+    "source": "L240-wisdom-dyads",
+    "status": 200,
+    "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC6562237/unicode",
+    "passages": 225,
+    "file": "L240-wisdom-dyads/original.json",
+    "bytes": 138659,
+    "sha256": "d6d44cd71d23bc50cb1fbd3f865d5a3777c30fa1eb4fb033fc84a207f0c6d23b"
+  },
+  {
+    "retrieved_utc": "2026-11-13T06:06:57.931651+00:00",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC11725855/unicode",
+    "source": "L241-cooperative-transport",
+    "status": 200,
+    "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC11725855/unicode",
+    "passages": 189,
+    "file": "L241-cooperative-transport/original.json",
+    "bytes": 111622,
+    "sha256": "4d012b1f9c9c5f71a48c4b7f17924298b671988d998368b08f31c46dc574b358"
+  }
+]

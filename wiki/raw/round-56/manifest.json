@@ -1,0 +1,31 @@
+{
+  "algorithm": "sha256",
+  "excludes": "manifest.json itself",
+  "files": [
+    {
+      "path": "comparison-results.json",
+      "bytes": 90374,
+      "sha256": "f61df63aec31223e2313cd84d48062b27bd006123408c6ab5e89aea60f89817f"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 811,
+      "sha256": "28acef9ffb2f5e8320a727b43c95033454fe3147c83fef207e12dfa56eea9b13"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1805,
+      "sha256": "1578b10e6957df198f29b858e35d477255af4eed259c7c73857a1c60977fee52"
+    },
+    {
+      "path": "source-reuse.json",
+      "bytes": 1017,
+      "sha256": "464ab5905f91a5cc57a843d864f898a04ab8d931d3d44cd61be2b45d43694bc6"
+    },
+    {
+      "path": "trial-pairing.tsv",
+      "bytes": 279147,
+      "sha256": "7a440d07395acddfd3c53bb33151778275e8ee52bba5e05ad2a5a02aee92a29a"
+    }
+  ]
+}

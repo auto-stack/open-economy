@@ -1,0 +1,37 @@
+{
+  "round": 55,
+  "research_round": 60,
+  "date_local": "2026-11-13",
+  "subject": "从集合到组织，关系作用、候选边界与共同能力",
+  "new_sources": [
+    {
+      "source_id": "L239",
+      "metadata": "L239-bahrami-2010/metadata.json"
+    },
+    {
+      "source_id": "L240",
+      "metadata": "L240-wisdom-dyads/metadata.json"
+    },
+    {
+      "source_id": "L241",
+      "metadata": "L241-cooperative-transport/metadata.json"
+    }
+  ],
+  "reused_sources": [
+    "L09",
+    "L10",
+    "L11",
+    "L12",
+    "L234"
+  ],
+  "project_model": "research/examples/organization-relays.json",
+  "search_scope": "为已有Q1判据选取有对照的原始任务研究，补查全文及版本；定向综述。",
+  "discovery": "discovery/search-responses.json",
+  "original_download_logs": [
+    "download-log.json",
+    "acquisition-attempts.json"
+  ],
+  "source_reuse": "source-reuse.json",
+  "research_review": "research/surveys/01-organization-maintenance/relational-organization-and-boundaries/review-2026.md",
+  "baseline_check": "research/surveys/01-organization-maintenance/relational-organization-and-boundaries/voinov-baseline-check.md"
+}

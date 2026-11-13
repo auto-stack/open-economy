@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10539-026-10018-8.pdf",
+    "target": "L207-weinberger-2026/original.pdf",
+    "time_utc": "2026-11-13T01:03:14.553713+00:00",
+    "status": 200,
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s10539-026-10018-8.pdf?error=cookies_not_supported&code=25b18c53-8f2c-4257-b3d8-9625b87c00bd",
+    "content_type": "application/pdf",
+    "bytes": 2007980,
+    "sha256": "c3b08e59496fb178244572754412fd43eef955bf25a41af9cf72419df525485e",
+    "pdf_pages": 30
+  }
+]

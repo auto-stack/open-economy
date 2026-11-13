@@ -1,0 +1,119 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 3087,
+      "sha256": "5af0592bcd43ffb740143a5a7206adb1b659bccb32ffe215526533eee2c6763a"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 6414,
+      "sha256": "2fb40bc64b9d9b126cee278947cc7647a9b6542389694e7fffbd031add6a4317"
+    },
+    {
+      "path": "L278-robin-rigg/appeal.pdf",
+      "bytes": 425803,
+      "sha256": "75d57b1afe746da7d02e1abdb970c615adfa6550680a4a5e3e261ccec1ed49ff"
+    },
+    {
+      "path": "L278-robin-rigg/appeal.txt",
+      "bytes": 69269,
+      "sha256": "67930f1db4b05829cedefdcdd241bbdffd22e6eace9a602116bd6536b4ad1c7e"
+    },
+    {
+      "path": "L278-robin-rigg/caselaw.html",
+      "bytes": 127415,
+      "sha256": "5ea33bea6d79a09e2743c6c43c3a2b56924e70b0108a08cdd397ffb358c65857"
+    },
+    {
+      "path": "L278-robin-rigg/judgment.pdf",
+      "bytes": 216679,
+      "sha256": "218f219c189b9f28313c225a1ca831aba6553ea1369122c32b7d8ac4fae94d14"
+    },
+    {
+      "path": "L278-robin-rigg/judgment.txt",
+      "bytes": 50376,
+      "sha256": "5151fc8fd2b5b3ea18f31ba2e480b51df5e787b401cd1f8ff5ff4a98753e5f23"
+    },
+    {
+      "path": "L278-robin-rigg/summary.pdf",
+      "bytes": 146745,
+      "sha256": "3f3fdd7f079103760dacb400739d2a7d7bfb3d40e40c80db9fb31c2452dc8164"
+    },
+    {
+      "path": "L278-robin-rigg/summary.txt",
+      "bytes": 6779,
+      "sha256": "da178c8cdd3e77e00aac3e011e0749ec2a48dcb528b08abddf2a2d73bd53e50e"
+    },
+    {
+      "path": "L278-robin-rigg/trial.pdf",
+      "bytes": 721341,
+      "sha256": "3a9ceeb586698b40fececae60bc05fcb5483992cbb55b38097636ae1126bfe87"
+    },
+    {
+      "path": "L278-robin-rigg/trial.txt",
+      "bytes": 109387,
+      "sha256": "974942d8b88b577f1523e345271a6dadec103d2890d286be2cd90650c5692f8f"
+    },
+    {
+      "path": "L279-crowd-judging/author.pdf",
+      "bytes": 717257,
+      "sha256": "5d432a45bcb534a961696a517709a5fb047e9fe4e425c30315d3659b5e85d1e0"
+    },
+    {
+      "path": "L279-crowd-judging/author.txt",
+      "bytes": 187317,
+      "sha256": "0cbd8a49b033b4ce9ee209585fcecc6f20e65556011c17df3e92cf3560347b3a"
+    },
+    {
+      "path": "L280-reinstatement/abstract.txt",
+      "bytes": 864,
+      "sha256": "82522a82480e22364eedf110386109b81bca1b4914b143d370c1e1a5c1815ffc"
+    },
+    {
+      "path": "L280-reinstatement/journal-abstract.html",
+      "bytes": 108924,
+      "sha256": "ad17351c580fff06e3cf6dcfec6198323143b5747f337fab4e1ae87d9b8040b0"
+    },
+    {
+      "path": "L281-coparenting/pubmed.json",
+      "bytes": 5028,
+      "sha256": "0c8d271699b2b96dea9b3724d5cd7823bc1c121570ae5f7f2ca73f89e4de4c10"
+    },
+    {
+      "path": "L281-coparenting/reading-record.md",
+      "bytes": 2262,
+      "sha256": "be7cd12c1633140754ab5f09f2a65722d4138b0e326b004c0e675cd47ab3969a"
+    },
+    {
+      "path": "L282-appealmod/author.pdf",
+      "bytes": 4310061,
+      "sha256": "1e75a8a716af30d1c506c145af5790e6a82ac27681e001629cd24c62aa335c4e"
+    },
+    {
+      "path": "L282-appealmod/author.txt",
+      "bytes": 128720,
+      "sha256": "dc762c01b5a9e0337bb63cd0d6eb66c4818931e232f74540fbf6c4f3964e2b18"
+    },
+    {
+      "path": "L283-wikipedia/preprint.pdf",
+      "bytes": 973585,
+      "sha256": "d65d9bf6cf3921fe03516135a4830ea56377001371d3419115d722ecee75960d"
+    },
+    {
+      "path": "L283-wikipedia/preprint.txt",
+      "bytes": 60681,
+      "sha256": "00570bdf6eaeffcbd0c72e534d971f071c7a27aa7e40532c22af1efcbe48685c"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 6222,
+      "sha256": "c81a222d78f0043236200825ebb3377d73d0062328a021b9ae7070777a8b2b67"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3985,
+      "sha256": "b66e2e2ccb001af9760e8ff241325d391f24dfbaf7e9340ecb762bb72415e9cc"
+    }
+  ]
+}

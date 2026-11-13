@@ -1,0 +1,65 @@
+[
+  {
+    "claim_id": "C01",
+    "request": {
+      "task": "sample-mean",
+      "context": "sample-S1",
+      "unit": "U",
+      "x": null
+    }
+  },
+  {
+    "claim_id": "C02",
+    "request": {
+      "task": "sample-mean",
+      "context": "sample-S1",
+      "unit": "U",
+      "x": null
+    }
+  },
+  {
+    "claim_id": "C03",
+    "request": {
+      "task": "population-forecast",
+      "context": "sample-S1",
+      "unit": "U",
+      "x": null
+    }
+  },
+  {
+    "claim_id": "C04",
+    "request": {
+      "task": "bounded-curve",
+      "context": "A",
+      "unit": "U",
+      "x": 1.5
+    }
+  },
+  {
+    "claim_id": "C05",
+    "request": {
+      "task": "bounded-curve",
+      "context": "A",
+      "unit": "U",
+      "x": 0.75
+    }
+  },
+  {
+    "claim_id": "C06",
+    "request": {
+      "task": "sample-mean",
+      "context": "sample-S1",
+      "unit": "U",
+      "x": null
+    }
+  },
+  {
+    "claim_id": "C07",
+    "request": {
+      "task": "bounded-curve",
+      "context": "A",
+      "unit": "U",
+      "x": 0.75
+    }
+  }
+]

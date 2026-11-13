@@ -1,0 +1,172 @@
+[
+  {
+    "path": "discovery/download-attempts-01.json",
+    "bytes": 1742,
+    "sha256": "c98f017102813f10fe04cb655a2aef68710fc982edf197377191c2ca23a7093d"
+  },
+  {
+    "path": "discovery/download-attempts-02.json",
+    "bytes": 937,
+    "sha256": "16740fb920b93a45ccaa002a3674c36171000695bb89fbaf745173d4d7e5371e"
+  },
+  {
+    "path": "discovery/download-attempts-03.json",
+    "bytes": 957,
+    "sha256": "64321860d4fa8e44969f983e1a64ae283ef7c756497be99f6a31e25bb2478e25"
+  },
+  {
+    "path": "discovery/metadata.json",
+    "bytes": 745,
+    "sha256": "1b4786397427ed4bed47405aab685dfebdae7da7ccb6859bacf929ca4c2a27ff"
+  },
+  {
+    "path": "discovery/open-erratum.txt",
+    "bytes": 24969,
+    "sha256": "9ab390876839a453b10417d74d602ee6d80f659fdd0285a053152df8c3418b88"
+  },
+  {
+    "path": "discovery/search-01.txt",
+    "bytes": 34256,
+    "sha256": "ea5109f1d7aed6d5d3cdadeb7a644d222f720c699218682f18f1a82ffe699786"
+  },
+  {
+    "path": "discovery/search-02.txt",
+    "bytes": 31678,
+    "sha256": "0351b89cd02e54fdf2f5b2ad45ba2f0576e3bd39a69bca47f4b8634021d3fee3"
+  },
+  {
+    "path": "discovery/search-03.txt",
+    "bytes": 33928,
+    "sha256": "ad6ca89e579b690d0faac4d6029e6f7a94435289e3861a89fa70e47e8915f73a"
+  },
+  {
+    "path": "discovery/search-04.txt",
+    "bytes": 14153,
+    "sha256": "496a99e4eaae779d13b7c3c2328b5018914533d65f3cc8e2c63f8e97381d8ed2"
+  },
+  {
+    "path": "discovery/search-05.txt",
+    "bytes": 33195,
+    "sha256": "a788fd160e7ebfa77dcda4837f39940858d8d73b271d577b4217f4ab11461d97"
+  },
+  {
+    "path": "discovery/search-06.txt",
+    "bytes": 31567,
+    "sha256": "0f697ec8413d95eb185c272468c331fc67f5d00c28610aeab147ab4dd8b71837"
+  },
+  {
+    "path": "download-log.json",
+    "bytes": 3544,
+    "sha256": "2a4bf000cd3c5a0b30fc3c757f73a9bca1ad86a80335ba302f5c44b375b670a7"
+  },
+  {
+    "path": "inspection/L213-p2.png",
+    "bytes": 306118,
+    "sha256": "7c68e42f85222171e292afa0beb29634d55227184a9b918d085a7611fe74606a"
+  },
+  {
+    "path": "inspection/L215-p11.png",
+    "bytes": 348527,
+    "sha256": "f103d25831312393c2188611b1e781674420cdf23f2b10acd37dc7f63d141999"
+  },
+  {
+    "path": "inspection/L215-p3.png",
+    "bytes": 363200,
+    "sha256": "c9eb75ebe8ca48ea4bef41312632df2af198ce13956241883bc4ff7fff916b10"
+  },
+  {
+    "path": "inspection/L216-p3.png",
+    "bytes": 347138,
+    "sha256": "16654051d15feae66232c3539e02da849540fd907166868714805e36e57a8916"
+  },
+  {
+    "path": "L213-sagawa-ueda-2009/arxiv-record.html",
+    "bytes": 42211,
+    "sha256": "ef03031de0da0e9c8cf6ae61469768c630782a93f546403306332ed0eae972d9"
+  },
+  {
+    "path": "L213-sagawa-ueda-2009/erratum/metadata.json",
+    "bytes": 950,
+    "sha256": "1a535b276f01c37995be54f420dab8a731d96696df09a2fb175b951c205926ba"
+  },
+  {
+    "path": "L213-sagawa-ueda-2009/erratum-tool-text.txt",
+    "bytes": 4637,
+    "sha256": "d18623243f07fa5295e05ee04673c3ed6b7d3dbbc427bad37cad0be832e5bd2f"
+  },
+  {
+    "path": "L213-sagawa-ueda-2009/metadata.json",
+    "bytes": 1256,
+    "sha256": "6a1872366d612728ac97a67fa3e0154209b26f89384169eac41165e1be0a0f63"
+  },
+  {
+    "path": "L213-sagawa-ueda-2009/original.pdf",
+    "bytes": 419901,
+    "sha256": "d317e8b6e34397d7b93f09c4afd7f8ca6fb7eba05e5f91fadb5d6157d669849f"
+  },
+  {
+    "path": "L213-sagawa-ueda-2009/original.txt",
+    "bytes": 23876,
+    "sha256": "e24cda4c77b84b59b869602866a01581119a231a2481c80d7d64356df07b082b"
+  },
+  {
+    "path": "L214-lan-et-al-2012/metadata.json",
+    "bytes": 1247,
+    "sha256": "5b15ea82f63e6a7c9db393c434a753c43499f005b370feb4e5a31dcde19bdf5d"
+  },
+  {
+    "path": "L214-lan-et-al-2012/original.txt",
+    "bytes": 21859,
+    "sha256": "9cf4bf086cb993b0a182993181bbc1793a0db38b859bd5836ceb465d994b8dd3"
+  },
+  {
+    "path": "L214-lan-et-al-2012/original.xml",
+    "bytes": 114425,
+    "sha256": "f9f614f74200dc5e0e8b5cca65a6f3ebf7f9e6c2e5da9026b4b23a3bf388b1fe"
+  },
+  {
+    "path": "L215-govern-tenwolde-2014/metadata.json",
+    "bytes": 1192,
+    "sha256": "57c49e2390433b305c1d801f806a710e3f986b1af814a62fe99114aaefcb102f"
+  },
+  {
+    "path": "L215-govern-tenwolde-2014/original.pdf",
+    "bytes": 1002267,
+    "sha256": "beb9a8aafbc3ef2cbf6cdd889b820c47cb0254d30d43dbad947cb6c9642ecdcd"
+  },
+  {
+    "path": "L215-govern-tenwolde-2014/original.txt",
+    "bytes": 94414,
+    "sha256": "d4d8654c7ef18e1ba157326394065d000831051af28baae4871134b2386d50f3"
+  },
+  {
+    "path": "L216-dekel-alon-2005/metadata.json",
+    "bytes": 1308,
+    "sha256": "dafd5220c683f955d3db61c156fa15d2582fe5b2eb3ea22f231bf10b10adfd14"
+  },
+  {
+    "path": "L216-dekel-alon-2005/original.pdf",
+    "bytes": 291585,
+    "sha256": "777a6b5082875deba2501cdc93c68b898356a659e2ba6cb17776090d40a6c444"
+  },
+  {
+    "path": "L216-dekel-alon-2005/original.txt",
+    "bytes": 30765,
+    "sha256": "253ea1187e3b00ab4d319c443ba2b992f5f38f9e329f81c3d1010994b8bc4bdd"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2999,
+    "sha256": "f470964ecfc3212bb312b5dfcef6a3ca3569da1cafa47e1bd357b31d7a72c324"
+  },
+  {
+    "path": "response-classification.json",
+    "bytes": 560,
+    "sha256": "1ce756d07f5c2c008cb592d5cc3902db0f45dd5ba65172b78ec819bff52f3d4b"
+  },
+  {
+    "path": "source-reuse.json",
+    "bytes": 1882,
+    "sha256": "3b1be9f4bc6acf7e47134a95919af571c003baf188d20b21036e8f9076befae3"
+  }
+]

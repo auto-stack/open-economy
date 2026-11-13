@@ -1,0 +1,46 @@
+[
+  {
+    "requested_url": "https://philsci-archive.pitt.edu/24047/1/Bechtel%2C%20Bich%20-%202024%20-%20Situating%20homeostasis%20in%20organisms%20maintaining%20organization%20through%20time.pdf",
+    "time_utc": "2026-11-12T18:07:29.883823+00:00",
+    "status": 200,
+    "final_url": "https://philsci-archive.pitt.edu/24047/1/Bechtel%2C%20Bich%20-%202024%20-%20Situating%20homeostasis%20in%20organisms%20maintaining%20organization%20through%20time.pdf",
+    "content_type": "text/html",
+    "bytes": 244,
+    "error": "ValueError('Not a PDF; not stored as original.pdf')"
+  },
+  {
+    "requested_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1113/JP286883",
+    "time_utc": "2026-11-12T18:07:31.133674+00:00",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "source": "L196-bechtel-bich-2024",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11613639/pdf/",
+    "filename": "original.pdf",
+    "time_utc": "2026-11-12T18:08:41.217868+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11613639/pdf/10.1177_07487304241286573.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 1816,
+    "error": "ValueError('Not PDF; success response not archived as original')"
+  },
+  {
+    "source": "L196-bechtel-bich-2024",
+    "url": "https://mechanism.ucsd.edu/research/Bechtel.Bich.2024.Situatinghomeostasisinorganisms.pdf",
+    "filename": "author-copy.pdf",
+    "time_utc": "2026-11-12T18:08:42.197537+00:00",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+    "source": "L196-bechtel-bich-2024",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11613639/",
+    "filename": "original.html",
+    "time_utc": "2026-11-12T18:09:00.821877+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11613639/",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 323180,
+    "sha256": "d02a46fe03fc7a2545a585b5e1d07cdb3f2c08aef8bcbfacc5fbf23aa14c0b38",
+    "saved": "L196-bechtel-bich-2024\\original.html"
+  }
+]

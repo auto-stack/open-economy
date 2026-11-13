@@ -1,0 +1,24 @@
+{
+  "id": "L215",
+  "title": "Optimal resource allocation in cellular sensing systems",
+  "authors": [
+    "Christopher C. Govern",
+    "Pieter Rein ten Wolde"
+  ],
+  "doi": "10.1073/pnas.1411524111",
+  "publication_year": 2014,
+  "adopted_file": "original.pdf",
+  "sha256": "beb9a8aafbc3ef2cbf6cdd889b820c47cb0254d30d43dbad947cb6c9642ecdcd",
+  "bytes": 1002267,
+  "source_url": "https://ir.amolf.nl/pub/6320/15816OA.pdf",
+  "final_url": "https://ir.amolf.nl/pub/6320/15816OA.pdf",
+  "retrieved_at_utc": "2026-11-13T01:41:50.341742+00:00",
+  "version": "AMOLF institutional repository final journal PDF:6main-text pages17486–17491 plus8SI pages,14PDF pages; online2014-11-24, issue2014-12-09",
+  "reading_scope": "PDF1–6 body and PDF8–11 selected SI2–5 sections S24–S28 and short-integration limitation; PDF3 Eq4 and PDF11 short-time condition visually checked; not full SI reading",
+  "content_status": "full_text_targeted_reading",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "targeted linked2011 erratum checked for L213; comprehensive screening not completed",
+  "pdf_pages": 14
+}

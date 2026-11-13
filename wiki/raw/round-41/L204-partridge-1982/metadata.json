@@ -1,0 +1,22 @@
+{
+  "id": "L204",
+  "title": "The good enough calculi of evolving control systems: evolution is not engineering",
+  "authors": "L. D. Partridge",
+  "doi": "10.1152/ajpregu.1982.242.3.R173",
+  "publication_year": 1982,
+  "adopted_file": "pubmed.xml",
+  "sha256": "475941b402a4badd4f576a88f14838bf2b11d8b8cf5280c0c768b567dc7be6ec",
+  "bytes": 4009,
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7065209&retmode=xml",
+  "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7065209&retmode=xml",
+  "retrieved_at_utc": "2026-11-13T01:03:58.282267+00:00",
+  "version": "PubMed original abstract only; journal body unavailable",
+  "content_status": "original_abstract_only",
+  "reading_scope": "Abstract on evolved control logic; do not infer full proof or cases",
+  "discovery_route": "backward seed reference; same abstract payload also archived in round40 discovery",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "old_archives_modified": false
+}

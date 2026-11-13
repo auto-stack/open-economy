@@ -1,0 +1,196 @@
+{
+  "sources": [
+    {
+      "source_id": "L229",
+      "title": "The Units of Selection",
+      "claim_groups": "C7",
+      "scope_used": "PDF2，印刷第1页的三条件及细菌例",
+      "metadata": "../round-52/L229-lewontin-1970/metadata.json",
+      "files": [
+        {
+          "path": "../round-52/L229-lewontin-1970/original.pdf",
+          "bytes": 656067,
+          "sha256": "d22118b64fd36839a1ae4ced0e022b9da29f5fdb44d6276537f7c9ea698861f2"
+        }
+      ]
+    },
+    {
+      "source_id": "L230",
+      "title": "What is cumulative cultural evolution?",
+      "claim_groups": "C7、C8",
+      "scope_used": "PDF2–3、6的定义提案、绩效与创新投入",
+      "metadata": "../round-52/L230-mesoudi-thornton-2018/metadata.json",
+      "files": [
+        {
+          "path": "../round-52/L230-mesoudi-thornton-2018/original.pdf",
+          "bytes": 347569,
+          "sha256": "167a10836751ab0365ca4374a61b737fab93ca0b8cad8e30b43ceef44b8838ff"
+        }
+      ]
+    },
+    {
+      "source_id": "L231",
+      "title": "Partial connectivity increases cultural accumulation within groups",
+      "claim_groups": "C9",
+      "scope_used": "Results、Discussion及Treatments的两条路径、组数与接触安排",
+      "metadata": "../round-52/L231-derex-boyd-2016/metadata.json",
+      "files": [
+        {
+          "path": "../round-52/L231-derex-boyd-2016/original.html",
+          "bytes": 163653,
+          "sha256": "6ab5a9b9508638cfe3f217ecead7376aab1af96a44fa212b49855acffcf78ff4"
+        }
+      ]
+    },
+    {
+      "source_id": "L232",
+      "title": "Crafting analytical tools to study institutional change",
+      "claim_groups": "C5",
+      "scope_used": "印刷325–327、333、335–336的实际规则与改变",
+      "metadata": "../round-52/L232-ostrom-basurto-2011/metadata.json",
+      "files": [
+        {
+          "path": "../round-52/L232-ostrom-basurto-2011/original.pdf",
+          "bytes": 230142,
+          "sha256": "536eaf160b2718b09609fc55efbb62ba13c0f6e95630e6ea6ccdbbf437b48bb0"
+        }
+      ]
+    },
+    {
+      "source_id": "L233",
+      "title": "Group cognition, membership change, and performance",
+      "claim_groups": "C1、C10",
+      "scope_used": "已存原文选段，Procedures、专长编码、表2、补充研究；另招11组",
+      "metadata": "../round-53/L233-lewis-2007/metadata.json",
+      "files": [
+        {
+          "path": "../round-53/L233-lewis-2007/original-selected.partial.txt",
+          "bytes": 30167,
+          "sha256": "5adcf8e6e0387fc152b24793fcaa15450c5cae179640cb30c28385e85769b5b9"
+        }
+      ]
+    },
+    {
+      "source_id": "L234",
+      "title": "Python governance transition and first council decision example",
+      "claim_groups": "C8",
+      "scope_used": "PEP 13历史、8016通过、8100结果、602提案、2019-10-30接受公告",
+      "metadata": "../round-53/L234-python-succession/metadata.json",
+      "files": [
+        {
+          "path": "../round-53/L234-python-succession/pep-13.html",
+          "bytes": 30593,
+          "sha256": "38d8a7c482ef9c68ac8af2885200bb783a82f2098d28685b213e45568a8aff3b"
+        },
+        {
+          "path": "../round-53/L234-python-succession/pep-8016.html",
+          "bytes": 28127,
+          "sha256": "ccb6626e56295a26a8ac3855ea739e8f4521276613f88ff3d246b9073fdead5e"
+        },
+        {
+          "path": "../round-53/L234-python-succession/pep-8100.html",
+          "bytes": 27738,
+          "sha256": "082e01ed92c867936ec8f93e22884218fc96d0eb58e5509ea0dce4be4b568c1d"
+        },
+        {
+          "path": "../round-53/L234-python-succession/pep-602.html",
+          "bytes": 30845,
+          "sha256": "2c4a77f686e3dcb304436b78bf303a9e7859ca118aab327feced8289ca81db1f"
+        },
+        {
+          "path": "../round-53/L234-python-succession/acceptance.html",
+          "bytes": 110938,
+          "sha256": "c83f6e7b049af1947300ee50c3a381b6e78e61d8397ba758b9bedf90036eaba6"
+        }
+      ]
+    },
+    {
+      "source_id": "L235",
+      "title": "The value of teaching increases with tool complexity in cumulative cultural evolution",
+      "claim_groups": "C3、C10",
+      "scope_used": "Methods、Results及图1与2；按条件及相邻作品绩效",
+      "metadata": "../round-53/L235-teaching-complexity-2020/metadata.json",
+      "files": [
+        {
+          "path": "../round-53/L235-teaching-complexity-2020/original.html",
+          "bytes": 197447,
+          "sha256": "873320cc367ffd7f85e5b6928151b6bfbbf9e909becb70f900dc1ff91500dd32"
+        }
+      ]
+    },
+    {
+      "source_id": "L236",
+      "title": "Experimental evidence for the co-evolution of hominin tool-making teaching and language",
+      "claim_groups": "C4、C10",
+      "scope_used": "Performance along chains、表2相关正文及Experimental design",
+      "metadata": "../round-53/L236-morgan-2015/metadata.json",
+      "files": [
+        {
+          "path": "../round-53/L236-morgan-2015/original.html",
+          "bytes": 442702,
+          "sha256": "2fbeb5e4cdcc532eeebb70f05f1825a185753790b8247d8f4cd3641c855e036d"
+        }
+      ]
+    },
+    {
+      "source_id": "L237",
+      "title": "Surgical safety checklist audits may be misleading! Improving the implementation and adherence of the surgical safety checklist: a quality improvement project",
+      "claim_groups": "C5、C10",
+      "scope_used": "Measurement、Strategy、Results图3及局限",
+      "metadata": "../round-53/L237-brown-2021/metadata.json",
+      "files": [
+        {
+          "path": "../round-53/L237-brown-2021/original.html",
+          "bytes": 158558,
+          "sha256": "8bf02836d2345cc79a62aa4ce7a02fabc40693b50ff85d9c60fe9bcdba290d90"
+        }
+      ]
+    },
+    {
+      "source_id": "L238",
+      "title": "Cohort Turnover and Operational Performance: The July Phenomenon in Teaching Hospitals",
+      "claim_groups": "C2",
+      "scope_used": "2016-09-09工作论文摘要、PDF12、20–21，采用时长走势",
+      "metadata": "../round-53/L238-song-turnover/metadata.json",
+      "files": [
+        {
+          "path": "../round-53/L238-song-turnover/working-paper.pdf",
+          "bytes": 707622,
+          "sha256": "e1c56c65d45e63e2b25b3df5a517f3bd05f45a459213496ac6f2f3190235eb7d"
+        }
+      ]
+    }
+  ],
+  "project_material": [
+    {
+      "role": "四路径条件推论 C6",
+      "path": "../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/mechanism-identification.md",
+      "bytes": 1717,
+      "sha256": "4a5aa15b13d0eb0e2b41315a5ca024cd9a01c8af5c14a2e82972fe68bd270011"
+    },
+    {
+      "role": "四路径结果 C6",
+      "path": "../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/example-results.json",
+      "bytes": 3678,
+      "sha256": "d94f14788d9f159e7e25f6dd86317557fe42d96b9856949427b16b2dc50801c3"
+    },
+    {
+      "role": "首轮主张核查",
+      "path": "../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/claim-checks.md",
+      "bytes": 6968,
+      "sha256": "17492f1066867ecb77e6375a60e37b94a3f1a092946a8e9d090ef5da802143d8"
+    },
+    {
+      "role": "两轮综述0.2",
+      "path": "../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/review-2026.md",
+      "bytes": 19685,
+      "sha256": "769c010b59639cd336ae7226efa33dce54a899a2f03d3c1bf76c9ccbc41816a0"
+    },
+    {
+      "role": "第二轮过程研究及读段",
+      "path": "../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md",
+      "bytes": 7289,
+      "sha256": "ea921f2dc073db6cac3fd2017b5e77bcb4231b68650fc44a1e25ebbb2ff3b7bb"
+    }
+  ]
+}

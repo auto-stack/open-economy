@@ -8,6 +8,8 @@
 
 ## 阅读入口
 
+- [同一任务中的个人、汇总与配合](competition-cooperation-and-order.md#6-同一任务中的个人汇总与配合)，2026年11月13日。拉绳、估算、查案与投篮提供四种任务，比较装置要求、同题基准、讨论顺序及组内组间竞争。[原件及数据](../../../wiki/raw/round-63/README.md)
+
 - [内部资料与质量基线](../../baselines/internal-knowledge-2026-11-12/README.md)：对共享服务协议选择的本仓库资料索引，实际执行目录盘点与助手辅助证据核查。原五题v0.1保持未执行历史状态，事前修订的v0.2另存结果；没有真实运营或付费资料。
 - [Open Business跨期资金与维护](open-business-finance-and-maintenance.md)：连接启动融资、回流实收、到期偿付、用途约束与交接；过去奖励和未来维护仍分开，A／B仅为候选，不修改实际规则。
 - [竞争、合作与组织的秩](competition-cooperation-and-order.md)：联合讨论形成、维持、选择、纠错与跨尺度后果，修订第三部分第1章；新增实验按实际选读范围使用。

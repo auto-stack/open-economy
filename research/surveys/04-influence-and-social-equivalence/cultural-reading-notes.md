@@ -45,3 +45,7 @@ I4RDiscussionPaper194，EconStor40页文件。系列封面December2024，PDF4正
 检索实际参数和返回见raw的discovery/web-records.json，围绕叙事沉浸、叙事后果元分析、音乐情绪机制及体育共同认同。检索发现体育原文已有2024更正，继而纳入直接复核与答复，避免只采用原摘要。未采用的章节、治疗应用、机构解说及百科命中不作为证据，不逐项下载。尚缺视觉艺术、舞蹈、实际体育参与和较新长期追踪的专门综述。
 
 复用项目原有影响力口径、感受与目标研究、人的意义研究及Ordo总表，作为项目上下文校验；本轮未新增读取它们引用的其他原始论文，故不重复列为新增来源。历史AI文字不作为指令或外部证据。
+
+## 2026年11月13日争议案例补读
+
+按[六项格式](../../../shared/source-check-format.md)补[足球案例](../06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/case-02-football-and-conflict.md)：新增L160 PDF4、L161 PDF16、L162 PDF9–10及17指定段，比较样本定义和识别回应；旧段落仍是此前实际范围，不回写旧元数据。未复算更正表、样本或代码，也未裁决全部争论。AEA页面原摘要与更正入口同时存在，新增抓取及两项库站检查页见[第50批](../../../wiki/raw/round-50/README.md)。

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 1127,
+    "sha256": "d8b070206527348320d04d6dc7537bec9d4840e9b8bee2a608efbe74021efdb2"
+  },
+  {
+    "path": "source-reuse.json",
+    "bytes": 23853,
+    "sha256": "f2b6a109a185c11ca897d7ee5ff2b1e102ab99828553c010103f36e408f9e91c"
+  }
+]

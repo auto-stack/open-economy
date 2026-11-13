@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-13",
+  "current_version": "0.4",
+  "current_review_sha256": "eda4f4053413f6956c46f21559e93c99a5b9fa70864e84db92d84d7aaccd35af",
+  "snapshots": [
+    {
+      "version": "0.1",
+      "path": "review-2026-v0.1.snapshot.md",
+      "sha256": "3a36478b963ecce53034627afb0a509e3ab91cabd4937b71ffb4d31b2a73f1a5"
+    },
+    {
+      "version": "0.2",
+      "path": "review-2026-v0.2.snapshot.md",
+      "sha256": "b79ad42e209ea82699905c69a83b68e18e8517ce2352ae0af431a59070115d3f"
+    },
+    {
+      "version": "0.3",
+      "path": "review-2026-v0.3.snapshot.md",
+      "sha256": "aab2007cbdf93d40f4d48252344beca2359af7c44642a7e46c269b12fb0b75da"
+    }
+  ],
+  "this_round_sources": [
+    "L221",
+    "L222",
+    "L223",
+    "L224"
+  ],
+  "additional_pdf_family": "L224",
+  "formal_register_changed": false
+}

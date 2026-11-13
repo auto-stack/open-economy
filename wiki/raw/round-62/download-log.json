@@ -1,0 +1,268 @@
+[
+  {
+    "requested": "L262-goal-change/article.html",
+    "url": "https://journals.sagepub.com/doi/10.1177/27000710251347134",
+    "error": "HTTPSConnectionPool(host='journals.sagepub.com', port=443): Max retries exceeded with url: /doi/10.1177/27000710251347134 (Caused by ConnectTimeoutError(<HTTPSConnection(host='journals.sagepub.com', port=443) at 0x207285051d0>, 'Connection to journals.sagepub.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "path": "L263-intention-diary/article.html",
+    "url": "https://link.springer.com/article/10.1186/s41235-026-00737-7",
+    "final_url": "https://link.springer.com/article/10.1186/s41235-026-00737-7",
+    "bytes": 459831,
+    "sha256": "557f0afb2094d15f6e46632d58154a869973f46fcb0afa60ef0b8ca7a77df3c6",
+    "retrieved_utc": "2026-11-13T10:59:36.378233+00:00"
+  },
+  {
+    "path": "L264-london-strike/article.pdf",
+    "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/1b42e69d-f2b0-4520-9b8e-91b295817de3/content",
+    "final_url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/1b42e69d-f2b0-4520-9b8e-91b295817de3/content",
+    "bytes": 798517,
+    "sha256": "d480e69f9dd5f6bdc59075e924592664b8c4ca691cb35c3be529bb9188014fd8",
+    "retrieved_utc": "2026-11-13T10:59:36.668764+00:00"
+  },
+  {
+    "requested": "L265-planned-activity/article.html",
+    "url": "https://mhealth.jmir.org/2021/4/e17581/",
+    "error": "expected full-text marker missing: accelerometer"
+  },
+  {
+    "path": "L264-london-strike/dataverse.json",
+    "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/1HUQRM",
+    "final_url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/1HUQRM",
+    "bytes": 7111,
+    "sha256": "7018d255b278a12ba5d461c4d440316d97df690aab0b2289c52d4fc727d6fd4f",
+    "retrieved_utc": "2026-11-13T10:59:36.230702+00:00"
+  },
+  {
+    "path": "L262-goal-change/osf-list.json",
+    "url": "https://api.osf.io/v2/nodes/eab4m/files/osfstorage/?page%5Bsize%5D=100",
+    "final_url": "https://api.osf.io/v2/nodes/eab4m/files/osfstorage/?page%5Bsize%5D=100",
+    "bytes": 7425,
+    "sha256": "e6fef2519e45c65be0ef62942adaf58a65725099f3ccda21210dd418e9d9f322",
+    "retrieved_utc": "2026-11-13T10:59:35.073665+00:00"
+  },
+  {
+    "path": "L263-intention-diary/osf-list.json",
+    "url": "https://api.osf.io/v2/nodes/tu2dx/files/osfstorage/?page%5Bsize%5D=100",
+    "final_url": "https://api.osf.io/v2/nodes/tu2dx/files/osfstorage/?page%5Bsize%5D=100",
+    "bytes": 3614,
+    "sha256": "50e5bd1292a4f15483e85bcccb5360e9f8464fb4265c65c242da82e6a7344dec",
+    "retrieved_utc": "2026-11-13T10:59:35.923590+00:00"
+  },
+  {
+    "path": "L265-planned-activity/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8120422/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8120422/fullTextXML",
+    "bytes": 138750,
+    "sha256": "91e887b3f910984a1be77538f36f0730fc21d01ce82589993b7ca87aef4cf0d5",
+    "retrieved_utc": "2026-11-13T11:06:04.386407+00:00"
+  },
+  {
+    "path": "L266-road-not-taken/article.pdf",
+    "url": "https://spiral.imperial.ac.uk/server/api/core/bitstreams/98194a46-b0fb-47da-8015-6e44556cf495/content",
+    "final_url": "https://spiral.imperial.ac.uk/server/api/core/bitstreams/98194a46-b0fb-47da-8015-6e44556cf495/content",
+    "bytes": 1085427,
+    "sha256": "64d1b5f7014b29dbcb817a11321576f904ee719bce217d94b172dc9c04068b3c",
+    "retrieved_utc": "2026-11-13T11:05:55.932562+00:00"
+  },
+  {
+    "path": "L266-road-not-taken/osf/study1a.xlsx",
+    "url": "https://files.osf.io/v1/resources/qzgs5/providers/osfstorage/6954b32f36c1dcc8406accfc",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.us-ashburn-1.oraclecloud.com/cos-prod-osf-1-files-ash/95e39464ee280acf3cac218ea50b611cb75f934d4908b598632510cf6cd40488",
+    "bytes": 331878,
+    "sha256": "95e39464ee280acf3cac218ea50b611cb75f934d4908b598632510cf6cd40488",
+    "retrieved_utc": "2026-11-13T11:06:01.049365+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L266-road-not-taken/osf/study1a.R",
+    "url": "https://files.osf.io/v1/resources/qzgs5/providers/osfstorage/6954b32e22477fd95ca69439",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.us-ashburn-1.oraclecloud.com/cos-prod-osf-1-files-ash/6f61e63bf18302b2d6cd5a215c6e88c7193c81a7219ffde44751dbbd32bd3df1",
+    "bytes": 1394,
+    "sha256": "6f61e63bf18302b2d6cd5a215c6e88c7193c81a7219ffde44751dbbd32bd3df1",
+    "retrieved_utc": "2026-11-13T11:05:56.546712+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "requested": "L262-goal-change/article-mirror.txt",
+    "url": "https://r.jina.ai/https://journals.sagepub.com/doi/10.1177/27000710251347134",
+    "error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://journals.sagepub.com/doi/10.1177/27000710251347134 (Caused by ConnectTimeoutError(<HTTPSConnection(host='r.jina.ai', port=443) at 0x158c96851d0>, 'Connection to r.jina.ai timed out. (connect timeout=5)'))"
+  },
+  {
+    "path": "L262-goal-change/crossref.json",
+    "url": "https://api.crossref.org/works/10.1177/27000710251347134",
+    "final_url": "https://api.crossref.org/works/10.1177/27000710251347134",
+    "bytes": 17678,
+    "sha256": "327a547d88eca702d1ad0b072e9b2d0d0ce7b9830458ae050a88a8e57b02d4c4",
+    "retrieved_utc": "2026-11-13T11:05:56.589849+00:00"
+  },
+  {
+    "requested": "L262-goal-change/article.pdf",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/27000710251347134",
+    "error": "('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"
+  },
+  {
+    "requested": "L262-goal-change/article.html",
+    "url": "https://journals.sagepub.com/doi/10.1177/27000710251347134",
+    "error": "('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"
+  },
+  {
+    "path": "L262-goal-change/osf/results.html",
+    "url": "https://files.ca-1.osf.io/v1/resources/eab4m/providers/osfstorage/67d87c36b06ad0dd8144bcb5",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/5245d9f9bd15ed4a8337ab2c5ef68936899751a6fb332fb4e6c16fea93cbf58d",
+    "bytes": 4047719,
+    "sha256": "5245d9f9bd15ed4a8337ab2c5ef68936899751a6fb332fb4e6c16fea93cbf58d",
+    "retrieved_utc": "2026-11-13T11:17:23.104679+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/osf/analysis-files.json",
+    "url": "https://api.osf.io/v2/nodes/eab4m/files/osfstorage/67d87586c125f7b335f4aee7/",
+    "final_url": "https://api.osf.io/v2/nodes/eab4m/files/osfstorage/67d87586c125f7b335f4aee7/",
+    "bytes": 21930,
+    "sha256": "3f51ea78a0d78a60ff1440f808e190d8b0a2ecc35968472fd797313ab8004aa8",
+    "retrieved_utc": "2026-11-13T11:11:55.861438+00:00"
+  },
+  {
+    "requested": "L262-goal-change/article.pdf",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/27000710251347134",
+    "error": "HTTPSConnectionPool(host='journals.sagepub.com', port=443): Max retries exceeded with url: /doi/pdf/10.1177/27000710251347134 (Caused by ConnectTimeoutError(<HTTPSConnection(host='journals.sagepub.com', port=443) at 0x2094df6a900>, 'Connection to journals.sagepub.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "path": "L264-london-strike/replication.zip",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/3021966",
+    "final_url": "https://dvn-cloud-iqss.s3.amazonaws.com/10.7910/DVN/1HUQRM/15c653570b1-786fc059a18e",
+    "bytes": 15565405,
+    "sha256": "d069e9dfdb78cad1e3bbb0d489e86fed969b6c7739d64115b56baeea566f496b",
+    "retrieved_utc": "2026-11-13T11:21:58.501670+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "requested": "L265-planned-activity/article.pdf",
+    "url": "https://mhealth.jmir.org/2021/4/e17581/PDF",
+    "error": "not PDF"
+  },
+  {
+    "path": "L265-planned-activity/epmc.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.2196%2F17581&format=json",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.2196%2F17581&format=json",
+    "bytes": 1118,
+    "sha256": "c75004579e349ac887fbe8fe82035960ab5d2884da4a677f7328faa0397b519d",
+    "retrieved_utc": "2026-11-13T11:00:25.635314+00:00"
+  },
+  {
+    "path": "L263-intention-diary/table1.html",
+    "url": "https://link.springer.com/article/10.1186/s41235-026-00737-7/tables/1",
+    "final_url": "https://link.springer.com/article/10.1186/s41235-026-00737-7/tables/1",
+    "bytes": 218244,
+    "sha256": "7bb42b540cc539a9e58f156af3fb333a2e6782bc5c8ee4efd9ec0f1c0f640643",
+    "retrieved_utc": "2026-11-13T11:00:26.855052+00:00"
+  },
+  {
+    "path": "L262-goal-change/osf/changed-goals.xlsx",
+    "url": "https://files.osf.io/v1/resources/eab4m/providers/osfstorage/67d99e96988f26e8a5053a6f",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/bd2062af62c3af06a84522ae7e940f5c8aa69fbc795edc1617cb83e9126ea20e",
+    "bytes": 21624,
+    "sha256": "bd2062af62c3af06a84522ae7e940f5c8aa69fbc795edc1617cb83e9126ea20e",
+    "retrieved_utc": "2026-11-13T11:00:29.364333+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/osf/coded-frequencies.xlsx",
+    "url": "https://files.osf.io/v1/resources/eab4m/providers/osfstorage/67d99fd0ea3d246a3a350739",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/85992f9c3b03379d01f93dca8f7ea035f6aa982b2221396cbc3b00c97500bb3a",
+    "bytes": 18030,
+    "sha256": "85992f9c3b03379d01f93dca8f7ea035f6aa982b2221396cbc3b00c97500bb3a",
+    "retrieved_utc": "2026-11-13T11:00:30.569492+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/osf/nature-of-change.docx",
+    "url": "https://files.osf.io/v1/resources/eab4m/providers/osfstorage/67d87c67d316bfdd18a72d3f",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/2a631a3b79cf657a8499fad5d3552cd6deec3357dbe56135537a8451819a6b14",
+    "bytes": 14535,
+    "sha256": "2a631a3b79cf657a8499fad5d3552cd6deec3357dbe56135537a8451819a6b14",
+    "retrieved_utc": "2026-11-13T11:00:29.783555+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/osf/clean-data.sav",
+    "url": "https://files.osf.io/v1/resources/eab4m/providers/osfstorage/67d87c1bba30c4b05800ef08",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/3c0d0d2fe3ca1c123c484314eac1802571fb0f72dd64a00eeb2081c757e9983c",
+    "bytes": 300138,
+    "sha256": "3c0d0d2fe3ca1c123c484314eac1802571fb0f72dd64a00eeb2081c757e9983c",
+    "retrieved_utc": "2026-11-13T11:00:53.608702+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/osf/follow-up.pdf",
+    "url": "https://files.osf.io/v1/resources/eab4m/providers/osfstorage/67d87ba79a8b009d0c44bde8",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/26d2fe3ba92c51d1ee4b42f739dc457947a247e29f265cb3fa6af9f520371d0b",
+    "bytes": 911059,
+    "sha256": "26d2fe3ba92c51d1ee4b42f739dc457947a247e29f265cb3fa6af9f520371d0b",
+    "retrieved_utc": "2026-11-13T11:01:34.097583+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/osf/baseline.pdf",
+    "url": "https://files.osf.io/v1/resources/eab4m/providers/osfstorage/67d87ba7343b2df3ab5aeef1",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/0cf5b0722ea80cd33b63321f2387fd5c468680950c647118048b80453916ab34",
+    "bytes": 1710863,
+    "sha256": "0cf5b0722ea80cd33b63321f2387fd5c468680950c647118048b80453916ab34",
+    "retrieved_utc": "2026-11-13T11:02:50.193320+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/osf/analysis.Rmd",
+    "url": "https://files.osf.io/v1/resources/eab4m/providers/osfstorage/67d87c44d316bfdd18a72d29",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/3fc16ae60e6c11ba511d61db3f75f5b698b062aa6e93ccc89bf5b93d6602e933",
+    "bytes": 44470,
+    "sha256": "3fc16ae60e6c11ba511d61db3f75f5b698b062aa6e93ccc89bf5b93d6602e933",
+    "retrieved_utc": "2026-11-13T11:00:34.197778+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/osf/analysis-plan.docx",
+    "url": "https://files.osf.io/v1/resources/eab4m/providers/osfstorage/641208ed52d0610c4ed2410b",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.ca-montreal-1.oraclecloud.com/cos-prod-osf-1-files-yul/c6eabfa8a8fdfa412aa9c2f6e1e5b8cf05811c6f724814c54e1f9465d2c53bcb",
+    "bytes": 41172,
+    "sha256": "c6eabfa8a8fdfa412aa9c2f6e1e5b8cf05811c6f724814c54e1f9465d2c53bcb",
+    "retrieved_utc": "2026-11-13T11:00:35.412207+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L263-intention-diary/osf/reasons.xlsx",
+    "url": "https://files.osf.io/v1/resources/tu2dx/providers/osfstorage/69f9e5c9481ed34a60df8694",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.eu-frankfurt-1.oraclecloud.com/cos-prod-osf-1-files-fra/338bfb4b75c3efb2d77a75764608093175add1dae1bb5f32524f23b2fdeae452",
+    "bytes": 91070,
+    "sha256": "338bfb4b75c3efb2d77a75764608093175add1dae1bb5f32524f23b2fdeae452",
+    "retrieved_utc": "2026-11-13T11:00:33.255738+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L263-intention-diary/osf/descriptives.docx",
+    "url": "https://files.osf.io/v1/resources/tu2dx/providers/osfstorage/69f9e811ca4b6faccbdf8764",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.eu-frankfurt-1.oraclecloud.com/cos-prod-osf-1-files-fra/b3c7812dda8ccd0653353a65ca2704bf93f10f5b640745dd5e5195e8d70ce2dd",
+    "bytes": 146889,
+    "sha256": "b3c7812dda8ccd0653353a65ca2704bf93f10f5b640745dd5e5195e8d70ce2dd",
+    "retrieved_utc": "2026-11-13T11:00:33.794630+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L263-intention-diary/osf/analysis.R",
+    "url": "https://files.osf.io/v1/resources/tu2dx/providers/osfstorage/68f106d1d766aa42d47f3635",
+    "final_url": "https://idvyorynw6xy.compat.objectstorage.eu-frankfurt-1.oraclecloud.com/cos-prod-osf-1-files-fra/cee390fe322d6bff2e2dc01048266167cc1adbe247301a83f41e591e75ea954a",
+    "bytes": 11220,
+    "sha256": "cee390fe322d6bff2e2dc01048266167cc1adbe247301a83f41e591e75ea954a",
+    "retrieved_utc": "2026-11-13T11:00:34.630260+00:00",
+    "note": "省略临时下载签名；用上列稳定来源网址获取。"
+  },
+  {
+    "path": "L262-goal-change/article-extracted.txt",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/27000710251347134",
+    "retrieved_date": "2026-11-13",
+    "mode": "通过排印PDF的网页文本视图按行归档（0–3285）。原版式未保留。",
+    "bytes": 106991,
+    "sha256": "6c2a254a7116a894aacb2125170560eaad5e9c74c0010c47e35003c4c3fd89f9"
+  }
+]

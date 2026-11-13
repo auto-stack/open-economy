@@ -14,6 +14,7 @@ import re
 import subprocess
 import urllib.parse
 import zipfile
+from datetime import date
 
 ROOT=Path(__file__).resolve().parents[2]
 MANIFEST='wiki/archive/source-package-manifest.json'
@@ -81,6 +82,17 @@ def check(mode,revision,output,root=None):
     payloads=all_blobs(selected,mode,revision)
     package=json.loads(payloads[MANIFEST])
     optional={r['path']:r for r in package['files']}
+    zip_members=set(optional)
+    # Later batches have their own manifests and need not be in the original ZIP.
+    for name in selected:
+        if name in optional or not re.fullmatch(r'wiki/raw/round-\d+/manifest\.json',name):
+            continue
+        batch=json.loads(payloads[name])
+        records=batch if isinstance(batch,list) else batch['files']
+        for record in records:
+            target=clean_relative(str(PurePosixPath(name).parent),record['path'])
+            assert target.startswith(str(PurePosixPath(name).parent)+'/'),target
+            optional[target]=record
     statuses=collections.Counter();mismatches=[]
     material_root=Path(root).resolve() if root else ROOT
     if root:
@@ -94,6 +106,10 @@ def check(mode,revision,output,root=None):
         zip_verified=True
     for name,record in optional.items():
         p=material_root/name
+        if name in zip_members and name in payloads and sha_bytes(payloads[name])!=record['sha256']:
+            # The live Git document may have evolved since the dated ZIP.
+            statuses['versioned_document_with_new_revision']+=1
+            continue
         if not p.exists():statuses['optional_source_not_installed']+=1
         elif sha(p)==record['sha256']:statuses['available_source_hash_matches']+=1
         else:mismatches.append(name)
@@ -117,6 +133,15 @@ def check(mode,revision,output,root=None):
         'docs/history/charter-v0.2-2026-11-12.md':'docs',
         'docs/history/charter-v0.3-2026-11-12.original.md':'docs',
         'book/history/part-02-01-human-as-organization-before-restructure-2026-11-12.md':'book/part-02'}
+    for folder,origin_field in [
+        ('wiki/raw/round-48/internal-comparison','origin'),
+        ('wiki/raw/round-49/audit-records','audit_record_origin'),
+        ('wiki/raw/round-50/trial-records','trial_origin')]:
+        frozen=folder+'/README.md'
+        if frozen in payloads:
+            batch=str(PurePosixPath(folder).parent)
+            origin=json.loads(payloads[batch+'/metadata.json'])[origin_field]
+            contexts[frozen]=clean_relative(batch,origin)
     links=collections.Counter();broken=[];historical=[]
     for name,body in payloads.items():
         if not name.endswith('.md'):continue
@@ -155,7 +180,10 @@ def check(mode,revision,output,root=None):
     assert len(re.findall(r'^\| [一二三四五六]\d ',outline,re.M))==28
     drafts=[p for p in selected if re.match(r'^book/part-\d+/[^/]+\.md$',p)]
     cards=[p for p in selected if re.match(r'^book/argument-cards/part-.*\.md$',p)]
-    assert len(drafts)==len(cards)==11
+    listed_drafts={'book/'+p for p in re.findall(r'\]\((part-\d+/[^)\s#]+\.md)\)',outline)}
+    assert set(drafts)==listed_drafts,{'drafts_missing_or_unlisted':sorted(set(drafts)^listed_drafts)}
+    expected_cards={f'book/argument-cards/{p.parent.name}-{p.name}' for p in map(PurePosixPath,drafts)}
+    assert set(cards)==expected_cards,{'cards_missing_or_unpaired':sorted(set(cards)^expected_cards)}
     assert '版本：0.4' in payloads['docs/charter.md'].decode('utf-8')
     assert sha_bytes(payloads['shared/theory-register.md'])=='1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5'
     import csv,io
@@ -169,18 +197,18 @@ def check(mode,revision,output,root=None):
             amount=float(row['amount']);balances[row['sender']]-=amount;balances[row['receiver']]+=amount
             assert min(balances.values())>=0 and abs(sum(balances.values())-200)<1e-8
             assert all(abs(balances[k]-float(row['cash_'+k]))<1e-8 for k in balances)
-    result=dict(date_local='2026-11-12',mode=mode,revision=revision if mode=='tree' else 'staged-index',
+    result=dict(date_local=date.today().isoformat(),mode=mode,revision=revision if mode=='tree' else 'staged-index',
         status='pass' if not broken and not historical else 'needs_link_review',
         selected_files=len(selected),selected_bytes=sum(len(b) for b in payloads.values()),
         source_package_file_count=package['file_count'],archive_status=dict(statuses),
         source_zip_installed=archive_zip.exists(),source_zip_checksum_verified=zip_verified,
         available_source_integrity_verified=not mismatches,
         all_sources_installed=statuses.get('optional_source_not_installed',0)==0,
-        all_source_hashes_verified=not mismatches and statuses.get('optional_source_not_installed',0)==0,
+        all_source_hashes_verified=not mismatches and statuses.get('optional_source_not_installed',0)==0 and not statuses.get('versioned_document_with_new_revision',0),
         repository_export_bytes_verified=bool(root),link_counts=dict(links),broken_required_links=broken,
         historical_link_issues=historical,forbidden_payloads=forbidden,secret_shaped_values_found=len(findings),
         source_redistribution_reviewed=False,scientific_claims_validated=False,
-        framework_checks=dict(candidate_units=28,parts=6,chapter_drafts=11,argument_cards=11,
+        framework_checks=dict(candidate_units=28,parts=6,chapter_drafts=len(drafts),argument_cards=len(cards),
             charter_version='0.4',formal79_register_unchanged=True,accounting_rows=19,
             every_transaction_conserves_cash=True))
     dump(ROOT/output,result)

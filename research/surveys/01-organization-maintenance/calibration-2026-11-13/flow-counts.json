@@ -1,0 +1,22 @@
+{
+  "stage": "calibration only; NOT PRISMA formal flow",
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "successful_distinct_calibration_requests": 11,
+  "crossref_records": 76,
+  "openalex_records": 10,
+  "retrieval_occurrences": 86,
+  "doi_or_external_id_deduplicated_candidates": 81,
+  "duplicate_occurrences_removed": 5,
+  "unique_title_decisions": {
+    "await_abstract_or_fulltext": 58,
+    "exclude_title": 23
+  },
+  "occurrence_title_decisions": {
+    "await_abstract_or_fulltext": 63,
+    "exclude_title": 23
+  },
+  "prior_pilot_records": 20,
+  "overlap_dois_with_prior_pilot": 18,
+  "formal_fulltext_included": 0,
+  "note": "Availability probes, web discoveries and six purposive extraction units are separate pools. Do not add these counts as included studies."
+}

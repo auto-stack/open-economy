@@ -1,0 +1,10 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "reason": "User clarifies book-first reusable research and annual review editions; novelty is not an entry criterion",
+  "previous_protocol": "protocol-v0.2.snapshot.md",
+  "previous_sha256": "86072a85774b666e22518d9282fbfab5119f933dc444109fb0a786ba5c2fbebb",
+  "new_protocol_version": "0.3",
+  "historical_calibration_unchanged": true,
+  "new_external_sources": 0,
+  "automatic_yearly_task_created": false
+}

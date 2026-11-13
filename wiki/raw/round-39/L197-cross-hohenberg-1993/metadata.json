@@ -1,0 +1,22 @@
+{
+  "id": "L197",
+  "doi": "10.1103/RevModPhys.65.851",
+  "original_publication_year": 1993,
+  "fetched_at_utc": "2026-11-12T18:07:29.895352+00:00",
+  "role": "purposive calibration; not formal included study",
+  "title": "Pattern formation outside of equilibrium",
+  "authors": "M. C. Cross; P. C. Hohenberg",
+  "reading_status": "downloaded_selected_passages",
+  "reading_scope": "Abstract; I.A opening854; I.D selected858–859; II.A at859; PDF1,4,8–9 selected passages; equation2.1 visually checked PDF9; remaining11 final PDF pages unexamined",
+  "adopted_file": "original.pdf",
+  "actual_version": "University-hosted journal copy273 PDFpages, journal851–1112 maps to first262; not full reading",
+  "retraction_or_correction_check": "not systematically completed",
+  "adopted_file_sha256": "b08c0020f6ad851a5312e311fad32e47e2aaee5b1db3f08fe33111e5c220dc93",
+  "adopted_pdf_pages": 273,
+  "adopted_bytes": 20987587,
+  "download_status": "downloaded",
+  "adopted_url": "https://moodle.uni-saarland.de/pluginfile.php/784115/mod_page/content/37/CRO93.pdf",
+  "sha256": "b08c0020f6ad851a5312e311fad32e47e2aaee5b1db3f08fe33111e5c220dc93",
+  "pdf_pages": 273,
+  "bytes": 20987587
+}

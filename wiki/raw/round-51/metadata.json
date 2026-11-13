@@ -1,0 +1,156 @@
+{
+  "date_local": "2026-11-13",
+  "purpose": "Book unitP1.4 discussion draft, eight six-field claim checks, and authorized handoffs.",
+  "new_network_requests": 0,
+  "new_literature_ids": 0,
+  "new_reading_scope": false,
+  "drafted_units": 14,
+  "argument_cards": 14,
+  "remaining_candidate_units": 14,
+  "project_bases": [
+    {
+      "origin": "research/reviews/05-modularity-models.md",
+      "snapshot": "project-bases/01-05-modularity-models.md",
+      "sha256": "316c9d42becf9bff10acd0201027c94d59ca93fdd5adb6d14475e5fe68a4d4b5",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/reviews/06-memory-reuse-models.md",
+      "snapshot": "project-bases/02-06-memory-reuse-models.md",
+      "sha256": "f7b0c5f5339556324072b1a9fcfe5f34b0c25d277c22bbde75402687800d1d8d",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/surveys/06-technological-levers-and-organizational-evolution/models.md",
+      "snapshot": "project-bases/03-models.md",
+      "sha256": "d8597547b0120283ab7163b9a2687c0613b4246f55e1a092b2031f4d5ca30d18",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/examples/modularity-results.json",
+      "snapshot": "project-bases/04-modularity-results.json",
+      "sha256": "1d01a1b7858c8a496e8fe8155512ec2db55c26489cf7303512a983c01d0ee449",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/examples/memory-reuse-results.json",
+      "snapshot": "project-bases/05-memory-reuse-results.json",
+      "sha256": "2f9b572750a50927103578bc701595f6e43471afe0b53c3c9f412610ce6e3fec",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/surveys/06-technological-levers-and-organizational-evolution/model-results.json",
+      "snapshot": "project-bases/06-model-results.json",
+      "sha256": "34e1f0cf3b3d6d70cd84f8a50de026ff160eef604aae0c146d7b212ba07949cb",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/models.md",
+      "snapshot": "project-bases/07-models.md",
+      "sha256": "7944acbacccc21bd51daf71640762f23955859a404ab388d1205e16796351a18",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13/results.json",
+      "snapshot": "project-bases/08-results.json",
+      "sha256": "cc004e83fa14526366f4395f9259f3192fef9989c9baa50182f1212daf4188d1",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/case-register.json",
+      "snapshot": "project-bases/09-case-register.json",
+      "sha256": "8f34c1e3e845832560cedeee34ed873a1ce75cee91a1a64d20991f5f283f69f7",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/cases.json",
+      "snapshot": "project-bases/10-cases.json",
+      "sha256": "8e45e9b5a58a42e082421dedcbf4fa471b1f99515ab0bb964579398b065cc5e3",
+      "role": "project model, result or audit context; not new empirical evidence"
+    },
+    {
+      "origin": "shared/source-check-format.md",
+      "snapshot": "project-bases/11-source-check-format.md",
+      "sha256": "43571ca7e687dfb111a916b8ba951c90610dacbe127a1a331b20a6048edf032f",
+      "role": "project model, result or audit context; not new empirical evidence"
+    }
+  ],
+  "chapter_artifacts": [
+    {
+      "origin": "book/part-01/04-interfaces-memory-and-technological-levers.md",
+      "snapshot": "chapter-artifacts/04-interfaces-memory-and-technological-levers.md",
+      "sha256": "f853435efc2a4fda70df074b91cc15191f31d6e9c861fa2e2c2e9bd32e04d20e"
+    },
+    {
+      "origin": "book/argument-cards/part-01-04-interfaces-memory-and-technological-levers.md",
+      "snapshot": "chapter-artifacts/part-01-04-interfaces-memory-and-technological-levers.md",
+      "sha256": "74eb9f5698a5d19db04c8376674158807e9b5253f73c3f13215afd5110cde561"
+    },
+    {
+      "origin": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-claims-2026-11-13.md",
+      "snapshot": "chapter-artifacts/chapter-claims-2026-11-13.md",
+      "sha256": "fd4b2cb086bab4f9ec8c5e904e33b7e688f84846f3f5d3a6f8aa8ec84e9a4328"
+    }
+  ],
+  "transition_versions": [
+    {
+      "origin": "book/part-01/02-entropy-information-and-ordo.md",
+      "before_snapshot": "before/book/part-01/02-entropy-information-and-ordo.md",
+      "before_sha256": "c09613d6a50285132b2c63706d5a14a16e6a2bb0446ae5bba3470abf51653c1b",
+      "after_snapshot": "after/book/part-01/02-entropy-information-and-ordo.md",
+      "after_sha256": "09f4042aa9f7d3ad032f3b459401a6a26bb085d7995ad250ab97ba136c558764"
+    },
+    {
+      "origin": "book/part-01/03-inputs-maintenance-and-continuity.md",
+      "before_snapshot": "before/book/part-01/03-inputs-maintenance-and-continuity.md",
+      "before_sha256": "e3d7af5cd79c32c3e4fcea2896636bffbed3eb69a9b0d192722c95f3e32de109",
+      "after_snapshot": "after/book/part-01/03-inputs-maintenance-and-continuity.md",
+      "after_sha256": "a6ced851eeb879292bbcb0bb4eaed1a6b122daf87b3b9df409214419f4fddb2c"
+    },
+    {
+      "origin": "book/part-02/01-human-as-organization.md",
+      "before_snapshot": "before/book/part-02/01-human-as-organization.md",
+      "before_sha256": "0846b0eb4f8d1eab7447054615e8b92019e311913a5cf9f76dfd2aa80b233a0f",
+      "after_snapshot": "after/book/part-02/01-human-as-organization.md",
+      "after_sha256": "5a262dc19e2e2e3bd25739119f8422548106c9c6feead4a3e6408e7d2ead91dd"
+    },
+    {
+      "origin": "book/part-03/02-revisable-shared-commitments.md",
+      "before_snapshot": "before/book/part-03/02-revisable-shared-commitments.md",
+      "before_sha256": "952da1b5a180def63cb2a023b53a357d3a2a9b86f88c3ec73b40bb1f7bd05549",
+      "after_snapshot": "after/book/part-03/02-revisable-shared-commitments.md",
+      "after_sha256": "573a56662b08112380ac20eb0d6320ce9ba54287b30c404c6bb7c950cdf341b8"
+    },
+    {
+      "origin": "book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "before_snapshot": "before/book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "before_sha256": "b53efb6b2b92daf7c551137d8f6fb1543ab21be67960feb4757a6dc12934d8ac",
+      "after_snapshot": "after/book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "after_sha256": "aa0f45ccaa3d401d8bb73d0ae448e6da960635c939dd51de5308a9cca5aa8117"
+    },
+    {
+      "origin": "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "before_snapshot": "before/book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "before_sha256": "29eb9626bfb00e9776a31386b94a2f248d58d6d5473ed5e384c79d2ad5a811c6",
+      "after_snapshot": "after/book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "after_sha256": "548edb3928b942949371635059afab2613fff9b9e0df9e4cd29189ef93c19efa"
+    },
+    {
+      "origin": "book/argument-cards/part-02-01-human-as-organization.md",
+      "before_snapshot": "before/book/argument-cards/part-02-01-human-as-organization.md",
+      "before_sha256": "52755c46b553e84f2e1162106455bbd417b900b94316da5298f7a7090c3640a0",
+      "after_snapshot": "after/book/argument-cards/part-02-01-human-as-organization.md",
+      "after_sha256": "607c0b3cd9fd0b3860517bd89fb778f7ddb5553acb3b513d43b2d8c26ed109ad"
+    },
+    {
+      "origin": "book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "before_snapshot": "before/book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "before_sha256": "ff7c7a404dda7a6109d0613d49f65d4a5b6986a921cf71711c53eb1db995bc59",
+      "after_snapshot": "after/book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "after_sha256": "b79a7c7f83980a8a1ea79fd3820660078815744eecd7cfda2f62746b0b38abba"
+    }
+  ],
+  "old_receipts_rewritten": false,
+  "old_source_zip_rebuilt": false,
+  "snapshot_link_context": "Frozen Markdown retains original relative links; resolve in its origin context."
+}

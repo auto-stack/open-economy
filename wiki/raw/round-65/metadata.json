@@ -1,0 +1,150 @@
+{
+  "round": 65,
+  "research_round": 70,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L278",
+      "title": "MT Højgaard A/S v E.ON Climate & Renewables UK Robin Rigg East Limited and another",
+      "authors": "英国高等法院、上诉法院与最高法院",
+      "year": "2014, 2015, 2017",
+      "record_url": "https://supremecourt.uk/cases/uksc-2015-0115",
+      "version": "三级判决及终审摘要（原件）",
+      "read_scope": "一审168–169段、上诉140–143段、终审20–32和45–54段。",
+      "role": "工程履约解释、上诉与暂缓费用归责；同案记录，无终审后长期追踪。",
+      "files": [
+        "L278-robin-rigg/appeal.pdf",
+        "L278-robin-rigg/appeal.txt",
+        "L278-robin-rigg/caselaw.html",
+        "L278-robin-rigg/judgment.pdf",
+        "L278-robin-rigg/judgment.txt",
+        "L278-robin-rigg/summary.pdf",
+        "L278-robin-rigg/summary.txt",
+        "L278-robin-rigg/trial.pdf",
+        "L278-robin-rigg/trial.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L278-robin-rigg/judgment.pdf",
+          "url": "https://supremecourt.uk/uploads/uksc_2015_0115_judgment_8ddc6bff9a.pdf"
+        },
+        {
+          "path": "L278-robin-rigg/summary.pdf",
+          "url": "https://supremecourt.uk/uploads/uksc_2015_0115_press_summary_7b1ed40247.pdf"
+        },
+        {
+          "path": "L278-robin-rigg/trial.pdf",
+          "url": "https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2014/1088/data.pdf"
+        },
+        {
+          "path": "L278-robin-rigg/appeal.pdf",
+          "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/407/data.pdf"
+        },
+        {
+          "path": "L278-robin-rigg/caselaw.html",
+          "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/407"
+        }
+      ]
+    },
+    {
+      "source_id": "L279",
+      "title": "Crowd-Judging on Two-Sided Platforms: An Analysis of In-Group Bias",
+      "authors": "Alan P. Kwan, S. Alex Yang, Angela Huyue Zhang",
+      "year": "2023 online; 2024 issue",
+      "record_url": "https://doi.org/10.1287/mnsc.2023.4818",
+      "version": "LBS Research Online作者版，含附录",
+      "read_scope": "第3节，脚注10，表2第2列与模拟部分。",
+      "role": "同案不同用户投票，执行权与客服复核入口分开；本地无逐票原始数据。",
+      "files": [
+        "L279-crowd-judging/author.pdf",
+        "L279-crowd-judging/author.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L279-crowd-judging/author.pdf",
+          "url": "https://lbsresearch.london.edu/id/eprint/2707/1/KwanYangZhang_Crowdjudging.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L280",
+      "title": "Reinstatement in Arbitration: The Grievors’ Perspective",
+      "authors": "Kelley Williams, Daphne Gottlieb Taras",
+      "year": "2000",
+      "record_url": "https://doi.org/10.7202/051307ar",
+      "version": "期刊网页摘要，未下载原PDF",
+      "read_scope": "期刊作者摘要。",
+      "role": "获复职者对代理其申诉的工会仍可有不同评价；只作定性旁证。",
+      "files": [
+        "L280-reinstatement/abstract.txt",
+        "L280-reinstatement/journal-abstract.html"
+      ],
+      "downloads": [
+        {
+          "path": "L280-reinstatement/journal-abstract.html",
+          "url": "https://www.riir.ulaval.ca/en/articles/reinstatement-arbitration-grievors-perspective"
+        }
+      ]
+    },
+    {
+      "source_id": "L281",
+      "title": "Child Custody Mediation and Litigation: Custody, Contact, and Coparenting 12 Years After Initial Dispute Resolution",
+      "authors": "Robert E. Emery, Lisa Laumann-Billings, Mary C. Waldron, David A. Sbarra, Peter Dillon",
+      "year": "2001",
+      "record_url": "https://doi.org/10.1037/0022-006X.69.2.323",
+      "version": "在线读取作者上传的论文；本地为书目摘要与读表笔记，未保存原PDF",
+      "read_scope": "Methods: Participants, Procedure；Results: Nonresidential Parent Contact与表1。",
+      "role": "初始程序和多年后亲子、父母间互动；分母和失访另列。",
+      "files": [
+        "L281-coparenting/pubmed.json",
+        "L281-coparenting/reading-record.md"
+      ],
+      "downloads": [
+        {
+          "path": "L281-coparenting/pubmed.json",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A11393609%20AND%20SRC%3AMED&format=json&resultType=core"
+        }
+      ]
+    },
+    {
+      "source_id": "L282",
+      "title": "AppealMod: Inducing Friction to Reduce Moderator Workload of Handling User Appeals",
+      "authors": "Shubham Atreja, Jane Im, Paul Resnick, Libby Hemphill",
+      "year": "2024",
+      "record_url": "https://doi.org/10.1145/3637296",
+      "version": "arXiv作者公开稿，页眉为2024年期刊信息",
+      "read_scope": "PDF第18–24页，第6–7节、表3、图7、第7.3节。",
+      "role": "随机化真实申请人，区分可见、回应和准许。",
+      "files": [
+        "L282-appealmod/author.pdf",
+        "L282-appealmod/author.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L282-appealmod/author.pdf",
+          "url": "https://arxiv.org/pdf/2301.07163"
+        }
+      ]
+    },
+    {
+      "source_id": "L283",
+      "title": "Trajectories of Blocked Community Members: Redemption, Recidivism and Departure",
+      "authors": "Jonathan P. Chang, Cristian Danescu-Niculescu-Mizil",
+      "year": "2019",
+      "record_url": "https://doi.org/10.1145/3308558.3313638",
+      "version": "arXiv作者公开预印本",
+      "read_scope": "第2–4节、表1及图6d。",
+      "role": "同一编辑者的申辩、封禁缩短与后续参与，观察关联；数据入口未取得日志。",
+      "files": [
+        "L283-wikipedia/preprint.pdf",
+        "L283-wikipedia/preprint.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L283-wikipedia/preprint.pdf",
+          "url": "https://arxiv.org/pdf/1902.08628"
+        }
+      ]
+    }
+  ]
+}

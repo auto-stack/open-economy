@@ -1,0 +1,38 @@
+[
+  {
+    "id": "L217",
+    "original_path": "wiki/raw/round-44/L217-adams-mackay-2007/original.pdf",
+    "bytes": 478625,
+    "sha256": "f7ea09e5b7b1e92d4dba8c67aea19ea17d1aaee6a34ace977c7fba821d06657c",
+    "new_download": false,
+    "old_metadata_modified": false,
+    "use": "Prior detection, given-library learning and resource comparison; no expanded reading this round"
+  },
+  {
+    "id": "L218",
+    "original_path": "wiki/raw/round-44/L218-nassar-et-al-2010/bioc.xml",
+    "bytes": 102629,
+    "sha256": "76e627683eae6fd185eb1138f5627071e4e1ba011b14134436760f018f942f3a",
+    "new_download": false,
+    "old_metadata_modified": false,
+    "use": "Prior detection, given-library learning and resource comparison; no expanded reading this round"
+  },
+  {
+    "id": "L219",
+    "original_path": "wiki/raw/round-44/L219-wilson-et-al-2014/bioc.xml",
+    "bytes": 56422,
+    "sha256": "fa1564f8aacdd623bf4d8ea682fa0179b796c7e23e4ec1c43da98be070f2493e",
+    "new_download": false,
+    "old_metadata_modified": false,
+    "use": "Prior detection, given-library learning and resource comparison; no expanded reading this round"
+  },
+  {
+    "id": "L220",
+    "original_path": "wiki/raw/round-44/L220-griffiths-et-al-2015/original.pdf",
+    "bytes": 241895,
+    "sha256": "7d0ee042d87035db4d7d8fa14f811d3fccde192e57c44372ef31389b375f5ea4",
+    "new_download": false,
+    "old_metadata_modified": false,
+    "use": "Prior detection, given-library learning and resource comparison; no expanded reading this round"
+  }
+]

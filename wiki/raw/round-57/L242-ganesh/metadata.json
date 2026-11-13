@@ -1,0 +1,36 @@
+{
+  "source_id": "L242",
+  "title": "Two is better than one: Physical interactions improve motor performance in humans",
+  "doi": "10.1038/srep03824",
+  "pmc_version": "PMC3899645.1",
+  "authors": [
+    "G. Ganesh",
+    "A. Takagi",
+    "R. Osu",
+    "T. Yoshioka",
+    "M. Kawato",
+    "E. Burdet"
+  ],
+  "read_scope": "图1–2、表1、Interaction / force-playback / trajectory-playback及统计比较；PDF补充图S1、S2，未找到可匹配逐帧试次原件。",
+  "date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "article.jats.xml",
+      "bytes": 86425,
+      "sha256": "d846c7481784273fc72f340977230e6148a68e7dd95aa9cf877df197c30252a5",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3899645.1/PMC3899645.1.xml"
+    },
+    {
+      "file": "pmc-inventory.xml",
+      "bytes": 3674,
+      "sha256": "ede9b7417169632536135654fa1bace569cedccd86973425b73ab28ca8789b4d",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC3899645.1/"
+    },
+    {
+      "file": "supplement.pdf",
+      "bytes": 473737,
+      "sha256": "d9092de321399775f2ba31178beb5b307ae766ac0c7802c00348045261953cd6",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3899645.1/srep03824-s1.pdf"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "files": [
+    {
+      "path": "download-log.json",
+      "bytes": 1813,
+      "sha256": "bf2582ff0caf5835e832443cc2a7bf765eeeae7c82732535cdbe9ed8c4e180a3"
+    },
+    {
+      "path": "L246-denton/fulltext.html",
+      "bytes": 168070,
+      "sha256": "6485e1b73373550e1ce4ef35de04de0a1ad28e3fd425f7f685c94df00fe1b428"
+    },
+    {
+      "path": "L247-peyrot-des-gachons/fulltext.xml",
+      "bytes": 73640,
+      "sha256": "39277c20d8f3d98b98d634bdc0e41d43972894757e785101e8c2bf7540f4698e"
+    },
+    {
+      "path": "L247-peyrot-des-gachons/s1-data.xlsx",
+      "bytes": 171112,
+      "sha256": "087072539531a57aaf9a172bb9ec53c73b50b1987d6e83f9a4da62fad2695fcb"
+    },
+    {
+      "path": "L248-intentional-water/fulltext.xml",
+      "bytes": 148212,
+      "sha256": "dfdc2fe362e5822c48524cadfd4efaf4529466baa9831af002d25c9618f53ad0"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 1735,
+      "sha256": "30114fdf10b7fbcf85c8913d5d1bb47c2a5965be999ce4ef35a72ca7ba5754aa"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1076,
+      "sha256": "3d5e178e71aa72a53ab1d735d190fb595a4192353e1985e0a172747e22ac3b1f"
+    }
+  ]
+}

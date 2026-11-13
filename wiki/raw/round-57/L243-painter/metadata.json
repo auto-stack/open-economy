@@ -1,0 +1,260 @@
+{
+  "source_id": "L243",
+  "title": "Joint control of visually guided actions involves concordant increases in behavioural and neural coupling",
+  "doi": "10.1038/s42003-021-02319-3",
+  "pmc_version": "PMC8242020.1",
+  "authors": [
+    "David R. Painter",
+    "Jeffrey J. Kim",
+    "Angela I. Renton",
+    "Jason B. Mattingley"
+  ],
+  "read_scope": "全文设计与方法；源表Fig.2b–d、3d；20对全体行为MAT，主要分析使用data、D、cursor、LOC_CODE、array、str、mon及fliptime。打开压缩包目录后仅取行为，不采用眼动或EEG。",
+  "date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "accuracy3.m",
+      "bytes": 23468,
+      "sha256": "2be891d2458fae11359661500235340237af2c9d772615ec61452eac26d85eb0",
+      "commit": "417b5c51e6fb1cefe8fd81efaa3b2a5a5eee78b9",
+      "repository_path": "analysis_scripts/behavioural_performance/accuracy3.m",
+      "source_url": "https://api.github.com/repos/davidrosspainter/Joint-Action/git/blobs/8d6e6d744d9c0c0fabfa16c31df8aed0e1e8e987"
+    },
+    {
+      "file": "article.jats.xml",
+      "bytes": 171858,
+      "sha256": "2d29bdcb362e9fe6c6a32040a3986232ea3395a9c0be393dbea790a7d612d60a",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8242020.1/PMC8242020.1.xml"
+    },
+    {
+      "file": "Fig. 2b.csv",
+      "bytes": 4514,
+      "sha256": "4367bf88c191d74e1700839c9cfb7629484022f7d1947bbd1a64013ff23e8710",
+      "archive_member": "supplementary_data_publication/Fig. 2b.csv",
+      "zip_crc32": "0xf5b198d8",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8242020.1/42003_2021_2319_MOESM6_ESM.zip"
+    },
+    {
+      "file": "Fig. 2c.csv",
+      "bytes": 4935,
+      "sha256": "b053c2295182a8b5d98fc1358f7962a510638498bb4a931f005c8d30f6fcaded",
+      "archive_member": "supplementary_data_publication/Fig. 2c.csv",
+      "zip_crc32": "0x63dd2cd5",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8242020.1/42003_2021_2319_MOESM6_ESM.zip"
+    },
+    {
+      "file": "Fig. 2d.csv",
+      "bytes": 4903,
+      "sha256": "12572b96bdee3c874ee5410f6077864828ae7858df492f5e98f2dfadc6d09aaf",
+      "archive_member": "supplementary_data_publication/Fig. 2d.csv",
+      "zip_crc32": "0x9bfabba4",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8242020.1/42003_2021_2319_MOESM6_ESM.zip"
+    },
+    {
+      "file": "Fig. 3d.csv",
+      "bytes": 4989,
+      "sha256": "e25a36d1bd25175b21250741b8f872f54a2b3b46f186c3e73e35fc3f4d2c5a66",
+      "archive_member": "supplementary_data_publication/Fig. 3d.csv",
+      "zip_crc32": "0xb79507d3",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8242020.1/42003_2021_2319_MOESM6_ESM.zip"
+    },
+    {
+      "file": "joint_action.m",
+      "bytes": 44206,
+      "sha256": "9c95d22972cd6d5bf64b18f252a7e30b96d9fc13337a9da16c071ff6d3debc24",
+      "commit": "417b5c51e6fb1cefe8fd81efaa3b2a5a5eee78b9",
+      "repository_path": "GameCode/joint_action.m",
+      "source_url": "https://api.github.com/repos/davidrosspainter/Joint-Action/git/blobs/5b675a86c2564f05af9d210a4003b42a0d2545fe"
+    },
+    {
+      "file": "pmc-inventory.xml",
+      "bytes": 7025,
+      "sha256": "adbbf5818082969da2af98fb8adf35c5bd3a839f73e133e2d4f7dece69f3da67",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC8242020.1/"
+    },
+    {
+      "file": "prepare_feedback_replay3.m",
+      "bytes": 2674,
+      "sha256": "ada969be9ae56e47d90e04f6d16f950dc45605b023cb37816f0ba41fab3f9ccc",
+      "commit": "417b5c51e6fb1cefe8fd81efaa3b2a5a5eee78b9",
+      "repository_path": "GameCode/prepare_feedback_replay3.m",
+      "source_url": "https://api.github.com/repos/davidrosspainter/Joint-Action/git/blobs/2874bca74f705670bf4ba0d88fe25d43e558991f"
+    },
+    {
+      "file": "S10-behave.mat",
+      "bytes": 10910260,
+      "sha256": "ca18d8e860850af558db32f3e6cf371dbc35cc2d331681ae361ebe3016913420",
+      "archive_member": "behave/S10 test 01-Jul-2016 12-41-36.584.mat",
+      "zip_crc32": "0x1db4860d",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S11-behave.mat",
+      "bytes": 10704109,
+      "sha256": "bc5cd2d8c0166397c3d8a25e65a4adf1621c0981d755f7ed46bf58dedd8f5b0b",
+      "archive_member": "behave/S11 test 05-Jul-2016 11-32-30.773.mat",
+      "zip_crc32": "0x98a8e694",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S12-behave.mat",
+      "bytes": 11268140,
+      "sha256": "e0bd53738fc000e8c0c07178e5a74f66a29e93e6559276bfc762c837099b51f2",
+      "archive_member": "behave/S12 test 06-Jul-2016 11-28-30.969.mat",
+      "zip_crc32": "0x3408ea7b",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S13-behave.mat",
+      "bytes": 11348067,
+      "sha256": "239611cd83fe05bf8924411069e0f756706334f1212a9185a4d23a3a565b4295",
+      "archive_member": "behave/S13 test 07-Jul-2016 11-27-21.158.mat",
+      "zip_crc32": "0x2df1a46b",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S14-behave.mat",
+      "bytes": 12256262,
+      "sha256": "3ea689526df41681a60d7b399b346d18fb96c12d76bb51ee62bd74a1550fc781",
+      "archive_member": "behave/S14 test 13-Jul-2016 15-20-12.379.mat",
+      "zip_crc32": "0xa04d659a",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S15-behave.mat",
+      "bytes": 11520540,
+      "sha256": "ebe61d9dc97059d4d89e49fdf08e62deb8ee57ab34f70d9c829d68369c7759c2",
+      "archive_member": "behave/S15 test 13-Jul-2016 18-58-47.13.mat",
+      "zip_crc32": "0xfb45ea3c",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S16-behave.mat",
+      "bytes": 11929429,
+      "sha256": "36f989bd7eb977eea46b5d70dc69731b81597cc6832d027414197afcd5cb4aed",
+      "archive_member": "behave/S16 test 15-Jul-2016 15-22-29.408.mat",
+      "zip_crc32": "0xe0a1d5bf",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S17-behave.mat",
+      "bytes": 11661210,
+      "sha256": "2e9764ef9e00c6a66dcb6a9eead977e0136bbe668db11286c3551eedbb7e1008",
+      "archive_member": "behave/S17 test 19-Jul-2016 8-43-45.552.mat",
+      "zip_crc32": "0x535735e6",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S18-behave.mat",
+      "bytes": 11453078,
+      "sha256": "32c2f2848fe207d93eaf61df4fa08c17ca90054815efc8f9d3ad22798768a190",
+      "archive_member": "behave/S18 test 20-Jul-2016 15-25-21.631.mat",
+      "zip_crc32": "0xad94de55",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S19-behave.mat",
+      "bytes": 11334961,
+      "sha256": "8cc1a60e76ddc068c6851a26c597ebfd0ea8368a8fe55bbfdf3f88c758bbb656",
+      "archive_member": "behave/S19 test 22-Jul-2016 11-31-8.928.mat",
+      "zip_crc32": "0xc79db371",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S2-behave.mat",
+      "bytes": 10407523,
+      "sha256": "cc73171296f9bbd67ad7b7f077bf7a2bdfe6bedc9cc6506d14ffc9e39592d2ca",
+      "archive_member": "behave/S2 test 07-Jun-2016 11-19-9.312.mat",
+      "zip_crc32": "0x55d60578",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S21-behave.mat",
+      "bytes": 11463372,
+      "sha256": "21f926b4ec5ce19dec88bdcace7a39cbb0886b07aa1ba6444c8095727376dd55",
+      "archive_member": "behave/S21 test 27-Jul-2016 17-23-50.017.mat",
+      "zip_crc32": "0x60dadb5d",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S22-behave.mat",
+      "bytes": 11235908,
+      "sha256": "63eeaa9105da4e1d64550f3e938f03089f577a66741ce5fbccc180249318343f",
+      "archive_member": "behave/S22 test 04-Aug-2016 15-33-46.082.mat",
+      "zip_crc32": "0x54a40358",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S23-behave.mat",
+      "bytes": 10268665,
+      "sha256": "b02c0d83cf4130da9f4393b195ea8be237fba8569d7e44965f31f28d86c966aa",
+      "archive_member": "behave/S23 test 05-Aug-2016 10-28-39.911.mat",
+      "zip_crc32": "0x2cf7dad8",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S3-behave.mat",
+      "bytes": 10641686,
+      "sha256": "81cdeb87eb6fb89a52fe902669a20dd9e75f3c753da3c4f62399facb4e3f696e",
+      "archive_member": "behave/S3 test 08-Jun-2016 11-21-7.572.mat",
+      "zip_crc32": "0x3ca907b6",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S5-behave.mat",
+      "bytes": 10690621,
+      "sha256": "6ec5cc3f89c2d85b2714033b1581a363af1502166cc23609ffe54c49074ce48c",
+      "archive_member": "behave/S5 test 22-Jun-2016 12-49-11.792.mat",
+      "zip_crc32": "0x5950ac88",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S6-behave.mat",
+      "bytes": 11992226,
+      "sha256": "af56bff8b9cdeb734d27f3e4f59c9b84a2c2c64b9b8730df35f3a97e4c14563b",
+      "archive_member": "behave/S6 test 24-Jun-2016 12-53-4.701.mat",
+      "zip_crc32": "0xe8a354ae",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S7-behave.mat",
+      "bytes": 12892547,
+      "sha256": "118214307b7492f9ea235d21cd44732a28336deda9602a39eea7ffc0a02f3a36",
+      "archive_member": "behave/S7 test 27-Jun-2016 13-17-6.105.mat",
+      "zip_crc32": "0x8034e1a5",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S8-behave.mat",
+      "bytes": 11399946,
+      "sha256": "eba307f1c46144cc9196db15193f1f0406be94b85b57e0502ec2c78c0bf3438e",
+      "archive_member": "behave/S8 test 28-Jun-2016 14-0-39.473.mat",
+      "zip_crc32": "0x40c74bc6",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "S9-behave.mat",
+      "bytes": 10853054,
+      "sha256": "c3fed48e361bbdfaeae388fc578c15341f6f1dd123df5d7379ecb997518c0d46",
+      "archive_member": "behave/S9 test 30-Jun-2016 12-49-5.631.mat",
+      "zip_crc32": "0x37155692",
+      "source_url": "https://osf.io/download/7gsh4/?view_only=477894311aed41028deb49e29cd67d48"
+    },
+    {
+      "file": "supplementary_information.py",
+      "bytes": 35218,
+      "sha256": "a1bc2b9f15a0860f1a0551b24638666caf6b71318ce7ea62fcd21939e82f0f4b",
+      "archive_member": "supplementary_data_publication/supplementary_information.py",
+      "zip_crc32": "0xfaad3b90",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8242020.1/42003_2021_2319_MOESM6_ESM.zip"
+    },
+    {
+      "file": "veridical_versus_hypothetical.m",
+      "bytes": 2022,
+      "sha256": "74fdcde632c1c11ca3e9c6dcdc575fb57766c73dbdf15383852764c9e3fbfc75",
+      "commit": "417b5c51e6fb1cefe8fd81efaa3b2a5a5eee78b9",
+      "repository_path": "analysis_scripts/behavioural_performance/veridical_versus_hypothetical.m",
+      "source_url": "https://api.github.com/repos/davidrosspainter/Joint-Action/git/blobs/ffa13c3428882c46064104f44ae8904fa7161864"
+    }
+  ]
+}

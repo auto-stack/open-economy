@@ -1,0 +1,18 @@
+{
+  "source_id": "L235",
+  "title": "The value of teaching increases with tool complexity in cumulative cultural evolution",
+  "authors_or_creator": "Lucas et al. (2020)",
+  "doi": "10.1098/rspb.2020.1885",
+  "research_date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "original.html",
+      "sha256": "873320cc367ffd7f85e5b6928151b6bfbbf9e909becb70f900dc1ff91500dd32",
+      "bytes": 197447,
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7739508/",
+      "format": "html"
+    }
+  ],
+  "read_scope": "Methods参与者、流程、条件及相似度；Results两类工具、前后继表现和图1–2图注。",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md"
+}

@@ -1,0 +1,81 @@
+{
+  "path_base": "repository root",
+  "sources": [
+    {
+      "source_id": "L09",
+      "scope": "可聚合性相对于性质和分解的讨论，PDF第4、15–17页",
+      "repository_metadata": "wiki/raw/round-02/L09-wimsatt/metadata.json",
+      "artifacts": [
+        {
+          "repository_path": "wiki/raw/round-02/L09-wimsatt/original-uchicago.pdf",
+          "bytes": 303557,
+          "sha256": "67556a39f49e0b7d042bbc8fc050a77f9ba22875780e44818877f05f5898d4a0"
+        }
+      ]
+    },
+    {
+      "source_id": "L10",
+      "scope": "图的候选划分和参照，预印本PDF第1、7–8页",
+      "repository_metadata": "wiki/raw/round-02/L10-newman-girvan-2004/metadata.json",
+      "artifacts": [
+        {
+          "repository_path": "wiki/raw/round-02/L10-newman-girvan-2004/original-arxiv.pdf",
+          "bytes": 352803,
+          "sha256": "68a925e0204ece11d8378bcd91dbd56de0c4e50c34eb510d756f67f330b4b12b"
+        }
+      ]
+    },
+    {
+      "source_id": "L11",
+      "scope": "观察、干预及因果假设，PDF第4–5、12–14页",
+      "repository_metadata": "wiki/raw/round-02/L11-pearl-2009/metadata.json",
+      "artifacts": [
+        {
+          "repository_path": "wiki/raw/round-02/L11-pearl-2009/original.pdf",
+          "bytes": 634625,
+          "sha256": "928337e627d0e8bb0646f5f1be457cf2dfdd0c684e7797fe844d00091e3a4f21"
+        }
+      ]
+    },
+    {
+      "source_id": "L12",
+      "scope": "模块度划分的分辨率限制，预印本PDF第1–5页",
+      "repository_metadata": "wiki/raw/round-02/L12-fortunato-barthelemy/metadata.json",
+      "artifacts": [
+        {
+          "repository_path": "wiki/raw/round-02/L12-fortunato-barthelemy/original.pdf",
+          "bytes": 551364,
+          "sha256": "ae642cd3dadd484dd7d6ef259806de3d6a04d7b48f487e5a0a706fe23d1bc508"
+        }
+      ]
+    },
+    {
+      "source_id": "L234",
+      "scope": "治理提案构成与授权，PEP 8100 Results及PEP 602接受公告首信",
+      "repository_metadata": "wiki/raw/round-53/L234-python-succession/metadata.json",
+      "artifacts": [
+        {
+          "repository_path": "wiki/raw/round-53/L234-python-succession/pep-8016.html",
+          "bytes": 28127,
+          "sha256": "ccb6626e56295a26a8ac3855ea739e8f4521276613f88ff3d246b9073fdead5e"
+        },
+        {
+          "repository_path": "wiki/raw/round-53/L234-python-succession/pep-8100.html",
+          "bytes": 27738,
+          "sha256": "082e01ed92c867936ec8f93e22884218fc96d0eb58e5509ea0dce4be4b568c1d"
+        },
+        {
+          "repository_path": "wiki/raw/round-53/L234-python-succession/acceptance.html",
+          "bytes": 110938,
+          "sha256": "c83f6e7b049af1947300ee50c3a381b6e78e61d8397ba758b9bedf90036eaba6"
+        }
+      ]
+    }
+  ],
+  "project_example": {
+    "repository_path": "research/examples/organization-relays.json",
+    "status": "项目自建有限模型，逐步状态，不是实验数据",
+    "bytes": 2741,
+    "sha256": "1f8f29639412f3ce60d7f3b287ac236feb3be3bd61c3a03702aaf03f8b938dd8"
+  }
+}

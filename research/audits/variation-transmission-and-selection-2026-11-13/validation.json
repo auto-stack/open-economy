@@ -1,0 +1,125 @@
+{
+  "date_local": "2026-11-13",
+  "scope": "P1.5 first research round; provenance and editorial consistency",
+  "passed": true,
+  "checks": [
+    {
+      "check": "All37 protected files unchanged, including14 chapter bodies and14 cards",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Research round does not create a fifteenth chapter/card",
+      "passed": true,
+      "evidence": {
+        "drafted": 14,
+        "cards": 14,
+        "undrafted_of_28": 14
+      }
+    },
+    {
+      "check": "3 parsed PDFs and2 full HTML articles;4 new IDs plus existing L179",
+      "passed": true,
+      "evidence": {
+        "errors": [],
+        "new": [
+          "L229",
+          "L230",
+          "L231",
+          "L232"
+        ],
+        "upgraded": [
+          "L179"
+        ]
+      }
+    },
+    {
+      "check": "9 acquisition attempts:5 adopted documents,2 ancillary XML,2 failures retained",
+      "passed": true,
+      "evidence": {
+        "success": 7,
+        "failures": 2,
+        "errors": []
+      }
+    },
+    {
+      "check": "Official L179 supplement citation and corrected L231 DOI retained",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "L51/L56/L176 originals reused within old scopes",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Four distinct stipulated histories reproduce the same endpoint; no empirical calibration",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Six claim groups each retain all six light-check fields",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Theory types, experimental limits and relational evidence gap explicit",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Local links in new material and changed navigation resolve",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Round52 manifest covers every retained file except itself",
+      "passed": true,
+      "evidence": {
+        "files": 32,
+        "errors": []
+      }
+    },
+    {
+      "check": "Existing Git rules keep originals local and reviewed descriptors trackable",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Original framework tag unchanged",
+      "passed": true,
+      "evidence": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d"
+    },
+    {
+      "check": "Charter0.4 and original source-package manifest remain tag-identical",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Official79-entry theory register frozen at known digest",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Legacy source ZIP frozen and not extended beyond round37",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "current_output_sha256": {
+    "research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/chapter-evidence.md": "86de5c2a88878bf0322e13ef682de4c3e198a8e9d4453d71aa607869c76322f8",
+    "research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/claim-checks.md": "17492f1066867ecb77e6375a60e37b94a3f1a092946a8e9d090ef5da802143d8",
+    "research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/mechanism-identification.md": "4a5aa15b13d0eb0e2b41315a5ca024cd9a01c8af5c14a2e82972fe68bd270011",
+    "research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/protocol.md": "17dd308e787614f2396fbb645676bd359d8afaa7bf04e055e4278eb4d3e27707",
+    "research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/reading-notes.md": "f1660b6b6cdf5894a85c68578b3b3cb856451aa4124e9309ac56919c8520713d",
+    "research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/README.md": "ec857825060dece6aa5c31e93926d67d875baf54e16a035d7819c5981a9a9c58",
+    "research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/review-2026.md": "0ff561239e692a5955126a5a671bb638d97fbe68260f23945d3c8fccbc354029",
+    "research/reviews/57-variation-transmission-and-organizational-evolution.md": "5f3d0dfae62ae363fa55f1296ff827a6b27c6db3d7461d1f90d93b2bfb69b8e3"
+  },
+  "limitations": [
+    "No empirical reproduction, systematic review or universal Ordo validation.",
+    "Synthetic histories establish non-identification only; no performance ranking or real parameters.",
+    "Organizational succession, fragmentation and skill-loss process evidence still needed.",
+    "No new chapter/card, formal theory entry, Git commit/tag/push or source-ZIP rebuild."
+  ]
+}

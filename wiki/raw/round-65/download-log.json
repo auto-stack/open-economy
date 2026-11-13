@@ -1,0 +1,122 @@
+[
+  {
+    "requested": "L278-robin-rigg/judgment.pdf",
+    "url": "https://www.supremecourt.uk/cases/docs/uksc-2015-0115-judgment.pdf",
+    "error": "AssertionError "
+  },
+  {
+    "requested": "L278-robin-rigg/summary.pdf",
+    "url": "https://www.supremecourt.uk/cases/docs/uksc-2015-0115-press-summary.pdf",
+    "error": "AssertionError "
+  },
+  {
+    "requested": "L279-crowd-judging/article.pdf",
+    "url": "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2023.4818",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2023.4818"
+  },
+  {
+    "requested": "L279-crowd-judging/author-draft.pdf",
+    "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4366983_code438306.pdf?abstractid=3758359&mirid=1&type=2",
+    "error": "ConnectTimeout HTTPSConnectionPool(host='papers.ssrn.com', port=443): Max retries exceeded with url: /sol3/Delivery.cfm/SSRN_ID4366983_code438306.pdf?abstractid=3758359&mirid=1&type=2 (Caused by ConnectTimeoutError(<HTTPSConnection(host='papers.ssrn.com', port=443) at 0x1f1ad2d3890>, 'Connection to papers.ssrn.com timed out. (connect timeout=6)'))"
+  },
+  {
+    "requested": "L281-coparenting/article.pdf",
+    "url": "https://www.researchgate.net/profile/Robert-Emery-5/publication/11945051_Child_custody_mediation_and_litigation_Custody_contact_and_coparenting_12_years_after_initial_dispute_resolution/links/541185830cf29e4a23296aab/Child-custody-mediation-and-litigation-Custody-contact-and-coparenting-12-years-after-initial-dispute-resolution.pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://www.researchgate.net/profile/Robert-Emery-5/publication/11945051_Child_custody_mediation_and_litigation_Custody_contact_and_coparenting_12_years_after_initial_dispute_resolution/links/541185830cf29e4a23296aab/Child-custody-mediation-and-litigation-Custody-contact-and-coparenting-12-years-after-initial-dispute-resolution.pdf"
+  },
+  {
+    "path": "L278-robin-rigg/judgment.pdf",
+    "url": "https://supremecourt.uk/uploads/uksc_2015_0115_judgment_8ddc6bff9a.pdf",
+    "bytes": 216679,
+    "sha256": "218f219c189b9f28313c225a1ca831aba6553ea1369122c32b7d8ac4fae94d14",
+    "retrieved_utc": "2026-11-13T13:36:09.105865+00:00"
+  },
+  {
+    "path": "L278-robin-rigg/summary.pdf",
+    "url": "https://supremecourt.uk/uploads/uksc_2015_0115_press_summary_7b1ed40247.pdf",
+    "bytes": 146745,
+    "sha256": "3f3fdd7f079103760dacb400739d2a7d7bfb3d40e40c80db9fb31c2452dc8164",
+    "retrieved_utc": "2026-11-13T13:36:08.752746+00:00"
+  },
+  {
+    "requested": "L280-reinstatement/article.pdf",
+    "url": "https://www.erudit.org/en/journals/ri/2000-v55-n2-ri199/051307ar.pdf",
+    "error": "AssertionError "
+  },
+  {
+    "requested": "L281-coparenting/article.pdf",
+    "url": "https://www.apa.org/pubs/journals/releases/ccp692323.pdf",
+    "error": "AssertionError "
+  },
+  {
+    "path": "L279-crowd-judging/author.pdf",
+    "url": "https://lbsresearch.london.edu/id/eprint/2707/1/KwanYangZhang_Crowdjudging.pdf",
+    "bytes": 717257,
+    "sha256": "5d432a45bcb534a961696a517709a5fb047e9fe4e425c30315d3659b5e85d1e0",
+    "retrieved_utc": "2026-11-13T13:38:19.878303+00:00"
+  },
+  {
+    "path": "L282-appealmod/author.pdf",
+    "url": "https://arxiv.org/pdf/2301.07163",
+    "bytes": 4310061,
+    "sha256": "1e75a8a716af30d1c506c145af5790e6a82ac27681e001629cd24c62aa335c4e",
+    "retrieved_utc": "2026-11-13T13:38:18.966477+00:00"
+  },
+  {
+    "requested": "L283-wikipedia/author.pdf",
+    "url": "https://www.cs.cornell.edu/~cristian/Recidivism_online_files/recidivism_online.pdf",
+    "error": "ChunkedEncodingError (\"Connection broken: ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)\", ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"
+  },
+  {
+    "requested": "L283-wikipedia/author.pdf",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Trajectories_of_Blocked_Community_Members_-_Redemption%2C_Recidivism_and_Departure.pdf",
+    "error": "ReadTimeout HTTPSConnectionPool(host='upload.wikimedia.org', port=443): Read timed out. (read timeout=6)"
+  },
+  {
+    "requested": "L283-wikipedia/blocks.json",
+    "url": "https://zissou.infosci.cornell.edu/convokit/datasets/wikiconv-corpus/blocks.json",
+    "error": "HTTPError 404 Client Error: Not Found for url: https://zissou.infosci.cornell.edu/convokit/datasets/wikiconv-corpus/blocks.json"
+  },
+  {
+    "path": "L281-coparenting/pubmed.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A11393609%20AND%20SRC%3AMED&format=json&resultType=core",
+    "bytes": 5028,
+    "sha256": "0c8d271699b2b96dea9b3724d5cd7823bc1c121570ae5f7f2ca73f89e4de4c10",
+    "retrieved_utc": "2026-11-13T13:41:36.041659+00:00"
+  },
+  {
+    "path": "L280-reinstatement/journal-abstract.html",
+    "url": "https://www.riir.ulaval.ca/en/articles/reinstatement-arbitration-grievors-perspective",
+    "bytes": 108924,
+    "sha256": "ad17351c580fff06e3cf6dcfec6198323143b5747f337fab4e1ae87d9b8040b0",
+    "retrieved_utc": "2026-11-13T13:41:37.139959+00:00"
+  },
+  {
+    "path": "L278-robin-rigg/trial.pdf",
+    "url": "https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2014/1088/data.pdf",
+    "bytes": 721341,
+    "sha256": "3a9ceeb586698b40fececae60bc05fcb5483992cbb55b38097636ae1126bfe87",
+    "retrieved_utc": "2026-11-13T13:43:07.048444+00:00"
+  },
+  {
+    "path": "L278-robin-rigg/appeal.pdf",
+    "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/407/data.pdf",
+    "bytes": 425803,
+    "sha256": "75d57b1afe746da7d02e1abdb970c615adfa6550680a4a5e3e261ccec1ed49ff",
+    "retrieved_utc": "2026-11-13T13:43:01.371427+00:00"
+  },
+  {
+    "path": "L283-wikipedia/preprint.pdf",
+    "url": "https://arxiv.org/pdf/1902.08628",
+    "bytes": 973585,
+    "sha256": "d65d9bf6cf3921fe03516135a4830ea56377001371d3419115d722ecee75960d",
+    "retrieved_utc": "2026-11-13T13:42:59.899919+00:00"
+  },
+  {
+    "path": "L278-robin-rigg/caselaw.html",
+    "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/407",
+    "retrieved_utc": "2026-11-13T13:42:39.648162+00:00",
+    "bytes": 127415,
+    "sha256": "5ea33bea6d79a09e2743c6c43c3a2b56924e70b0108a08cdd397ffb358c65857"
+  }
+]

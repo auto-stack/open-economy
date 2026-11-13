@@ -1,0 +1,31 @@
+{
+  "date_local": "2026-11-13",
+  "extensions": [
+    {
+      "source_id": "L160",
+      "source": "../round-29/L160-campante-et-al-correction-2024/original.pdf",
+      "new_scope": "PDF4样本算法及排除说明",
+      "old_metadata_modified": false,
+      "new_original_download": false,
+      "full_proofs_or_data_replication": false
+    },
+    {
+      "source_id": "L161",
+      "source": "../round-29/L161-delpeyrou-bertoli-2024/original.pdf",
+      "new_scope": "PDF16安慰剂及更正讨论指定段",
+      "old_metadata_modified": false,
+      "new_original_download": false,
+      "full_proofs_or_data_replication": false
+    },
+    {
+      "source_id": "L162",
+      "source": "../round-29/L162-campante-et-al-reply-2024/original.pdf",
+      "new_scope": "PDF9–10样本定义及17安慰剂回应指定段",
+      "old_metadata_modified": false,
+      "new_original_download": false,
+      "full_proofs_or_data_replication": false
+    }
+  ],
+  "only_selected_passages_read": true,
+  "old_metadata_rewritten": false
+}

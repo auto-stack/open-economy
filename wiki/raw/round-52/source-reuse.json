@@ -1,0 +1,48 @@
+{
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L51",
+      "source_metadata": "../round-10/L51-nowak-2006/metadata.json",
+      "prior_read_scope": "PDF1-4 selected, 11-page webpage print; not all proofs.",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-10/L51-nowak-2006/original.pdf",
+          "bytes": 727940,
+          "sha256": "782d39e667187c3880e30a6d82e20fc1faefecf6d0e38e11027af2257ee1d5b5"
+        }
+      ]
+    },
+    {
+      "source_id": "L56",
+      "source_metadata": "../round-11/L56-west-et-al-2015/metadata.json",
+      "prior_read_scope": "PDF1-3,6-7; 8-page Early Edition.",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-11/L56-west-et-al-2015/original.pdf",
+          "bytes": 1018716,
+          "sha256": "381ab9b63c8cd12fffcdc1526c138386f418c8142ac5af8b64af87ca42fdd490"
+        }
+      ]
+    },
+    {
+      "source_id": "L176",
+      "source_metadata": "../round-32/L176-arthur-2007/metadata.json",
+      "prior_read_scope": "PDF1,2 selected,11 selected;14-page author-institute copy.",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-32/L176-arthur-2007/original.pdf",
+          "bytes": 213786,
+          "sha256": "6cbb8ce1bff83e1ae6c007878c4c4d1e7a20590b45ea95b5cb62c708fb5a753b"
+        }
+      ]
+    }
+  ],
+  "note": "L179 acquired full HTML separately this round; not counted as a new ID or a pure scope-unchanged reuse."
+}

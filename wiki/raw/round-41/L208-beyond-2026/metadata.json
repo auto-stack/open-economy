@@ -1,0 +1,27 @@
+{
+  "id": "L208",
+  "title": "Beyond canonical homeostasis: Dynamic, plastic, and intermittently unregulated physiology as the norm",
+  "authors": "Warren Burggren; Tobis Wang",
+  "doi": "10.14814/phy2.71150",
+  "publication_year": 2026,
+  "adopted_file": "original.xml",
+  "sha256": "c1ae6d18597e901ced4f6b8a95100d1ed06359f640cab8dec87825c1991fde05",
+  "bytes": 300589,
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13681041/fullTextXML",
+  "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13681041/fullTextXML",
+  "retrieved_at_utc": "2026-11-13T01:05:10.971213+00:00",
+  "version": "EuropePMC JATS full text and PMC HTML; PDF not obtained; author names preserved as published",
+  "content_status": "full_text_targeted_reading",
+  "reading_scope": "JATS1.2,3.1.2,4.1–4.2,5–6; review and energetic/evolutionary hypotheses separated",
+  "discovery_route": "2026 forward citation candidate, seed citation checked in JATS reference",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "old_archives_modified": false,
+  "publication_dates": {
+    "JATS_pub_date": "2026-10-19",
+    "OpenAlex_index_publication_date": "2026-10-01",
+    "difference_preserved": true
+  }
+}

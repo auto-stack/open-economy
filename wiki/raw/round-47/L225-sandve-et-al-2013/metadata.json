@@ -1,0 +1,23 @@
+{
+  "id": "L225",
+  "source_id": "L225",
+  "title": "Ten Simple Rules for Reproducible Computational Research",
+  "doi": "10.1371/journal.pcbi.1003285",
+  "publication_year": 2013,
+  "adopted_file": "original.pdf",
+  "bytes": 131527,
+  "sha256": "35648a3880bdd8bf30e8212a3847b7bd35f504ee5ccbd1ad3856d206acd181db",
+  "source_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003285&type=printable",
+  "final_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003285&type=printable",
+  "retrieved_at_utc": "2026-11-13T03:12:49.040425+00:00",
+  "version": "Publisher PDF, 4pages; main editorial on PDF1–3, bibliography PDF4",
+  "reading_scope": "PDF1–3 targeted main text; focus rules1–5,7–10; PDF3 visually checked",
+  "source_type": "methodological editorial; not empirical causal test",
+  "content_status": "complete document archived; targeted reading only",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "new_publication_in_2026": false,
+  "correction_comment_check": "PubMed publication links and retained publisher records examined; linked records classified below; not exhaustive retraction surveillance",
+  "pdf_pages": 4
+}

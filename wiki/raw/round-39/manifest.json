@@ -1,0 +1,317 @@
+[
+  {
+    "path": "discovery/adaptive-query-log.json",
+    "bytes": 2692,
+    "sha256": "4ec01c8013d87e674e023047d1d4984884e6261fc8a7da391a3b06fccdecaf59"
+  },
+  {
+    "path": "discovery/alternate-retrieval-log.json",
+    "bytes": 1046,
+    "sha256": "ad1286ddd235b2b9a9d2c69d59a1cb0503f4f9373443ef738d8e9af092089360"
+  },
+  {
+    "path": "discovery/availability-probes.json",
+    "bytes": 1487,
+    "sha256": "1fa5da0425ebbb0a565b141115ea802bdb70e50203b7c223c368a5081aeb3917"
+  },
+  {
+    "path": "discovery/B-broad-response.json",
+    "bytes": 71426,
+    "sha256": "ed9378098067df31bcc97ce4bca80ca316438b01084f3cf787f369cca4ab77c2"
+  },
+  {
+    "path": "discovery/B-title-response.json",
+    "bytes": 98428,
+    "sha256": "3a1efa063030a821dc7ee36c5b3bbd90f38b5e1550a1ed81936cf18eb6c2aa8d"
+  },
+  {
+    "path": "discovery/C-author-adaptive-response.json",
+    "bytes": 14761,
+    "sha256": "0bf2d71e6bbab125b2365e37a726d7769e683d8149f54abe528928d05922eee9"
+  },
+  {
+    "path": "discovery/C-broad-retry-response.json",
+    "bytes": 90741,
+    "sha256": "f993982a5ac9fc6d38cdf85f1d9a9ac39e1b4fd6bd9e2d69c2facc5871bd833a"
+  },
+  {
+    "path": "discovery/C-homeostasis-adaptive-response.json",
+    "bytes": 10543,
+    "sha256": "7ac0c5654d815ce3247ee581d2942ead9e070c6201f272993e5eabbfcb00cd8b"
+  },
+  {
+    "path": "discovery/C-seed-retry-response.json",
+    "bytes": 2346,
+    "sha256": "7e646a0882d89691bcdcf5de895916f01dd9df8bebd897182e5d2196072b2229"
+  },
+  {
+    "path": "discovery/C-title-response.json",
+    "bytes": 39759,
+    "sha256": "cace40e8febc8b0593e9fe4f2e81ad7fba551a10e9592328212eba7f65b8d349"
+  },
+  {
+    "path": "discovery/C-viability-adaptive-response.json",
+    "bytes": 18794,
+    "sha256": "6d496bf65420b23851297935be4dcbb4a828541575bc8ae264139ec6b980442f"
+  },
+  {
+    "path": "discovery/europepmc-known-doi.json",
+    "bytes": 878,
+    "sha256": "964a3de0db81cdd7ca5472350f653d86023bce3fbeb5942f200a9112b5b95dc2"
+  },
+  {
+    "path": "discovery/final-homeostasis-retrieval-log.json",
+    "bytes": 778,
+    "sha256": "190da80e948443d9079dfb170b0bde04206037935c4baff51168a35bf3fecc39"
+  },
+  {
+    "path": "discovery/followup-retrieval-log.json",
+    "bytes": 4443,
+    "sha256": "975736cc709dc7fb756b2b1643c6baf978549d3e3f481b58a38284b5b0c0db6c"
+  },
+  {
+    "path": "discovery/homeostasis-open-rejection.txt",
+    "bytes": 1007,
+    "sha256": "9947d40f6b3fa8d0d00a217a9e074ec4b320eabecef1582c002e5f4f5a95e6ac"
+  },
+  {
+    "path": "discovery/open-results.txt",
+    "bytes": 14152,
+    "sha256": "47dae243fe7a198fe1c0bb7d8768f4e6887c643ed25da37ecdfd1a6ff2d06c03"
+  },
+  {
+    "path": "discovery/openalex-control-query-log.json",
+    "bytes": 828,
+    "sha256": "e7fb6c1b8f03f7d8f526299d285c8f3709f95e0ce619f7ee86c53939f10af2af"
+  },
+  {
+    "path": "discovery/openalex-control-response.json",
+    "bytes": 165797,
+    "sha256": "1caeb97bef519029d19af26320b8671d2c0b8211748d41753b1e96eb868a40a8"
+  },
+  {
+    "path": "discovery/openalex-probe-response.txt",
+    "bytes": 17188,
+    "sha256": "60d3f0f72015aa90b7c8c4f96c548d87d3e4f41f7783327b0744b71c1d2e8ad6"
+  },
+  {
+    "path": "discovery/P-broad-response.json",
+    "bytes": 35836,
+    "sha256": "f6796e62084e29f42279a1214eeade793d41d5ffab400c832f3a81eeae72d6de"
+  },
+  {
+    "path": "discovery/P-title-retry-response.json",
+    "bytes": 52970,
+    "sha256": "9fc24e9c821bcdc3cca091884405d9017f11bc8c6b95d413b0312a144783b28e"
+  },
+  {
+    "path": "discovery/pubmed-probe-response.txt",
+    "bytes": 202,
+    "sha256": "ec9d1e64a554b271cb813e86fef7e7bc8caf21fa86db9806ef6aa6d96c57cdf0"
+  },
+  {
+    "path": "discovery/query-log.json",
+    "bytes": 5879,
+    "sha256": "c8b5adeab178783c7035db81b0f0a254c118153fea40148e47e42bd7d60a9ed9"
+  },
+  {
+    "path": "discovery/rejected-wrong-pmcid.html",
+    "bytes": 323180,
+    "sha256": "d02a46fe03fc7a2545a585b5e1d07cdb3f2c08aef8bcbfacc5fbf23aa14c0b38"
+  },
+  {
+    "path": "discovery/search-discovery-1.txt",
+    "bytes": 35248,
+    "sha256": "c63792cbfff9153213986e663c2a2c471584363c7f6dd6590194839fcf6c0076"
+  },
+  {
+    "path": "discovery/search-discovery-2.txt",
+    "bytes": 35661,
+    "sha256": "5607a1b2a7ca61e55a0945753f9e4601d62bf4e3d87b25b4dafb9e08c490c78e"
+  },
+  {
+    "path": "discovery/search-discovery-3.txt",
+    "bytes": 37017,
+    "sha256": "10467215f0a6f58a1201f0c173c8a17382f7add3a21a3ebe0bcd8c4c97f14d19"
+  },
+  {
+    "path": "discovery/version-collision-search.txt",
+    "bytes": 13606,
+    "sha256": "3231392d1165c4e2170dc2faaf028605aeaca4a22f8eaad1036635d8075749ce"
+  },
+  {
+    "path": "inspection/L03-prigogine-1977-3.png",
+    "bytes": 121055,
+    "sha256": "a0f7811c6d54fda9eb3d2e8ea4ca56cf190e15fc965849ebab27d312fe25a06d"
+  },
+  {
+    "path": "inspection/L03-prigogine-1977-4.png",
+    "bytes": 111399,
+    "sha256": "6219bc8024ff41b6d5287c907ce92cdc30c1a79c8efd965d973ce3b9b19d8da0"
+  },
+  {
+    "path": "inspection/L14-bich-et-al-17.png",
+    "bytes": 207019,
+    "sha256": "3a2d0028cff93a6c501e6fab874f5000c5947bd5299455a3962cb4d87deca35d"
+  },
+  {
+    "path": "inspection/L195-conant-ashby-1970-3.png",
+    "bytes": 167855,
+    "sha256": "4799c0a1d72cec55df1725e9ff9e31f0fe1478b54859017bf4d11c00f76d2e81"
+  },
+  {
+    "path": "inspection/L195-conant-ashby-1970-8.png",
+    "bytes": 184513,
+    "sha256": "29ce8b71da01d0104776f4ed64d4e698b75ba01fbb327e99430fb4ecef51b4ad"
+  },
+  {
+    "path": "inspection/L195-conant-ashby-1970-9.png",
+    "bytes": 208789,
+    "sha256": "223f0249dd38f939677a8582c830665d036d52fa813b4c7ee72eb3d593e0203d"
+  },
+  {
+    "path": "inspection/L197-cross-hohenberg-1993-1.png",
+    "bytes": 218870,
+    "sha256": "0dac7d8ceaa4646d336d3ad193e9af94850eb3722a35a348034afcfd7822113d"
+  },
+  {
+    "path": "inspection/L197-cross-hohenberg-1993-4.png",
+    "bytes": 228072,
+    "sha256": "ab61aeb798e7b864dab3223806613f88c165649612b0dc713773765d2db4968f"
+  },
+  {
+    "path": "inspection/L197-cross-hohenberg-1993-5.png",
+    "bytes": 310476,
+    "sha256": "87d658f06ec22ccbe822fd890d6c3c238f9d53aab6e34e41bdb77ee4a9edf60b"
+  },
+  {
+    "path": "inspection/L197-cross-hohenberg-1993-9.png",
+    "bytes": 391866,
+    "sha256": "1a4975287377c47ce1c7585ee78b60e451ee411de728887f505ce67bb3b62964"
+  },
+  {
+    "path": "inspection/L198-eykhoff-1994-1.png",
+    "bytes": 210990,
+    "sha256": "1e13e87c0ad2418145153429506b41fd680396f750fe9e545005b42e8bf224e5"
+  },
+  {
+    "path": "L195-conant-ashby-1970/download-log.json",
+    "bytes": 864,
+    "sha256": "808044f764b88e7e07115fa910a607ca0ef3b16e271d4e2b3826d08091fbca0e"
+  },
+  {
+    "path": "L195-conant-ashby-1970/extracted.txt",
+    "bytes": 25900,
+    "sha256": "5fff62b92fac03e98926b83396a68e032277f3f4e9fcee11264b9376eb8afbb7"
+  },
+  {
+    "path": "L195-conant-ashby-1970/journal-scan.pdf",
+    "bytes": 415391,
+    "sha256": "1e36b2432c2bebd973e34ae8698329bb58a447738236eff49c50520637118cd4"
+  },
+  {
+    "path": "L195-conant-ashby-1970/journal-scan.txt",
+    "bytes": 26081,
+    "sha256": "c2e5e49e38f26d2ff6b868df09b48220fd2c82108719adf4fe092f96fa726cc3"
+  },
+  {
+    "path": "L195-conant-ashby-1970/metadata.json",
+    "bytes": 1463,
+    "sha256": "b924f3c87da239649cde38e00d64359223f2f5f33f59d3074a172b8fa7d4d1e3"
+  },
+  {
+    "path": "L195-conant-ashby-1970/original.pdf",
+    "bytes": 194997,
+    "sha256": "fba0430f1196748e81915a11860948b5dbb249e861b9a086953b67420362ec7d"
+  },
+  {
+    "path": "L195-conant-ashby-1970/read-scope-extension.json",
+    "bytes": 495,
+    "sha256": "7227aa2a41036cd75b3f44e13b174c1bf1b5655fd1bf2a471ae4ffe6311f9da8"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/download-log.json",
+    "bytes": 2066,
+    "sha256": "55c85c4ad07f64a1f17b0acdc5448d4c3f3c01d1cfe26dba65551231e9068ed2"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/metadata.json",
+    "bytes": 1269,
+    "sha256": "d304c6763d12c3c18ab1d3cffece0331a33652d64587a05a0fbd102c4477072f"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/partial-tool-text.txt",
+    "bytes": 18414,
+    "sha256": "707cf3a93f3e1c7a32f9c4323c40a62f5201669011349eff546b2483339faf44"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/read-scope-extension.json",
+    "bytes": 512,
+    "sha256": "38fcbe91289b916503dee672003fcb0b1a883b780cd84eb3f5e43e2b82e937c2"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/response-classification.json",
+    "bytes": 409,
+    "sha256": "fc295931b4c8cd39f017d74f465e9161f41ff665eb24f94dd5a52d3bb601e13d"
+  },
+  {
+    "path": "L197-cross-hohenberg-1993/download-log.json",
+    "bytes": 1136,
+    "sha256": "fb3cf8892a8e5d8eb092a25aefb17ae41ef3019fc189cfb4f06ac93d9bb4a313"
+  },
+  {
+    "path": "L197-cross-hohenberg-1993/metadata.json",
+    "bytes": 1206,
+    "sha256": "e6c92afb3fa9ac0e9210002a0a1fa593ba466304ec2ff9de0d0593842796aee4"
+  },
+  {
+    "path": "L197-cross-hohenberg-1993/original.pdf",
+    "bytes": 20987587,
+    "sha256": "b08c0020f6ad851a5312e311fad32e47e2aaee5b1db3f08fe33111e5c220dc93"
+  },
+  {
+    "path": "L197-cross-hohenberg-1993/original.txt",
+    "bytes": 1390792,
+    "sha256": "5aa57375220246bb5b64234b1b91126a2a46ff27c13892e46521b5ea390df320"
+  },
+  {
+    "path": "L197-cross-hohenberg-1993/read-scope-extension.json",
+    "bytes": 516,
+    "sha256": "8f408d18b80a6b1d433a04082daef92eafb09afbd08c813cfad1a16f3c443076"
+  },
+  {
+    "path": "L198-eykhoff-1994/download-log.json",
+    "bytes": 261,
+    "sha256": "a522a68c69ca646407b530ecd19c95397b3bec41e112cd28bbe7933aef13434c"
+  },
+  {
+    "path": "L198-eykhoff-1994/extracted.txt",
+    "bytes": 144,
+    "sha256": "393652d2e9da581048fac7a56894dc00222c5433ddcf0816467eafabfb95a792"
+  },
+  {
+    "path": "L198-eykhoff-1994/metadata.json",
+    "bytes": 1201,
+    "sha256": "9899837eae579b3aed429ffc4434c5baca5deb857cbfc1e532dfb20bcf300873"
+  },
+  {
+    "path": "L198-eykhoff-1994/original.pdf",
+    "bytes": 533219,
+    "sha256": "1903092e3c032986716ef6d159fe2b311e165eb88296c83e52cf2f799890b5f0"
+  },
+  {
+    "path": "L198-eykhoff-1994/read-scope-extension.json",
+    "bytes": 499,
+    "sha256": "ff9b4b21c8ba9e0dd0ddb7410ea4606928864552ed9dd8710343efecef54fb8f"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3953,
+    "sha256": "9e27505d12e72232343c22811afaebf14c8b239b2cd0a080cd22045ea2b7a243"
+  },
+  {
+    "path": "source-reuse.json",
+    "bytes": 2229,
+    "sha256": "9dbeefd6b671154ae70a802f4ed6d8eb1e639b94e3ec9fd54fef3562b1f3e9fa"
+  }
+]

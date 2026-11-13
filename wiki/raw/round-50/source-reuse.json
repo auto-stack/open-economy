@@ -1,0 +1,74 @@
+{
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L58",
+      "title": "Economic Man in Cross-Cultural Perspective: Behavioral Experiments in 15 Small-Scale Societies",
+      "source_metadata": "../round-11/L58-henrich-et-al-2005/metadata.json",
+      "original": "../round-11/L58-henrich-et-al-2005/original.pdf",
+      "bytes": 879866,
+      "sha256": "5c86cda9f12ddfccac52cc166f5edead5683e0b884eef7600b186e7b38271558",
+      "retained_version": "62-page author proof with editorial queries and placeholder pagination; includes target, commentaries and reply. Final target 795-815; discussion 815-855.",
+      "prior_read_scope": "PDF pp.1,5,9,11-14; main p.20 passages; Binmore commentary on p.23 plus p.24 ending; reply sections R1.1-R1.2 on pp.45-46 and adjacent passages. Not all commentaries or data read.",
+      "this_round_use": "PDF1摘要、23、24开头、45–46指定段",
+      "new_download": false,
+      "new_read_scope": false
+    },
+    {
+      "source_id": "L158",
+      "title": "Building Nations through Shared Experiences: Evidence from African Football",
+      "source_metadata": "../round-29/L158-depetris-chauvin-et-al-2020/metadata.json",
+      "original": "../round-29/L158-depetris-chauvin-et-al-2020/original.pdf",
+      "bytes": 850082,
+      "sha256": "7a8fc341edb4d33a41194cff485480cf1bf9331fce3b66614ba657d920285840",
+      "retained_version": "AER110(5),2020,1572-1602;32page author file with31page article plus cited-by list",
+      "prior_read_scope": "PDF1-2,28conclusions;PDF32identified as appended citation list;not all regressions;read with2024correction and replication debate",
+      "this_round_use": "沿既有PDF1–2与28范围复用，本轮未扩读",
+      "new_download": false,
+      "new_read_scope": false
+    },
+    {
+      "source_id": "L160",
+      "title": "Correction to Building Nations through Shared Experiences: Evidence from African Football",
+      "source_metadata": "../round-29/L160-campante-et-al-correction-2024/metadata.json",
+      "original": "../round-29/L160-campante-et-al-correction-2024/original.pdf",
+      "bytes": 743609,
+      "sha256": "a96322f1de4a524e296517c04138e7f15448fa339caade1dc27d65fa15a44071",
+      "retained_version": "AEA official18page correction;coverNovember2024,publisherlisting3December2024",
+      "prior_read_scope": "PDF1-3abstract,intro,data errors,interpretation and sampling clarification;no recalculation of updated tables",
+      "this_round_use": "旧PDF1–3回看；新增PDF4样本算法及排除说明",
+      "new_download": false,
+      "new_read_scope": true
+    },
+    {
+      "source_id": "L161",
+      "title": "Building Nations through Shared Experiences: Evidence from African Football: a Replication",
+      "source_metadata": "../round-29/L161-delpeyrou-bertoli-2024/metadata.json",
+      "original": "../round-29/L161-delpeyrou-bertoli-2024/original.pdf",
+      "bytes": 3374259,
+      "sha256": "87df2a6d5965ec8e873242bf1bbc484b46d93d3ec35c303b931594b4d8bc8bc6",
+      "retained_version": "I4RDP193,December2024;EconStor77pages,first3repository/series covers",
+      "prior_read_scope": "PDF4-6abstract/introduction;first3version/rights only;no full appendix or code rerun;additional reply mentioned but not all exchanges read",
+      "this_round_use": "旧PDF4–6回看；新增PDF16安慰剂及更正讨论指定段",
+      "new_download": false,
+      "new_read_scope": true
+    },
+    {
+      "source_id": "L162",
+      "title": "Building Nations through Shared Experiences: Evidence from African Football: A Reply to Delpeyrou and Bertoli",
+      "source_metadata": "../round-29/L162-campante-et-al-reply-2024/metadata.json",
+      "original": "../round-29/L162-campante-et-al-reply-2024/original.pdf",
+      "bytes": 1245840,
+      "sha256": "b456e146271422ecc02cee7bb99edd1a1a0b149d2a30c72f914fe64dc89497d4",
+      "retained_version": "I4RDP194;seriescoverDecember2024,bodytitlepageAugust2024;40page repository file;chronology not inferred",
+      "prior_read_scope": "PDF4-6abstract,intro,individual-level response opening;first3version/rights;not all country analysis or tables",
+      "this_round_use": "旧PDF4–6回看；新增PDF9–10样本定义及17安慰剂回应指定段",
+      "new_download": false,
+      "new_read_scope": true
+    }
+  ],
+  "reused_pdf_containers": 5,
+  "new_literature_ids": 0,
+  "new_primary_pdf_downloads": 0,
+  "independent_study_count_not_inferred_from_files": true
+}

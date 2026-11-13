@@ -1,0 +1,38 @@
+{
+  "id": "L219",
+  "title": "Humans Use Directed and Random Exploration to Solve the Explore–Exploit Dilemma",
+  "authors": [
+    "Robert C. Wilson",
+    "Andra Geana",
+    "John M. White",
+    "Elliot A. Ludvig",
+    "Jonathan D. Cohen"
+  ],
+  "doi": "10.1037/a0038199",
+  "publication_year": 2014,
+  "adopted_file": "bioc.xml",
+  "bytes": 56422,
+  "sha256": "fa1564f8aacdd623bf4d8ea682fa0179b796c7e23e4ec1c43da98be070f2493e",
+  "source_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC5635655/unicode",
+  "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC5635655/unicode",
+  "retrieved_at_utc": "2026-11-13T02:01:56.775159+00:00",
+  "version": "NCBI BioC export of NIH author manuscript PMC5635655 / NIHMS875891; not publisher JATS; some formula text absent",
+  "reading_scope": "Zero-based passages13,16–28,32–46; task and sample, fitting, first free choice, results and limitations; supplement not read",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "content_status": "full_text_BioC_export_targeted_reading_not_original_JATS",
+  "raw_bioc_year_field": "2017",
+  "pmcid": "PMC5635655",
+  "manuscript_id": "NIHMS875891",
+  "passage_index_base": 0,
+  "publication_year_crosscheck": "PubMed official XML discovery/pubmed-records.xml; raw BioC year preserved and not assumed to be publication year",
+  "original_pdf_downloaded": false,
+  "formula_conversion_incomplete": true,
+  "participant_counts": {
+    "recruited": 31,
+    "excluded": 1,
+    "main_analysis": 30
+  }
+}

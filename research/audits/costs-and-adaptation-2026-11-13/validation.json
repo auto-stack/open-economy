@@ -1,0 +1,58 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "status": "passed",
+  "review_version": "0.2",
+  "review_sha256": "b79ad42e209ea82699905c69a83b68e18e8517ce2352ae0af431a59070115d3f",
+  "previous_snapshot_sha256": "3a36478b963ecce53034627afb0a509e3ab91cabd4937b71ffb4d31b2a73f1a5",
+  "drafts": 12,
+  "argument_cards": 12,
+  "remaining_units": 16,
+  "checked_markdown_files": 15,
+  "broken_links": [],
+  "raw_manifests_verified": {
+    "round-38": 11,
+    "round-39": 63,
+    "round-40": 65,
+    "round-41": 71,
+    "round-42": 18,
+    "round-43": 34
+  },
+  "new_main_source_ids": [
+    "L213",
+    "L214",
+    "L215",
+    "L216"
+  ],
+  "new_full_pdfs": 3,
+  "new_full_jats": 1,
+  "correction_complete_tool_text": 1,
+  "correction_original_pdf": 0,
+  "source_pages": {
+    "L213": 5,
+    "L214": "complete JATS, no PDF page map",
+    "L215": 14,
+    "L216": 5
+  },
+  "old_reused_sources_hashes_verified": true,
+  "visual_checks": [
+    "L213 PDF2 Eqs2–5",
+    "L215 PDF3 Eq4",
+    "L215 PDF11 SI short-time limit",
+    "L216 PDF3 Eq4 and Figure4"
+  ],
+  "model_calculations_checked": true,
+  "model_scope": "finite chosen parameters; no empirical calibration or author simulation replication",
+  "formal_register_sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+  "charter_equals_tag": true,
+  "tag_commit": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d",
+  "old_source_package_sha256": "f0c5d85ff3b17254fca988964c47585a1e5ccd89a1016e30dc35a919b24fa8b6",
+  "git_ignore_boundaries_verified": true,
+  "git_diff_check": "passed",
+  "no_commit_tag_or_push_performed": true,
+  "limits": [
+    "purposeful synthesis, not exhaustive literature coverage",
+    "strategy learning remains to be explained",
+    "whole-controller empirical net-benefit account not yet established",
+    "unified Ordo measure not established"
+  ]
+}

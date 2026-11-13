@@ -1,0 +1,15 @@
+{
+  "date_local": "2026-11-13",
+  "files": {
+    "book/part-01/02-entropy-information-and-ordo.md": "c09613d6a50285132b2c63706d5a14a16e6a2bb0446ae5bba3470abf51653c1b",
+    "book/part-01/03-inputs-maintenance-and-continuity.md": "e3d7af5cd79c32c3e4fcea2896636bffbed3eb69a9b0d192722c95f3e32de109",
+    "book/part-02/01-human-as-organization.md": "0846b0eb4f8d1eab7447054615e8b92019e311913a5cf9f76dfd2aa80b233a0f",
+    "book/part-03/02-revisable-shared-commitments.md": "952da1b5a180def63cb2a023b53a357d3a2a9b86f88c3ec73b40bb1f7bd05549",
+    "book/argument-cards/part-01-02-entropy-information-and-ordo.md": "b53efb6b2b92daf7c551137d8f6fb1543ab21be67960feb4757a6dc12934d8ac",
+    "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md": "29eb9626bfb00e9776a31386b94a2f248d58d6d5473ed5e384c79d2ad5a811c6",
+    "book/argument-cards/part-02-01-human-as-organization.md": "52755c46b553e84f2e1162106455bbd417b900b94316da5298f7a7090c3640a0",
+    "book/argument-cards/part-03-02-revisable-shared-commitments.md": "ff7c7a404dda7a6109d0613d49f65d4a5b6986a921cf71711c53eb1db995bc59"
+  },
+  "maintenance_scientific_core_sha256": "934c72bbc8a8f60bab739e59b636956049b492202aa6937cc73d89e0a4c50f91",
+  "purpose": "Before authorized chapter-transition edits; older receipts remain tied to earlier revisions."
+}

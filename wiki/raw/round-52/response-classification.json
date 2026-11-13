@@ -1,0 +1,86 @@
+{
+  "attempts": [
+    {
+      "attempt": 1,
+      "path": "L229-lewontin-1970/original.pdf",
+      "url": "https://www.zoology.ubc.ca/let/pdfs/Lewontin1970.pdf",
+      "classification": "valid_adopted_primary_document",
+      "saved": true,
+      "failure": null
+    },
+    {
+      "attempt": 2,
+      "path": "L230-mesoudi-thornton-2018/original.pdf",
+      "url": "https://www.alexmesoudi.com/publication/mesoudi-what-2018/Mesoudi_Thornton_ProcB_2018.pdf",
+      "classification": "valid_adopted_primary_document",
+      "saved": true,
+      "failure": null
+    },
+    {
+      "attempt": 3,
+      "path": "L231-derex-boyd-2016/original.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4801235/",
+      "classification": "valid_adopted_primary_document",
+      "saved": true,
+      "failure": null
+    },
+    {
+      "attempt": 4,
+      "path": "L232-ostrom-basurto-2011/original.pdf",
+      "url": "https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CraftingAnalyticalToolsInstitutionalChange.LOstrom2011.pdf",
+      "classification": "failed_request_no_adopted_document",
+      "saved": false,
+      "failure": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+    },
+    {
+      "attempt": 5,
+      "path": "L179-boyd-richerson-henrich-2011/original.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/3131818/",
+      "classification": "valid_adopted_primary_document",
+      "saved": true,
+      "failure": null
+    },
+    {
+      "attempt": 6,
+      "path": "discovery/pubmed-records.xml",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29899071,21690340&retmode=xml",
+      "classification": "valid_ancillary_official_bibliographic_XML",
+      "saved": true,
+      "failure": null
+    },
+    {
+      "attempt": 7,
+      "path": "L232-ostrom-basurto-2011/original.pdf",
+      "url": "https://dlc.dlib.indiana.edu/dlc/bitstreams/4e2e96f7-fc9f-4fc0-bf0c-9b9a047d7a8b/download",
+      "classification": "failed_request_no_adopted_document",
+      "saved": false,
+      "failure": "Remote end closed connection without response"
+    },
+    {
+      "attempt": 8,
+      "path": "L232-ostrom-basurto-2011/original.pdf",
+      "url": "https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CraftingAnalyticalToolsInstitutionalChange.LOstrom2011.pdf",
+      "classification": "valid_adopted_primary_document",
+      "saved": true,
+      "failure": null
+    },
+    {
+      "attempt": 9,
+      "path": "discovery/derex-pubmed.xml",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26929364&retmode=xml",
+      "classification": "valid_ancillary_official_bibliographic_XML",
+      "saved": true,
+      "failure": null
+    }
+  ],
+  "counts": {
+    "attempts": 9,
+    "successful_documents_or_records": 7,
+    "substantive_primary_documents": 5,
+    "new_source_identifiers": 4,
+    "existing_identifier_full_document_upgrade": 1,
+    "ancillary_XML_records": 2,
+    "failed_requests": 2
+  },
+  "discovery": "search-01/02 and open-01/02 are discovery/context tool outputs, not independent studies; unadopted hits are leads only."
+}

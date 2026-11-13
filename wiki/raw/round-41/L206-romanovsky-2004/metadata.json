@@ -1,0 +1,23 @@
+{
+  "id": "L206",
+  "title": "Do fever and anapyrexia exist? Analysis of set point-based definitions",
+  "authors": "Andrej A. Romanovsky",
+  "doi": "10.1152/ajpregu.00068.2004",
+  "publication_year": 2004,
+  "adopted_file": "original.pdf",
+  "sha256": "55d349c068555debbed3864bf6df30ff836f3cc7b98c4b2a535e9cbaedaf84b0",
+  "bytes": 100053,
+  "source_url": "http://www.feverlab.net/pages/publicationpdfs/2004AJPR_AAR%20Do%20fever.pdf",
+  "final_url": "http://www.feverlab.net/pages/publicationpdfs/2004AJPR_AAR%20Do%20fever.pdf",
+  "retrieved_at_utc": "2026-11-13T01:05:10.970758+00:00",
+  "version": "Author lab copy of journal4page Report, R992–R995, first published2004-06-24",
+  "content_status": "full_text_targeted_reading",
+  "reading_scope": "PDF1–4 body and Figure1; Figure1 PDF2 visually checked; original cited experiments not individually reviewed",
+  "discovery_route": "backward reference from L196; original conceptual critique plus analysis of earlier empirical reports",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "old_archives_modified": false,
+  "pdf_pages": 4
+}

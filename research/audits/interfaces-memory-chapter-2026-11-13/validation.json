@@ -1,0 +1,178 @@
+{
+  "date_local": "2026-11-13",
+  "scope": "P1.4 discussion draft and authorized chapter/card handoffs",
+  "passed": true,
+  "checks": [
+    {
+      "check": "14 drafted units and matching14 cards;14 of28 remain",
+      "passed": true,
+      "evidence": {
+        "drafted": 14,
+        "cards": 14,
+        "remaining": 14
+      }
+    },
+    {
+      "check": "Claim categories, experiment limits, costs and institutional boundary explicit",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Footnotes all defined, used and uniquely identified",
+      "passed": true,
+      "evidence": {
+        "definitions": 13,
+        "references": 14
+      }
+    },
+    {
+      "check": "Eight key claim groups each use the six-field light format",
+      "passed": true,
+      "evidence": [
+        {
+          "claim": "C1",
+          "six_fields": true
+        },
+        {
+          "claim": "C2",
+          "six_fields": true
+        },
+        {
+          "claim": "C3",
+          "six_fields": true
+        },
+        {
+          "claim": "C4",
+          "six_fields": true
+        },
+        {
+          "claim": "C5",
+          "six_fields": true
+        },
+        {
+          "claim": "C6",
+          "six_fields": true
+        },
+        {
+          "claim": "C7",
+          "six_fields": true
+        },
+        {
+          "claim": "C8",
+          "six_fields": true
+        }
+      ]
+    },
+    {
+      "check": "Quoted project arithmetic matches its specified conditions",
+      "passed": true,
+      "evidence": {
+        "scope": "Arithmetic only; no new empirical model or external replication."
+      }
+    },
+    {
+      "check": "12 prior sources/14 files resolve without new acquisition or reading scope",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Project bases, chapter outputs and eight handoff versions frozen exactly",
+      "passed": true,
+      "evidence": {
+        "project_bases": 11,
+        "handoffs": 8,
+        "errors": []
+      }
+    },
+    {
+      "check": "Round51 manifest covers exact archived content",
+      "passed": true,
+      "evidence": {
+        "files": 34,
+        "errors": []
+      }
+    },
+    {
+      "check": "Maintenance scientific core unchanged despite authorized forward-transition edit",
+      "passed": true,
+      "evidence": {
+        "before_file": "e3d7af5cd79c32c3e4fcea2896636bffbed3eb69a9b0d192722c95f3e32de109",
+        "after_file": "a6ced851eeb879292bbcb0bb4eaed1a6b122daf87b3b9df409214419f4fddb2c"
+      }
+    },
+    {
+      "check": "Information chapter scientific sections preserved; closing handoff changed",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Human and commitment chapters only change introductory handoff",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Authored local links resolve",
+      "passed": true,
+      "evidence": {
+        "links": 1172,
+        "errors": []
+      }
+    },
+    {
+      "check": "New chapter/card/check-file section anchors resolve",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Current outline/interfaces reflect14/14 and preserve28 candidates",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Existing review0.4 scientific text and light format unchanged by writing handoff",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Formal79 register, earlier information review and old source package unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Historical framework tag unchanged",
+      "passed": true,
+      "evidence": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d"
+    },
+    {
+      "check": "Historical baseline preserved: docs/charter.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Historical baseline preserved: wiki/archive/source-package-manifest.json",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "current_output_sha256": {
+    "book/part-01/04-interfaces-memory-and-technological-levers.md": "f853435efc2a4fda70df074b91cc15191f31d6e9c861fa2e2c2e9bd32e04d20e",
+    "book/argument-cards/part-01-04-interfaces-memory-and-technological-levers.md": "74eb9f5698a5d19db04c8376674158807e9b5253f73c3f13215afd5110cde561",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-claims-2026-11-13.md": "fd4b2cb086bab4f9ec8c5e904e33b7e688f84846f3f5d3a6f8aa8ec84e9a4328",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-evidence.md": "ee40c2bc879bba5d1b6ac79b75471d7fa612cb5fcaacf1f2b27d1502ceda5559",
+    "wiki/raw/round-51/manifest.json": "74a4abd09b8ba99a01a7b169ebf73880b9fc4bdad9b5a43f1aca26a42877a15c",
+    "book/part-01/02-entropy-information-and-ordo.md": "09f4042aa9f7d3ad032f3b459401a6a26bb085d7995ad250ab97ba136c558764",
+    "book/part-01/03-inputs-maintenance-and-continuity.md": "a6ced851eeb879292bbcb0bb4eaed1a6b122daf87b3b9df409214419f4fddb2c",
+    "book/part-02/01-human-as-organization.md": "5a262dc19e2e2e3bd25739119f8422548106c9c6feead4a3e6408e7d2ead91dd",
+    "book/part-03/02-revisable-shared-commitments.md": "573a56662b08112380ac20eb0d6320ce9ba54287b30c404c6bb7c950cdf341b8",
+    "book/argument-cards/part-01-02-entropy-information-and-ordo.md": "aa0f45ccaa3d401d8bb73d0ae448e6da960635c939dd51de5308a9cca5aa8117",
+    "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md": "548edb3928b942949371635059afab2613fff9b9e0df9e4cd29189ef93c19efa",
+    "book/argument-cards/part-02-01-human-as-organization.md": "607c0b3cd9fd0b3860517bd89fb778f7ddb5553acb3b513d43b2d8c26ed109ad",
+    "book/argument-cards/part-03-02-revisable-shared-commitments.md": "b79a7c7f83980a8a1ea79fd3820660078815744eecd7cfda2f62746b0b38abba"
+  },
+  "limitations": [
+    "Editorial/provenance checks; not verification of universal Ordo or empirical net benefits.",
+    "Models and research conclusions reused in prior conditions; no new empirical experiment.",
+    "Old chapter/card hashes may change because transitions were authorized; prior receipts retain their original revisions.",
+    "No Git commit/tag/push or source ZIP regeneration."
+  ]
+}

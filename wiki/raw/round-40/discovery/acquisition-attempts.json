@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://philarchive.org/archive/BECSHI",
+    "time_utc": "2026-11-13T00:43:30.561615+00:00",
+    "target": "L196-bechtel-bich-2024/philarchive-copy.pdf",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1113%2FJP286883",
+    "time_utc": "2026-11-13T00:43:30.562081+00:00",
+    "target": "discovery/L196-crossref.json",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1113%2FJP286883",
+    "content_type": "application/json",
+    "bytes": 14934,
+    "sha256": "890b5ec18a697448f3b0ae2fcbce5b1f7292f9d2fce8b138e17ed7635c2fa3b7"
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1113/JP286883",
+    "time_utc": "2026-11-13T00:43:30.562358+00:00",
+    "target": "discovery/L196-openalex.json",
+    "status": 200,
+    "final_url": "https://api.openalex.org/works/https://doi.org/10.1113/JP286883",
+    "content_type": "application/json",
+    "bytes": 23331,
+    "sha256": "4398050e55efe763ba4d42ba93b7abcc9d24db97a65ee6491c70691b1a384f34"
+  }
+]

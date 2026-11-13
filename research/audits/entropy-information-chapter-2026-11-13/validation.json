@@ -1,0 +1,131 @@
+{
+  "date_local": "2026-11-13",
+  "scope": "Book chapter synthesis and authorized chapter handoffs",
+  "passed": true,
+  "checks": [
+    {
+      "check": "13 manuscript units and matching argument cards; 15 of 28 not drafted",
+      "passed": true,
+      "evidence": {
+        "drafts": 13,
+        "cards": 13,
+        "remaining": 15
+      }
+    },
+    {
+      "check": "Claim status and limits explicit in chapter",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Local links in changed/new navigation and manuscripts resolve",
+      "passed": true,
+      "evidence": {
+        "links": 1046,
+        "broken": []
+      }
+    },
+    {
+      "check": "Chapter footnotes defined, used and unique",
+      "passed": true,
+      "evidence": {
+        "definitions": 14,
+        "references": 15
+      }
+    },
+    {
+      "check": "Current book navigation uses 13/15, leaving historical baseline intact",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "17 study families / 19 prior artifacts, metadata and reading notes resolve",
+      "passed": true,
+      "evidence": {
+        "families": 17,
+        "artifacts": 19,
+        "errors": []
+      }
+    },
+    {
+      "check": "New archive descriptors eligible for Git; full originals stay ignored",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Source manifests rounds38–46 still match archived bytes",
+      "passed": true,
+      "evidence": {
+        "checked_files": 326,
+        "errors": []
+      }
+    },
+    {
+      "check": "Maintenance scientific sections unchanged; authorized handoff prose updated",
+      "passed": true,
+      "evidence": {
+        "before_file_sha256": "3437b0a9eb65d5e301348c7389816bcb4eccf6a6820447c55418881d2ab4399e",
+        "after_file_sha256": "e3d7af5cd79c32c3e4fcea2896636bffbed3eb69a9b0d192722c95f3e32de109",
+        "scientific_sections_sha256": "934c72bbc8a8f60bab739e59b636956049b492202aa6937cc73d89e0a4c50f91",
+        "note": "Prior receipts remain tied to their original revisions and were not rerun/overwritten."
+      }
+    },
+    {
+      "check": "Formal79 register, annual-review0.4 and old source ZIP preserved",
+      "passed": true,
+      "evidence": {
+        "shared/theory-register.md": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+        "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md": "eda4f4053413f6956c46f21559e93c99a5b9fa70864e84db92d84d7aaccd35af",
+        ".local-artifacts/open-economy-source-pack-2026-11-12.zip": "f0c5d85ff3b17254fca988964c47585a1e5ccd89a1016e30dc35a919b24fa8b6"
+      }
+    },
+    {
+      "check": "Framework tag unchanged",
+      "passed": true,
+      "evidence": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d"
+    },
+    {
+      "check": "Historical tag file unchanged: docs/charter.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Historical tag file unchanged: wiki/archive/source-package-manifest.json",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "manuscript_file_sha256": {
+    "README.md": "c154ffc0623688c7a0583a0c3f3ebc693f2590ac8fa5bb4245a00b1fcf6c5313",
+    "book/README.md": "6d1373aa90a25e16329948cf9fa229e729506065758195709e5200144f2c08dd",
+    "book/outline.md": "42ca75a5a7af8c5217da65dfbb1c2fb74d75cf132dccf6167c3ee8cee93160d8",
+    "book/chapter-interfaces.md": "33513cea6a013f6e979e0398611d1311fcb10d5d88639ebe87cdafc7ce493a6c",
+    "book/framework-scope.md": "57258260977b53ffdb6e84215d1bb1e1a84172788aa8162901f43e5a3b64f32a",
+    "book/argument-map.md": "2554bc0f677448366fc8975bfd16b76f5c489ba93a1cfc5c3c809879ec7f1d04",
+    "book/part-01/02-entropy-information-and-ordo.md": "c09613d6a50285132b2c63706d5a14a16e6a2bb0446ae5bba3470abf51653c1b",
+    "book/part-01/03-inputs-maintenance-and-continuity.md": "e3d7af5cd79c32c3e4fcea2896636bffbed3eb69a9b0d192722c95f3e32de109",
+    "book/part-02/01-human-as-organization.md": "0846b0eb4f8d1eab7447054615e8b92019e311913a5cf9f76dfd2aa80b233a0f",
+    "book/part-02/04-goal-conflict-and-revision.md": "fb0b005ef21d6dd6c2eb9ec21791c0fd9c06776cc0f147c174f3f5c74e316bcd",
+    "book/part-03/02-revisable-shared-commitments.md": "952da1b5a180def63cb2a023b53a357d3a2a9b86f88c3ec73b40bb1f7bd05549",
+    "book/argument-cards/part-01-02-entropy-information-and-ordo.md": "b4aaf7ed30e04048c06b16041f4d58270a1a93ef740b4c444c6e1d0112bb3481",
+    "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md": "7f6a20cff66c8435e3af1be91f412e957ced2b0b037ae62d422566bea2015578",
+    "book/argument-cards/part-02-01-human-as-organization.md": "52755c46b553e84f2e1162106455bbd417b900b94316da5298f7a7090c3640a0",
+    "book/argument-cards/part-02-04-goal-conflict-and-revision.md": "206b905869f2059d44022d1404e1a851e3dc1cf3f0c1ab0294a379523de4b374",
+    "book/argument-cards/part-03-02-revisable-shared-commitments.md": "a190a01c23ce2c420fbc46039572c59d935026b59267f9d8ed93ebbd4e9cd015",
+    "research/README.md": "9c9523183130f73eeb2e1984b091bf0548e09dd9c1407f6a7f0ce09d7fa141af",
+    "research/survey-and-paper-program.md": "028e9fb6d23fd324cc8c0c4dc42c7291215c87ee77e48756fe1833ecb5b77b39",
+    "research/reviews/51-information-ordo-chapter-and-handoffs.md": "cfc9653f2333e93246e70fd5b78e7a715f2f73f39a08fe5b91ff86700e9d22d2",
+    "research/surveys/04-influence-and-social-equivalence/README.md": "0cd7f79ee6ede9523715f0248c2db8b8f4b8df713394188d3e5e84905080d412",
+    "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/README.md": "daba335dc55710534a5c729e818e97730c8d1248e2a70fdadaf42fb72cff8fe7",
+    "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/chapter-evidence.md": "3fd49afc2a669e3c8dd64b628d4ae3947cbc6ca98f5c9abc07e182bbb5d98c3f",
+    "wiki/index/SOURCES.md": "e8fed8a831534adda16b0db6505ea03c7084adb00868f65954a69a881ba88a1f",
+    "wiki/raw/README.md": "180e66341ca7db4b49d0d21bdbb57934d0455f0490005cb957d8a0db3eb2586f",
+    "wiki/raw/round-46/README.md": "d8b070206527348320d04d6dc7537bec9d4840e9b8bee2a608efbe74021efdb2"
+  },
+  "limitations": [
+    "Editorial and provenance checks; not empirical validation of hypotheses or universal Ordo.",
+    "Existing models and scientific review unchanged; no new model execution claimed.",
+    "Previous receipts are historical, revision-bound and not rewritten to match current draft count.",
+    "No Git commit/tag/push or source-package regeneration performed."
+  ]
+}

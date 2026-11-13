@@ -1,0 +1,34 @@
+[
+  {
+    "path": "L247-peyrot-des-gachons/fulltext.xml",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0162261&type=manuscript",
+    "final_url": "https://corpus-prod.f505aadad1e46610c8f8563037eb3c4b.r2.cloudflarestorage.com/10.1371/journal.pone.0162261/1/pone.0162261.xml",
+    "bytes": 73640,
+    "sha256": "39277c20d8f3d98b98d634bdc0e41d43972894757e785101e8c2bf7540f4698e",
+    "retrieved_utc": "2026-11-13T09:09:32.738002+00:00"
+  },
+  {
+    "path": "L247-peyrot-des-gachons/s1-data.xlsx",
+    "url": "https://journals.plos.org/plosone/article/file?type=supplementary&id=10.1371/journal.pone.0162261.s002",
+    "final_url": "https://corpus-prod.f505aadad1e46610c8f8563037eb3c4b.r2.cloudflarestorage.com/10.1371/journal.pone.0162261/1/pone.0162261.s002.xlsx",
+    "bytes": 171112,
+    "sha256": "087072539531a57aaf9a172bb9ec53c73b50b1987d6e83f9a4da62fad2695fcb",
+    "retrieved_utc": "2026-11-13T09:09:33.499349+00:00"
+  },
+  {
+    "path": "L246-denton/fulltext.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC26819/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC26819/",
+    "bytes": 168070,
+    "sha256": "6485e1b73373550e1ce4ef35de04de0a1ad28e3fd425f7f685c94df00fe1b428",
+    "retrieved_utc": "2026-11-13T09:09:59.607892+00:00"
+  },
+  {
+    "path": "L248-intentional-water/fulltext.xml",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0352203&type=manuscript",
+    "final_url": "https://corpus-prod.f505aadad1e46610c8f8563037eb3c4b.r2.cloudflarestorage.com/10.1371/journal.pone.0352203/1/pone.0352203.xml",
+    "bytes": 148212,
+    "sha256": "dfdc2fe362e5822c48524cadfd4efaf4529466baa9831af002d25c9618f53ad0",
+    "retrieved_utc": "2026-11-13T09:11:28.273070+00:00"
+  }
+]

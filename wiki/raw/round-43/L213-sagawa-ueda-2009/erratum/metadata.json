@@ -1,0 +1,22 @@
+{
+  "id": "L213-erratum-2011",
+  "family_id": "L213",
+  "title": "Erratum: Minimal Energy Cost for Thermodynamic Information Processing: Measurement and Information Erasure",
+  "doi": "10.1103/PhysRevLett.106.189901",
+  "publication_year": 2011,
+  "publication_date": "2011-05-06",
+  "source_url": "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.106.189901",
+  "adopted_file": "../erratum-tool-text.txt",
+  "content_status": "complete_one_page_publisher_tool_conversion_not_original_pdf",
+  "reading_scope": "Publisher one-page conversion lines0–124; stronger measurement assumption and corrected proof",
+  "sha256": "d18623243f07fa5295e05ee04673c3ed6b7d3dbbc427bad37cad0be832e5bd2f",
+  "bytes": 4637,
+  "original_pdf_downloaded": false,
+  "local_pdf_visual_check": false,
+  "download_failures": [
+    "403 directPDF",
+    "401 APS harvest"
+  ],
+  "acquisition_date": "2026-11-13",
+  "source_web_return": "../../discovery/open-erratum.txt"
+}

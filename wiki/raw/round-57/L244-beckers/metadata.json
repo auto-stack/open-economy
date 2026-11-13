@@ -1,0 +1,33 @@
+{
+  "source_id": "L244",
+  "title": "Haptic human–human interaction does not improve individual visuomotor adaptation",
+  "doi": "10.1038/s41598-020-76706-x",
+  "pmc_version": "PMC7670433.1",
+  "authors": [
+    "Niek Beckers",
+    "Edwin H. F. van Asseldonk",
+    "Herman van der Kooij"
+  ],
+  "read_scope": "原文研究设计、结论；4TU v1完整ZIP内部目录、README、两份分析用CSV列和MAT结果名称。",
+  "date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "article.jats.xml",
+      "bytes": 227402,
+      "sha256": "35632e046aeec34b0645cb0dee346a9e931c3f07f697fc547f1061055fea0e49",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7670433.1/PMC7670433.1.xml"
+    },
+    {
+      "file": "data.zip",
+      "bytes": 142335,
+      "sha256": "027108093fa3c40ee8e73294c572ee5f4113b2b86705a2f8b7c0b7f631e92b7e",
+      "source_url": "https://data.4tu.nl/file/dd9c8aca-b276-4200-9f63-da8923805e3e/b198d6f9-ec2e-4455-9ffd-e470cf706b2c"
+    },
+    {
+      "file": "pmc-inventory.xml",
+      "bytes": 3449,
+      "sha256": "c7b6404a28712a530b5dd2c62e248e46bdf7ab9a85e1a19c44f60dcb0ef2913b",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC7670433.1/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "L220",
+  "title": "Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic",
+  "authors": [
+    "Thomas L. Griffiths",
+    "Falk Lieder",
+    "Noah D. Goodman"
+  ],
+  "doi": "10.1111/tops.12142",
+  "publication_year": 2015,
+  "adopted_file": "original.pdf",
+  "bytes": 241895,
+  "sha256": "7d0ee042d87035db4d7d8fa14f811d3fccde192e57c44372ef31389b375f5ea4",
+  "source_url": "https://cocosci.princeton.edu/tom/papers/RationalUseOfCognitiveResources.pdf",
+  "final_url": "https://cocosci.princeton.edu/tom/papers/RationalUseOfCognitiveResources.pdf",
+  "retrieved_at_utc": "2026-11-13T02:01:16.496828+00:00",
+  "version": "Author-hosted journal typesetting13pages, Topics in Cognitive Science7,217–229",
+  "reading_scope": "PDF2–10, focused on Section4, PDF8 value of computation and PDF9 ideal elementary operation caveats; PDF8 formula visually checked",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "pdf_pages": 13,
+  "content_status": "full_pdf_targeted_reading"
+}

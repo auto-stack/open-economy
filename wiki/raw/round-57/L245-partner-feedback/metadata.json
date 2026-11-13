@@ -1,0 +1,51 @@
+{
+  "source_id": "L245",
+  "title": "Involuntary feedback responses reflect a representation of partner actions",
+  "doi": "10.7554/eLife.109734",
+  "pmc_version": "PMC13197164.1",
+  "authors": [
+    "Seth R Sullivan",
+    "John H Buggeln",
+    "Jan A Calalo",
+    "Truc T Ngo",
+    "Jennifer A Semrau",
+    "Michael J Carter",
+    "Joshua GA Cashaback",
+    "Kunlin Wei",
+    "Andrew J King"
+  ],
+  "read_scope": "正式版方法、两组实验、探针时间窗、与搭档目标相关的力响应及讨论。Figshare登记可读，未取得数据文件。",
+  "date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "analysis-code-list.json",
+      "bytes": 7607,
+      "sha256": "2da631d7212f5a4c5337534fe64bc8fa328c2d0c3cfea7818b6629fe66c26f7c",
+      "source_url": "https://api.github.com/repos/CashabackLab/Involuntary-Visuomotor-HHI-Analysis-Code/contents"
+    },
+    {
+      "file": "article-api.json",
+      "bytes": 396996,
+      "sha256": "8c75730af5cc2a4b7e915e7138149c2a046c6a699af92933ad59b7572179f8fe",
+      "source_url": "https://api.elifesciences.org/articles/109734"
+    },
+    {
+      "file": "article.jats.xml",
+      "bytes": 586599,
+      "sha256": "c7d4b18c66c04784d251dd3a8dad3c21ff72257e6f1337ad4744ffe30d7ce114",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13197164.1/PMC13197164.1.xml"
+    },
+    {
+      "file": "data-datacite.json",
+      "bytes": 8093,
+      "sha256": "99089c13bf180810390a9ae1553132176a669c4cce758c9469379c05a1a1dbf4",
+      "source_url": "https://api.datacite.org/dois/10.6084/m9.figshare.30132088"
+    },
+    {
+      "file": "pmc-inventory.xml",
+      "bytes": 6955,
+      "sha256": "28ac20567512edb9d7b5b30d344e866c50569055f16a4ebe5cab72e6cc4e598b",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/?list-type=2&prefix=PMC13197164.1/"
+    }
+  ]
+}

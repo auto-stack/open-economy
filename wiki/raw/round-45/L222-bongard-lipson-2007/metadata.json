@@ -1,0 +1,33 @@
+{
+  "id": "L222",
+  "title": "Automated reverse engineering of nonlinear dynamical systems",
+  "authors": [
+    "Josh Bongard",
+    "Hod Lipson"
+  ],
+  "doi": "10.1073/pnas.0609476104",
+  "publication_year": 2007,
+  "adopted_file": "original.pdf",
+  "bytes": 5765811,
+  "sha256": "fca79bfcb3f6cd3bf53765ef5ecc063d555f30b5f99dd4d67e70943abb62b6e4",
+  "pdf_pages": 7,
+  "source_url": "https://www.genetic-programming.org/hc2007/12-Bongard/Bongard-Paper.pdf",
+  "final_url": "https://www.genetic-programming.org/hc2007/12-Bongard/Bongard-Paper.pdf",
+  "retrieved_at_utc": "2026-11-13T02:29:58.529211+00:00",
+  "version": "Journal PDF from Genetic Programming Human-Competitive awards archive;1download cover plus6article pages9943–9948; PDF page=printed page–9941",
+  "reading_scope": "PDF2–7 targeted algorithm, specified inputs, main results and limitations; PDF4 inputs and Table3 visually checked; SI not read",
+  "content_status": "full_pdf_targeted_reading",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "cover_pages": 1,
+  "journal_pages": "9943–9948",
+  "publication_date_online": "2007-06-06",
+  "issue_date": "2007-06-12",
+  "primary_evidence_types": [
+    "four simulated systems",
+    "historical ecology dataset",
+    "physical pendulum dataset"
+  ]
+}

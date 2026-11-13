@@ -1,0 +1,56 @@
+{
+  "date_local": "2026-11-13",
+  "purpose": "Pilot six-field lightweight source-check notes on two substantive disputes, with speaker/role/target/version and unknowns separated.",
+  "format_path": "shared/source-check-format.md",
+  "format_sha256": "43571ca7e687dfb111a916b8ba951c90610dacbe127a1a331b20a6048edf032f",
+  "dispute_groups": 2,
+  "reused_source_ids": 5,
+  "reused_pdf_containers": 5,
+  "new_literature_ids": 0,
+  "original_file_retrieval_requests": 3,
+  "adopted_publication_html_records": 1,
+  "noncontent_HTTP200_check_pages": 2,
+  "web_discovery_batches": 2,
+  "new_read_scopes_recorded_separately": 3,
+  "before_documents": [
+    {
+      "path": "research/reviews/12-reading-notes.md",
+      "snapshot": "before/research/reviews/12-reading-notes.md",
+      "sha256": "0e94e475a93bb6ab834e3f4f7151679b71e19e2bb00558a271f4fa77d71eb159"
+    },
+    {
+      "path": "research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+      "snapshot": "before/research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+      "sha256": "cb872dd68f7de57eb2686b7adaed70091b324f8c9fdc3017b38c429a11efafdf"
+    },
+    {
+      "path": "research/surveys/04-influence-and-social-equivalence/art-sport-and-cultural-influence.md",
+      "snapshot": "before/research/surveys/04-influence-and-social-equivalence/art-sport-and-cultural-influence.md",
+      "sha256": "71c6f6416cba437dc67caf0cdafc45c9f3344ceb5d1496f888de7c251147c660"
+    }
+  ],
+  "after_documents": [
+    {
+      "path": "research/reviews/12-reading-notes.md",
+      "snapshot": "after/research/reviews/12-reading-notes.md",
+      "sha256": "ea29d424d72c9a4961083f820b6b083d3222bc82f659c665909be34b491ba214"
+    },
+    {
+      "path": "research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+      "snapshot": "after/research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+      "sha256": "2632a33dfe8c5b404e7c5aa446bb1bffbcbb90a97cf27d1f3f6f98b85d5fb101"
+    },
+    {
+      "path": "research/surveys/04-influence-and-social-equivalence/art-sport-and-cultural-influence.md",
+      "snapshot": "after/research/surveys/04-influence-and-social-equivalence/art-sport-and-cultural-influence.md",
+      "sha256": "07f2e06d74c739f4028dc74e06b4d18055f654919c90fa1b378c8b0881f7765c"
+    }
+  ],
+  "trial_origin": "../../../research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13",
+  "format_snapshot": "format/source-check-format.md",
+  "snapshot_link_context": "Markdown snapshots retain original links; resolve in recorded origin context.",
+  "formal_theory_or_manuscript_bodies_changed": false,
+  "actual_reader_timing": false,
+  "disputes_independently_adjudicated": false,
+  "old_source_zip_rebuilt": false
+}

@@ -1,0 +1,9 @@
+{
+  "pdf_valid": true,
+  "formula_extraction_status": "plain text contains inline-eq/display-eq identifier artifacts, although rendered formulas are legible",
+  "use_rule": "Use original page renders for equations; extracted.txt is a search aid, not verified mathematical text",
+  "visually_checked": [
+    "PDF9 equations6–10",
+    "PDF23 equations22–23"
+  ]
+}

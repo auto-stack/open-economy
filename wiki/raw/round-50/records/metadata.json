@@ -1,0 +1,12 @@
+{
+  "family_source_id": "L158",
+  "role": "publication_version_context_not_effect_validation",
+  "adopted_file": "aea-article.html",
+  "sha256": "48bf6a58af14ee1bd662743366abe45d605c5b91a57d23434b724326dfae0014",
+  "reading_scope": "Title, original abstract and Additional Materials list containing2024 corrigendum/revised appendix",
+  "original_abstract_estimates_used_as_book_parameters": false,
+  "repository_checks_not_adopted": [
+    "econstor-193.html",
+    "econstor-194.html"
+  ]
+}

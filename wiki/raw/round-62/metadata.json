@@ -1,0 +1,89 @@
+{
+  "round": 62,
+  "research_round": 67,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L262",
+      "title": "Thorne et al. (2025). Exploring goal change in everyday life",
+      "doi": "10.1177/27000710251347134",
+      "version_and_read_scope": "期刊28页版全文文字，PDF原版式未取得。阅读方法、图1–3及p.5–8；原版问卷及作者编码表另存。",
+      "role": "同人目标原文、旧目标状态及新旧内容编码。",
+      "companion_url": "https://osf.io/eab4m/",
+      "files": [
+        "L262-goal-change/article-extracted.txt",
+        "L262-goal-change/crossref.json",
+        "L262-goal-change/osf-list.json",
+        "L262-goal-change/osf/analysis-files.json",
+        "L262-goal-change/osf/analysis-plan.docx",
+        "L262-goal-change/osf/analysis.Rmd",
+        "L262-goal-change/osf/baseline.pdf",
+        "L262-goal-change/osf/baseline.txt",
+        "L262-goal-change/osf/changed-goals.xlsx",
+        "L262-goal-change/osf/clean-data.sav",
+        "L262-goal-change/osf/coded-frequencies.xlsx",
+        "L262-goal-change/osf/follow-up.pdf",
+        "L262-goal-change/osf/follow-up.txt",
+        "L262-goal-change/osf/nature-of-change.docx",
+        "L262-goal-change/osf/results.html"
+      ]
+    },
+    {
+      "source_id": "L263",
+      "title": "Haas et al. (2026). Why do we forget?—A mixed-method investigation of reasons for everyday prospective memory failures",
+      "doi": "10.1186/s41235-026-00737-7",
+      "version_and_read_scope": "期刊在线全文及表1；核对作者开放日记ALL与Codebook。",
+      "role": "次日意向与自报完成、主要原因及独立改期题。",
+      "companion_url": "https://osf.io/tu2dx/",
+      "files": [
+        "L263-intention-diary/article.html",
+        "L263-intention-diary/osf-list.json",
+        "L263-intention-diary/osf/analysis.R",
+        "L263-intention-diary/osf/descriptives.docx",
+        "L263-intention-diary/osf/reasons.xlsx",
+        "L263-intention-diary/table1.html"
+      ]
+    },
+    {
+      "source_id": "L264",
+      "title": "Larcom, Rauch & Willems (2017). The Benefits of Forced Experimentation: Striking Evidence from the London Underground Network",
+      "doi": "10.1093/qje/qjx020",
+      "version_and_read_scope": "接受稿，框1及表IV；Harvard Dataverse复核包T4.dta与Table 4.do。",
+      "role": "惯用站点关闭、罢工中实际偏离及末日换站；两种分组差值均复算，接受稿另一列占比存在未决差异。",
+      "companion_url": "https://doi.org/10.7910/DVN/1HUQRM",
+      "files": [
+        "L264-london-strike/article.pdf",
+        "L264-london-strike/article.txt",
+        "L264-london-strike/dataverse.json",
+        "L264-london-strike/replication.zip"
+      ]
+    },
+    {
+      "source_id": "L265",
+      "title": "Stewart et al. (2021). Using a Mobile Phone App to Analyze the Relationship Between Planned and Performed Physical Activity in University Students: Observational Study",
+      "doi": "10.2196/17581",
+      "version_and_read_scope": "Europe PMC完整期刊JATS，方法、结果、图2。",
+      "role": "事前日历、腕部监测、同一小时与全日窗口。",
+      "companion_url": "https://europepmc.org/articles/PMC8120422",
+      "files": [
+        "L265-planned-activity/article-body.txt",
+        "L265-planned-activity/article.xml",
+        "L265-planned-activity/epmc.json"
+      ]
+    },
+    {
+      "source_id": "L266",
+      "title": "Friedman, Voichek & Dhar (2026 issue, online 2025). The (Better) Road Not Taken: Setting a Goal Reduces Switching to More Effective Alternatives",
+      "doi": "10.1093/jcr/ucaf063",
+      "version_and_read_scope": "帝国理工大学存档的正式排印版。期刊页563–564、574，研究1A与表2。",
+      "role": "两种实际计酬任务间的切换，原始工作表与作者筛选脚本。",
+      "companion_url": "https://osf.io/qzgs5/",
+      "files": [
+        "L266-road-not-taken/article.pdf",
+        "L266-road-not-taken/article.txt",
+        "L266-road-not-taken/osf/study1a.R",
+        "L266-road-not-taken/osf/study1a.xlsx"
+      ]
+    }
+  ]
+}

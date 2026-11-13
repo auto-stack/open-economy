@@ -1,0 +1,274 @@
+{
+  "date_local": "2026-11-13",
+  "selection": "purposive six claims in three existing cards; not random, blinded or representative",
+  "new_formal_theory_ids": 0,
+  "new_literature_ids": 0,
+  "cases": [
+    {
+      "case_id": "R01",
+      "card": "book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "claim_text": "测量与擦除合计有条件成本界",
+      "claim_status": "文献结论及更正",
+      "before_state": "支持与更正均可达，卡片行未直连更正原记录",
+      "finding_class": "locator_and_role_clarification",
+      "evidence": [
+        {
+          "path": "wiki/raw/round-43/L213-sagawa-ueda-2009/original.pdf",
+          "sha256": "d317e8b6e34397d7b93f09c4afd7f8ca6fb7eba05e5f91fadb5d6157d669849f",
+          "locator": "PDF2 equations2–4",
+          "role": "support_original_with_correction",
+          "limits": "原文宽泛测量假设不可单独沿用"
+        },
+        {
+          "path": "wiki/raw/round-43/L213-sagawa-ueda-2009/erratum-tool-text.txt",
+          "sha256": "d18623243f07fa5295e05ee04673c3ed6b7d3dbbc427bad37cad0be832e5bd2f",
+          "locator": "Publisher conversion lines23–69",
+          "role": "narrows_original_assumptions",
+          "limits": "工具全文转录，非本地更正PDF；没有本轮重证量子证明"
+        }
+      ],
+      "before_verified_path": [
+        "book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+        "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/costs-and-adaptation-2026-11-13/reading-notes.md",
+        "wiki/raw/round-43/README.md",
+        "wiki/raw/round-43/L213-sagawa-ueda-2009/erratum-tool-text.txt"
+      ],
+      "boundary_material_kind": "direct_author_correction",
+      "boundaries": [
+        "更正要求单一测量算符／完整读出条件",
+        "同温及匹配的记忆准备、过程与循环口径",
+        "不含全部硬件实际成本"
+      ],
+      "repair": "在原行直连主文PDF2与更正转录，写出较强假设",
+      "open_questions": [
+        "更正原PDF仍未取得",
+        "其他测量与全设备实际成本尚未核查"
+      ],
+      "before_card_sha256": "b4aaf7ed30e04048c06b16041f4d58270a1a93ef740b4c444c6e1d0112bb3481",
+      "before_snapshot": "wiki/raw/round-49/before/book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "audit_reading_notes": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/reading-notes.md",
+      "opposing_material_search_exhaustive": false,
+      "scientific_reversal_found": false,
+      "before_card_line": 11,
+      "after_card_line": 11,
+      "after_card_sha256": "b53efb6b2b92daf7c551137d8f6fb1543ab21be67960feb4757a6dc12934d8ac",
+      "original_claim_retained": true
+    },
+    {
+      "case_id": "R02",
+      "card": "book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "claim_text": "安全探索的保证限于指定对象和可认证区域",
+      "claim_status": "文献条件定理",
+      "before_state": "静态／高概率等限制已有，噪声及版本用途分散在下层笔记",
+      "finding_class": "locator_and_role_clarification",
+      "evidence": [
+        {
+          "path": "wiki/raw/round-45/L224-sui-et-al-2015/original.pdf",
+          "sha256": "2ce477c022c19edc608b3c6c99c9cabf326fa970393d177e7bb1f1d93a39228f",
+          "locator": "PDF5 Lemma1 and Theorem1",
+          "role": "conditional_theorem",
+          "limits": "固定函数、有限D、可靠种子、函数约束及相应置信参数"
+        },
+        {
+          "path": "wiki/raw/round-45/L224-sui-et-al-2015/extended.pdf",
+          "sha256": "548fec3f929c320d45a682328ad4178ab9753800eafff9f6aee62c7701033a5b",
+          "locator": "PDF12 Lemma11 selected proof",
+          "role": "selected_proof_support",
+          "limits": "仅复核指定归纳段，不等于重证全部附录"
+        }
+      ],
+      "before_verified_path": [
+        "book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+        "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md",
+        "wiki/raw/round-45/README.md",
+        "wiki/raw/round-45/L224-sui-et-al-2015/extended.pdf"
+      ],
+      "boundary_material_kind": "theorem_applicability_limit_not_empirical_refutation",
+      "boundaries": [
+        "噪声对历史条件零均值且一致有界",
+        "高概率约束f(x)，不是逐次观测y及所有伤害",
+        "不直接涵盖变环境、动态恢复与社会许可"
+      ],
+      "repair": "卡片直连主版和扩展版，显式写出噪声条件及f对象",
+      "open_questions": [
+        "模型失配与动态恢复尚需独立资料",
+        "没有完成完整定理重证"
+      ],
+      "before_card_sha256": "b4aaf7ed30e04048c06b16041f4d58270a1a93ef740b4c444c6e1d0112bb3481",
+      "before_snapshot": "wiki/raw/round-49/before/book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+      "audit_reading_notes": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/reading-notes.md",
+      "opposing_material_search_exhaustive": false,
+      "scientific_reversal_found": false,
+      "before_card_line": 19,
+      "after_card_line": 19,
+      "after_card_sha256": "b53efb6b2b92daf7c551137d8f6fb1543ab21be67960feb4757a6dc12934d8ac",
+      "original_claim_retained": true
+    },
+    {
+      "case_id": "R03",
+      "card": "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "claim_text": "给定K[t+1]=(1−δ)K[t]+ηu，0<δ<1且u、η恒定非负，K趋近ηu／δ",
+      "claim_status": "项目模型的条件推论，未新增正式编号",
+      "before_state": "已有直接模型路径和§1定位，地位正确；作为可追查的对照",
+      "finding_class": "trace_already_adequate",
+      "evidence": [
+        {
+          "path": "research/surveys/06-technological-levers-and-organizational-evolution/models.md",
+          "sha256": "d8597547b0120283ab7163b9a2687c0613b4246f55e1a092b2031f4d5ca30d18",
+          "locator": "Section1 fixed point and closed form",
+          "role": "project_model_derivation",
+          "limits": "线性、恒定参数、指定能力单位；不是热力学或经验定律"
+        }
+      ],
+      "before_verified_path": [
+        "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+        "research/surveys/06-technological-levers-and-organizational-evolution/models.md"
+      ],
+      "boundary_material_kind": "outside_assumptions_analytic_case",
+      "boundaries": [
+        "0<δ<1，非负恒定u与η",
+        "K非通用Ordo，η非无量纲热效率",
+        "δ=0、ηu>0时线性增长，不使用ηu/δ"
+      ],
+      "repair": "保留现有地位，仅增加直接章节锚点及核查入口",
+      "open_questions": [
+        "真实对象的变量对应及参数没有被本轮验证"
+      ],
+      "before_card_sha256": "7f6a20cff66c8435e3af1be91f412e957ced2b0b037ae62d422566bea2015578",
+      "before_snapshot": "wiki/raw/round-49/before/book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "audit_reading_notes": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/reading-notes.md",
+      "opposing_material_search_exhaustive": false,
+      "scientific_reversal_found": false,
+      "before_card_line": 9,
+      "after_card_line": 9,
+      "after_card_sha256": "29eb9626bfb00e9776a31386b94a2f248d58d6d5473ed5e384c79d2ad5a811c6",
+      "original_claim_retained": true
+    },
+    {
+      "case_id": "R04",
+      "card": "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "claim_text": "维护频率或替代支持可能改善持续性",
+      "claim_status": "待验证假说",
+      "before_state": "待验证状态与比较条件已有；研究动机及无直接效果证据未就近区分",
+      "finding_class": "direct_effect_evidence_still_missing",
+      "evidence": [
+        {
+          "path": "wiki/raw/round-41/L208-beyond-2026/original.xml",
+          "sha256": "c1ae6d18597e901ced4f6b8a95100d1ed06359f640cab8dec87825c1991fde05",
+          "locator": "Section5 id phy271150-sec-0022; Section6 id phy271150-sec-0023",
+          "role": "motivation_and_open_question_not_direct_validation",
+          "limits": "生理学综述与假说，不能作本书维护干预或备用机制的效果证明"
+        }
+      ],
+      "before_verified_path": [
+        "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+        "book/part-01/03-inputs-maintenance-and-continuity.md",
+        "research/surveys/01-organization-maintenance/primary-followup-2026-11-13/reading-notes.md"
+      ],
+      "boundary_material_kind": "unvalidated_effect_and_unresolved_alternative",
+      "boundaries": [
+        "同任务、质量、期限与扰动",
+        "总投入、切换、风险与备用成本",
+        "适应性间歇不等于失调；存在变化不证明节能或因节能演化"
+      ],
+      "repair": "标清L208仅为动机，保留直接验证缺口",
+      "open_questions": [
+        "维护频率与替代支持可能需要分开检验",
+        "没有同条件干预效果或真实参数"
+      ],
+      "before_card_sha256": "7f6a20cff66c8435e3af1be91f412e957ced2b0b037ae62d422566bea2015578",
+      "before_snapshot": "wiki/raw/round-49/before/book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+      "audit_reading_notes": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/reading-notes.md",
+      "opposing_material_search_exhaustive": false,
+      "scientific_reversal_found": false,
+      "direct_effect_evidence_in_reviewed_trace": false,
+      "before_card_line": 12,
+      "after_card_line": 12,
+      "after_card_sha256": "29eb9626bfb00e9776a31386b94a2f248d58d6d5473ed5e384c79d2ad5a811c6",
+      "original_claim_retained": true
+    },
+    {
+      "case_id": "R05",
+      "card": "book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "claim_text": "L74儿童任务支持区分个人所得与共同任务继续，不唯一识别内在义务，且未研究本章修订机制。",
+      "claim_status": "有限经验支持及识别边界",
+      "before_state": "原件经正文脚注直接可达，卡片未分别定位结果与替代解释",
+      "finding_class": "locator_and_role_clarification",
+      "evidence": [
+        {
+          "path": "wiki/raw/round-15/L74-hamann-et-al-2012/original.pdf",
+          "sha256": "a006ad75d35f140f8d5f281c11d10cc9522d6d72136ac179dc273a4c9bec66e8",
+          "locator": "PDF5/printed141 results and Figure3; PDF7/printed143 control; PDF8/printed144 alternative interpretations",
+          "role": "primary_result_with_internal_controls_and_alternatives",
+          "limits": "年龄非随机操纵；试次比例不等于儿童总体概率；未比较通知修订交接机制"
+        }
+      ],
+      "before_verified_path": [
+        "book/argument-cards/part-03-02-revisable-shared-commitments.md",
+        "book/part-03/02-revisable-shared-commitments.md",
+        "wiki/raw/round-15/L74-hamann-et-al-2012/original.pdf"
+      ],
+      "boundary_material_kind": "within_study_control_and_alternative_explanations",
+      "boundaries": [
+        "特定儿童任务与年龄组、48儿童／24对",
+        "立即帮助与全部支持不混用",
+        "注意及互惠解释未完全排除",
+        "不外推成人制度效果或内在义务的唯一原因"
+      ],
+      "repair": "分别连接PDF5结果与PDF8替代解释，保留未测试修订机制",
+      "open_questions": [
+        "其他任务、不同年龄与成人情境推广未验证"
+      ],
+      "before_card_sha256": "a190a01c23ce2c420fbc46039572c59d935026b59267f9d8ed93ebbd4e9cd015",
+      "before_snapshot": "wiki/raw/round-49/before/book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "audit_reading_notes": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/reading-notes.md",
+      "opposing_material_search_exhaustive": false,
+      "scientific_reversal_found": false,
+      "before_card_line": 24,
+      "after_card_line": 24,
+      "after_card_sha256": "ff7c7a404dda7a6109d0613d49f65d4a5b6986a921cf71711c53eb1db995bc59",
+      "original_claim_retained": true
+    },
+    {
+      "case_id": "R06",
+      "card": "book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "claim_text": "q(L-h-g)>k对应所设调整机制的成本改善",
+      "claim_status": "条件核算",
+      "before_state": "变量定义在正文与研究讨论中可达，公式行未就近直连项目推导；邻近外部论文用途需分清",
+      "finding_class": "locator_and_role_clarification",
+      "evidence": [
+        {
+          "path": "research/reviews/16-shared-commitments.md",
+          "sha256": "57f4d9a2123500cfc4cb7eb14d13503a43cb28db6873250ebaf9dcea9d8558e9",
+          "locator": "Heading 修改安排的净收益与参与激励分开; qL versus k+q(h+g)",
+          "role": "project_cost_derivation_not_L73_or_L74_result",
+          "limits": "无现实参数，需同成本尺度及其余后果相同；总成本与参与激励分开"
+        }
+      ],
+      "before_verified_path": [
+        "book/argument-cards/part-03-02-revisable-shared-commitments.md",
+        "book/part-03/02-revisable-shared-commitments.md"
+      ],
+      "boundary_material_kind": "analytic_boundary_and_unestimated_parameters",
+      "boundaries": [
+        "q为一期事件概率，k为无论事件发生与否的每期成本",
+        "L、h、g在事件发生时计入，单位可比较",
+        "q=0且k>0时无模型内成本改善",
+        "没有实际参数或执行激励证明"
+      ],
+      "repair": "公式行直连变量定义与推导，标清项目核算身份",
+      "open_questions": [
+        "现实概率和成本、各方负担与参与激励均未估计"
+      ],
+      "before_card_sha256": "a190a01c23ce2c420fbc46039572c59d935026b59267f9d8ed93ebbd4e9cd015",
+      "before_snapshot": "wiki/raw/round-49/before/book/argument-cards/part-03-02-revisable-shared-commitments.md",
+      "audit_reading_notes": "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/reading-notes.md",
+      "opposing_material_search_exhaustive": false,
+      "scientific_reversal_found": false,
+      "before_card_line": 15,
+      "after_card_line": 15,
+      "after_card_sha256": "ff7c7a404dda7a6109d0613d49f65d4a5b6986a921cf71711c53eb1db995bc59",
+      "original_claim_retained": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_id": "L240",
+  "role": "既有双人定位任务的目标匹配和固定分量汇总边界，仅用以对照任务范围",
+  "files": [
+    {
+      "path": "../round-55/L240-wisdom-dyads/metadata.json",
+      "bytes": 3127,
+      "sha256": "5f862972f97f6716352521afe5664a985b6cbc1a5815f1a9384cf0bb30c043f8"
+    },
+    {
+      "path": "../round-56/comparison-results.json",
+      "bytes": 90374,
+      "sha256": "f61df63aec31223e2313cd84d48062b27bd006123408c6ab5e89aea60f89817f"
+    }
+  ]
+}

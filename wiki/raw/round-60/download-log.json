@@ -1,0 +1,128 @@
+[
+  {
+    "requested": "L249-capable/article.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6439640/",
+    "error": "('https://pmc.ncbi.nlm.nih.gov/articles/PMC6439640/', b'<!doctype html><html lang=\"en-US\" dir=\"ltr\"><head><base href=\"https://www.google')"
+  },
+  {
+    "path": "L250-prosper/article.pdf",
+    "url": "https://www.iapb.org/wp-content/uploads/2020/10/PROSPER-RCT-Study_Lancet-2018.07.23.pdf",
+    "final_url": "https://www.iapb.org/wp-content/uploads/2020/10/PROSPER-RCT-Study_Lancet-2018.07.23.pdf",
+    "bytes": 622577,
+    "sha256": "447bd60da2045d166827642ea224bf5c7c5a048c31af5784bcafa6a6041c7d66",
+    "retrieved_utc": "2026-11-13T09:57:37.724040+00:00"
+  },
+  {
+    "path": "L250-prosper/trial.json",
+    "url": "https://clinicaltrials.gov/api/v2/studies/NCT03228199",
+    "final_url": "https://clinicaltrials.gov/api/v2/studies/NCT03228199",
+    "bytes": 23760,
+    "sha256": "9f7fdaaa05aca745513a99d2c917f7b729654b66e8afab419be874fa32a3047a",
+    "retrieved_utc": "2026-11-13T09:57:35.131940+00:00"
+  },
+  {
+    "path": "L251-prosper-ii/article.pdf",
+    "url": "https://bjo.bmj.com/content/bjophthalmol/early/2026/04/07/bjo-2025-328563.full.pdf",
+    "final_url": "https://bjo.bmj.com/content/bjophthalmol/early/2026/04/07/bjo-2025-328563.full.pdf",
+    "bytes": 566777,
+    "sha256": "2e39ad465e4fc74a7ab72501c43a1797b3a32fb0fb2b61f42fd8da04df6f1fd5",
+    "retrieved_utc": "2026-11-13T09:57:42.700265+00:00"
+  },
+  {
+    "path": "L252-burkina/working-paper.pdf",
+    "url": "https://documents1.worldbank.org/curated/en/099215111282254210/pdf/IDU09ee54b690865904f71089a60d76ad621601c.pdf",
+    "final_url": "https://documents1.worldbank.org/curated/en/099215111282254210/pdf/IDU09ee54b690865904f71089a60d76ad621601c.pdf",
+    "bytes": 1363494,
+    "sha256": "bd3c85d715cc588b2fbb6da54ec4bcd823413f20dc1f5490b1abb10c3108b914",
+    "retrieved_utc": "2026-11-13T09:57:38.086171+00:00"
+  },
+  {
+    "path": "L252-burkina/baseline-catalog.html",
+    "url": "https://microdata.worldbank.org/catalog/5887",
+    "final_url": "https://microdata.worldbank.org/catalog/5887",
+    "bytes": 59550,
+    "sha256": "2856baeeec0660d7c4017526add8f41cd346e51462c65da795442a529728c4c4",
+    "retrieved_utc": "2026-11-13T09:57:36.483655+00:00"
+  },
+  {
+    "requested": "article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6439640/fullTextXML",
+    "error": "500 Server Error:  for url: https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6439640/fullTextXML"
+  },
+  {
+    "requested": "article.pdf",
+    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2720136/jamainternal_szanton_2019_oi_180102.pdf",
+    "error": "403 Client Error: Forbidden for url: https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2720136/jamaintern"
+  },
+  {
+    "requested": "article.xml",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6439640.1/PMC6439640.1.xml",
+    "error": "404 Client Error: Not Found for url: https://pmc-oa-opendata.s3.amazonaws.com/PMC6439640.1/PMC6439640.1.xml"
+  },
+  {
+    "requested": "article.json",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC6439640/unicode",
+    "error": "Expecting value: line 1 column 2 (char 1)"
+  },
+  {
+    "path": "L249-capable/article.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6439640/?report=classic",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6439640/?report=classic",
+    "bytes": 190453,
+    "sha256": "c5b33b978e1c39eaa21cae55906cc3d221548e4ccb73a1607ba5e77a8bb0c845",
+    "retrieved_utc": "2026-11-13T09:59:11.566981+00:00"
+  },
+  {
+    "path": "L252-burkina/access.html",
+    "url": "https://microdata.worldbank.org/catalog/5887/get-microdata",
+    "final_url": "https://microdata.worldbank.org/catalog/5887/get-microdata",
+    "bytes": 31080,
+    "sha256": "343ab6e9b53801b9b8035c88eb0bf87a89b1e6965a5aa45779bceac062fff027",
+    "retrieved_utc": "2026-11-13T09:59:12.441379+00:00"
+  },
+  {
+    "requested": "L253-wheels/article.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062355/?report=classic",
+    "error": "payload missing expected content"
+  },
+  {
+    "path": "L249-capable/trial.json",
+    "url": "https://clinicaltrials.gov/api/v2/studies/NCT01576133",
+    "final_url": "https://clinicaltrials.gov/api/v2/studies/NCT01576133",
+    "bytes": 6152,
+    "sha256": "12445de7523a32ce621dc6151e32dec3069dd59391bfcd43993410ac2698c90e",
+    "retrieved_utc": "2026-11-13T10:00:24.846678+00:00"
+  },
+  {
+    "path": "L251-prosper-ii/trial.json",
+    "url": "https://clinicaltrials.gov/api/v2/studies/NCT04629820",
+    "final_url": "https://clinicaltrials.gov/api/v2/studies/NCT04629820",
+    "bytes": 12323,
+    "sha256": "287d681abff0a3e6cbb8cebcb961b0ba25fe0148799fa1e2adff6a890d82834f",
+    "retrieved_utc": "2026-11-13T10:00:25.752919+00:00"
+  },
+  {
+    "path": "L252-burkina/microdata-access.html",
+    "url": "https://microdata.worldbank.org/catalog/5887/get-microdata",
+    "final_url": "https://microdata.worldbank.org/catalog/5887/get-microdata",
+    "bytes": 31080,
+    "sha256": "0fc4057442e226eb62020cc5f3ce0949c8d78874d06047d44a1a4a3e5f9fd862",
+    "retrieved_utc": "2026-11-13T10:00:25.451075+00:00"
+  },
+  {
+    "path": "L253-wheels/article.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062355/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062355/?report=xml",
+    "bytes": 181719,
+    "sha256": "7cfbe57eaa48173dddc61054c6dabae9c99d360e985dd4f8de9f7cadcddb9993",
+    "retrieved_utc": "2026-11-13T10:00:50.404543+00:00"
+  },
+  {
+    "path": "L254-wheel-interviews/abstract.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20173426%20AND%20SRC%3AMED&resultType=core&format=xml",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20173426%20AND%20SRC%3AMED&resultType=core&format=xml",
+    "bytes": 8851,
+    "sha256": "5b2a07acab31429bbe31c94c2211f1a13ee911e7095156bfcee84b1dda11fbb4",
+    "retrieved_utc": "2026-11-13T10:05:39.212845+00:00"
+  }
+]

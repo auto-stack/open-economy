@@ -1,0 +1,37 @@
+{
+  "id": "L226",
+  "source_id": "L226",
+  "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+  "doi": "10.1038/sdata.2016.18",
+  "publication_year": 2016,
+  "adopted_file": "original.pdf",
+  "bytes": 254899,
+  "sha256": "cdddd9f4808f7e3e1f013139c3915ef4d7cdccb008fa947ef5f72b4c7b6ffde7",
+  "source_url": "https://www.nature.com/articles/sdata201618.pdf",
+  "final_url": "https://www.nature.com/articles/sdata201618.pdf?error=cookies_not_supported&code=bc36c8bc-1fc8-4620-b27b-3823ab3ac040",
+  "retrieved_at_utc": "2026-11-13T03:12:49.041369+00:00",
+  "version": "Publisher PDF, 9pages; companion2019 addendum separately retained",
+  "reading_scope": "PDF1 introduction,3–4 machine actionability and principles,5 principles before implementation; examples only located; PDF4 visually checked",
+  "source_type": "high-level guiding principles; not a technical standard or causal experiment",
+  "content_status": "complete document archived; targeted reading only",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "new_publication_in_2026": false,
+  "correction_comment_check": "PubMed publication links and retained publisher records examined; linked records classified below; not exhaustive retraction surveillance",
+  "pdf_pages": 9,
+  "addendum": {
+    "doi": "10.1038/s41597-019-0009-6",
+    "publication_date": "2019-03-19",
+    "kind": "URL relocation addendum, not withdrawal of the original principles",
+    "file": "addendum.pdf",
+    "bytes": 695015,
+    "sha256": "11399eb6a0ba4a802b2c92eeb03f79d39cdf82258c31942ed0905fb8c2f08222",
+    "pdf_pages": 2,
+    "reading_scope": "PDF1 body and publication date visually checked; PDF2 author list only"
+  },
+  "extraction_cautions": [
+    "Main PDF4 principles box visually labelled Box1, extracted text says Box2; cite page rather than conflicting box number.",
+    "Addendum PDF1 visual publication date2019-03-19; extracted layer contains Published: xx xx xxxx; do not infer a different publication date."
+  ]
+}

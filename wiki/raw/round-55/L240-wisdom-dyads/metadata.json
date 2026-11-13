@@ -1,0 +1,75 @@
+{
+  "source_id": "L240",
+  "title": "Collective benefit in joint perceptual judgments: Partial roles of shared environments, meta-cognition, and feedback",
+  "authors": [
+    "Pavel V. Voinov",
+    "Natalie Sebanz",
+    "Günther Knoblich"
+  ],
+  "journal": "Cognition",
+  "dates_in_archived_xml": [
+    {
+      "type": "ppub",
+      "month": "8",
+      "year": "2019"
+    }
+  ],
+  "doi": "10.1016/j.cognition.2019.03.016",
+  "pmcid": "PMC6562237",
+  "doi_url": "https://doi.org/10.1016/j.cognition.2019.03.016",
+  "pmc_version": "PMC6562237.1",
+  "research_date_local": "2026-11-13",
+  "read_scope": "实验1的Design and procedure、Absolute error与图2–3，实验2的Procedure及相同结果段，实验3a、3b与General discussion限定适用范围。BioC段53–54、69–71、85、87、103–105、125、147、156–160。区分绝对误差与误差变异。",
+  "artifacts": [
+    {
+      "file": "article.jats.xml",
+      "bytes": 161370,
+      "sha256": "c9faf1643608f95477f636e41b2ff9b1b59f35a24a1ec66e9b2357c960cf331d",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/PMC6562237.1.xml",
+      "retrieved_utc": "2026-11-13T06:08:37.711287+00:00"
+    },
+    {
+      "file": "original.json",
+      "bytes": 138659,
+      "sha256": "d6d44cd71d23bc50cb1fbd3f865d5a3777c30fa1eb4fb033fc84a207f0c6d23b",
+      "source_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC6562237/unicode",
+      "retrieved_utc": "2026-11-13T06:06:57.931441+00:00"
+    },
+    {
+      "file": "original.txt",
+      "bytes": 81577,
+      "sha256": "16207ffe15e15601ea8595a790d021a85576b32646cb7b755bfb60202fae4442",
+      "derived_locally_from": "original.json",
+      "format_note": "BioC全文段落按原序从0编号；数学标记以XML为准"
+    },
+    {
+      "file": "gr1.jpg",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr1.jpg",
+      "retrieved_utc": "2026-11-13T06:17:48.344759+00:00",
+      "bytes": 16391,
+      "sha256": "0de11771d7c80fe57caa95004234b17c83e2cdd01c660d3977124ed24633ca10"
+    },
+    {
+      "file": "gr2.jpg",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr2.jpg",
+      "retrieved_utc": "2026-11-13T06:17:47.476603+00:00",
+      "bytes": 31211,
+      "sha256": "a93ced01d37918dd9187c4cf5abcf0fdef6c4dc05bf6ba02640bed10365593f7"
+    },
+    {
+      "file": "gr3.jpg",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr3.jpg",
+      "retrieved_utc": "2026-11-13T06:17:47.883141+00:00",
+      "bytes": 36508,
+      "sha256": "fd0ba60a12b412a30667cb129ef8f186882e25d729ff6bc754496aa87409ddf9"
+    },
+    {
+      "file": "mmc2.xlsx",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/mmc2.xlsx",
+      "retrieved_utc": "2026-11-13T06:23:28.173744+00:00",
+      "bytes": 3078309,
+      "sha256": "2bd19b101608ebd2d212327f2809f404bd960191bbb393f2e930c90f2d2d6842"
+    }
+  ],
+  "data_check": "实验1正文与图3A的基准存在差异。已按补充数据S2 Experiment1表作有限复核，方法与边界见专题voinov-baseline-check.md。"
+}

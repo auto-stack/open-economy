@@ -1,0 +1,50 @@
+{
+  "source_id": "L239",
+  "title": "Optimally interacting minds",
+  "authors": [
+    "Bahador Bahrami",
+    "Karsten Olsen",
+    "Peter E. Latham",
+    "Andreas Roepstorff",
+    "Geraint Rees",
+    "Chris D. Frith"
+  ],
+  "journal": "Science (New York, N.Y.)",
+  "dates_in_archived_xml": [
+    {
+      "type": "ppub",
+      "day": "27",
+      "month": "8",
+      "year": "2010"
+    }
+  ],
+  "doi": "10.1126/science.1185718",
+  "pmcid": "PMC3371582",
+  "doi_url": "https://doi.org/10.1126/science.1185718",
+  "pmc_version": "PMC3371582.1",
+  "research_date_local": "2026-11-13",
+  "read_scope": "期刊印刷页1081–1085及作者手稿正文实验1–4、图1–4。核对初始个体选择、联合决策、加噪比较及效应方向。只采用群体与较强个体的敏感度比较和模型限制。",
+  "artifacts": [
+    {
+      "file": "article.jats.xml",
+      "bytes": 52137,
+      "sha256": "c8c5038ede130f9bbee3f9e6cf2a3f25626d6f802e09c810188d47316587bec8",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3371582.1/PMC3371582.1.xml",
+      "retrieved_utc": "2026-11-13T06:08:37.711053+00:00"
+    },
+    {
+      "file": "original.pdf",
+      "bytes": 776884,
+      "sha256": "943e6e9caa50306748374825bca123622b566ced60de38539476d88f5af408bd",
+      "source_url": "https://pdodds.w3.uvm.edu/files/papers/others/2010/bahrami2010a.pdf",
+      "retrieved_utc": "2026-11-13T06:06:59.004307+00:00"
+    },
+    {
+      "file": "original.txt",
+      "bytes": 40199,
+      "sha256": "a7c3cb79e139e163d4553e972772c4da404da2ef01b9db16b803234d1873267e",
+      "derived_locally_from": "original.pdf",
+      "format_note": "PDF文字层，含邻文和封面"
+    }
+  ]
+}

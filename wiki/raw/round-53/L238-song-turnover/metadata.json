@@ -1,0 +1,19 @@
+{
+  "source_id": "L238",
+  "title": "Cohort Turnover and Operational Performance: The July Phenomenon in Teaching Hospitals",
+  "authors_or_creator": "Hummy Song, Robert S. Huckman, Jason R. Barro (2016-09-09)",
+  "doi": null,
+  "research_date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "working-paper.pdf",
+      "sha256": "e1c56c65d45e63e2b25b3df5a517f3bd05f45a459213496ac6f2f3190235eb7d",
+      "bytes": 707622,
+      "source_url": "https://www.hbs.edu/ris/Publication%20Files/16-039_a0651b04-18be-4a91-9bf9-a1d4cb12c540.pdf",
+      "format": "pdf"
+    }
+  ],
+  "read_scope": "HBS Working Paper 16-039，38页。题名页与摘要、交替时间说明、PDF12 §4、PDF20–21 §5.1。后稿题录仅作版本交叉核对。",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md",
+  "later_abstract_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3037753"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "L216",
+  "title": "Optimality and evolutionary tuning of the expression level of a protein",
+  "authors": [
+    "Erez Dekel",
+    "Uri Alon"
+  ],
+  "doi": "10.1038/nature03842",
+  "publication_year": 2005,
+  "publication_date": "2005-07-28",
+  "adopted_file": "original.pdf",
+  "bytes": 291585,
+  "sha256": "777a6b5082875deba2501cdc93c68b898356a659e2ba6cb17776090d40a6c444",
+  "pdf_pages": 5,
+  "source_url": "https://metabolic-economics.de/pages/seminar_regulationsnetze_2005/literatur/Dekel_Optimality.pdf",
+  "final_url": "https://metabolic-economics.de/pages/seminar_regulationsnetze_2005/literatur/Dekel_Optimality.pdf",
+  "retrieved_at_utc": "2026-11-13T01:53:22.495764+00:00",
+  "version": "Journal typesetting Nature436,588–592; research-seminar mirror; title/authors/DOI/printed pages checked; publisher PDF attempt returned HTML not PDF",
+  "content_status": "full_text_targeted_reading",
+  "reading_scope": "PDF1–4 setup, cost/benefit measurements, Eq4, evolution experiments and Methods; PDF3 Eq4 and Figure4 visually checked; SI and references not fully read",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "info_quantity_directly_measured": false
+}

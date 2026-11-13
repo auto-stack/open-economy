@@ -1,0 +1,31 @@
+{
+  "id": "L212",
+  "title": "Semantic Information in a Model of Resource Gathering Agents",
+  "authors": [
+    "Damian R. Sowinski",
+    "Jonathan Carroll-Nellenback",
+    "Robert N. Markwick",
+    "Jordi Piñero",
+    "Marcelo Gleiser",
+    "Artemy Kolchinsky",
+    "Gourab Ghoshal",
+    "Adam Frank"
+  ],
+  "doi": "10.1103/PRXLife.1.023003",
+  "publication_year": 2023,
+  "adopted_file": "original.pdf",
+  "sha256": "d11f45757144458bdd73c01c872198128397d446ca681a3b8a946eb82fbfe233",
+  "bytes": 1927028,
+  "pdf_pages": 14,
+  "source_url": "https://artemyk.github.io/assets/pdf/papers/Sowinski-SemanticInformationInAModelOfResourceGatheringAgents.pdf",
+  "final_url": "https://artemyk.github.io/assets/pdf/papers/Sowinski-SemanticInformationInAModelOfResourceGatheringAgents.pdf",
+  "retrieved_at_utc": "2026-11-13T01:26:12.810844+00:00",
+  "version": "Author-hosted journal typesetting PRX Life1,023003; published2023-10-17; CC BY4.0 in original",
+  "content_status": "full_text_targeted_reading",
+  "reading_scope": "PDF1–8 targeted: abstract, II model, III results, IV discussion on page8; appendices not fully read; PDF5 Eqs4–5 and Figures2–3 visually checked",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "new_publication_in_2026": false
+}

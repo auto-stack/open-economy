@@ -1,0 +1,23 @@
+{
+  "id": "L196",
+  "doi": "10.1113/JP286883",
+  "original_publication_year": 2024,
+  "fetched_at_utc": "2026-11-12T18:07:29.883810+00:00",
+  "role": "purposive calibration; not formal included study",
+  "title": "Situating homeostasis in organisms: maintaining organization through time",
+  "authors": "William Bechtel; Leonardo Bich",
+  "reading_status": "partial_tool_text_only",
+  "reading_scope": "Publisher abstract/abstract-figure text and repository tool excerpts labelled author-copy pages13,15; original PDF unavailable; journal page mapping unverified",
+  "adopted_file": "partial-tool-text.txt",
+  "actual_version": "tool text only; repository advance-layout pagination differs from final journal6003–6020",
+  "retraction_or_correction_check": "not systematically completed",
+  "adopted_file_sha256": "707cf3a93f3e1c7a32f9c4323c40a62f5201669011349eff546b2483339faf44",
+  "download_status": "original_PDF_not_obtained",
+  "pmid": "39383321",
+  "pmcid": "not established; wrong PMC11613639 rejected",
+  "provenance_note": "EuropePMC known-DOI response says not inPMC; discovery-profile identifiers were not reliable",
+  "tool_excerpt_provenance": [
+    "discovery/search-discovery-2.txt",
+    "discovery/search-discovery-3.txt"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "date_local": "2026-11-13",
+  "kind": "已发表计数或同案原文核对，未使用个人或案件微观数据重跑分析。",
+  "checks": [
+    {
+      "source": "L278",
+      "rulings": [
+        {
+          "citation": "[2014] EWHC 1088 (TCC)",
+          "paragraphs": "168–169",
+          "result": "确认与缺陷有关的违约"
+        },
+        {
+          "citation": "[2015] EWCA Civ 407",
+          "paragraphs": "140–143",
+          "result": "承包商主要上诉及业主关于测试条款的交叉上诉均获准，仅就后者判10英镑名义赔偿"
+        },
+        {
+          "citation": "[2017] UKSC 59",
+          "paragraphs": "23–32, 45–54",
+          "result": "业主上诉获准，恢复一审命令"
+        }
+      ],
+      "agreed_remedial_cost_eur": 26250000,
+      "remediation_started": 2014,
+      "limit": "协议修复在终审前，未观察支付流水和续约。"
+    },
+    {
+      "source": "L279",
+      "input": "L279-crowd-judging/author.pdf",
+      "location": "本地PDF第16页，表2第2列，另见第10页脚注10",
+      "same_case_difference_percentage_points": 4.07,
+      "denominator": "投给卖方的单票概率；带案件固定效应。不到100/超过600000为带申诉标记案件，不当作完整申诉率。"
+    },
+    {
+      "source": "L282",
+      "input": "L282-appealmod/author.pdf",
+      "locations": "本地PDF第21页表3及第23–24页结果",
+      "conditions": [
+        {
+          "group": "usual",
+          "initial": 438,
+          "visible": 438,
+          "replied": 263,
+          "granted": 48,
+          "not_visible": 0,
+          "percent_visible_of_initial": 100.0,
+          "percent_replied_of_initial": 60.05,
+          "percent_replied_of_visible": 60.05,
+          "percent_granted_of_initial": 10.96
+        },
+        {
+          "group": "added_steps",
+          "initial": 442,
+          "visible": 131,
+          "replied": 105,
+          "granted": 42,
+          "not_visible": 311,
+          "percent_visible_of_initial": 29.64,
+          "percent_replied_of_initial": 23.76,
+          "percent_replied_of_visible": 80.15,
+          "percent_granted_of_initial": 9.5
+        }
+      ],
+      "reported_test_p": 0.547,
+      "limit": "可见、获回复、准许是不同状态；不可见不等于无理申诉，未检验等效。"
+    },
+    {
+      "source": "L281",
+      "input": "L281-coparenting/reading-record.md",
+      "starting_families": [
+        35,
+        36
+      ],
+      "contested_hearings": [
+        4,
+        26
+      ],
+      "reported_weekly_child_visit_pct": [
+        30,
+        9
+      ],
+      "n_frequency_test_child_visit": 47,
+      "reported_weekly_interparental_discussion_pct": [
+        29,
+        10
+      ],
+      "n_frequency_test_discussion": 42,
+      "p_all_frequency_categories_discussion": 0.18,
+      "limit": "调解、通常程序顺序；按同住家长报告，p取自各频率类别的整体检验。"
+    }
+  ]
+}

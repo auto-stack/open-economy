@@ -1,0 +1,118 @@
+{
+  "date_local": "2026-11-13",
+  "checks": {
+    "L284": {
+      "locator": "accepted.pdf PDF 8–9, 12–16, 26; Table 1",
+      "months": [
+        0,
+        4,
+        8,
+        11
+      ],
+      "participant_ids_by_wave": [
+        [
+          "R1",
+          "R2",
+          "R3",
+          "R4",
+          "R5"
+        ],
+        [
+          "R1",
+          "R3",
+          "R4",
+          "R5",
+          "R6",
+          "R7"
+        ],
+        [
+          "R1",
+          "R3",
+          "R4",
+          "R7",
+          "R8"
+        ],
+        [
+          "R1",
+          "R2",
+          "R3",
+          "R4",
+          "R5",
+          "R6",
+          "R7",
+          "R8",
+          "R9",
+          "R10",
+          "R11",
+          "R12",
+          "R13"
+        ]
+      ],
+      "reported_quits_for_admin_burden": 2,
+      "note": "R7首次发言已经是第2轮。总数、出席、退出是不同口径。"
+    },
+    "L285": {
+      "locator": "supplement tables S2–S5 and journal pp. 556–560",
+      "new_interviews": [
+        14,
+        13,
+        12
+      ],
+      "new_leavers": 2,
+      "exit_interviews": {
+        "separately_recruited": 8,
+        "also_in_new_cohort": 1,
+        "total": 9
+      },
+      "distinct_interviewees": 22,
+      "participant_example": "VI的S4前两格来自同一人，第3格是VL；VI第三期另见正文第559页。结局不依退出者同字母拼接。"
+    },
+    "L286": {
+      "locator": "printed pp. 23–25, 53–54",
+      "new_matches": 356,
+      "eligible_post_closure_before_15_months": 151,
+      "post_closure_responses": {
+        "agency_specialist": 129,
+        "parent_or_guardian": 110,
+        "mentor": 99,
+        "young_person": 73
+      },
+      "three_adult_interview_cases": 36,
+      "one_year_understood_as_completion_cases": 6,
+      "note": "三方深访排除机构已报明确外因的结案，儿童不是三位深访者之一。"
+    },
+    "L287": {
+      "locator": "printed pp. 10–11, 18–19, 23–24, 29",
+      "assigned": 1138,
+      "baseline": 1107,
+      "followed_up": 959,
+      "analyzed": {
+        "offer": 487,
+        "waitlist": 472
+      },
+      "actually_matched_in_offer_group": 378,
+      "follow_up_months": 18,
+      "comparison": "可安排配对与候补，按原分配组；不同于L286队列。"
+    },
+    "L288": {
+      "locator": "printed pp. 748–750, Table 2; independent visual check of PDF page 8",
+      "applications_of_interest": {
+        "participated": 720,
+        "withdrew": 239
+      },
+      "located": {
+        "participated": 382,
+        "withdrew": 174
+      },
+      "responses": {
+        "participated": 212,
+        "withdrew": 118
+      },
+      "civil_rights_active_through_period_1964_to_1970_percent": {
+        "participated": 90,
+        "withdrew": 74
+      },
+      "note": "回报的是本时段内有参与，并非逐年不间断。OCR表头、百分数及双栏顺序须核对扫描原件。"
+    }
+  }
+}

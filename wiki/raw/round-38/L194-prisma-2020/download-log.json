@@ -1,0 +1,7 @@
+{
+  "url": "https://www.bmj.com/content/372/bmj.n71",
+  "attempted_utc": "2026-11-12T15:15:36.077841+00:00",
+  "status": "failed",
+  "error": "HTTP Error 403: Forbidden",
+  "payload_status": "original_not_obtained"
+}

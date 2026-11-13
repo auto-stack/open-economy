@@ -1,5 +1,21 @@
 # 持续输入、Ordo杠杆与组织演进
 
+第59轮已将两轮演进研究写入第一部分第5章，用交接、技能重构和实际履行比较不同尺度的改变。[章节讨论稿](../../../book/part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](../../../book/argument-cards/part-01-05-how-organizations-evolve.md)
+
+第58轮已补入团队换人、开源项目继任、技能再传和现场规则修订的过程证据。[组织怎样演进 · 综述0.2](variation-transmission-and-selection/review-2026.md) · [六组来源与六项核查](variation-transmission-and-selection/handover-evidence.md)
+
+2026年11月13日演进首轮：[变体、传递与组织演进](variation-transmission-and-selection/README.md)形成[资料综述0.1](variation-transmission-and-selection/review-2026-v0.1.snapshot.md)与[P1.5证据接口](variation-transmission-and-selection/chapter-evidence.md)，区分学习、群体传播、成员更替与跨代演化。竞争和合作按层级比较；首轮关系继任证据仍缺，未新增完整书章。
+
+2026年11月13日书稿交付：[接口、记忆与技术杠杆](../../../book/part-01/04-interfaces-memory-and-technological-levers.md)及[论证卡](../../../book/argument-cards/part-01-04-interfaces-memory-and-technological-levers.md)已形成；[八组六项核查](explanations-memory-and-revision/chapter-claims-2026-11-13.md)保留成本与验证边界。当前14章，原研究资料及综述0.4正文不改。
+
+2026年11月13日格式试用：[六项核查格式](../../../shared/source-check-format.md)与[两组争议案例](explanations-memory-and-revision/disputed-sources-2026-11-13/README.md)分别记录来源作用、说话者、争点和未知项；[专题综述0.4](explanations-memory-and-revision/review-2026.md)保留原版本，未估计真实维护成本。
+
+2026年11月13日真实资料补充：[三卡六项核查](explanations-memory-and-revision/real-card-audit-2026-11-13/README.md)已回查原件与推导，三张卡补明确定位和来源作用，待验证假说不升级；[专题综述0.3](explanations-memory-and-revision/review-2026.md)保留0.1、0.2快照。
+
+2026年11月13日内部对照补充：[三种保存方式](explanations-memory-and-revision/internal-comparison-2026-11-13/README.md)已执行，形成正确索引、完整材料自建索引以及错误关联的比较；[专题综述升为0.2](explanations-memory-and-revision/review-2026.md)。没有真实用户计时，组织成本和维护仍须计入。
+
+2026年11月13日补充：[解释的记忆、接口与共同修订](explanations-memory-and-revision/README.md)作为本专题的基础分支，形成[资料综述0.1](explanations-memory-and-revision/review-2026.md)。承接有限检验与维护，研究解释连同反向证据、误差、适用边界怎样保存、核验和复用；[章级接口](explanations-memory-and-revision/chapter-evidence.md)供第一部分第4单元，尚未新增完整书章。下文11月12日的正文及基线叙述保留其历史语境。
+
 日期：2026年11月12日。回应用户提出的两条解释轴：可持续的Ordo输入及吸收效率；能够提升物质生产、信息交流和组织效率的Ordo杠杆。将其作为全书动态主线开展研究，暂不作为已验证且穷尽所有演进因素的公理。
 
 **阶段主张：持续的可用支持让组织能够运行与维护；工具、知识和组织方法改变可实现的任务及其投入要求；学习、传播、选择与制度安排决定这些改进能否被保留、扩散和继续发展。** 用户的两条线可分别研究维持条件和能力改变，再通过演进机制连接。

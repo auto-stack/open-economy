@@ -1,0 +1,26 @@
+{
+  "source": "L258-shelved-goals/osf/diarydt.RData",
+  "sha256": "6fa166fe8da15732c142e089333e73c27f85418afd2236c747dac8af082abb12",
+  "purpose": "独立描述，窗口为本书所选。时间索引0–7和24–31对应计划内第1–8及25–32次测量。排除补测时点。每个窗口只用两题都有效的记录，并要求同一人在两窗口各至少一条。先取窗口个人均值，再按人等权求均值和差。不进行显著性检验。",
+  "columns": [
+    "s_value",
+    "s_commitment"
+  ],
+  "raw_rows": 6897,
+  "people": 251,
+  "rows_with_both": 6854,
+  "unique_id_time": true,
+  "first_window_people": 251,
+  "last_window_people": 218,
+  "paired_people": 218,
+  "mean_difference_late_minus_early": {
+    "s_value": -3.527326,
+    "s_commitment": -0.805324
+  },
+  "scale_note": "字典标为0–100，公开R表这两列的有效原值为1–101。保留原始刻度，仅报告差值；常数平移不会改变差值。论文的多层模型采用其自身估计，不由本核查替代。",
+  "study_vs_audit": {
+    "article_diary": 251,
+    "article_exit": 215,
+    "audit_paired": 218
+  }
+}

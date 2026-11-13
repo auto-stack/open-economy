@@ -1,0 +1,81 @@
+{
+  "round": 60,
+  "research_round": 65,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L249",
+      "title": "Szanton et al. (2019), Effect of a Biobehavioral Environmental Approach on Disability Among Low-Income Older Adults",
+      "doi": "10.1001/jamainternmed.2018.6026",
+      "version": "PMC author manuscript; ClinicalTrials.gov NCT01576133",
+      "read_scope": "干预、结局、表1–2与局限。五个月ADL调整均值比0.70（0.54–0.93）。采用整组方案效果和自报困难。",
+      "files": [
+        "L249-capable/article.html",
+        "L249-capable/trial.json"
+      ]
+    },
+    {
+      "source_id": "L250",
+      "title": "Reddy et al. (2018), Effect of providing near glasses on productivity among rural Indian tea workers with presbyopia (PROSPER)",
+      "doi": "10.1016/S2214-109X(18)30329-2",
+      "version": "Journal PDF with supplementary appendix, hosted by IAPB; ClinicalTrials.gov NCT03228199",
+      "read_scope": "PDF 1–5，表2在第5页。采茶量比较两组前后增量之差，单位公斤／工作日。",
+      "files": [
+        "L250-prosper/article.pdf",
+        "L250-prosper/article.txt",
+        "L250-prosper/trial.json"
+      ]
+    },
+    {
+      "source_id": "L251",
+      "title": "Pant et al. (2026), PROductivity Study of Presbyopia Elimination in gaRment workers (PROSPER II)",
+      "doi": "10.1136/bjo-2025-328563",
+      "version": "BMJ publisher PDF; ClinicalTrials.gov NCT04629820",
+      "read_scope": "PDF 2–3、5、7。制衣效率、组长按佩戴率获激励、调整模型与表2。个体数据需申请。",
+      "files": [
+        "L251-prosper-ii/article.pdf",
+        "L251-prosper-ii/article.txt",
+        "L251-prosper-ii/trial.json"
+      ]
+    },
+    {
+      "source_id": "L252",
+      "title": "Ajayi, Dao & Koussoubé (2022), The Effects of Childcare on Women and Children: Evidence from a Randomized Evaluation in Burkina Faso",
+      "doi": "10.1596/1813-9450-10239",
+      "version": "World Bank Policy Research Working Paper 10239; World Bank Microdata Library baseline catalogue 5887",
+      "read_scope": "PDF 12–14、37（表3）、41（表10）。按站点分配，前24小时工时，0.613小时×60≈37分钟。目录为基线，未获得个体结局数据。",
+      "files": [
+        "L252-burkina/access.html",
+        "L252-burkina/baseline-catalog.html",
+        "L252-burkina/microdata-access.html",
+        "L252-burkina/working-paper.pdf",
+        "L252-burkina/working-paper.txt"
+      ]
+    },
+    {
+      "source_id": "L253",
+      "title": "Levy et al. (2010), Use of Power Assist-Wheels Results in Increased Distance Traveled Compared to Conventional Manual Wheeling",
+      "doi": "10.1097/PHM.0b013e3181e72286",
+      "version": "PMC author manuscript, HTML",
+      "read_scope": "同人固定顺序4／8／4周。方法、表1、表2与局限。描述均值1.48、2.04、1.42公里／日；未把其与模型系数混算。",
+      "files": [
+        "L253-wheels/article.html"
+      ]
+    },
+    {
+      "source_id": "L254",
+      "title": "Giacobbi et al. (2010), Wheelchair Users’ Perceptions of and Experiences With Power Assist Wheels",
+      "doi": "10.1097/PHM.0b013e3181c9d7df",
+      "version": "Europe PMC bibliographic record with author abstract; PMID 20173426",
+      "read_scope": "仅采用结构式摘要。与L253为同一队列。报告自述新活动及装车、续航困难，未统计逐次活动。",
+      "files": [
+        "L254-wheel-interviews/abstract.xml"
+      ]
+    }
+  ],
+  "derived": {
+    "published_tables": "published-tables.json",
+    "text": "PDF text extracts use physical PDF page numbers."
+  },
+  "scope": "定向取样。五份全文和一份同队列访谈摘要，四项随机比较及一项同人比较。按已发表表格核对，未重新拟合个人数据。"
+}

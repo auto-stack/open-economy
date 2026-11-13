@@ -1,0 +1,63 @@
+{
+  "source_id": "L241",
+  "title": "Comparing cooperative geometric puzzle solving in ants versus humans",
+  "authors": [
+    "Tabea Dreyer",
+    "Amir Haluts",
+    "Amos Korman",
+    "Nir Gov",
+    "Ehud Fonio",
+    "Ofer Feinerman"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "dates_in_archived_xml": [
+    {
+      "type": "electronic",
+      "day": "23",
+      "month": "12",
+      "year": "2024"
+    },
+    {
+      "type": "print",
+      "day": "7",
+      "month": "1",
+      "year": "2025"
+    }
+  ],
+  "doi": "10.1073/pnas.2414274121",
+  "pmcid": "PMC11725855",
+  "doi_url": "https://doi.org/10.1073/pnas.2414274121",
+  "pmc_version": "PMC11725855.1",
+  "research_date_local": "2026-11-13",
+  "read_scope": "One Puzzle, a Variety of Solvers；Measuring a Solver’s Performance及图1–2；Materials and Methods的蚂蚁与人实验设置、进出与交流限制。BioC段10–19、60–61。未据模拟或补充影片归纳物种定律。",
+  "artifacts": [
+    {
+      "file": "article.jats.xml",
+      "bytes": 207928,
+      "sha256": "21348e36db3958af17493e242455bce6f1aba82967df6c085317d7c0662f3b60",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11725855.1/PMC11725855.1.xml",
+      "retrieved_utc": "2026-11-13T06:08:37.711539+00:00"
+    },
+    {
+      "file": "original.json",
+      "bytes": 111622,
+      "sha256": "4d012b1f9c9c5f71a48c4b7f17924298b671988d998368b08f31c46dc574b358",
+      "source_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC11725855/unicode",
+      "retrieved_utc": "2026-11-13T06:06:57.931651+00:00"
+    },
+    {
+      "file": "original.txt",
+      "bytes": 74144,
+      "sha256": "29728a17db12edc6771b9d4796a5870e4ee0031d4432d06bca33faaf73cf8c36",
+      "derived_locally_from": "original.json",
+      "format_note": "BioC全文段落按原序从0编号；数学标记以XML为准"
+    },
+    {
+      "file": "original.pdf",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11725855.1/PMC11725855.1.pdf",
+      "retrieved_utc": "2026-11-13T06:23:19.698844+00:00",
+      "bytes": 9634201,
+      "sha256": "96a4412d10f0f5c64a9c39ce3b15a4900cc845b8a6000ecc31b0f15717386e36"
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "snapshot_sha256": "e60eefa2d3d08c7508b7e3cda9f481001e9e063f754789a8920382de96bd2640",
+  "groups": {
+    "unrelated": [
+      "Z096",
+      "Z082",
+      "Z019",
+      "Z048",
+      "Z077",
+      "Z083",
+      "Z054",
+      "Z014",
+      "Z052",
+      "Z091",
+      "Z063",
+      "Z069",
+      "Z049",
+      "Z075",
+      "Z043",
+      "Z050",
+      "Z042",
+      "Z000",
+      "Z060",
+      "Z081",
+      "Z022",
+      "Z074",
+      "Z001",
+      "Z024",
+      "Z011",
+      "Z047",
+      "Z045",
+      "Z041",
+      "Z076",
+      "Z090",
+      "Z098",
+      "Z080",
+      "Z070",
+      "Z068",
+      "Z071",
+      "Z067",
+      "Z021",
+      "Z018",
+      "Z007",
+      "Z027",
+      "Z044",
+      "Z013",
+      "Z094",
+      "Z002",
+      "Z089",
+      "Z073",
+      "Z017",
+      "Z030",
+      "Z058",
+      "Z088",
+      "Z038",
+      "Z079",
+      "Z005",
+      "Z061",
+      "Z095",
+      "Z029",
+      "Z039",
+      "Z062",
+      "Z023",
+      "Z026",
+      "Z036",
+      "Z066",
+      "Z037",
+      "Z010",
+      "Z055",
+      "Z004",
+      "Z064",
+      "Z031",
+      "Z099",
+      "Z006",
+      "Z072",
+      "Z012",
+      "Z085",
+      "Z032",
+      "Z084",
+      "Z097",
+      "Z025",
+      "Z059",
+      "Z034",
+      "Z078",
+      "Z057",
+      "Z065",
+      "Z056",
+      "Z053",
+      "Z092",
+      "Z033",
+      "Z008",
+      "Z009",
+      "Z046",
+      "Z040",
+      "Z093",
+      "Z020",
+      "Z035",
+      "Z028",
+      "Z086",
+      "Z051",
+      "Z087",
+      "Z016",
+      "Z003",
+      "Z015"
+    ],
+    "C06": [
+      "C06-run",
+      "C06-procedure",
+      "C06-scope",
+      "C06-data"
+    ],
+    "C07": [
+      "C07-data",
+      "C07-observation",
+      "C07-scope",
+      "C07-run",
+      "C07-procedure"
+    ],
+    "C02": [
+      "C02-scope",
+      "C02-procedure",
+      "C02-run",
+      "C02-data"
+    ],
+    "C01": [
+      "C01-run",
+      "C01-data",
+      "C01-scope",
+      "C01-procedure"
+    ],
+    "C05": [
+      "C05-scope",
+      "C05-run",
+      "C05-observation",
+      "C05-procedure",
+      "C05-data"
+    ],
+    "C03": [
+      "C03-scope",
+      "C03-run",
+      "C03-procedure",
+      "C03-data"
+    ],
+    "C04": [
+      "C04-scope",
+      "C04-procedure",
+      "C04-run",
+      "C04-data"
+    ]
+  },
+  "entries": {
+    "Z096": {
+      "offset": 0,
+      "bytes": 109
+    },
+    "Z082": {
+      "offset": 109,
+      "bytes": 109
+    },
+    "Z019": {
+      "offset": 218,
+      "bytes": 109
+    },
+    "C06-run": {
+      "offset": 327,
+      "bytes": 124
+    },
+    "C07-data": {
+      "offset": 451,
+      "bytes": 139
+    },
+    "C02-scope": {
+      "offset": 590,
+      "bytes": 102
+    },
+    "Z048": {
+      "offset": 692,
+      "bytes": 109
+    },
+    "Z077": {
+      "offset": 801,
+      "bytes": 109
+    },
+    "C01-run": {
+      "offset": 910,
+      "bytes": 124
+    },
+    "Z083": {
+      "offset": 1034,
+      "bytes": 109
+    },
+    "Z054": {
+      "offset": 1143,
+      "bytes": 109
+    },
+    "Z014": {
+      "offset": 1252,
+      "bytes": 109
+    },
+    "Z052": {
+      "offset": 1361,
+      "bytes": 109
+    },
+    "C05-scope": {
+      "offset": 1470,
+      "bytes": 128
+    },
+    "Z091": {
+      "offset": 1598,
+      "bytes": 109
+    },
+    "Z063": {
+      "offset": 1707,
+      "bytes": 109
+    },
+    "Z069": {
+      "offset": 1816,
+      "bytes": 109
+    },
+    "Z049": {
+      "offset": 1925,
+      "bytes": 109
+    },
+    "Z075": {
+      "offset": 2034,
+      "bytes": 109
+    },
+    "Z043": {
+      "offset": 2143,
+      "bytes": 109
+    },
+    "Z050": {
+      "offset": 2252,
+      "bytes": 109
+    },
+    "C05-run": {
+      "offset": 2361,
+      "bytes": 127
+    },
+    "C06-procedure": {
+      "offset": 2488,
+      "bytes": 76
+    },
+    "Z042": {
+      "offset": 2564,
+      "bytes": 109
+    },
+    "Z000": {
+      "offset": 2673,
+      "bytes": 109
+    },
+    "Z060": {
+      "offset": 2782,
+      "bytes": 109
+    },
+    "C07-observation": {
+      "offset": 2891,
+      "bytes": 101
+    },
+    "Z081": {
+      "offset": 2992,
+      "bytes": 109
+    },
+    "C07-scope": {
+      "offset": 3101,
+      "bytes": 128
+    },
+    "Z022": {
+      "offset": 3229,
+      "bytes": 109
+    },
+    "Z074": {
+      "offset": 3338,
+      "bytes": 109
+    },
+    "Z001": {
+      "offset": 3447,
+      "bytes": 109
+    },
+    "Z024": {
+      "offset": 3556,
+      "bytes": 109
+    },
+    "Z011": {
+      "offset": 3665,
+      "bytes": 109
+    },
+    "Z047": {
+      "offset": 3774,
+      "bytes": 109
+    },
+    "C03-scope": {
+      "offset": 3883,
+      "bytes": 102
+    },
+    "Z045": {
+      "offset": 3985,
+      "bytes": 109
+    },
+    "Z041": {
+      "offset": 4094,
+      "bytes": 109
+    },
+    "Z076": {
+      "offset": 4203,
+      "bytes": 109
+    },
+    "Z090": {
+      "offset": 4312,
+      "bytes": 109
+    },
+    "Z098": {
+      "offset": 4421,
+      "bytes": 109
+    },
+    "Z080": {
+      "offset": 4530,
+      "bytes": 109
+    },
+    "C07-run": {
+      "offset": 4639,
+      "bytes": 127
+    },
+    "Z070": {
+      "offset": 4766,
+      "bytes": 109
+    },
+    "Z068": {
+      "offset": 4875,
+      "bytes": 109
+    },
+    "Z071": {
+      "offset": 4984,
+      "bytes": 109
+    },
+    "C03-run": {
+      "offset": 5093,
+      "bytes": 124
+    },
+    "Z067": {
+      "offset": 5217,
+      "bytes": 109
+    },
+    "Z021": {
+      "offset": 5326,
+      "bytes": 109
+    },
+    "Z018": {
+      "offset": 5435,
+      "bytes": 109
+    },
+    "Z007": {
+      "offset": 5544,
+      "bytes": 109
+    },
+    "C02-procedure": {
+      "offset": 5653,
+      "bytes": 76
+    },
+    "Z027": {
+      "offset": 5729,
+      "bytes": 109
+    },
+    "C07-procedure": {
+      "offset": 5838,
+      "bytes": 77
+    },
+    "Z044": {
+      "offset": 5915,
+      "bytes": 109
+    },
+    "C04-scope": {
+      "offset": 6024,
+      "bytes": 128
+    },
+    "Z013": {
+      "offset": 6152,
+      "bytes": 109
+    },
+    "Z094": {
+      "offset": 6261,
+      "bytes": 109
+    },
+    "C06-scope": {
+      "offset": 6370,
+      "bytes": 102
+    },
+    "C04-procedure": {
+      "offset": 6472,
+      "bytes": 77
+    },
+    "Z002": {
+      "offset": 6549,
+      "bytes": 109
+    },
+    "Z089": {
+      "offset": 6658,
+      "bytes": 109
+    },
+    "Z073": {
+      "offset": 6767,
+      "bytes": 109
+    },
+    "Z017": {
+      "offset": 6876,
+      "bytes": 109
+    },
+    "Z030": {
+      "offset": 6985,
+      "bytes": 109
+    },
+    "Z058": {
+      "offset": 7094,
+      "bytes": 109
+    },
+    "Z088": {
+      "offset": 7203,
+      "bytes": 109
+    },
+    "Z038": {
+      "offset": 7312,
+      "bytes": 109
+    },
+    "C05-observation": {
+      "offset": 7421,
+      "bytes": 101
+    },
+    "C01-data": {
+      "offset": 7522,
+      "bytes": 116
+    },
+    "Z079": {
+      "offset": 7638,
+      "bytes": 109
+    },
+    "Z005": {
+      "offset": 7747,
+      "bytes": 109
+    },
+    "Z061": {
+      "offset": 7856,
+      "bytes": 109
+    },
+    "Z095": {
+      "offset": 7965,
+      "bytes": 109
+    },
+    "Z029": {
+      "offset": 8074,
+      "bytes": 109
+    },
+    "Z039": {
+      "offset": 8183,
+      "bytes": 109
+    },
+    "Z062": {
+      "offset": 8292,
+      "bytes": 109
+    },
+    "Z023": {
+      "offset": 8401,
+      "bytes": 109
+    },
+    "Z026": {
+      "offset": 8510,
+      "bytes": 109
+    },
+    "Z036": {
+      "offset": 8619,
+      "bytes": 109
+    },
+    "Z066": {
+      "offset": 8728,
+      "bytes": 109
+    },
+    "Z037": {
+      "offset": 8837,
+      "bytes": 109
+    },
+    "Z010": {
+      "offset": 8946,
+      "bytes": 109
+    },
+    "Z055": {
+      "offset": 9055,
+      "bytes": 109
+    },
+    "Z004": {
+      "offset": 9164,
+      "bytes": 109
+    },
+    "Z064": {
+      "offset": 9273,
+      "bytes": 109
+    },
+    "Z031": {
+      "offset": 9382,
+      "bytes": 109
+    },
+    "Z099": {
+      "offset": 9491,
+      "bytes": 109
+    },
+    "C03-procedure": {
+      "offset": 9600,
+      "bytes": 76
+    },
+    "C06-data": {
+      "offset": 9676,
+      "bytes": 116
+    },
+    "C05-procedure": {
+      "offset": 9792,
+      "bytes": 77
+    },
+    "Z006": {
+      "offset": 9869,
+      "bytes": 109
+    },
+    "Z072": {
+      "offset": 9978,
+      "bytes": 109
+    },
+    "Z012": {
+      "offset": 10087,
+      "bytes": 109
+    },
+    "Z085": {
+      "offset": 10196,
+      "bytes": 109
+    },
+    "Z032": {
+      "offset": 10305,
+      "bytes": 109
+    },
+    "Z084": {
+      "offset": 10414,
+      "bytes": 109
+    },
+    "Z097": {
+      "offset": 10523,
+      "bytes": 109
+    },
+    "Z025": {
+      "offset": 10632,
+      "bytes": 109
+    },
+    "Z059": {
+      "offset": 10741,
+      "bytes": 109
+    },
+    "Z034": {
+      "offset": 10850,
+      "bytes": 109
+    },
+    "Z078": {
+      "offset": 10959,
+      "bytes": 109
+    },
+    "Z057": {
+      "offset": 11068,
+      "bytes": 109
+    },
+    "Z065": {
+      "offset": 11177,
+      "bytes": 109
+    },
+    "Z056": {
+      "offset": 11286,
+      "bytes": 109
+    },
+    "Z053": {
+      "offset": 11395,
+      "bytes": 109
+    },
+    "Z092": {
+      "offset": 11504,
+      "bytes": 109
+    },
+    "Z033": {
+      "offset": 11613,
+      "bytes": 109
+    },
+    "Z008": {
+      "offset": 11722,
+      "bytes": 109
+    },
+    "C01-scope": {
+      "offset": 11831,
+      "bytes": 102
+    },
+    "Z009": {
+      "offset": 11933,
+      "bytes": 109
+    },
+    "Z046": {
+      "offset": 12042,
+      "bytes": 109
+    },
+    "C04-run": {
+      "offset": 12151,
+      "bytes": 127
+    },
+    "Z040": {
+      "offset": 12278,
+      "bytes": 109
+    },
+    "Z093": {
+      "offset": 12387,
+      "bytes": 109
+    },
+    "Z020": {
+      "offset": 12496,
+      "bytes": 109
+    },
+    "C02-run": {
+      "offset": 12605,
+      "bytes": 124
+    },
+    "C04-data": {
+      "offset": 12729,
+      "bytes": 139
+    },
+    "C05-data": {
+      "offset": 12868,
+      "bytes": 139
+    },
+    "Z035": {
+      "offset": 13007,
+      "bytes": 109
+    },
+    "C03-data": {
+      "offset": 13116,
+      "bytes": 116
+    },
+    "Z028": {
+      "offset": 13232,
+      "bytes": 109
+    },
+    "C01-procedure": {
+      "offset": 13341,
+      "bytes": 80
+    },
+    "Z086": {
+      "offset": 13421,
+      "bytes": 109
+    },
+    "Z051": {
+      "offset": 13530,
+      "bytes": 109
+    },
+    "Z087": {
+      "offset": 13639,
+      "bytes": 109
+    },
+    "Z016": {
+      "offset": 13748,
+      "bytes": 109
+    },
+    "Z003": {
+      "offset": 13857,
+      "bytes": 109
+    },
+    "C02-data": {
+      "offset": 13966,
+      "bytes": 116
+    },
+    "Z015": {
+      "offset": 14082,
+      "bytes": 109
+    }
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681041/pdf/PHY2-14-e71150.pdf",
+    "target": "L208-beyond-2026/original.pdf",
+    "time_utc": "2026-11-13T01:03:14.573061+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681041/pdf/PHY2-14-e71150.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 21470,
+    "error": "ValueError('Non-PDF response rejected')"
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC13681041/unicode",
+    "target": "L208-beyond-2026/original.xml",
+    "time_utc": "2026-11-13T01:03:54.057855+00:00",
+    "status": 200,
+    "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC13681041/unicode",
+    "content_type": "text/html",
+    "bytes": 6140,
+    "sha256": "478f38e0765ee9c406831bb2fc27e8019ac5227c20c6b28ca0de582d8449354a"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13681041/fullTextXML",
+    "target": "L208-beyond-2026/original.xml",
+    "time_utc": "2026-11-13T01:05:10.971213+00:00",
+    "status": 200,
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13681041/fullTextXML",
+    "content_type": "application/xml",
+    "bytes": 300589,
+    "sha256": "c1ae6d18597e901ced4f6b8a95100d1ed06359f640cab8dec87825c1991fde05"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681041/",
+    "target": "L208-beyond-2026/original.html",
+    "time_utc": "2026-11-13T01:05:10.971488+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681041/",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 405104,
+    "sha256": "e8d481b7c75d1e5c1334a06e0264ff3f6bb00c311df0a0479a52fb68837ecfa4"
+  },
+  {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.14814/phy2.71150",
+    "target": "L208-beyond-2026/publisher.pdf",
+    "time_utc": "2026-11-13T01:05:12.106169+00:00",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  }
+]

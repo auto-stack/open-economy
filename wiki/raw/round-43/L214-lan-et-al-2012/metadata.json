@@ -1,0 +1,29 @@
+{
+  "id": "L214",
+  "title": "The energy-speed-accuracy tradeoff in sensory adaptation",
+  "authors": [
+    "Ganhui Lan",
+    "Pablo Sartori",
+    "Silke Neumann",
+    "Victor Sourjik",
+    "Yuhai Tu"
+  ],
+  "doi": "10.1038/nphys2276",
+  "publication_year": 2012,
+  "adopted_file": "original.xml",
+  "sha256": "f9f614f74200dc5e0e8b5cca65a6f3ebf7f9e6c2e5da9026b4b23a3bf388b1fe",
+  "bytes": 114425,
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3378065/fullTextXML",
+  "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3378065/fullTextXML",
+  "retrieved_at_utc": "2026-11-13T01:40:16.265236+00:00",
+  "version": "NIH author manuscript JATS, PMC3378065 / NIHMS359045; online2012-03-25, issue2012-05",
+  "reading_scope": "JATS body S1–S8 and Fig5 caption; models and experiment methods; SI not fully read; no invented journal-to-XML page map",
+  "content_status": "full_text_targeted_reading",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "targeted linked2011 erratum checked for L213; comprehensive screening not completed",
+  "pmcid": "PMC3378065",
+  "manuscript_id": "NIHMS359045",
+  "pdf_not_acquired": true
+}

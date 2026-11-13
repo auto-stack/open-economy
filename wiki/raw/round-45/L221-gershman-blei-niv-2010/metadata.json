@@ -1,0 +1,25 @@
+{
+  "id": "L221",
+  "title": "Context, Learning, and Extinction",
+  "authors": [
+    "Samuel J. Gershman",
+    "David M. Blei",
+    "Yael Niv"
+  ],
+  "doi": "10.1037/a0017808",
+  "publication_year": 2010,
+  "adopted_file": "original.pdf",
+  "bytes": 217124,
+  "sha256": "36f0346f0d3942a7d3c3449e2c19424958e508501711e2004e8686d3635c2cc9",
+  "pdf_pages": 13,
+  "source_url": "https://www.cs.columbia.edu/~blei/papers/GershmanBleiNiv2010.pdf",
+  "final_url": "https://www.cs.columbia.edu/~blei/papers/GershmanBleiNiv2010.pdf",
+  "retrieved_at_utc": "2026-11-13T02:29:58.528587+00:00",
+  "version": "Author-hosted journal typesetting Psychological Review117,197–209;13PDF pages",
+  "reading_scope": "PDF1 abstract, PDF2–4 model and inference, PDF11 limitations; PDF3 Eq1 prior and footnotes visually checked",
+  "content_status": "full_pdf_targeted_reading",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed"
+}

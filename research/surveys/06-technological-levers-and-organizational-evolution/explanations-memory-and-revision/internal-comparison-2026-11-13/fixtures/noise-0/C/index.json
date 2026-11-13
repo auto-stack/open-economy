@@ -1,0 +1,171 @@
+{
+  "snapshot_sha256": "8152c1f0ad9c1d5b7b1d00690af0db25fb1cb56f83c059ff73ba3b1d1bc2ec68",
+  "groups": {
+    "C06": [
+      "C06-scope",
+      "C06-procedure",
+      "C06-data",
+      "C06-run"
+    ],
+    "C04": [
+      "C04-procedure",
+      "C04-scope",
+      "C04-data",
+      "C04-run"
+    ],
+    "C05": [
+      "C05-run",
+      "C05-scope",
+      "C05-procedure",
+      "C05-data",
+      "C05-observation"
+    ],
+    "C02": [
+      "C02-run",
+      "C02-scope",
+      "C02-data",
+      "C02-procedure"
+    ],
+    "C07": [
+      "C07-observation",
+      "C07-data",
+      "C07-run",
+      "C07-scope",
+      "C07-procedure"
+    ],
+    "C03": [
+      "C03-run",
+      "C03-procedure",
+      "C03-data",
+      "C03-scope"
+    ],
+    "C01": [
+      "C01-procedure",
+      "C01-scope",
+      "C01-run",
+      "C01-data"
+    ]
+  },
+  "entries": {
+    "C06-scope": {
+      "offset": 0,
+      "bytes": 102
+    },
+    "C06-procedure": {
+      "offset": 102,
+      "bytes": 76
+    },
+    "C04-procedure": {
+      "offset": 178,
+      "bytes": 77
+    },
+    "C05-run": {
+      "offset": 255,
+      "bytes": 127
+    },
+    "C06-data": {
+      "offset": 382,
+      "bytes": 116
+    },
+    "C02-run": {
+      "offset": 498,
+      "bytes": 124
+    },
+    "C07-observation": {
+      "offset": 622,
+      "bytes": 101
+    },
+    "C03-run": {
+      "offset": 723,
+      "bytes": 124
+    },
+    "C02-scope": {
+      "offset": 847,
+      "bytes": 102
+    },
+    "C07-data": {
+      "offset": 949,
+      "bytes": 139
+    },
+    "C06-run": {
+      "offset": 1088,
+      "bytes": 124
+    },
+    "C05-scope": {
+      "offset": 1212,
+      "bytes": 128
+    },
+    "C03-procedure": {
+      "offset": 1340,
+      "bytes": 76
+    },
+    "C04-scope": {
+      "offset": 1416,
+      "bytes": 128
+    },
+    "C03-data": {
+      "offset": 1544,
+      "bytes": 116
+    },
+    "C05-procedure": {
+      "offset": 1660,
+      "bytes": 77
+    },
+    "C04-data": {
+      "offset": 1737,
+      "bytes": 139
+    },
+    "C01-procedure": {
+      "offset": 1876,
+      "bytes": 80
+    },
+    "C01-scope": {
+      "offset": 1956,
+      "bytes": 102
+    },
+    "C07-run": {
+      "offset": 2058,
+      "bytes": 127
+    },
+    "C05-data": {
+      "offset": 2185,
+      "bytes": 139
+    },
+    "C01-run": {
+      "offset": 2324,
+      "bytes": 124
+    },
+    "C04-run": {
+      "offset": 2448,
+      "bytes": 127
+    },
+    "C07-scope": {
+      "offset": 2575,
+      "bytes": 128
+    },
+    "C05-observation": {
+      "offset": 2703,
+      "bytes": 101
+    },
+    "C03-scope": {
+      "offset": 2804,
+      "bytes": 102
+    },
+    "C02-data": {
+      "offset": 2906,
+      "bytes": 116
+    },
+    "C07-procedure": {
+      "offset": 3022,
+      "bytes": 77
+    },
+    "C01-data": {
+      "offset": 3099,
+      "bytes": 116
+    },
+    "C02-procedure": {
+      "offset": 3215,
+      "bytes": 76
+    }
+  }
+}

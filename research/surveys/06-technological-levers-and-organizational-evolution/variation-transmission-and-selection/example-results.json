@@ -1,0 +1,176 @@
+{
+  "status": "constructed_identification_counterexample_not_empirical",
+  "start": {
+    "p0": "A",
+    "p1": "A",
+    "p2": "A",
+    "p3": "A",
+    "p4": "B",
+    "p5": "B",
+    "p6": "B",
+    "p7": "B"
+  },
+  "start_counts": {
+    "A": 4,
+    "B": 4
+  },
+  "histories": [
+    {
+      "mechanism": "individual_trial",
+      "end": {
+        "p0": "A",
+        "p1": "A",
+        "p2": "A",
+        "p3": "A",
+        "p4": "A",
+        "p5": "A",
+        "p6": "B",
+        "p7": "B"
+      },
+      "events": [
+        {
+          "person": "p4",
+          "from": "B",
+          "to": "A",
+          "information_source": "own_trial"
+        },
+        {
+          "person": "p5",
+          "from": "B",
+          "to": "A",
+          "information_source": "own_trial"
+        }
+      ],
+      "end_counts": {
+        "A": 6,
+        "B": 2
+      },
+      "retained_actor_ids": 8
+    },
+    {
+      "mechanism": "social_learning",
+      "end": {
+        "p0": "A",
+        "p1": "A",
+        "p2": "A",
+        "p3": "A",
+        "p4": "A",
+        "p5": "A",
+        "p6": "B",
+        "p7": "B"
+      },
+      "events": [
+        {
+          "person": "p4",
+          "from": "B",
+          "to": "A",
+          "information_source": "observed_p0"
+        },
+        {
+          "person": "p5",
+          "from": "B",
+          "to": "A",
+          "information_source": "observed_p0"
+        }
+      ],
+      "end_counts": {
+        "A": 6,
+        "B": 2
+      },
+      "retained_actor_ids": 8
+    },
+    {
+      "mechanism": "membership_turnover",
+      "end": {
+        "p0": "A",
+        "p1": "A",
+        "p2": "A",
+        "p3": "A",
+        "p6": "B",
+        "p7": "B",
+        "entrant0": "A",
+        "entrant1": "A"
+      },
+      "events": {
+        "exits": [
+          "p4",
+          "p5"
+        ],
+        "entrants": [
+          "entrant0",
+          "entrant1"
+        ]
+      },
+      "end_counts": {
+        "A": 6,
+        "B": 2
+      },
+      "retained_actor_ids": 6
+    },
+    {
+      "mechanism": "biological_generation_stipulated_faithful_transmission",
+      "end": {
+        "child_p0_0": "A",
+        "child_p0_1": "A",
+        "child_p1_0": "A",
+        "child_p1_1": "A",
+        "child_p2_0": "A",
+        "child_p3_0": "A",
+        "child_p4_0": "B",
+        "child_p5_0": "B"
+      },
+      "events": [
+        {
+          "parent": "p0",
+          "child": "child_p0_0",
+          "type": "A"
+        },
+        {
+          "parent": "p0",
+          "child": "child_p0_1",
+          "type": "A"
+        },
+        {
+          "parent": "p1",
+          "child": "child_p1_0",
+          "type": "A"
+        },
+        {
+          "parent": "p1",
+          "child": "child_p1_1",
+          "type": "A"
+        },
+        {
+          "parent": "p2",
+          "child": "child_p2_0",
+          "type": "A"
+        },
+        {
+          "parent": "p3",
+          "child": "child_p3_0",
+          "type": "A"
+        },
+        {
+          "parent": "p4",
+          "child": "child_p4_0",
+          "type": "B"
+        },
+        {
+          "parent": "p5",
+          "child": "child_p5_0",
+          "type": "B"
+        }
+      ],
+      "end_counts": {
+        "A": 6,
+        "B": 2
+      },
+      "retained_actor_ids": 0
+    }
+  ],
+  "limitations": [
+    "No performance ordering A>B assumed.",
+    "Biological faithful transmission is stipulated, not a claim about learned skills.",
+    "Within-agent learning and between-agent transmission can overlap."
+  ]
+}

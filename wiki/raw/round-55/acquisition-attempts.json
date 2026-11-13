@@ -1,0 +1,84 @@
+[
+  {
+    "source": "L239",
+    "retrieved_utc": "2026-11-13T06:08:37.711053+00:00",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3371582.1/PMC3371582.1.xml",
+    "status": 200,
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3371582.1/PMC3371582.1.xml",
+    "file": "L239-bahrami-2010/article.jats.xml",
+    "bytes": 52137,
+    "sha256": "c8c5038ede130f9bbee3f9e6cf2a3f25626d6f802e09c810188d47316587bec8"
+  },
+  {
+    "source": "L240",
+    "retrieved_utc": "2026-11-13T06:08:37.711287+00:00",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/PMC6562237.1.xml",
+    "status": 200,
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/PMC6562237.1.xml",
+    "file": "L240-wisdom-dyads/article.jats.xml",
+    "bytes": 161370,
+    "sha256": "c9faf1643608f95477f636e41b2ff9b1b59f35a24a1ec66e9b2357c960cf331d"
+  },
+  {
+    "source": "L241",
+    "retrieved_utc": "2026-11-13T06:08:37.711539+00:00",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11725855.1/PMC11725855.1.xml",
+    "status": 200,
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11725855.1/PMC11725855.1.xml",
+    "file": "L241-cooperative-transport/article.jats.xml",
+    "bytes": 207928,
+    "sha256": "21348e36db3958af17493e242455bce6f1aba82967df6c085317d7c0662f3b60"
+  },
+  {
+    "source": "L240",
+    "retrieved_utc": "2026-11-13T06:17:48.344759+00:00",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr1.jpg",
+    "status": 200,
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr1.jpg",
+    "file": "L240-wisdom-dyads/gr1.jpg",
+    "bytes": 16391,
+    "sha256": "0de11771d7c80fe57caa95004234b17c83e2cdd01c660d3977124ed24633ca10"
+  },
+  {
+    "source": "L240",
+    "retrieved_utc": "2026-11-13T06:17:47.476603+00:00",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr2.jpg",
+    "status": 200,
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr2.jpg",
+    "file": "L240-wisdom-dyads/gr2.jpg",
+    "bytes": 31211,
+    "sha256": "a93ced01d37918dd9187c4cf5abcf0fdef6c4dc05bf6ba02640bed10365593f7"
+  },
+  {
+    "source": "L240",
+    "retrieved_utc": "2026-11-13T06:17:47.883141+00:00",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr3.jpg",
+    "status": 200,
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/gr3.jpg",
+    "file": "L240-wisdom-dyads/gr3.jpg",
+    "bytes": 36508,
+    "sha256": "fd0ba60a12b412a30667cb129ef8f186882e25d729ff6bc754496aa87409ddf9"
+  },
+  {
+    "source": "L240",
+    "retrieved_utc": "2026-11-13T06:23:28.173744+00:00",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/mmc2.xlsx",
+    "status": 200,
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6562237.1/mmc2.xlsx",
+    "file": "L240-wisdom-dyads/mmc2.xlsx",
+    "bytes": 3078309,
+    "sha256": "2bd19b101608ebd2d212327f2809f404bd960191bbb393f2e930c90f2d2d6842",
+    "verification": "另以逐段下载核对全文件SHA-256，ZIP完整性通过"
+  },
+  {
+    "source": "L241",
+    "retrieved_utc": "2026-11-13T06:23:19.698844+00:00",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11725855.1/PMC11725855.1.pdf",
+    "status": 206,
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11725855.1/PMC11725855.1.pdf",
+    "file": "L241-cooperative-transport/original.pdf",
+    "bytes": 9634201,
+    "sha256": "96a4412d10f0f5c64a9c39ce3b15a4900cc845b8a6000ecc31b0f15717386e36",
+    "method": "分段取得，逐段检查Content-Range并按顺序拼接，校验总长度与PDF文件结尾"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "round": 56,
+  "research_round": 61,
+  "date_local": "2026-11-13",
+  "source_ids": [
+    "L240"
+  ],
+  "new_external_sources": [],
+  "read_scope": "既有研究的逐试次再分析与研究设计核查；网页入口要求浏览器验证，实际采用先前归档的完整原文和工作簿。",
+  "record_types": {
+    "trial-pairing.tsv": "project-derived nearest matches per observed joint row, 2560 rows plus header",
+    "comparison-results.json": "project-derived observed and synthetic contrasts; no new empirical trials"
+  },
+  "method": "../../../research/surveys/01-organization-maintenance/relational-organization-and-boundaries/dyad-comparison-protocol.md",
+  "readout": "../../../research/surveys/01-organization-maintenance/relational-organization-and-boundaries/dyad-trial-comparison.md"
+}

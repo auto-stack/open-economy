@@ -1,0 +1,146 @@
+[
+  {
+    "id": "P-broad",
+    "platform": "Crossref",
+    "returned": 10,
+    "display_total": 1269016,
+    "response": "P-broad-response.json",
+    "query": {
+      "query.bibliographic": "dissipative structures nonequilibrium organization",
+      "rows": 10,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "P-title",
+    "platform": "Crossref",
+    "returned": 10,
+    "display_total": 1169684,
+    "response": "P-title-retry-response.json",
+    "query": {
+      "query.title": "dissipative structures stability",
+      "rows": 10,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "C-broad",
+    "platform": "Crossref",
+    "returned": 10,
+    "display_total": 2151854,
+    "response": "C-broad-retry-response.json",
+    "query": {
+      "query.bibliographic": "cybernetics regulation viability self-maintenance",
+      "rows": 10,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "C-title",
+    "platform": "Crossref",
+    "returned": 10,
+    "display_total": 805579,
+    "response": "C-title-response.json",
+    "query": {
+      "query.title": "cybernetics regulation good regulator",
+      "rows": 10,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "B-broad",
+    "platform": "Crossref",
+    "returned": 10,
+    "display_total": 1524441,
+    "response": "B-broad-response.json",
+    "query": {
+      "query.bibliographic": "biological organisation closure constraints autonomy",
+      "rows": 10,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "B-title",
+    "platform": "Crossref",
+    "returned": 10,
+    "display_total": 687400,
+    "response": "B-title-response.json",
+    "query": {
+      "query.title": "biological organisation closure constraints",
+      "rows": 10,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "C-seed",
+    "platform": "Crossref",
+    "returned": 1,
+    "display_total": 6205952,
+    "response": "C-seed-retry-response.json",
+    "query": {
+      "query.title": "Every good regulator of a system must be a model of that system",
+      "rows": 1,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "C-author",
+    "platform": "Crossref",
+    "returned": 5,
+    "display_total": 108,
+    "response": "C-author-adaptive-response.json",
+    "query": {
+      "query.title": "Every good regulator of a system must be a model of that system",
+      "query.author": "Conant",
+      "rows": 5,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "C-viability",
+    "platform": "Crossref",
+    "returned": 5,
+    "display_total": 1013003,
+    "response": "C-viability-adaptive-response.json",
+    "query": {
+      "query.title": "viability theory",
+      "rows": 5,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "C-homeostasis",
+    "platform": "Crossref",
+    "returned": 5,
+    "display_total": 66720,
+    "response": "C-homeostasis-adaptive-response.json",
+    "query": {
+      "query.title": "homeostasis cybernetics",
+      "rows": 5,
+      "filter": "until-pub-date:2026-11-13"
+    },
+    "interpretation": "relevance search; not Boolean conjunction or title equality"
+  },
+  {
+    "id": "OA-C",
+    "platform": "OpenAlex",
+    "returned": 10,
+    "display_total": 4982,
+    "response": "openalex-control-response.json",
+    "query": {
+      "search": "cybernetic regulation viability",
+      "per-page": 10,
+      "filter": "to_publication_date:2026-11-13"
+    },
+    "interpretation": "relevance search; first page only"
+  }
+]

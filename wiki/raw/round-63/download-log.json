@@ -1,0 +1,184 @@
+[
+  {
+    "requested": "L267-rope/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7893240/fullTextXML",
+    "error": "HTTPError 500 Server Error:  for url: https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7893240/fullTextXML"
+  },
+  {
+    "path": "L267-rope/dryad.json",
+    "url": "https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.vx0k6djps",
+    "bytes": 171,
+    "sha256": "416ce80cd8d769545c9441aa2d0f760aef9e8f600ba9a3d8b006657027f99696",
+    "retrieved_utc": "2026-11-13T12:32:08.764038+00:00",
+    "role": "Dryad接口的不可查看状态回执。文件中没有数据，不计为研究数据集。"
+  },
+  {
+    "path": "L268-deliberation/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13538491/fullTextXML",
+    "bytes": 180440,
+    "sha256": "4b33516d1b85582c7e9680fe11fb3d7a09a2197203a622453d6e76f9514bb9ad",
+    "retrieved_utc": "2026-11-13T12:32:18.602476+00:00"
+  },
+  {
+    "path": "L269-hidden-profiles/article.pdf",
+    "url": "https://api.unil.ch/iris/server/api/core/bitstreams/4405f67a-09f8-44c1-8aa3-c36d20bdec64/content",
+    "bytes": 292786,
+    "sha256": "602638e52efada9bcc5a52fdebab474b12b79b0f98eec040c03e3a26bdbbd328",
+    "retrieved_utc": "2026-11-13T12:32:11.012937+00:00"
+  },
+  {
+    "requested": "L270-basketball/article.pdf",
+    "url": "https://research.bangor.ac.uk/files/39704225/Ring_Kavussanu_Cooke_2022.pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://research.bangor.ac.uk/files/39704225/Ring_Kavussanu_Cooke_2022.pdf"
+  },
+  {
+    "requested": "L271-dyads/article.pdf",
+    "url": "https://static1.squarespace.com/static/642ae5ce29fae27f12496c4b/t/644012116a04755929c05a1f/1681920529718/The%2BContingent%2BWisdom%2Bof%2BDyads_%2BWhen%2BDiscussion%2BEnhances%2Bvs.%2BUndermines%2Bthe%2BAccuracy%2Bof%2BCollaborative%2BJudgments.pdf",
+    "error": "ConnectionError ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"
+  },
+  {
+    "requested": "L267-rope/article.pdf",
+    "url": "https://hal.science/hal-03167067v1/document",
+    "error": "AssertionError "
+  },
+  {
+    "requested": "L267-rope/royalsociety.pdf",
+    "url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.2951",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.2951"
+  },
+  {
+    "path": "L270-basketball/article.pdf",
+    "url": "https://pure.bangor.ac.uk/ws/portalfiles/portal/39704225/Ring_Kavussanu_Cooke_2022.pdf",
+    "bytes": 884310,
+    "sha256": "d13e1dd2134907435e6a3e199ce87e2f3c0f598fb21f1b351415ea2141917447",
+    "retrieved_utc": "2026-11-13T12:34:01.368813+00:00"
+  },
+  {
+    "requested": "L271-dyads/harvard.pdf",
+    "url": "https://scholar.harvard.edu/files/juliaminson/files/contingent_woc_-_ssrn.pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://scholar.harvard.edu/files/juliaminson/files/contingent_woc_-_ssrn.pdf"
+  },
+  {
+    "path": "L268-deliberation/osf-files.json",
+    "url": "https://api.osf.io/v2/nodes/bru7k/files/osfstorage/68dd8fa1edb781c16cd6c4ab/?page[size]=100",
+    "bytes": 8735,
+    "sha256": "91ffe4c6db2d8b3119f4acda7d6fd561babf59b9e8a89633f190b5007cb247fe",
+    "retrieved_utc": "2026-11-13T12:33:48.243295+00:00"
+  },
+  {
+    "path": "L268-deliberation/code-files.json",
+    "url": "https://api.osf.io/v2/nodes/bru7k/files/osfstorage/68dd90f3fbf65b8396fd0468/?page[size]=100",
+    "bytes": 5263,
+    "sha256": "9b3238bff539bb2224bef21f474a1c673ba2252d7dc9e1a57ddbc806c5e020ce",
+    "retrieved_utc": "2026-11-13T12:33:48.970682+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/data_experiment_1__by_participant.csv",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/68dd8fc6006e3fb06fdbfc62",
+    "bytes": 165046,
+    "sha256": "7c8b6438cc4a336c56729611626b774c9e09f59afb14fe55bd9a9758299754f6",
+    "retrieved_utc": "2026-11-13T12:35:52.704503+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/data_experiment_1__with_features.csv",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/68dd9016c005fb9ad2fd0710",
+    "bytes": 71207,
+    "sha256": "126e5e8e643218bc26458cdc0ac015e7a73be9274c7b24356db92932eb5e9f48",
+    "retrieved_utc": "2026-11-13T12:35:51.283333+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/data_experiment_3__by_participant.csv",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/68dd9016c615cd33dcaa5429",
+    "bytes": 40255,
+    "sha256": "94e7c9d16b7b30fe8aea9e9f54889e1f05d72fdae216d47fb6f148268e770bd9",
+    "retrieved_utc": "2026-11-13T12:35:49.845919+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/data_experiment_3__with_features.csv",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/68dd901cec0889896fd6c5ef",
+    "bytes": 43850,
+    "sha256": "a45040a77a1a6e51b651e3ac9933016439a36699d1f64d1421b819ddd4e15a24",
+    "retrieved_utc": "2026-11-13T12:35:51.329960+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/output_exp2__by_participant.csv",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/68dd9021bacb86d9040db449",
+    "bytes": 73278,
+    "sha256": "3d905aedb5016128aa304c22de502e62986395f046f0f2c4095e16a2ff5137ca",
+    "retrieved_utc": "2026-11-13T12:35:52.021489+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/output_exp2__with_features.csv",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/68dd9023c75f84eabedbfcd2",
+    "bytes": 25794,
+    "sha256": "1e51f8c943e06b5b15ebb83443e726729a3501c8b1dcfadc6cf82846462264fb",
+    "retrieved_utc": "2026-11-13T12:35:49.914031+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/figure_1.m",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/68dd9125111101f94edbfcef",
+    "bytes": 10696,
+    "sha256": "effe05d771f2f59b605b41828a72cfc6f77a819c18fd6afb63f64db634d31a00",
+    "retrieved_utc": "2026-11-13T12:35:49.828749+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/figure_4.m",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/68dd91283369fa6845aa5247",
+    "bytes": 7186,
+    "sha256": "38705d565c6c96238da52a561b875455549a02c34dfeed81495f77cd026c3e41",
+    "retrieved_utc": "2026-11-13T12:35:48.728619+00:00"
+  },
+  {
+    "path": "L268-deliberation/osf/figure_6.m",
+    "url": "https://files.osf.io/v1/resources/bru7k/providers/osfstorage/69ba0f99a1283e18903aa499",
+    "bytes": 10045,
+    "sha256": "5341993b662590b459fc9654e3f54063c51b9260376d8be7035bf96780d259f5",
+    "retrieved_utc": "2026-11-13T12:35:49.288699+00:00"
+  },
+  {
+    "requested": "L267-rope/author.pdf",
+    "url": "https://hal.science/hal-03167067/file/ManuscriptProcBWithTrackChanges_25Nov_FINAL.pdf",
+    "error": "AssertionError "
+  },
+  {
+    "requested": "L267-rope/pmc.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/33563093/fullTextXML",
+    "error": "HTTPError 404 Client Error:  for url: https://www.ebi.ac.uk/europepmc/webservices/rest/MED/33563093/fullTextXML"
+  },
+  {
+    "requested": "L267-rope/manuscript.pdf",
+    "url": "https://hal.science/hal-03167067v1/file/ManuscriptProcBWithTrackChanges_25Nov_FINAL.pdf",
+    "error": "AssertionError "
+  },
+  {
+    "requested": "L267-rope/figshare-collection.json",
+    "url": "https://api.figshare.com/v2/collections/5291451/articles",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://api.figshare.com/v2/collections/5291451/articles"
+  },
+  {
+    "path": "L271-dyads/article.pdf",
+    "url": "https://static.squarespace.com/static/642ae5ce29fae27f12496c4b/t/66aa7e4081e00c32672bec95/1722449485367/contingent_wisdom.pdf",
+    "bytes": 983862,
+    "sha256": "b430636d7dd596b2df707597972b92caa27c4dfc01c4a6418b9adeee2dcc2f57",
+    "retrieved_utc": "2026-11-13T12:40:50.040031+00:00"
+  },
+  {
+    "requested": "published",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7893240/?report=classic",
+    "error": "AssertionError "
+  },
+  {
+    "path": "L267-rope/author.pdf",
+    "url": "https://hal.science/hal-03167067v1/file/ManuscriptProcBWithTrackChanges_25Nov_FINAL.pdf",
+    "bytes": 783161,
+    "sha256": "fbee9e2b8369c1ce96a7c010ab466725c56316623cabf29c4fda8e274ee75cb4",
+    "retrieved_utc": "2026-11-13T12:41:30.406361+00:00"
+  },
+  {
+    "path": "L267-rope/preprint.pdf",
+    "url": "https://www.biorxiv.org/content/10.1101/2020.05.22.110387v1.full.pdf",
+    "bytes": 241253,
+    "sha256": "48b79a9daf5b1780daf6bd5c1c7ae4c3f99d7c54b57af50fb4f5fcce902c059d",
+    "retrieved_utc": "2026-11-13T12:40:22.405313+00:00"
+  }
+]

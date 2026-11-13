@@ -1,0 +1,77 @@
+[
+  {
+    "target": "L221-gershman-blei-niv-2010/original.pdf",
+    "url": "https://www.cs.columbia.edu/~blei/papers/GershmanBleiNiv2010.pdf",
+    "time_utc": "2026-11-13T02:29:58.528587+00:00",
+    "status": 200,
+    "final_url": "https://www.cs.columbia.edu/~blei/papers/GershmanBleiNiv2010.pdf",
+    "content_type": "application/pdf",
+    "bytes": 217124,
+    "sha256": "36f0346f0d3942a7d3c3449e2c19424958e508501711e2004e8686d3635c2cc9",
+    "pdf_pages": 13
+  },
+  {
+    "target": "L222-bongard-lipson-2007/original.pdf",
+    "url": "https://www.genetic-programming.org/hc2007/12-Bongard/Bongard-Paper.pdf",
+    "time_utc": "2026-11-13T02:29:58.529211+00:00",
+    "status": 200,
+    "final_url": "https://www.genetic-programming.org/hc2007/12-Bongard/Bongard-Paper.pdf",
+    "content_type": "application/pdf",
+    "bytes": 5765811,
+    "sha256": "fca79bfcb3f6cd3bf53765ef5ecc063d555f30b5f99dd4d67e70943abb62b6e4",
+    "pdf_pages": 7
+  },
+  {
+    "target": "L223-schulz-bonawitz-2007/original.pdf",
+    "url": "https://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf",
+    "time_utc": "2026-11-13T02:29:58.529657+00:00",
+    "status": 200,
+    "final_url": "https://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf",
+    "content_type": "application/pdf",
+    "bytes": 134751,
+    "sha256": "16adfbb9fd309deb39b5f75e5cec0b6246e8c0bc108accc94fdec88b4d968a06",
+    "pdf_pages": 13
+  },
+  {
+    "target": "L224-sui-et-al-2015/original.pdf",
+    "url": "https://proceedings.mlr.press/v37/sui15.pdf",
+    "time_utc": "2026-11-13T02:29:58.530011+00:00",
+    "status": 200,
+    "final_url": "https://proceedings.mlr.press/v37/sui15.pdf",
+    "content_type": "application/pdf",
+    "bytes": 369748,
+    "sha256": "2ce477c022c19edc608b3c6c99c9cabf326fa970393d177e7bb1f1d93a39228f",
+    "pdf_pages": 9
+  },
+  {
+    "target": "L224-sui-et-al-2015/extended.pdf",
+    "url": "https://proceedings.mlr.press/v37/sui15-supp.pdf",
+    "time_utc": "2026-11-13T02:34:52.325176+00:00",
+    "status": 200,
+    "final_url": "https://proceedings.mlr.press/v37/sui15-supp.pdf",
+    "content_type": "application/pdf",
+    "bytes": 409650,
+    "sha256": "548fec3f929c320d45a682328ad4178ab9753800eafff9f6aee62c7701033a5b",
+    "pdf_pages": 12
+  },
+  {
+    "target": "discovery/pubmed-records.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17605535,17553966&retmode=xml",
+    "time_utc": "2026-11-13T02:34:52.325499+00:00",
+    "status": 200,
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17605535,17553966&retmode=xml",
+    "content_type": "text/xml; charset=UTF-8",
+    "bytes": 17385,
+    "sha256": "9835926516621c11c076055ada9cc596ff9709c58123886c0824d235c52aee2d"
+  },
+  {
+    "target": "L224-sui-et-al-2015/publication-record.html",
+    "url": "https://proceedings.mlr.press/v37/sui15.html",
+    "time_utc": "2026-11-13T02:34:52.325816+00:00",
+    "status": 200,
+    "final_url": "https://proceedings.mlr.press/v37/sui15.html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 17692,
+    "sha256": "dbe81c768eed328ef3399e187d65cb69afce70d3f82a225405a403f7a260c346"
+  }
+]

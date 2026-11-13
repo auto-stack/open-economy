@@ -1,0 +1,31 @@
+{
+  "id": "L223",
+  "title": "Serious fun: Preschoolers engage in more exploratory play when evidence is confounded",
+  "authors": [
+    "Laura E. Schulz",
+    "Elizabeth Baraff Bonawitz"
+  ],
+  "doi": "10.1037/0012-1649.43.4.1045",
+  "publication_year": 2007,
+  "adopted_file": "original.pdf",
+  "bytes": 134751,
+  "sha256": "16adfbb9fd309deb39b5f75e5cec0b6246e8c0bc108accc94fdec88b4d968a06",
+  "pdf_pages": 13,
+  "source_url": "https://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf",
+  "final_url": "https://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf",
+  "retrieved_at_utc": "2026-11-13T02:29:58.529657+00:00",
+  "version": "MIT author manuscript13pages; cover final-version-submission literal2/8/07; no mapping to journal1045–1050",
+  "reading_scope": "PDF4–9 methods, results and discussion; PDF13 footnotes; PDF8 informative actions and lack of direct causal-learning test visually checked",
+  "content_status": "full_pdf_targeted_reading",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "analysis_children": 64,
+  "conditions": 4,
+  "children_per_condition": 16,
+  "replaced_child": 1,
+  "clips_unavailable_for_recoding": 2,
+  "confounded_condition_separate_actions": "12of16, not a direct measure of correct causal learning",
+  "actual_causal_learning_directly_tested": false
+}

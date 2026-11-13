@@ -1,0 +1,114 @@
+{
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L213",
+      "title": "Minimal Energy Cost for Thermodynamic Information Processing: Measurement and Information Erasure",
+      "source_metadata": "../round-43/L213-sagawa-ueda-2009/metadata.json",
+      "retained_version": "arXiv0809.4098v3; margin2009-05-30; internal Dated2018-10-23; actual PDF title uses of, journal title uses for",
+      "previous_read_scope": "PDF1–4 setup, Eqs2–5, memory example and proof; PDF2 key equations visually checked; original proof used only together with2011 erratum",
+      "new_reading_scope": false,
+      "new_download": false,
+      "use": "主文连同更正使用；更正缩小假设，不是本书主张被反驳。",
+      "artifacts": [
+        {
+          "path": "../round-43/L213-sagawa-ueda-2009/original.pdf",
+          "role": "original_support",
+          "reread_scope": "PDF2 equations2–5",
+          "bytes": 419901,
+          "sha256": "d317e8b6e34397d7b93f09c4afd7f8ca6fb7eba05e5f91fadb5d6157d669849f",
+          "new_download": false,
+          "new_reading_scope": false
+        },
+        {
+          "path": "../round-43/L213-sagawa-ueda-2009/erratum-tool-text.txt",
+          "role": "correction_of_original_assumptions",
+          "reread_scope": "existing full tool conversion lines23–69",
+          "bytes": 4637,
+          "sha256": "d18623243f07fa5295e05ee04673c3ed6b7d3dbbc427bad37cad0be832e5bd2f",
+          "new_download": false,
+          "new_reading_scope": false
+        }
+      ],
+      "correction_metadata": "../round-43/L213-sagawa-ueda-2009/erratum/metadata.json",
+      "correction_original_pdf_obtained": false
+    },
+    {
+      "source_id": "L224",
+      "title": "Safe Exploration for Optimization with Gaussian Processes",
+      "source_metadata": "../round-45/L224-sui-et-al-2015/metadata.json",
+      "retained_version": "PMLR37 main paper997–1005,9PDF pages; same-family extended version12pages adds proof appendix",
+      "previous_read_scope": "MainPDF2–7 model, algorithm, assumptions and theory, selected synthetic/movie evaluation; extendedPDF10 and12 selected proof; mainPDF5 and extendedPDF12 visually checked; not full independent proof verification or clinical evaluation",
+      "new_reading_scope": false,
+      "new_download": false,
+      "use": "定理与指定证明段，限制推广而非实证否定。",
+      "artifacts": [
+        {
+          "path": "../round-45/L224-sui-et-al-2015/original.pdf",
+          "role": "conditional_theorem",
+          "reread_scope": "PDF5 Lemma1/Theorem1",
+          "bytes": 369748,
+          "sha256": "2ce477c022c19edc608b3c6c99c9cabf326fa970393d177e7bb1f1d93a39228f",
+          "new_download": false,
+          "new_reading_scope": false
+        },
+        {
+          "path": "../round-45/L224-sui-et-al-2015/extended.pdf",
+          "role": "selected_proof_segment",
+          "reread_scope": "PDF12 Lemma11",
+          "bytes": 409650,
+          "sha256": "548fec3f929c320d45a682328ad4178ab9753800eafff9f6aee62c7701033a5b",
+          "new_download": false,
+          "new_reading_scope": false
+        }
+      ]
+    },
+    {
+      "source_id": "L208",
+      "title": "Beyond canonical homeostasis: Dynamic, plastic, and intermittently unregulated physiology as the norm",
+      "source_metadata": "../round-41/L208-beyond-2026/metadata.json",
+      "retained_version": "EuropePMC JATS full text and PMC HTML; PDF not obtained; author names preserved as published",
+      "previous_read_scope": "JATS1.2,3.1.2,4.1–4.2,5–6; review and energetic/evolutionary hypotheses separated",
+      "new_reading_scope": false,
+      "new_download": false,
+      "use": "研究动机及未解条件；不是维护干预的直接效果验证。",
+      "artifacts": [
+        {
+          "path": "../round-41/L208-beyond-2026/original.xml",
+          "role": "motivation_and_open_question",
+          "reread_scope": "JATS section5 id phy271150-sec-0022 and section6 id phy271150-sec-0023",
+          "bytes": 300589,
+          "sha256": "c1ae6d18597e901ced4f6b8a95100d1ed06359f640cab8dec87825c1991fde05",
+          "new_download": false,
+          "new_reading_scope": false
+        }
+      ]
+    },
+    {
+      "source_id": "L74",
+      "title": "Children’s Developing Commitments to Joint Goals",
+      "source_metadata": "../round-15/L74-hamann-et-al-2012/metadata.json",
+      "retained_version": "9-page 2012 journal typeset PDF from Duke author lab; copyright 2011.",
+      "previous_read_scope": "PDF pp.1-3, procedure/coding parts of p.4, p.5, pp.7-8. p.6 only located; references not read as separate sources. Main result figure and trial-level denominators visually checked on p.5.",
+      "new_reading_scope": false,
+      "new_download": false,
+      "use": "研究结果及内部对照和替代解释，未测试本书成人修订机制。",
+      "artifacts": [
+        {
+          "path": "../round-15/L74-hamann-et-al-2012/original.pdf",
+          "role": "empirical_result_and_alternative_explanations",
+          "reread_scope": "PDF5,7–8 / printed141,143–144",
+          "bytes": 180188,
+          "sha256": "a006ad75d35f140f8d5f281c11d10cc9522d6d72136ac179dc273a4c9bec66e8",
+          "new_download": false,
+          "new_reading_scope": false
+        }
+      ]
+    }
+  ],
+  "reused_literature_families": 4,
+  "reused_substantive_artifacts": 6,
+  "new_network_requests": 0,
+  "new_literature_ids": 0,
+  "new_reading_scope": false
+}

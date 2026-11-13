@@ -1,0 +1,41 @@
+{
+  "id": "L227",
+  "source_id": "L227",
+  "title": "Data availability, reusability, and analytic reproducibility: evaluating the impact of a mandatory open data policy at the journal Cognition",
+  "doi": "10.1098/rsos.180448",
+  "publication_year": 2018,
+  "adopted_file": "bioc.xml",
+  "bytes": 119435,
+  "sha256": "30cbd23238a0f4e55dd1915243b8fe51f1c50855e2aa540c8c2181966a605237",
+  "source_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC6124055/unicode",
+  "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC6124055/unicode",
+  "retrieved_at_utc": "2026-11-13T03:12:49.999990+00:00",
+  "version": "NCBI BioC full-text export, PMC6124055, 184zero-based passages; not original JATS/PDF",
+  "reading_scope": "Zero-based passages1,9,11,13–25,29,38–49 selected,53,55–58,63–78,82selected,97–103; formulas and external supplementary reports not independently checked",
+  "source_type": "quasi-experimental single-journal before/after study and selected analytic-reproducibility case checks",
+  "content_status": "complete document archived; targeted reading only",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "new_publication_in_2026": false,
+  "correction_comment_check": "PubMed publication links and retained publisher records examined; linked records classified below; not exhaustive retraction surveillance",
+  "pmcid": "PMC6124055",
+  "pmid": "30225032",
+  "passage_index_base": 0,
+  "formula_conversion_incomplete": true,
+  "original_pdf_downloaded": false,
+  "sample_scope": {
+    "study1": 591,
+    "pre_policy": 417,
+    "post_policy": 174,
+    "triage_pool": 108,
+    "assessed_for_eligibility": 47,
+    "selected_articles": 35,
+    "target_values": 1324,
+    "article_outcomes": [
+      11,
+      11,
+      13
+    ]
+  }
+}

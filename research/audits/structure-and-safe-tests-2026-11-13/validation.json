@@ -1,0 +1,61 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "status": "passed",
+  "review_version": "0.4",
+  "review_sha256": "eda4f4053413f6956c46f21559e93c99a5b9fa70864e84db92d84d7aaccd35af",
+  "previous_snapshot_matches_prior_receipt": true,
+  "drafts": 12,
+  "argument_cards": 12,
+  "remaining_units": 16,
+  "checked_markdown_files": 21,
+  "broken_links": [],
+  "raw_manifests_verified": {
+    "round-38": 11,
+    "round-39": 63,
+    "round-40": 65,
+    "round-41": 71,
+    "round-42": 18,
+    "round-43": 34,
+    "round-44": 31,
+    "round-45": 31
+  },
+  "source_ids": [
+    "L221",
+    "L222",
+    "L223",
+    "L224"
+  ],
+  "main_pdf_files": 4,
+  "additional_same_family_pdf_files": 1,
+  "pdf_pages": {
+    "L221": 13,
+    "L222": 7,
+    "L223": 13,
+    "L224": 9,
+    "L224-extended-same-family": 12
+  },
+  "publication_record_crosschecks": true,
+  "source_and_reuse_hashes_verified": true,
+  "visual_checks": [
+    "L221 PDF3 prior and footnotes",
+    "L222 PDF4 specified inputs and Table3",
+    "L223 PDF8 causal-learning limitation",
+    "L224 PDF5 main theorem",
+    "L224 extendedPDF12 safety lemma"
+  ],
+  "finite_examples_verified": true,
+  "formal_register_sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+  "charter_equals_tag": true,
+  "tag_commit": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d",
+  "old_source_package_sha256": "f0c5d85ff3b17254fca988964c47585a1e5ccd89a1016e30dc35a919b24fa8b6",
+  "ignore_boundaries_verified": true,
+  "git_diff_check": "passed",
+  "no_commit_tag_or_push_performed": true,
+  "limits": [
+    "purposeful synthesis, not exhaustive literature coverage",
+    "grammar and observables still supplied",
+    "informative evidence is distinct from demonstrated correct causal learning",
+    "conditional static safety is distinct from per-outcome protection and dynamic recovery",
+    "no independent replication of papers or full reproof of SafeOpt"
+  ]
+}

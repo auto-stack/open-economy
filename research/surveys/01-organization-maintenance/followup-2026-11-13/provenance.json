@@ -1,0 +1,23 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "previous_review": "../review-2026-v0.1.snapshot.md",
+  "previous_review_sha256": "b732908f8867b3de5a80633d93b31049db734ebf25b2aca886b889ceb702129c",
+  "new_review_version": "0.2",
+  "L196_new_complete_PDF_acquired": true,
+  "backward_deposited_reference_records": 88,
+  "forward_index_count": 34,
+  "forward_exported": 34,
+  "source_ids_added": [
+    "L199",
+    "L200",
+    "L201",
+    "L202",
+    "L203"
+  ],
+  "old_source_id_reused": [
+    "L196",
+    "L61"
+  ],
+  "new_raw_batch": "wiki/raw/round-40",
+  "counts_note": "Do not add backward references, citing records or PDF pages as independent included studies."
+}

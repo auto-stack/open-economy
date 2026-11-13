@@ -1,0 +1,18 @@
+{
+  "source_id": "L236",
+  "title": "Experimental evidence for the co-evolution of hominin tool-making teaching and language",
+  "authors_or_creator": "Morgan et al. (2015)",
+  "doi": "10.1038/ncomms7029",
+  "research_date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "original.html",
+      "sha256": "2fbeb5e4cdcc532eeebb70f05f1825a185753790b8247d8f4cd3641c855e036d",
+      "bytes": 442702,
+      "source_url": "https://www.nature.com/articles/ncomms7029",
+      "format": "html"
+    }
+  ],
+  "read_scope": "沿链成绩、表2相关正文及实验设计、报酬、测量指标。",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md"
+}

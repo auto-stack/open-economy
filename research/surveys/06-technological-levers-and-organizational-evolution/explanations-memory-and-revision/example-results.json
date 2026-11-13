@@ -1,0 +1,52 @@
+{
+  "kind": "synthetic deterministic example; no empirical observations or original-study replication",
+  "given_data": [
+    2,
+    4,
+    6
+  ],
+  "v1": {
+    "record_sha256": "4abf9e27f31e3f6e004832618a67e1011c3e0b9b2aa02d0c7d70ba0e19c7f25a",
+    "replay_result": 6.0,
+    "record_integrity": true,
+    "matches_recorded_result": true,
+    "matches_intended_sample_mean": false,
+    "absolute_error_in_U": 2.0
+  },
+  "v2": {
+    "parent": "analysis-v1",
+    "record_sha256": "e6096e4f1dfbdd505b6189aecf0089ae663505252a9d199e27404a356e274482",
+    "sample_mean": 4.0,
+    "old_record_still_unchanged": true
+  },
+  "same_given_decision_rule_mean_at_least_5U": {
+    "using_v1": true,
+    "using_v2": false
+  },
+  "dependency_review": {
+    "changed_node": "analysis-v1",
+    "flag_for_review": [
+      "mean-claim-v1",
+      "threshold-decision-v1"
+    ],
+    "not_automatically_false": [
+      "mean-claim-v1",
+      "threshold-decision-v1"
+    ],
+    "independent_count_not_flagged": true,
+    "independent_count": 3,
+    "scope": "only the explicitly given complete graph; missing dependencies would be missed"
+  },
+  "reuse_scope": {
+    "allowed_task": "arithmetic-sample-mean",
+    "new_task": "population-forecast",
+    "automatically_authorized": false,
+    "reason": "a correct sample statistic alone does not validate a new population forecast"
+  },
+  "limitations": [
+    "The decision threshold5U and dependency graph are stipulated, not normative or empirically estimated.",
+    "An immutable digest identifies retained content; it does not establish the truth of observations.",
+    "The graph flags possible impact, not the truth value of downstream claims.",
+    "Independent review, complete traceability and maintenance have costs not estimated here."
+  ]
+}

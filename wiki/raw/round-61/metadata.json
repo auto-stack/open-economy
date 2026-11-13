@@ -1,0 +1,94 @@
+{
+  "round": 61,
+  "research_round": 66,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L255",
+      "title": "Guo et al. (2025). What Social Media Use Do People Regret? An Analysis of 34K Smartphone Screenshots with Multimodal LLM",
+      "doi": "10.1145/3706598.3713724",
+      "version_and_read_scope": "arXiv存档的CHI 2025会议稿；PDF 4–7、12、15–16，图4及10。",
+      "role": "意向在打开应用五秒后询问，截图抽样，晚间逐次懊悔评分。",
+      "files": [
+        "L255-phone-regret/arxiv.pdf",
+        "L255-phone-regret/arxiv.txt"
+      ]
+    },
+    {
+      "source_id": "L256",
+      "title": "Hsu et al. (2026). Does Longer Phone Use Always Feel Worse? Examining How Intention and Duration Shape Evaluations of Time Use",
+      "doi": "10.1145/3772318.3790925",
+      "version_and_read_scope": "作者网站CHI 2026排印PDF 5–8、11、14，图3–5。",
+      "role": "用途与好坏、中性评价在回顾时一并标注。",
+      "files": [
+        "L256-time-evaluation/article.pdf",
+        "L256-time-evaluation/article.txt"
+      ]
+    },
+    {
+      "source_id": "L257",
+      "title": "Werner et al. (2016). Some goals just feel easier: Self-concordance leads to goal progress through subjective ease, not effort",
+      "doi": "10.1016/j.paid.2016.03.002",
+      "version_and_read_scope": "期刊排印PDF 2–4，表2–3。",
+      "role": "四项理由与中途自感顺畅、自报努力及期末自评进展。",
+      "files": [
+        "L257-personal-goals/article.pdf",
+        "L257-personal-goals/article.txt"
+      ]
+    },
+    {
+      "source_id": "L258",
+      "title": "Mayer & Freund (2025). What happens to goals that are shelved? A 3-month longitudinal experience sampling study",
+      "doi": "10.1007/s11031-025-10143-z",
+      "version_and_read_scope": "期刊HTML与OSF 4ptmx，方法、日记、末访、表4–5、题目、字段字典。",
+      "role": "主观重要性与感到的承诺分开，另按公开日记核对两个窗口。",
+      "files": [
+        "L258-shelved-goals/article.html",
+        "L258-shelved-goals/osf/1_describe_diary.R",
+        "L258-shelved-goals/osf/4_mlm_trajectories.R",
+        "L258-shelved-goals/osf/Codebook_Diarydata.xlsx",
+        "L258-shelved-goals/osf/diarydt.RData",
+        "L258-shelved-goals/osf/diarydtsubset.RData",
+        "L258-shelved-goals/osf/Item_Documentation_Diarystudy.docx",
+        "L258-shelved-goals/osf/readme.txt"
+      ]
+    },
+    {
+      "source_id": "L259",
+      "title": "Deslauriers et al. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom",
+      "doi": "10.1073/pnas.1821936116",
+      "version_and_read_scope": "Cornell存档期刊排印PDF 2–4，图1、表3。",
+      "role": "同人交叉比较当堂感受与测验，不观察自由选择教法。",
+      "files": [
+        "L259-physics-class/article.pdf",
+        "L259-physics-class/article.txt"
+      ]
+    },
+    {
+      "source_id": "L260",
+      "title": "Read & van Leeuwen (1998). Predicting Hunger: The Effects of Appetite and Delay on Choice",
+      "doi": "10.1006/obhd.1998.2803",
+      "version_and_read_scope": "华威大学保存的期刊PDF 8–11，图1及表1。",
+      "role": "提前选择和实际领取；无餐后复评。",
+      "files": [
+        "L260-advance-choice/article.pdf",
+        "L260-advance-choice/article.txt"
+      ]
+    },
+    {
+      "source_id": "L261",
+      "title": "Maple et al. (2025). Outcomes and motivations in unspecified (nondirected altruistic) kidney donation: Results from a United Kingdom prospective cohort study",
+      "doi": "10.1016/j.ajt.2025.03.021",
+      "version_and_read_scope": "KCL接受稿PDF 8–9、12–13、16–17、25；大学档案存作者2026年更正（10.1016/j.ajt.2026.03.004）。",
+      "role": "前后决策研究。表2更正未改变本书采用的结局。另存NIHR相关项目两页概要，非独立验证。",
+      "files": [
+        "L261-bound/article.pdf",
+        "L261-bound/article.txt",
+        "L261-bound/corrigendum.html",
+        "L261-bound/report.pdf",
+        "L261-bound/report.txt"
+      ]
+    }
+  ],
+  "data_scope": "L258包含公开的个人层面日记；其余采用报告数值。原件校验、访问记录与本书独立复核分别保存。"
+}

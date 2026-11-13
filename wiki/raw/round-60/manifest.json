@@ -1,0 +1,99 @@
+{
+  "files": [
+    {
+      "path": "download-log.json",
+      "bytes": 6244,
+      "sha256": "daac6400e4ca8c0d39b1febd5cf2807c342e99ff5f00b847c09885fcb8817be5"
+    },
+    {
+      "path": "L249-capable/article.html",
+      "bytes": 190453,
+      "sha256": "c5b33b978e1c39eaa21cae55906cc3d221548e4ccb73a1607ba5e77a8bb0c845"
+    },
+    {
+      "path": "L249-capable/trial.json",
+      "bytes": 6152,
+      "sha256": "12445de7523a32ce621dc6151e32dec3069dd59391bfcd43993410ac2698c90e"
+    },
+    {
+      "path": "L250-prosper/article.pdf",
+      "bytes": 622577,
+      "sha256": "447bd60da2045d166827642ea224bf5c7c5a048c31af5784bcafa6a6041c7d66"
+    },
+    {
+      "path": "L250-prosper/article.txt",
+      "bytes": 82404,
+      "sha256": "af3387cd333823704951196bc3ff5c820750595e1aade0b89f84fd16547f52a3"
+    },
+    {
+      "path": "L250-prosper/trial.json",
+      "bytes": 23760,
+      "sha256": "9f7fdaaa05aca745513a99d2c917f7b729654b66e8afab419be874fa32a3047a"
+    },
+    {
+      "path": "L251-prosper-ii/article.pdf",
+      "bytes": 566777,
+      "sha256": "2e39ad465e4fc74a7ab72501c43a1797b3a32fb0fb2b61f42fd8da04df6f1fd5"
+    },
+    {
+      "path": "L251-prosper-ii/article.txt",
+      "bytes": 112361,
+      "sha256": "f0ab557774cb3b64970a54869135f41e589c5ac568550675c0ec8daedf6427c5"
+    },
+    {
+      "path": "L251-prosper-ii/trial.json",
+      "bytes": 12323,
+      "sha256": "287d681abff0a3e6cbb8cebcb961b0ba25fe0148799fa1e2adff6a890d82834f"
+    },
+    {
+      "path": "L252-burkina/access.html",
+      "bytes": 31080,
+      "sha256": "343ab6e9b53801b9b8035c88eb0bf87a89b1e6965a5aa45779bceac062fff027"
+    },
+    {
+      "path": "L252-burkina/baseline-catalog.html",
+      "bytes": 59550,
+      "sha256": "2856baeeec0660d7c4017526add8f41cd346e51462c65da795442a529728c4c4"
+    },
+    {
+      "path": "L252-burkina/microdata-access.html",
+      "bytes": 31080,
+      "sha256": "0fc4057442e226eb62020cc5f3ce0949c8d78874d06047d44a1a4a3e5f9fd862"
+    },
+    {
+      "path": "L252-burkina/working-paper.pdf",
+      "bytes": 1363494,
+      "sha256": "bd3c85d715cc588b2fbb6da54ec4bcd823413f20dc1f5490b1abb10c3108b914"
+    },
+    {
+      "path": "L252-burkina/working-paper.txt",
+      "bytes": 142848,
+      "sha256": "bce7825b5dd150aca1c371785cf8e3f8f6921e9c76361e0841af0bb6a6701bec"
+    },
+    {
+      "path": "L253-wheels/article.html",
+      "bytes": 181719,
+      "sha256": "7cfbe57eaa48173dddc61054c6dabae9c99d360e985dd4f8de9f7cadcddb9993"
+    },
+    {
+      "path": "L254-wheel-interviews/abstract.xml",
+      "bytes": 8851,
+      "sha256": "5b2a07acab31429bbe31c94c2211f1a13ee911e7095156bfcee84b1dda11fbb4"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 3944,
+      "sha256": "39e5c87e046cc72fe239c8fbe7174d3e97c82a9285ff0179df9166115f961f2a"
+    },
+    {
+      "path": "published-tables.json",
+      "bytes": 50910,
+      "sha256": "0c891ff090b6c0ca88bbe0e5bad67bdf457bb7d7e77fb1d366fce54711f04aff"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3020,
+      "sha256": "081deafe4b516145123221a7cb993292d1754eb8d52e30eb4d3698c2190f3d6b"
+    }
+  ]
+}

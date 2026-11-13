@@ -1,0 +1,184 @@
+{
+  "date_local": "2026-11-13",
+  "scope": "Six-field format pilot in two substantive source disputes",
+  "passed": true,
+  "checks": [
+    {
+      "check": "Two filled pilots retain six core fields without a truth score",
+      "passed": true,
+      "evidence": {
+        "format_version": "0.1",
+        "cases": 2
+      }
+    },
+    {
+      "check": "All case sources resolve with exact bytes and distinguish speaker/role/target/locator",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "One L58 PDF retains target, independent commentator and reply as different voices",
+      "passed": true,
+      "evidence": {
+        "independent_data_count_not_inferred": true
+      }
+    },
+    {
+      "check": "Football identity/trust and national conflict have separate use decisions",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Both pilots explicitly retain unverified work and review triggers",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Five existing PDF containers reused; no new source IDs or primary PDF acquisition",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "New page scopes recorded separately from old metadata",
+      "passed": true,
+      "evidence": [
+        {
+          "source_id": "L160",
+          "source": "../round-29/L160-campante-et-al-correction-2024/original.pdf",
+          "new_scope": "PDF4样本算法及排除说明",
+          "old_metadata_modified": false,
+          "new_original_download": false,
+          "full_proofs_or_data_replication": false
+        },
+        {
+          "source_id": "L161",
+          "source": "../round-29/L161-delpeyrou-bertoli-2024/original.pdf",
+          "new_scope": "PDF16安慰剂及更正讨论指定段",
+          "old_metadata_modified": false,
+          "new_original_download": false,
+          "full_proofs_or_data_replication": false
+        },
+        {
+          "source_id": "L162",
+          "source": "../round-29/L162-campante-et-al-reply-2024/original.pdf",
+          "new_scope": "PDF9–10样本定义及17安慰剂回应指定段",
+          "old_metadata_modified": false,
+          "new_original_download": false,
+          "full_proofs_or_data_replication": false
+        }
+      ]
+    },
+    {
+      "check": "Three saved HTTP200 responses: one real publication record, two noncontent checks",
+      "passed": true,
+      "evidence": [
+        {
+          "path": "records/aea-article.html",
+          "status_code": 200,
+          "title": "Building Nations through Shared Experiences: Evidence from African Football - American Economic Association",
+          "adopted": true,
+          "kind": "publisher publication/version context",
+          "sha256": "48bf6a58af14ee1bd662743366abe45d605c5b91a57d23434b724326dfae0014"
+        },
+        {
+          "path": "records/econstor-193.html",
+          "status_code": 200,
+          "title": "Making sure you're not a bot!",
+          "adopted": false,
+          "kind": "anti-bot check page, not repository metadata or article body",
+          "sha256": "9da98a52504b62f564e0caec11a95088f56b88b7c131822bfdc87aa5a929a667"
+        },
+        {
+          "path": "records/econstor-194.html",
+          "status_code": 200,
+          "title": "Making sure you're not a bot!",
+          "adopted": false,
+          "kind": "anti-bot check page, not repository metadata or article body",
+          "sha256": "ad385a6c8b9c6715cc25a884047b3807eb4dbf1225ff42109266df36f2033891"
+        }
+      ]
+    },
+    {
+      "check": "Adopted publisher record contains original abstract and2024 correction entry",
+      "passed": true,
+      "evidence": {
+        "role": "version context only, not independent effect verification"
+      }
+    },
+    {
+      "check": "Three source-context updates append scope/role notes and preserve prior text",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Format and case snapshots match authored records",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Round50 manifest covers all archived bytes",
+      "passed": true,
+      "evidence": {
+        "files": 31,
+        "errors": []
+      }
+    },
+    {
+      "check": "Review0.3 retained byte-for-byte and current0.4 version bound to content",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Authored-document local links resolve; snapshots retain source-relative context",
+      "passed": true,
+      "evidence": {
+        "links": 1066,
+        "errors": []
+      }
+    },
+    {
+      "check": "Existing chapter bodies and last-round repaired cards untouched",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Still13 drafted units/13 cards; no bulk empty-card rollout",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Formal79 register, earlier information review and source ZIP unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Historical tag unchanged",
+      "passed": true,
+      "evidence": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d"
+    },
+    {
+      "check": "Historical baseline preserved: docs/charter.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Historical baseline preserved: wiki/archive/source-package-manifest.json",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "current_output_sha256": {
+    "shared/source-check-format.md": "43571ca7e687dfb111a916b8ba951c90610dacbe127a1a331b20a6048edf032f",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/cases.json": "8e45e9b5a58a42e082421dedcbf4fa471b1f99515ab0bb964579398b065cc5e3",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/README.md": "119ad57f5e06031dde3e7c3727a9ecb3206b5e0c93b4906ceb4097b2cd4ecdfc",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md": "7d9614ec4a8613e1a686faa8af4715e0bb4785c770eb8a1192084e9c1460cc69",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/version-provenance.json": "8154769fc5471ecdf9990692e65519c2f15952e6c87d96deaf5249d0fb1dc10e",
+    "wiki/raw/round-50/manifest.json": "fec3c155f971ff0ebfa1d260ccaae9ebe53dbee5df5280ece16a63f8a5c22bcc"
+  },
+  "limitations": [
+    "Same-author targeted appraisal; no blinded adjudication, reader timing or measured maintenance benefit.",
+    "Partial original/commentary/correction/reply reading; no full data or code replication.",
+    "Two cases show representational coverage, not proof of truth or the efficiency of the format.",
+    "Prior revision-bound audit receipts not overwritten or rerun; no Git commit/tag/push or ZIP regeneration."
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://journals.physiology.org/doi/pdf/10.1152/ajpregu.00068.2004",
+    "target": "L206-romanovsky-2004/original.pdf",
+    "time_utc": "2026-11-13T01:03:13.889237+00:00",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "url": "https://www.feverlab.net/pages/publicationpdfs/2004AJPR_AAR%20Do%20fever.pdf",
+    "target": "L206-romanovsky-2004/original.pdf",
+    "time_utc": "2026-11-13T01:03:54.057119+00:00",
+    "error": "URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)'))"
+  },
+  {
+    "url": "http://www.feverlab.net/pages/publicationpdfs/2004AJPR_AAR%20Do%20fever.pdf",
+    "target": "L206-romanovsky-2004/original.pdf",
+    "time_utc": "2026-11-13T01:05:10.970758+00:00",
+    "status": 200,
+    "final_url": "http://www.feverlab.net/pages/publicationpdfs/2004AJPR_AAR%20Do%20fever.pdf",
+    "content_type": "application/pdf",
+    "bytes": 100053,
+    "sha256": "55d349c068555debbed3864bf6df30ff836f3cc7b98c4b2a535e9cbaedaf84b0",
+    "pdf_pages": 4
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-13",
+  "scope": "本书对作者公开记录的描述性复核。仅报告汇总值，未复现论文的多层模型、因果机制或长期结果。",
+  "L262": {
+    "input": {
+      "path": "L262-goal-change/osf/changed-goals.xlsx",
+      "sha256": "bd2062af62c3af06a84522ae7e940f5c8aa69fbc795edc1617cb83e9126ea20e"
+    },
+    "method": "Sheet 1去表头，每行为新旧文本对。分别统计Code（编码者判断）及Change（本人报告旧目标状态）。此表只含发生文本变化的记录。",
+    "pairs": 162,
+    "Code": {
+      "Uprevision": 12,
+      "different": 127,
+      "downrevision": 23
+    },
+    "Change": {
+      "I achieved this goal": 33,
+      "I changed or adjusted the goal": 102,
+      "I abandoned this goal": 26,
+      "I am still pursuing the goal": 1
+    },
+    "checked_example": "平均成绩目标92%改为95%；旧目标状态为已经达到。",
+    "example_verified": true
+  },
+  "L263": {
+    "input": {
+      "path": "L263-intention-diary/osf/reasons.xlsx",
+      "sha256": "338bfb4b75c3efb2d77a75764608093175add1dae1bb5f32524f23b2fdeae452"
+    },
+    "method": "ALL每行一项次日意向。依同文件Codebook，ld_1_check为0时计未完成；分别统计ld_1_reason与ld_1_resch。按ID归集不同事件的非空原因码，计至少两个不同码的ID数。",
+    "all_intentions": 1823,
+    "participants": 102,
+    "not_completed": 565,
+    "reasons_by_code": {
+      "1": 54,
+      "2": 190,
+      "3": 97,
+      "4": 86,
+      "5": 28,
+      "6": 50,
+      "7": 60
+    },
+    "rescheduled_by_code": {
+      "1": 490,
+      "0": 75
+    },
+    "people_with_any_unfulfilled": 99,
+    "people_reporting_at_least_two_different_reason_codes": 78,
+    "limits": "单次单选主要原因；更改优先序与改期共用一码。改期字段是自报，无法据此计算改期后的完成率。"
+  },
+  "L266": {
+    "input": {
+      "path": "L266-road-not-taken/osf/study1a.xlsx",
+      "sha256": "95e39464ee280acf3cac218ea50b611cb75f934d4908b598632510cf6cd40488"
+    },
+    "author_code": {
+      "path": "L266-road-not-taken/osf/study1a.R",
+      "sha256": "6f61e63bf18302b2d6cd5a215c6e88c7193c81a7219ffde44751dbbd32bd3df1"
+    },
+    "method": "按study1a.R，首行列名，跳过其后题目说明行；剔除age或gender为空及Status=1。对goal分组、计switched为1或0的人数。",
+    "groups": {
+      "control": {
+        "total": 202,
+        "switched": 99,
+        "continued": 103
+      },
+      "money": {
+        "total": 197,
+        "switched": 65,
+        "continued": 132
+      }
+    },
+    "limits": "仅研究1A。没有重跑其他研究或复算心理中介。"
+  },
+  "L264": {
+    "input": {
+      "path": "L264-london-strike/replication.zip",
+      "sha256": "d069e9dfdb78cad1e3bbb0d489e86fed969b6c7739d64115b56baeea566f496b"
+    },
+    "members": [
+      "Replication Data/Datasets/T4.dta",
+      "Replication Data/Do files/Table 4.do",
+      "Replication Data/Readme.pdf"
+    ],
+    "method": "与作者脚本的单一二值自变量回归等价。以1−lastdaymode标记末日换站，分别按strike与strikeswitch计算组内比例、受影响组减对照组。使用中间统计表，不含旅客行程日志。",
+    "rows": 6946,
+    "results": {
+      "strike": {
+        "groups": {
+          "0": {
+            "n": 3083,
+            "switchers": 209
+          },
+          "1": {
+            "n": 3863,
+            "switchers": 364
+          }
+        },
+        "share_treated_in_replication_table": 0.5561474229772531,
+        "difference_percentage_points": 2.6436171941208175
+      },
+      "strikeswitch": {
+        "groups": {
+          "0": {
+            "n": 2738,
+            "switchers": 136
+          },
+          "1": {
+            "n": 4208,
+            "switchers": 437
+          }
+        },
+        "share_treated_in_replication_table": 0.6058162971494385,
+        "difference_percentage_points": 5.417851697139531
+      }
+    },
+    "version_note": "接受稿表IV的换站差值可复现。表的另一列Share treated对应两行分别列0.42、0.22，与公开T4数据相应分组占比不同。原因未确认；书中只采用可复现的两组换站率之差。"
+  }
+}

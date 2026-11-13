@@ -1,0 +1,18 @@
+{
+  "source_id": "L233",
+  "title": "Group cognition, membership change, and performance",
+  "authors_or_creator": "Lewis, Belliveau, Herndon & Keller (2007)",
+  "doi": "10.1016/j.obhdp.2007.01.005",
+  "research_date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "original-selected.partial.txt",
+      "sha256": "5adcf8e6e0387fc152b24793fcaa15450c5cae179640cb30c28385e85769b5b9",
+      "bytes": 30167,
+      "source_url": "https://citeseerx.ist.psu.edu/document?doi=98a65619c97b9fc5ea62bd32c38a99fed4fe7f84&repid=rep1&type=pdf",
+      "format": "partial_pdf_tool_text"
+    }
+  ],
+  "read_scope": "原期刊文转换选段。Procedures、专长编码、表2和补充研究。完整PDF未取得。",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md"
+}

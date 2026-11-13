@@ -1,0 +1,32 @@
+{
+  "date_local": "2026-11-13",
+  "versions": [
+    {
+      "version": "0.1",
+      "file": "review-2026-v0.1.snapshot.md",
+      "sha256": "8c3af53c8adbccf77a544ed7258501498023bf695fa1d1a9380351ca96633f6e",
+      "source_round": 52
+    },
+    {
+      "version": "0.2",
+      "file": "review-2026-v0.2.snapshot.md",
+      "sha256": "901d1e12658f00db109d630425646e1f1feef5550f70706ffaa0218d8fdd8bdc",
+      "source_round": 53,
+      "change": "Added scripted internal comparison, index self-organization control, preparation costs and misassigned-relation failure; prior external reading scope unchanged."
+    },
+    {
+      "version": "0.3",
+      "file": "review-2026-v0.3.snapshot.md",
+      "sha256": "619ae4fcee9feb063081f54926e73df8409d20908cbb05f96f10ebe8a56ba025",
+      "source_round": 54,
+      "change": "Six claims in three existing cards checked against fixed originals/project derivations; improved locators and source roles, preserving pending validation and manuscript bodies."
+    },
+    {
+      "version": "0.4",
+      "file": "review-2026.md",
+      "sha256": "7d9614ec4a8613e1a686faa8af4715e0bb4785c770eb8a1192084e9c1460cc69",
+      "source_round": 55,
+      "change": "Six-field source-check format piloted on two substantive disputes; speaker, target, claim-version and unresolved evidence retained."
+    }
+  ]
+}

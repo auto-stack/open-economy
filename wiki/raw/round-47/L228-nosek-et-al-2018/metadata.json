@@ -1,0 +1,40 @@
+{
+  "id": "L228",
+  "source_id": "L228",
+  "title": "The preregistration revolution",
+  "doi": "10.1073/pnas.1708274114",
+  "publication_year": 2018,
+  "adopted_file": "original.html",
+  "bytes": 196972,
+  "sha256": "bee53e018b1ec7a9feb52ce8ac01894ed2baf09692573f1119ef4b1f09ecb7da",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/5856500/",
+  "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5856500/",
+  "retrieved_at_utc": "2026-11-13T03:13:53.558180+00:00",
+  "version": "Complete PMC HTML, PMC5856500; main PDF not acquired",
+  "reading_scope": "Abstract/introduction and HTML#s3,#s6,#s7,#s12,#s13,#s14,#s20; cited studies not independently reread",
+  "source_type": "methodological argument with secondary discussion of empirical work; not new trial proving a universal intervention effect",
+  "content_status": "complete document archived; targeted reading only",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "new_publication_in_2026": false,
+  "correction_comment_check": "PubMed publication links and retained publisher records examined; linked records classified below; not exhaustive retraction surveillance",
+  "pmcid": "PMC5856500",
+  "pmid": "29531091",
+  "original_pdf_downloaded": false,
+  "bioc_response_adopted": false,
+  "linked_publications": [
+    {
+      "pmid": "30341224",
+      "doi": "10.1073/pnas.1816418115",
+      "type": "CommentIn, author reply; not erratum",
+      "body_read": false
+    },
+    {
+      "pmid": "30341225",
+      "doi": "10.1073/pnas.1812592115",
+      "type": "CommentIn, Ledgerwood commentary; not erratum",
+      "body_read": false
+    }
+  ]
+}

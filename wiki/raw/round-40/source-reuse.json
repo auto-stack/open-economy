@@ -1,0 +1,19 @@
+[
+  {
+    "id": "L61",
+    "path": "wiki/raw/round-11/L61-ramsay-woods-2014/original.xml",
+    "sha256": "f35d0ff30034e90cf17b83d653990ef70fb3d3319afbf9e33dc96b63647abb0d",
+    "read_scope": "Reuse previous read scope only; no new XML passages read",
+    "new_download": false,
+    "original_modified": false
+  },
+  {
+    "id": "L196",
+    "prior_metadata": "wiki/raw/round-39/L196-bechtel-bich-2024/metadata.json",
+    "prior_metadata_sha256": "d304c6763d12c3c18ab1d3cffece0331a33652d64587a05a0fbd102c4477072f",
+    "new_original": "wiki/raw/round-40/L196-bechtel-bich-2024/original.pdf",
+    "new_original_sha256": "8753f6085ed28c9047066cc676edf28cb6248d19eaed3b2ea06d0e9ce4fa3d4e",
+    "identity": "Same DOI and authors; new complete copy does not overwrite earlier partial tool text/failures",
+    "new_work": false
+  }
+]

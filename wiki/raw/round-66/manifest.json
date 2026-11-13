@@ -1,0 +1,84 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 3099,
+      "sha256": "f06189dc12341304c8f8c8c7f8e5cd2e57c2a11cf6de82e3fd50fe2ca5433c72"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 3546,
+      "sha256": "c657d93c2167403a20cac62b90cdee3ea1fd49fd548a91d042dcfae24bd66fdc"
+    },
+    {
+      "path": "L284-care-bank/accepted.pdf",
+      "bytes": 519114,
+      "sha256": "5e35a301c29ab8d793191902915e0e44e946bff5d5ac20293d7424fbd1685509"
+    },
+    {
+      "path": "L284-care-bank/accepted.txt",
+      "bytes": 54376,
+      "sha256": "29fd5151f9dc21c3eceaf650ab2e159141ccac9486f2d0f8e50d421a2aca25d0"
+    },
+    {
+      "path": "L285-helpline/article.pdf",
+      "bytes": 308470,
+      "sha256": "78ff562beffb06cdb3db96202e74252647b9421eb1f43a9b6efec680afc2fe12"
+    },
+    {
+      "path": "L285-helpline/article.txt",
+      "bytes": 63562,
+      "sha256": "2c0c88d6c62f1c55a5f974493d49bc469ab067d36848d2251d9695d3f83a3888"
+    },
+    {
+      "path": "L285-helpline/supplement.docx",
+      "bytes": 38379,
+      "sha256": "7e26a9525c0c3470d39658ee63ded5a9e7ef06d62da1d9afe110e82cf48a2b08"
+    },
+    {
+      "path": "L285-helpline/supplement.txt",
+      "bytes": 17449,
+      "sha256": "d27c30a70de5bd5d760364c1b9f515e51aa659e4b36deefbd64a88d1424c3762"
+    },
+    {
+      "path": "L286-star/report.pdf",
+      "bytes": 1655803,
+      "sha256": "5a82a6e081cc2787ef04a0449395564ba9420e4eddb19d4ecce26a982497054b"
+    },
+    {
+      "path": "L286-star/report.txt",
+      "bytes": 196319,
+      "sha256": "9f5ba91227808765ae36530ede27da9d22f08cbe57d06866a504eca1bb1bde70"
+    },
+    {
+      "path": "L287-bbbs/impact.pdf",
+      "bytes": 942906,
+      "sha256": "a6f740ead348d067a0589a83a8ab74eb1d2389d4ca426e378f63c596524f3de9"
+    },
+    {
+      "path": "L287-bbbs/impact.txt",
+      "bytes": 189699,
+      "sha256": "bd4ff35c371b731a2fcb355fe812d2096b09c225d240964fd61a1d5bb217ff4e"
+    },
+    {
+      "path": "L288-freedom-summer/follow-up.pdf",
+      "bytes": 908118,
+      "sha256": "b157f7e2b2427a58a34cdab6272fa683e80179940f8ca2953838d0b8274c52a6"
+    },
+    {
+      "path": "L288-freedom-summer/follow-up.txt",
+      "bytes": 74764,
+      "sha256": "2c597123537892423f3bd42a9f80bb9e121b6ab0410e630337ea3afa3828427c"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 5050,
+      "sha256": "9e43dfd5bf56a02bd1aef2820f26dd0ee05f37a2e59f0a65bcf959292e0fdd82"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3472,
+      "sha256": "7c44f93998f7666deb76da361a7c6fe0e5ae27c8b5e4e4f56592bffac6390655"
+    }
+  ]
+}

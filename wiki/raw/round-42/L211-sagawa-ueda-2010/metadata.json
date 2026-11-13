@@ -1,0 +1,25 @@
+{
+  "id": "L211",
+  "title": "Generalized Jarzynski Equality under Nonequilibrium Feedback Control",
+  "authors": [
+    "Takahiro Sagawa",
+    "Masahito Ueda"
+  ],
+  "doi": "10.1103/PhysRevLett.104.090602",
+  "publication_year": 2010,
+  "adopted_file": "original.pdf",
+  "sha256": "ef3bf9a2f6c65c612bf175af8b5399d9d4561903b0b067450e431fd2bc587c53",
+  "bytes": 146038,
+  "pdf_pages": 4,
+  "source_url": "https://arxiv.org/pdf/0907.4914",
+  "final_url": "https://arxiv.org/pdf/0907.4914",
+  "retrieved_at_utc": "2026-11-13T01:26:37.465649+00:00",
+  "version": "arXiv:0907.4914v3; margin 20 Jan 2010; internal Dated May 28, 2018; not verified identical to journal typesetting",
+  "content_status": "full_text_targeted_reading",
+  "reading_scope": "PDF1–4 targeted: setup, Eqs1–4, ratchet and proof; PDF1 key equations visually checked; references not individually read",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "new_publication_in_2026": false
+}

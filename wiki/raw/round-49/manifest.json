@@ -1,0 +1,127 @@
+[
+  {
+    "path": "after/book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+    "bytes": 5913,
+    "sha256": "b53efb6b2b92daf7c551137d8f6fb1543ab21be67960feb4757a6dc12934d8ac"
+  },
+  {
+    "path": "after/book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+    "bytes": 3384,
+    "sha256": "29eb9626bfb00e9776a31386b94a2f248d58d6d5473ed5e384c79d2ad5a811c6"
+  },
+  {
+    "path": "after/book/argument-cards/part-03-02-revisable-shared-commitments.md",
+    "bytes": 3736,
+    "sha256": "ff7c7a404dda7a6109d0613d49f65d4a5b6986a921cf71711c53eb1db995bc59"
+  },
+  {
+    "path": "audit-records/case-register.json",
+    "bytes": 15006,
+    "sha256": "8f34c1e3e845832560cedeee34ed873a1ce75cee91a1a64d20991f5f283f69f7"
+  },
+  {
+    "path": "audit-records/protocol.md",
+    "bytes": 2099,
+    "sha256": "90b97c20cd3adf0e1f6ded25baba048fc6caafe3fbc386f5034196eb25c76509"
+  },
+  {
+    "path": "audit-records/reading-notes.md",
+    "bytes": 6933,
+    "sha256": "f030cd4094a2894001232fda8113971360950882afb025f6ccd9b6bec8b9c898"
+  },
+  {
+    "path": "audit-records/README.md",
+    "bytes": 4903,
+    "sha256": "06e962955ec9b688bd3ac1bc30957abee01aac6dc16baaa8315b033f525d0e4b"
+  },
+  {
+    "path": "before/book/argument-cards/part-01-02-entropy-information-and-ordo.md",
+    "bytes": 5157,
+    "sha256": "b4aaf7ed30e04048c06b16041f4d58270a1a93ef740b4c444c6e1d0112bb3481"
+  },
+  {
+    "path": "before/book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md",
+    "bytes": 2747,
+    "sha256": "7f6a20cff66c8435e3af1be91f412e957ced2b0b037ae62d422566bea2015578"
+  },
+  {
+    "path": "before/book/argument-cards/part-03-02-revisable-shared-commitments.md",
+    "bytes": 2864,
+    "sha256": "a190a01c23ce2c420fbc46039572c59d935026b59267f9d8ed93ebbd4e9cd015"
+  },
+  {
+    "path": "before-state.json",
+    "bytes": 861,
+    "sha256": "2dad09a33adca5e3d1280dae563427dbb7773815a64762c8325cc01d7bea26c7"
+  },
+  {
+    "path": "context-records/01-reading-notes.md",
+    "bytes": 8149,
+    "sha256": "97ab18df0fbf74b525a920a271ec8f81f25301d8b9078c71b5016d41708e8a7e"
+  },
+  {
+    "path": "context-records/02-reading-notes.md",
+    "bytes": 7441,
+    "sha256": "fd1317731d7d0bee105e8f1618934727062aedc48d26cb54156cadd4c76d4895"
+  },
+  {
+    "path": "context-records/03-reading-notes.md",
+    "bytes": 7864,
+    "sha256": "57350936ff8aaf4bbeb138eada0943ae4f7bb257649e816654d9fd663f29f070"
+  },
+  {
+    "path": "context-records/04-reading-notes.md",
+    "bytes": 6375,
+    "sha256": "04b3711cc299881755fa0067250f8788c843968026acafa3b667118aca089be4"
+  },
+  {
+    "path": "download-log.json",
+    "bytes": 3,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "path": "inspection/L213-pdf2.png",
+    "bytes": 157647,
+    "sha256": "9e590c0672f2db98aa1f7faf8fccf2c0188b208d84bbe720328df6567e3f9e55"
+  },
+  {
+    "path": "inspection/L224-pdf5.png",
+    "bytes": 144364,
+    "sha256": "d7a08e769c7ca5867fd155a970003ecbf6d6cc2a91cd0f4ca7221a8945313ca7"
+  },
+  {
+    "path": "inspection/L74-pdf5.png",
+    "bytes": 137121,
+    "sha256": "4fb9192ea77db4ec2bd0ff3694151856e88d2d9e6f3f38f563fdcfe589f18487"
+  },
+  {
+    "path": "inspection/L74-pdf8.png",
+    "bytes": 147212,
+    "sha256": "46e9d263e816716f70498ff2535ce39c576b7a219ce2afca52a02094bcc986fd"
+  },
+  {
+    "path": "metadata.json",
+    "bytes": 4324,
+    "sha256": "e778675f49a0c7945073b242607972033b6fff44f1e1a107e75c11725c7297bf"
+  },
+  {
+    "path": "project-materials/16-shared-commitments.md",
+    "bytes": 13396,
+    "sha256": "57f4d9a2123500cfc4cb7eb14d13503a43cb28db6873250ebaf9dcea9d8558e9"
+  },
+  {
+    "path": "project-materials/models.md",
+    "bytes": 2470,
+    "sha256": "d8597547b0120283ab7163b9a2687c0613b4246f55e1a092b2031f4d5ca30d18"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1727,
+    "sha256": "fe64ed9fbd1b550f21cf2ffa0924654c5c0b16487e80e449f19372c1a6250bbc"
+  },
+  {
+    "path": "source-reuse.json",
+    "bytes": 5486,
+    "sha256": "b690e0b97b5428504118751c9a492fbb579cdd530bc732c74353b4d7c8377082"
+  }
+]

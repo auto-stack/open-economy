@@ -1,0 +1,91 @@
+{
+  "round": 63,
+  "research_round": 68,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L267",
+      "title": "Barragan-Jason et al. (2021). Schoolchildren cooperate more successfully with non-kin than with siblings",
+      "doi": "10.1098/rspb.2020.2951",
+      "date": "2021-02-10",
+      "version_and_read_scope": "HAL作者稿，PDF第5–8页与期刊图1、方法及首试结果交叉核对。附较早的bioRxiv预印本。",
+      "role": "核查单人动作边界、双人取物和首试分母。Dryad所列入口无可下载逐试数据。",
+      "companion_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7893240/",
+      "files": [
+        "L267-rope/author.pdf",
+        "L267-rope/author.txt",
+        "L267-rope/dryad.json",
+        "L267-rope/preprint.pdf",
+        "L267-rope/preprint.txt"
+      ]
+    },
+    {
+      "source_id": "L268",
+      "title": "Barrera-Lemarchand et al. (2026). Collective problem decomposition improves the wisdom of deliberative crowds",
+      "doi": "10.1038/s41467-026-76365-y",
+      "date": "2026-08-05",
+      "version_and_read_scope": "期刊JATS全文，研究1、2、3、图1/4/6，OSF三次实验的个人和小组统计表及相应作图代码。",
+      "role": "研究1同组同题独答、算术平均、联合答案、事后最佳；研究2比较讨论方法；研究3比较共同与独自拆题。",
+      "companion_url": "https://osf.io/bru7k/",
+      "files": [
+        "L268-deliberation/article.txt",
+        "L268-deliberation/article.xml",
+        "L268-deliberation/code-files.json",
+        "L268-deliberation/osf-files.json",
+        "L268-deliberation/osf/data_experiment_1__by_participant.csv",
+        "L268-deliberation/osf/data_experiment_1__with_features.csv",
+        "L268-deliberation/osf/data_experiment_3__by_participant.csv",
+        "L268-deliberation/osf/data_experiment_3__with_features.csv",
+        "L268-deliberation/osf/figure_1.m",
+        "L268-deliberation/osf/figure_4.m",
+        "L268-deliberation/osf/figure_6.m",
+        "L268-deliberation/osf/output_exp2__by_participant.csv",
+        "L268-deliberation/osf/output_exp2__with_features.csv"
+      ]
+    },
+    {
+      "source_id": "L269",
+      "title": "Toma & Butera (2009). Hidden Profiles and Concealed Information: Strategic Information Sharing and Use in Group Decision Making",
+      "doi": "10.1177/0146167209333176",
+      "date": "2009",
+      "version_and_read_scope": "洛桑大学存档期刊排印PDF，研究1，PDF第5–8页，期刊页796–799。",
+      "role": "比较组内争先与小组共同判断下独有线索交流、反驳初判及两种最终正确率。",
+      "companion_url": "https://api.unil.ch/iris/server/api/core/bitstreams/4405f67a-09f8-44c1-8aa3-c36d20bdec64/content",
+      "files": [
+        "L269-hidden-profiles/article.pdf",
+        "L269-hidden-profiles/article.txt"
+      ]
+    },
+    {
+      "source_id": "L270",
+      "title": "Ring, Kavussanu & Cooke (2022). Effects of Cooperation and Competition on Performance, Emotion, and Effort: Goal and Means Interdependence",
+      "doi": "10.1123/jsep.2020-0357",
+      "date": "2022",
+      "version_and_read_scope": "Bangor存档的同行评议作者稿。PDF第10–16页、表1第32页。",
+      "role": "同人独投、队内交替、两队分时或同时竞赛，另核对不同表现指标。",
+      "companion_url": "https://pure.bangor.ac.uk/ws/portalfiles/portal/39704225/Ring_Kavussanu_Cooke_2022.pdf",
+      "files": [
+        "L270-basketball/article.pdf",
+        "L270-basketball/article.txt"
+      ]
+    },
+    {
+      "source_id": "L271",
+      "title": "Minson, Mueller & Larrick (2018 issue, online 2017). The Contingent Wisdom of Dyads: When Discussion Enhances vs. Undermines the Accuracy of Collaborative Judgments",
+      "doi": "10.1287/mnsc.2017.2823",
+      "date": "2017-09-25 (online), 2018 (issue)",
+      "version_and_read_scope": "作者网站期刊Articles in Advance版，PDF第8–13页，研究2、表2及过程分析。",
+      "role": "讨论顺序、估算尺度、极端误差及独立答案能否夹住真值。",
+      "companion_url": "https://www.juliaminson.com/judgment-and-decision-making",
+      "files": [
+        "L271-dyads/article.pdf",
+        "L271-dyads/article.txt"
+      ]
+    }
+  ],
+  "reused_sources": [
+    "L181",
+    "L239",
+    "L240"
+  ]
+}

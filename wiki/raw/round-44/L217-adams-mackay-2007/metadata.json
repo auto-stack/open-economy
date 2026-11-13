@@ -1,0 +1,25 @@
+{
+  "id": "L217",
+  "title": "Bayesian Online Changepoint Detection",
+  "authors": [
+    "Ryan Prescott Adams",
+    "David J. C. MacKay"
+  ],
+  "doi": null,
+  "publication_year": 2007,
+  "adopted_file": "original.pdf",
+  "bytes": 478625,
+  "sha256": "f7ea09e5b7b1e92d4dba8c67aea19ea17d1aaee6a34ace977c7fba821d06657c",
+  "source_url": "https://www.cs.princeton.edu/~rpa/pubs/adams2007changepoint.pdf",
+  "final_url": "https://www.cs.princeton.edu/~rpa/pubs/adams2007changepoint.pdf",
+  "retrieved_at_utc": "2026-11-13T01:58:52.406384+00:00",
+  "version": "Author-hosted7page copy; associated arXiv0710.3742, particular arXiv version not verified",
+  "reading_scope": "PDF1–4 assumptions, Eqs1–5, Algorithm1, computational complexity and example setup; PDF3 algorithm visually checked",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "pdf_pages": 7,
+  "content_status": "full_pdf_targeted_reading",
+  "arxiv_id": "0710.3742"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "L218",
+  "title": "An Approximately Bayesian Delta-Rule Model Explains the Dynamics of Belief Updating in a Changing Environment",
+  "authors": [
+    "Matthew R. Nassar",
+    "Robert C. Wilson",
+    "Benjamin Heasly",
+    "Joshua I. Gold"
+  ],
+  "doi": "10.1523/JNEUROSCI.0822-10.2010",
+  "publication_year": 2010,
+  "adopted_file": "bioc.xml",
+  "bytes": 102629,
+  "sha256": "76e627683eae6fd185eb1138f5627071e4e1ba011b14134436760f018f942f3a",
+  "source_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC2945906/unicode",
+  "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC2945906/unicode",
+  "retrieved_at_utc": "2026-11-13T02:01:56.774294+00:00",
+  "version": "NCBI BioC export of NIH author manuscript PMC2945906 / NIHMS236537; not publisher JATS; some formula text absent",
+  "reading_scope": "Zero-based passages10–14,24–25,31–40,55–60,68–77,80–81,84–90,94; no claim original equations visually verified",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "not comprehensively completed",
+  "content_status": "full_text_BioC_export_targeted_reading_not_original_JATS",
+  "raw_bioc_year_field": "2011",
+  "pmcid": "PMC2945906",
+  "manuscript_id": "NIHMS236537",
+  "passage_index_base": 0,
+  "publication_year_crosscheck": "PubMed official XML discovery/pubmed-records.xml; raw BioC year preserved and not assumed to be publication year",
+  "original_pdf_downloaded": false,
+  "formula_conversion_incomplete": true,
+  "participant_counts": {
+    "total": 30,
+    "estimation": 28,
+    "confidence": 29,
+    "both": 27
+  }
+}

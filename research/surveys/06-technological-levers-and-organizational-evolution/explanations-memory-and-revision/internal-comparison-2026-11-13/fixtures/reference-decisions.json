@@ -1,0 +1,43 @@
+{
+  "C01": {
+    "status": "procedure-error",
+    "locations": [
+      "C01-procedure"
+    ]
+  },
+  "C02": {
+    "status": "claim-run-mismatch",
+    "locations": [
+      "C02",
+      "C02-run"
+    ]
+  },
+  "C03": {
+    "status": "outside-declared-scope",
+    "locations": [
+      "C03"
+    ]
+  },
+  "C04": {
+    "status": "outside-declared-scope",
+    "locations": [
+      "C04"
+    ]
+  },
+  "C05": {
+    "status": "conflicting-evidence",
+    "locations": [
+      "C05-observation"
+    ]
+  },
+  "C06": {
+    "status": "usable-in-finite-task",
+    "locations": []
+  },
+  "C07": {
+    "status": "usable-with-other-context-anomaly",
+    "locations": [
+      "C07-observation"
+    ]
+  }
+}

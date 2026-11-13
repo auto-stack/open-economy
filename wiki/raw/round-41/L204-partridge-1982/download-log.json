@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://journals.physiology.org/doi/pdf/10.1152/ajpregu.1982.242.3.R173",
+    "target": "L204-partridge-1982/original.pdf",
+    "time_utc": "2026-11-13T01:03:13.887849+00:00",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7065209&retmode=xml",
+    "target": "L204-partridge-1982/pubmed.xml",
+    "time_utc": "2026-11-13T01:03:58.282267+00:00",
+    "status": 200,
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7065209&retmode=xml",
+    "content_type": "text/xml; charset=UTF-8",
+    "bytes": 4009,
+    "sha256": "475941b402a4badd4f576a88f14838bf2b11d8b8cf5280c0c768b567dc7be6ec"
+  }
+]

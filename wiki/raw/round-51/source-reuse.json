@@ -1,0 +1,239 @@
+{
+  "date_local": "2026-11-13",
+  "purpose": "Chapter4 synthesis of previously archived and read sources; no new search, download or scope extension.",
+  "sources": [
+    {
+      "source_id": "L23",
+      "title": "On the Criteria To Be Used in Decomposing Systems into Modules",
+      "source_metadata": "../round-05/L23-parnas-1972/metadata.json",
+      "retained_version": "University-hosted CACM 15(12),1053-1058 copy",
+      "prior_read_scope": "All 6 pages; emphasis pp.1054-1058 on criteria, changes, implementation, and hierarchy",
+      "chapter_scope": "接口与设计依赖：既有六页、重点1054–1058",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-05/L23-parnas-1972/original.pdf",
+          "role": "adopted original",
+          "bytes": 589565,
+          "sha256": "7008fd6abc833ded750e52dbac4968e8eda339f66b462ca4427f1953f98df9c4"
+        }
+      ]
+    },
+    {
+      "source_id": "L24",
+      "title": "From Molecular to Modular Cell Biology",
+      "source_metadata": "../round-05/L24-hartwell-et-al-1999/metadata.json",
+      "retained_version": "University-hosted Nature 402 Supplement,C47-C52 copy",
+      "prior_read_scope": "C47-C51 / PDF pp.1-5; emphasis C48 functional modules, insulation and connectivity",
+      "chapter_scope": "功能模块：既有PDF1–5／C47–C51概念论述",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-05/L24-hartwell-et-al-1999/original.pdf",
+          "role": "adopted original",
+          "bytes": 410696,
+          "sha256": "3a0bfad15c66acc758e58fd9c3c86c222127a7235127170552acf864734dba42"
+        }
+      ]
+    },
+    {
+      "source_id": "L47",
+      "title": "PROV-DM: The PROV Data Model",
+      "source_metadata": "../round-09/L47-w3c-prov-dm-2013/metadata.json",
+      "retained_version": "W3C Recommendation 30 April 2013, fixed dated URL",
+      "prior_read_scope": "Sections 2.1.1,2.1.3,5.3.2,5.3.3; no adoption of complete implementation requirements",
+      "chapter_scope": "PROV既有实体、活动、责任读段及第47批扩读修订、来源的来源和§7",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-09/L47-w3c-prov-dm-2013/original.html",
+          "role": "adopted original",
+          "bytes": 271572,
+          "sha256": "5c925c21bc96c285b25017c3b90d82cf74251d07713b71fcb81ca60f873c9e88"
+        }
+      ]
+    },
+    {
+      "source_id": "L58",
+      "title": "Economic Man in Cross-Cultural Perspective: Behavioral Experiments in 15 Small-Scale Societies",
+      "source_metadata": "../round-11/L58-henrich-et-al-2005/metadata.json",
+      "retained_version": "62-page author proof with editorial queries and placeholder pagination; includes target, commentaries and reply. Final target 795-815; discussion 815-855.",
+      "prior_read_scope": "PDF pp.1,5,9,11-14; main p.20 passages; Binmore commentary on p.23 plus p.24 ending; reply sections R1.1-R1.2 on pp.45-46 and adjacent passages. Not all commentaries or data read.",
+      "chapter_scope": "沿既有目标文、PDF23／24评论、45–46答复指定段",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-11/L58-henrich-et-al-2005/original.pdf",
+          "role": "adopted original",
+          "bytes": 879866,
+          "sha256": "5c86cda9f12ddfccac52cc166f5edead5683e0b884eef7600b186e7b38271558"
+        }
+      ]
+    },
+    {
+      "source_id": "L158",
+      "title": "Building Nations through Shared Experiences: Evidence from African Football",
+      "source_metadata": "../round-29/L158-depetris-chauvin-et-al-2020/metadata.json",
+      "retained_version": "AER110(5),2020,1572-1602;32page author file with31page article plus cited-by list",
+      "prior_read_scope": "PDF1-2,28conclusions;PDF32identified as appended citation list;not all regressions;read with2024correction and replication debate",
+      "chapter_scope": "沿既有PDF1–2与28，不采用旧摘要幅度参数",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-29/L158-depetris-chauvin-et-al-2020/original.pdf",
+          "role": "adopted original",
+          "bytes": 850082,
+          "sha256": "7a8fc341edb4d33a41194cff485480cf1bf9331fce3b66614ba657d920285840"
+        },
+        {
+          "path": "../round-50/records/aea-article.html",
+          "role": "publisher record, version context only",
+          "bytes": 31363,
+          "sha256": "48bf6a58af14ee1bd662743366abe45d605c5b91a57d23434b724326dfae0014"
+        }
+      ]
+    },
+    {
+      "source_id": "L160",
+      "title": "Correction to Building Nations through Shared Experiences: Evidence from African Football",
+      "source_metadata": "../round-29/L160-campante-et-al-correction-2024/metadata.json",
+      "retained_version": "AEA official18page correction;coverNovember2024,publisherlisting3December2024",
+      "prior_read_scope": "PDF1-3abstract,intro,data errors,interpretation and sampling clarification;no recalculation of updated tables",
+      "chapter_scope": "沿旧PDF1–3及第50批PDF4指定段",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-29/L160-campante-et-al-correction-2024/original.pdf",
+          "role": "adopted original",
+          "bytes": 743609,
+          "sha256": "a96322f1de4a524e296517c04138e7f15448fa339caade1dc27d65fa15a44071"
+        }
+      ]
+    },
+    {
+      "source_id": "L161",
+      "title": "Building Nations through Shared Experiences: Evidence from African Football: a Replication",
+      "source_metadata": "../round-29/L161-delpeyrou-bertoli-2024/metadata.json",
+      "retained_version": "I4RDP193,December2024;EconStor77pages,first3repository/series covers",
+      "prior_read_scope": "PDF4-6abstract/introduction;first3version/rights only;no full appendix or code rerun;additional reply mentioned but not all exchanges read",
+      "chapter_scope": "沿旧PDF4–6及第50批PDF16指定段",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-29/L161-delpeyrou-bertoli-2024/original.pdf",
+          "role": "adopted original",
+          "bytes": 3374259,
+          "sha256": "87df2a6d5965ec8e873242bf1bbc484b46d93d3ec35c303b931594b4d8bc8bc6"
+        }
+      ]
+    },
+    {
+      "source_id": "L162",
+      "title": "Building Nations through Shared Experiences: Evidence from African Football: A Reply to Delpeyrou and Bertoli",
+      "source_metadata": "../round-29/L162-campante-et-al-reply-2024/metadata.json",
+      "retained_version": "I4RDP194;seriescoverDecember2024,bodytitlepageAugust2024;40page repository file;chronology not inferred",
+      "prior_read_scope": "PDF4-6abstract,intro,individual-level response opening;first3version/rights;not all country analysis or tables",
+      "chapter_scope": "沿旧PDF4–6及第50批PDF9–10、17指定段",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-29/L162-campante-et-al-reply-2024/original.pdf",
+          "role": "adopted original",
+          "bytes": 1245840,
+          "sha256": "b456e146271422ecc02cee7bb99edd1a1a0b149d2a30c72f914fe64dc89497d4"
+        }
+      ]
+    },
+    {
+      "source_id": "L225",
+      "title": "Ten Simple Rules for Reproducible Computational Research",
+      "source_metadata": "../round-47/L225-sandve-et-al-2013/metadata.json",
+      "retained_version": "Publisher PDF, 4pages; main editorial on PDF1–3, bibliography PDF4",
+      "prior_read_scope": "PDF1–3 targeted main text; focus rules1–5,7–10; PDF3 visually checked",
+      "chapter_scope": "沿既有PDF1–3、规则1–5及7–10",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-47/L225-sandve-et-al-2013/original.pdf",
+          "role": "adopted original",
+          "bytes": 131527,
+          "sha256": "35648a3880bdd8bf30e8212a3847b7bd35f504ee5ccbd1ad3856d206acd181db"
+        }
+      ]
+    },
+    {
+      "source_id": "L226",
+      "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+      "source_metadata": "../round-47/L226-wilkinson-et-al-2016/metadata.json",
+      "retained_version": "Publisher PDF, 9pages; companion2019 addendum separately retained",
+      "prior_read_scope": "PDF1 introduction,3–4 machine actionability and principles,5 principles before implementation; examples only located; PDF4 visually checked",
+      "chapter_scope": "沿既有PDF1、3–5指定段及2019补记",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-47/L226-wilkinson-et-al-2016/original.pdf",
+          "role": "adopted original",
+          "bytes": 254899,
+          "sha256": "cdddd9f4808f7e3e1f013139c3915ef4d7cdccb008fa947ef5f72b4c7b6ffde7"
+        },
+        {
+          "path": "../round-47/L226-wilkinson-et-al-2016/addendum.pdf",
+          "role": "same-family URL-relocation addendum",
+          "bytes": 695015,
+          "sha256": "11399eb6a0ba4a802b2c92eeb03f79d39cdf82258c31942ed0905fb8c2f08222"
+        }
+      ]
+    },
+    {
+      "source_id": "L227",
+      "title": "Data availability, reusability, and analytic reproducibility: evaluating the impact of a mandatory open data policy at the journal Cognition",
+      "source_metadata": "../round-47/L227-hardwicke-et-al-2018/metadata.json",
+      "retained_version": "NCBI BioC full-text export, PMC6124055, 184zero-based passages; not original JATS/PDF",
+      "prior_read_scope": "Zero-based passages1,9,11,13–25,29,38–49 selected,53,55–58,63–78,82selected,97–103; formulas and external supplementary reports not independently checked",
+      "chapter_scope": "沿第47批实际BioC段，35篇目标结果分类与设计限制",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-47/L227-hardwicke-et-al-2018/bioc.xml",
+          "role": "adopted original",
+          "bytes": 119435,
+          "sha256": "30cbd23238a0f4e55dd1915243b8fe51f1c50855e2aa540c8c2181966a605237"
+        }
+      ]
+    },
+    {
+      "source_id": "L228",
+      "title": "The preregistration revolution",
+      "source_metadata": "../round-47/L228-nosek-et-al-2018/metadata.json",
+      "retained_version": "Complete PMC HTML, PMC5856500; main PDF not acquired",
+      "prior_read_scope": "Abstract/introduction and HTML#s3,#s6,#s7,#s12,#s13,#s14,#s20; cited studies not independently reread",
+      "chapter_scope": "沿第47批PMC指定节预测／探索、透明修订、不同预测及叙述局限",
+      "new_reading_scope": false,
+      "new_download": false,
+      "artifacts": [
+        {
+          "path": "../round-47/L228-nosek-et-al-2018/original.html",
+          "role": "adopted original",
+          "bytes": 196972,
+          "sha256": "bee53e018b1ec7a9feb52ce8ac01894ed2baf09692573f1119ef4b1f09ecb7da"
+        }
+      ]
+    }
+  ],
+  "reused_source_ids": 12,
+  "reused_substantive_files": 14,
+  "new_network_requests": 0,
+  "new_literature_ids": 0,
+  "new_reading_scope": false
+}

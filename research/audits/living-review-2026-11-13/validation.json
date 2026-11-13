@@ -1,0 +1,69 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "status": "pass",
+  "checks": {
+    "protocol02_snapshot": {
+      "sha256": "86072a85774b666e22518d9282fbfab5119f933dc444109fb0a786ba5c2fbebb",
+      "matches_before_edit": true
+    },
+    "formal_register_unchanged": true,
+    "framework_tag_unchanged": true,
+    "charter_unchanged": true,
+    "old_source_package_manifest_unchanged": true,
+    "raw38_manifest": {
+      "entries": 11,
+      "failures": []
+    },
+    "raw39_manifest": {
+      "entries": 63,
+      "failures": []
+    },
+    "local_links": {
+      "checked": 297,
+      "broken": []
+    },
+    "current_orientation": {
+      "book_first": true,
+      "review2026_exists": true,
+      "protocol03": true,
+      "no_new_external_research": true,
+      "no_automatic_yearly_task": true
+    }
+  },
+  "errors": [],
+  "scope": "Current document consistency, local links, prior protocol snapshot and archive integrity; no new source reading or independent scientific review",
+  "artifacts": [
+    {
+      "path": "README.md",
+      "sha256": "d782de5ecaa731f39382478147be12074ae596f3c444207e41459ff459488709"
+    },
+    {
+      "path": "research/README.md",
+      "sha256": "2be068bcb8013d93d3f0131c75d8bdd26a4b673065b383f8deff6ea45dff7956"
+    },
+    {
+      "path": "book/README.md",
+      "sha256": "01e490c11bcc49f54cf43c068713558045d8c239ac9c7c8b1ddba12b9818c0c2"
+    },
+    {
+      "path": "research/survey-and-paper-program.md",
+      "sha256": "6268494d7d932537238ecb0a83a136103c09d0abd94c862641f0600f7d7d5578"
+    },
+    {
+      "path": "research/surveys/01-organization-maintenance/protocol.md",
+      "sha256": "6159c033c54fbd5d2024edcc35aa88de98c9dbf5b402a818be094daa4886cf7d"
+    },
+    {
+      "path": "research/surveys/01-organization-maintenance/protocol-v0.2.snapshot.md",
+      "sha256": "86072a85774b666e22518d9282fbfab5119f933dc444109fb0a786ba5c2fbebb"
+    },
+    {
+      "path": "research/surveys/01-organization-maintenance/review-2026.md",
+      "sha256": "b732908f8867b3de5a80633d93b31049db734ebf25b2aca886b889ceb702129c"
+    },
+    {
+      "path": "research/reviews/44-book-first-living-reviews.md",
+      "sha256": "664e3dbf3ce9b84d383d933a1a557e1dd4c726dd0c503d55db544cd1061a93ae"
+    }
+  ]
+}

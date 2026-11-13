@@ -1,0 +1,132 @@
+[
+  {
+    "path": "download-log.json",
+    "bytes": 3,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "path": "internal-comparison/amendment.md",
+    "bytes": 1514,
+    "sha256": "f55e426538cc3899ec8526d29a0a1474d78d754ee6d602bd728f3f98dcd9efc3"
+  },
+  {
+    "path": "internal-comparison/compare-v0.1.snapshot.py",
+    "bytes": 15337,
+    "sha256": "7901949b502e1675c5a30a13c5398e91973d1c3700098b6a931434fd9f63b986"
+  },
+  {
+    "path": "internal-comparison/compare.py",
+    "bytes": 17430,
+    "sha256": "4ee383f89aaa4085659bca2ed9ac711de6b3bef394fcee0f50e026de4e9736fe"
+  },
+  {
+    "path": "internal-comparison/fixtures/conclusions.json",
+    "bytes": 2080,
+    "sha256": "73bd8efb05bd4e5f5fdf5c69373bae0664517a152411617694a4513a1c882087"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-0/B/materials.jsonl",
+    "bytes": 3291,
+    "sha256": "8152c1f0ad9c1d5b7b1d00690af0db25fb1cb56f83c059ff73ba3b1d1bc2ec68"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-0/C/index.json",
+    "bytes": 2861,
+    "sha256": "fc43772ad08938c05d48cff34b15576d88e2675e3f60922e3636cc4667fd3d4c"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-0/C/materials.jsonl",
+    "bytes": 3291,
+    "sha256": "8152c1f0ad9c1d5b7b1d00690af0db25fb1cb56f83c059ff73ba3b1d1bc2ec68"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-100/B/materials.jsonl",
+    "bytes": 14191,
+    "sha256": "e60eefa2d3d08c7508b7e3cda9f481001e9e063f754789a8920382de96bd2640"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-100/C/index.json",
+    "bytes": 10524,
+    "sha256": "13ae58e46b9ce0ba728c163de7a4855aa2f473914a679edc3161471a275d92c7"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-100/C/materials.jsonl",
+    "bytes": 14191,
+    "sha256": "e60eefa2d3d08c7508b7e3cda9f481001e9e063f754789a8920382de96bd2640"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-20/B/materials.jsonl",
+    "bytes": 5471,
+    "sha256": "c495c4056aaaa364cccf1c9db272965a288d5d47b475a4d6a72b1d4753156a75"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-20/C/index.json",
+    "bytes": 4405,
+    "sha256": "83ee7f0c0cbae9d581595cae98f783106f9ccfba541a7ab8c2013c518bf2b0f8"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-20/C/materials.jsonl",
+    "bytes": 5471,
+    "sha256": "c495c4056aaaa364cccf1c9db272965a288d5d47b475a4d6a72b1d4753156a75"
+  },
+  {
+    "path": "internal-comparison/fixtures/noise-20/faults/stale-materials.jsonl",
+    "bytes": 5573,
+    "sha256": "b1fe987e661d8a030b46a4ff0e22c294d9eb3c774839bb5f1d178f58e4fb4cc4"
+  },
+  {
+    "path": "internal-comparison/fixtures/questions.json",
+    "bytes": 1035,
+    "sha256": "aba052a2d1cff1de3961b397d1f41e3551ce92eb60f31d9a79bb8c98af911f17"
+  },
+  {
+    "path": "internal-comparison/fixtures/reference-decisions.json",
+    "bytes": 685,
+    "sha256": "f8befd2d57ead138aaeac7c0ae6073896e8870351b2bc948c7ba9e95cca38f71"
+  },
+  {
+    "path": "internal-comparison/initial-conclusions.snapshot.json",
+    "bytes": 1912,
+    "sha256": "b02a412fd1c4a7d7bc86d6255d66b08e8a71b076e8539939fb836f8b6b6173be"
+  },
+  {
+    "path": "internal-comparison/initial-run-provenance.json",
+    "bytes": 780,
+    "sha256": "2824a211d691841b0047f6aaafc4d77ae766095faa416e5227a18031a1f4489e"
+  },
+  {
+    "path": "internal-comparison/initial-run.snapshot.json",
+    "bytes": 101480,
+    "sha256": "97fc3bbc0de5120c8ea576690028610e34c5e8c7da6a20cfcf3152c6da79d401"
+  },
+  {
+    "path": "internal-comparison/protocol.md",
+    "bytes": 4787,
+    "sha256": "e494844cdf6cd12688ae4106f1ba2fdf2dbdedd64bc3fc12b5d3943990881d23"
+  },
+  {
+    "path": "internal-comparison/README.md",
+    "bytes": 7236,
+    "sha256": "1e7ee2c2a91fe3aa9a5fee0a522dd5338b8bfa2f076eb4db95c5b517a17abe06"
+  },
+  {
+    "path": "internal-comparison/results.json",
+    "bytes": 102764,
+    "sha256": "cc004e83fa14526366f4395f9259f3192fef9989c9baa50182f1212daf4188d1"
+  },
+  {
+    "path": "metadata.json",
+    "bytes": 1048,
+    "sha256": "be4fd7bc4a40f44a6d4b02a4b5d5a2b3852abf9832e72204fdaa834ebeae5e91"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1829,
+    "sha256": "505457bf06440cf5ccef8c9a6725339f38af36c19b5cd1f65d1b4a04039484ca"
+  },
+  {
+    "path": "source-reuse.json",
+    "bytes": 5349,
+    "sha256": "33d699371a40e0a48fc8be855558edb8db6baf6f90c3dfd943b5ce777085acba"
+  }
+]

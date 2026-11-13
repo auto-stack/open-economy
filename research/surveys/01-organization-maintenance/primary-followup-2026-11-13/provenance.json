@@ -1,0 +1,28 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "previous_review": "../review-2026-v0.2.snapshot.md",
+  "previous_sha256": "947734de392603dd07c33d31707920af3da6fb124c1fe508daf9ad1dae566f88",
+  "new_review_version": "0.3",
+  "new_source_ids": [
+    "L204",
+    "L205",
+    "L206",
+    "L207",
+    "L208",
+    "L209",
+    "L210"
+  ],
+  "fulltext_documents": [
+    "L206 PDF",
+    "L207 PDF",
+    "L208 JATS XML"
+  ],
+  "abstract_only": [
+    "L204 PubMed",
+    "L205 PubMed",
+    "L209 publisher preview",
+    "L210 publisher preview"
+  ],
+  "raw_batch": "wiki/raw/round-41",
+  "new_systematic_search": false
+}

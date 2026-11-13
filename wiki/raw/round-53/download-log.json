@@ -1,0 +1,135 @@
+[
+  {
+    "url": "https://citeseerx.ist.psu.edu/document?doi=98a65619c97b9fc5ea62bd32c38a99fed4fe7f84&repid=rep1&type=pdf",
+    "directory": "L233-lewis-2007",
+    "retrieved_at_utc": "2026-11-13T05:41:26.284629+00:00",
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251230112235/https://citeseerx.ist.psu.edu//document?doi=98a65619c97b9fc5ea62bd32c38a99fed4fe7f84&repid=rep1&type=pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='web.archive.org', port=443) at 0x25fc5228410>, 'Connection to web.archive.org timed out. (connect timeout=7)'))"
+  },
+  {
+    "url": "https://peps.python.org/pep-0013/",
+    "directory": "L234-python-succession",
+    "retrieved_at_utc": "2026-11-13T05:41:26.285073+00:00",
+    "status": 200,
+    "final_url": "https://peps.python.org/pep-0013/",
+    "title": "PEP 13 – Python Language Governance | peps.python.org",
+    "path": "L234-python-succession/pep-13.html",
+    "bytes": 30593,
+    "sha256": "38d8a7c482ef9c68ac8af2885200bb783a82f2098d28685b213e45568a8aff3b"
+  },
+  {
+    "url": "https://peps.python.org/pep-8016/",
+    "directory": "L234-python-succession",
+    "retrieved_at_utc": "2026-11-13T05:41:26.285249+00:00",
+    "status": 200,
+    "final_url": "https://peps.python.org/pep-8016/",
+    "title": "PEP 8016 – The Steering Council Model | peps.python.org",
+    "path": "L234-python-succession/pep-8016.html",
+    "bytes": 28127,
+    "sha256": "ccb6626e56295a26a8ac3855ea739e8f4521276613f88ff3d246b9073fdead5e"
+  },
+  {
+    "url": "https://peps.python.org/pep-8100/",
+    "directory": "L234-python-succession",
+    "retrieved_at_utc": "2026-11-13T05:41:26.285439+00:00",
+    "status": 200,
+    "final_url": "https://peps.python.org/pep-8100/",
+    "title": "PEP 8100 – January 2019 Steering Council election | peps.python.org",
+    "path": "L234-python-succession/pep-8100.html",
+    "bytes": 27738,
+    "sha256": "082e01ed92c867936ec8f93e22884218fc96d0eb58e5509ea0dce4be4b568c1d"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7739508/",
+    "directory": "L235-teaching-complexity-2020",
+    "retrieved_at_utc": "2026-11-13T05:41:26.285602+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7739508/",
+    "title": "The value of teaching increases with tool complexity in cumulative cultural evolution - PMC",
+    "path": "L235-teaching-complexity-2020/original.html",
+    "bytes": 197447,
+    "sha256": "873320cc367ffd7f85e5b6928151b6bfbbf9e909becb70f900dc1ff91500dd32"
+  },
+  {
+    "url": "https://www.nature.com/articles/ncomms7029",
+    "directory": "L236-morgan-2015",
+    "retrieved_at_utc": "2026-11-13T05:41:26.285734+00:00",
+    "status": 200,
+    "final_url": "https://www.nature.com/articles/ncomms7029",
+    "title": "Experimental evidence for the co-evolution of hominin tool-making teaching and language | Nature Communications",
+    "path": "L236-morgan-2015/original.html",
+    "bytes": 442702,
+    "sha256": "2fbeb5e4cdcc532eeebb70f05f1825a185753790b8247d8f4cd3641c855e036d"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8572456/",
+    "directory": "L237-brown-2021",
+    "retrieved_at_utc": "2026-11-13T05:41:26.285917+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8572456/",
+    "title": "Surgical safety checklist audits may be misleading! Improving the implementation and adherence of the surgical safety checklist: a quality improvement project - PMC",
+    "path": "L237-brown-2021/original.html",
+    "bytes": 158558,
+    "sha256": "8bf02836d2345cc79a62aa4ce7a02fabc40693b50ff85d9c60fe9bcdba290d90"
+  },
+  {
+    "directory": "L238-song-turnover",
+    "url": "https://www.hbs.edu/ris/Publication%20Files/16-039_a0651b04-18be-4a91-9bf9-a1d4cb12c540.pdf",
+    "retrieved_at_utc": "2026-11-13T05:43:36.453786+00:00",
+    "status": 200,
+    "final_url": "https://www.hbs.edu/ris/Publication%20Files/16-039_a0651b04-18be-4a91-9bf9-a1d4cb12c540.pdf",
+    "pages": 38,
+    "path": "L238-song-turnover/working-paper.pdf",
+    "bytes": 707622,
+    "sha256": "e1c56c65d45e63e2b25b3df5a517f3bd05f45a459213496ac6f2f3190235eb7d"
+  },
+  {
+    "directory": "L233-lewis-2007",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597807000052",
+    "retrieved_at_utc": "2026-11-13T05:43:37.314770+00:00",
+    "status": 403,
+    "final_url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597807000052",
+    "error": "403 Client Error: Forbidden for url: https://www.sciencedirect.com/science/article/abs/pii/S0749597807000052"
+  },
+  {
+    "directory": "L234-python-succession",
+    "url": "https://peps.python.org/pep-0602/",
+    "retrieved_at_utc": "2026-11-13T05:45:42.125064+00:00",
+    "status": 200,
+    "final_url": "https://peps.python.org/pep-0602/",
+    "path": "L234-python-succession/pep-602.html",
+    "bytes": 30845,
+    "sha256": "2c4a77f686e3dcb304436b78bf303a9e7859ca118aab327feced8289ca81db1f"
+  },
+  {
+    "directory": "L234-python-succession",
+    "url": "https://mail.python.org/archives/list/python-dev@python.org/thread/KE7OS4PZASZMFTW2FP2MWZU5R4Q2QZKU/",
+    "retrieved_at_utc": "2026-11-13T05:45:43.171707+00:00",
+    "status": 200,
+    "final_url": "https://mail.python.org/archives/list/python-dev@python.org/thread/KE7OS4PZASZMFTW2FP2MWZU5R4Q2QZKU/",
+    "path": "L234-python-succession/acceptance.html",
+    "bytes": 110938,
+    "sha256": "c83f6e7b049af1947300ee50c3a381b6e78e61d8397ba758b9bedf90036eaba6"
+  },
+  {
+    "directory": "L233-lewis-2007",
+    "url": "https://api.elsevier.com/content/article/pii/S0749597807000052?httpAccept=application/pdf",
+    "retrieved_at_utc": "2026-11-13T05:50:19.089680+00:00",
+    "status": 406,
+    "final_url": "https://api.elsevier.com/content/article/pii/S0749597807000052?httpAccept=application/pdf",
+    "error": "406 Client Error: Not Acceptable for url: https://api.elsevier.com/content/article/pii/S0749597807000052?httpAccept=application/pdf"
+  },
+  {
+    "directory": "L233-lewis-2007",
+    "url": "https://web.archive.org/web/20251230112235id_/https://citeseerx.ist.psu.edu//document?doi=98a65619c97b9fc5ea62bd32c38a99fed4fe7f84&repid=rep1&type=pdf",
+    "retrieved_at_utc": "2026-11-13T05:50:19.089927+00:00",
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251230112235id_/https://citeseerx.ist.psu.edu//document?doi=98a65619c97b9fc5ea62bd32c38a99fed4fe7f84&repid=rep1&type=pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='web.archive.org', port=443) at 0x1cfe4c4fb10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))"
+  },
+  {
+    "directory": "L233-lewis-2007",
+    "url": "https://pdfs.semanticscholar.org/98a6/5619c97b9fc5ea62bd32c38a99fed4fe7f84.pdf",
+    "retrieved_at_utc": "2026-11-13T05:51:18.975124+00:00",
+    "status": 202,
+    "final_url": "https://www.semanticscholar.org/paper/Gynaecologists%2C-%E2%80%9Cinvestigation-and/98a65619c97b9fc5ea62bd32c38a99fed4fe7f84?p2df",
+    "error": "Response is not a PDF"
+  }
+]

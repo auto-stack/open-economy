@@ -1,0 +1,128 @@
+[
+  {
+    "requested": "L255-phone-regret/article.pdf",
+    "url": "https://faculty.washington.edu/alexisr/regret.pdf",
+    "error": "HTTPSConnectionPool(host='faculty.washington.edu', port=443): Read timed out."
+  },
+  {
+    "path": "L256-time-evaluation/article.pdf",
+    "url": "https://people.cs.nycu.edu.tw/~armuro/pubs/hsu-et-al-2026-chi.pdf",
+    "final_url": "https://people.cs.nycu.edu.tw/~armuro/pubs/hsu-et-al-2026-chi.pdf",
+    "bytes": 2272860,
+    "sha256": "4dd9cf0853e9f92519b2f322b071f3cabfe0b64e61bfa66ac645ea956ba98795",
+    "retrieved_utc": "2026-11-13T10:18:12.621452+00:00"
+  },
+  {
+    "path": "L257-personal-goals/article.pdf",
+    "url": "https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf",
+    "final_url": "https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf",
+    "bytes": 488311,
+    "sha256": "1a67947262ba52aabac1d7b1c38bf1883e13fd143870b8a1baa2a6107462808e",
+    "retrieved_utc": "2026-11-13T10:18:12.699690+00:00"
+  },
+  {
+    "path": "L258-shelved-goals/article.html",
+    "url": "https://link.springer.com/article/10.1007/s11031-025-10143-z",
+    "final_url": "https://link.springer.com/article/10.1007/s11031-025-10143-z",
+    "bytes": 479307,
+    "sha256": "8a73ece3bd7a4a2e6469cd07bb66ec4b25f6b59bcce333de6b35e6bfe59904fb",
+    "retrieved_utc": "2026-11-13T10:18:13.557101+00:00"
+  },
+  {
+    "path": "L259-physics-class/article.pdf",
+    "url": "https://e.math.cornell.edu/sites/activelearn/active-learning-resources/active_learning_Deslauriers_et_al.pdf",
+    "final_url": "https://e.math.cornell.edu/sites/activelearn/active-learning-resources/active_learning_Deslauriers_et_al.pdf",
+    "bytes": 687550,
+    "sha256": "97ea82962a1a6ffd8b69e965a3d9180443ea67dadb7cd8bd6a01d440adfce008",
+    "retrieved_utc": "2026-11-13T10:19:02.377309+00:00"
+  },
+  {
+    "path": "L255-phone-regret/arxiv.pdf",
+    "url": "https://arxiv.org/pdf/2410.11354",
+    "bytes": 9171487,
+    "sha256": "0f552e97c78c6a5fe6a094af2c52bf57aec68993fc8f2462cd19b98f163f488b",
+    "retrieved_utc": "2026-11-13T10:20:55.632556+00:00"
+  },
+  {
+    "path": "L260-advance-choice/article.pdf",
+    "url": "https://warwick.ac.uk/fac/soc/wbs/subjects/bsci/events/summerschool2015/abstracts/daniel_read_relevant_papers_-_predicting_hunger_the_effects_of_appetite_and.pdf",
+    "bytes": 177644,
+    "sha256": "dc497c0ee9ab64f708e71c4e1b12ffb44cd1e419f77507970430279092fe1482",
+    "retrieved_utc": "2026-11-13T10:22:21.835442+00:00"
+  },
+  {
+    "path": "L258-shelved-goals/osf/diarydt.RData",
+    "url": "https://files.osf.io/v1/resources/4ptmx/providers/osfstorage/669e348a2acc490239fd88a4",
+    "bytes": 262214,
+    "sha256": "6fa166fe8da15732c142e089333e73c27f85418afd2236c747dac8af082abb12",
+    "retrieved_utc": "2026-11-13T10:20:26.649107+00:00"
+  },
+  {
+    "path": "L258-shelved-goals/osf/diarydtsubset.RData",
+    "url": "https://files.osf.io/v1/resources/4ptmx/providers/osfstorage/669e348a777906025fcaa9bb",
+    "bytes": 93942,
+    "sha256": "fe3b24323f16ea21ac90e0c0c38d75e00bc99a1e6501107cb68c660988899bb0",
+    "retrieved_utc": "2026-11-13T10:20:26.030055+00:00"
+  },
+  {
+    "path": "L258-shelved-goals/osf/1_describe_diary.R",
+    "url": "https://files.osf.io/v1/resources/4ptmx/providers/osfstorage/669e3487a4786c0255365f8e",
+    "bytes": 1100,
+    "sha256": "19f6fc79c5b37a6f10c05487ab1e5426487dd152da9b1ae8e4cf1b88fbc31a0a",
+    "retrieved_utc": "2026-11-13T10:20:26.943545+00:00"
+  },
+  {
+    "path": "L258-shelved-goals/osf/4_mlm_trajectories.R",
+    "url": "https://files.osf.io/v1/resources/4ptmx/providers/osfstorage/669e34862acc49023afd8b50",
+    "bytes": 53982,
+    "sha256": "f6935c869f6e0829d8e661b820184b924ebcf64f6ea3c4e30d35ea909e78f60c",
+    "retrieved_utc": "2026-11-13T10:20:27.404410+00:00"
+  },
+  {
+    "path": "L258-shelved-goals/osf/readme.txt",
+    "url": "https://files.osf.io/v1/resources/4ptmx/providers/osfstorage/669e30ab2acc490234fd870e",
+    "bytes": 588,
+    "sha256": "cc14d2bbf9c66d710f4a7a8a0e2a05ef52750b942dd965bdb2d19a7d5e337138",
+    "retrieved_utc": "2026-11-13T10:20:25.716538+00:00"
+  },
+  {
+    "path": "L258-shelved-goals/osf/Codebook_Diarydata.xlsx",
+    "url": "https://files.osf.io/v1/resources/4ptmx/providers/osfstorage/669e306f11532c0245b3536f",
+    "bytes": 11138,
+    "sha256": "525a9aba1594d3fa5ec812362e4d4187a2bf3f2fef8292630df019a57dc916ed",
+    "retrieved_utc": "2026-11-13T10:20:26.211611+00:00"
+  },
+  {
+    "path": "L258-shelved-goals/osf/Item_Documentation_Diarystudy.docx",
+    "url": "https://files.osf.io/v1/resources/4ptmx/providers/osfstorage/669e305f777906025fcaa596",
+    "bytes": 76644,
+    "sha256": "bf2da73cfeb85210a5ddd09776a38c03e650a243cabe9db920f61b24e4e0be77",
+    "retrieved_utc": "2026-11-13T10:20:26.230123+00:00"
+  },
+  {
+    "path": "L261-bound/report.pdf",
+    "url": "https://njl-admin.nihr.ac.uk/document/download/2048121",
+    "bytes": 204414,
+    "sha256": "4a1f617222641b5051ca3abb32e1adf2d35c326268c27c848ad50a1698a0e899",
+    "retrieved_utc": "2026-11-13T10:24:57.573968+00:00"
+  },
+  {
+    "path": "L261-bound/article.pdf",
+    "url": "https://kclpure.kcl.ac.uk/ws/files/344108763/AJT_Manuscript_-_clean_copy_R2_250325.pdf",
+    "bytes": 720777,
+    "sha256": "734ba01999d95c51c6c3ba4e7ac8f4825dbfe99b8955275bcf1758cdfef79b06",
+    "retrieved_utc": "2026-11-13T10:25:19.561955+00:00"
+  },
+  {
+    "requested": "L261-bound/full-report.pdf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK617412/pdf/Bookshelf_NBK617412.pdf",
+    "error": "回应未通过PDF文件头核验，未归档为完整报告。全文证据采用作者接受稿。"
+  },
+  {
+    "path": "L261-bound/corrigendum.html",
+    "url": "https://kclpure.kcl.ac.uk/portal/en/publications/corrigendum-to-outcomes-and-motivations-in-unspecified-nondirecte/",
+    "bytes": 76987,
+    "sha256": "699eb6ff0f79dd0878d4fbaad6f1a1a9d1c2b307eef185ba57440448dfb56add",
+    "retrieved_utc": "2026-11-13T10:25:44.833470+00:00"
+  }
+]

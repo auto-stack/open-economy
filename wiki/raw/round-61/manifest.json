@@ -1,0 +1,139 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 1149,
+      "sha256": "863d58aa77136156a5eee23c38ee91fe43db4acd7f7e3172f99296285ee337cc"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 6260,
+      "sha256": "260a768d514ad645b2f42fd7a1bca8b7c8b15f1ca15a72affe2c9875e32652cb"
+    },
+    {
+      "path": "L255-phone-regret/arxiv.pdf",
+      "bytes": 9171487,
+      "sha256": "0f552e97c78c6a5fe6a094af2c52bf57aec68993fc8f2462cd19b98f163f488b"
+    },
+    {
+      "path": "L255-phone-regret/arxiv.txt",
+      "bytes": 124620,
+      "sha256": "011bfe3cca98fad52f82e0ba6a598c5eb1ac725270fa45cdd7a410ed964b537c"
+    },
+    {
+      "path": "L256-time-evaluation/article.pdf",
+      "bytes": 2272860,
+      "sha256": "4dd9cf0853e9f92519b2f322b071f3cabfe0b64e61bfa66ac645ea956ba98795"
+    },
+    {
+      "path": "L256-time-evaluation/article.txt",
+      "bytes": 126018,
+      "sha256": "4d072c956eb2db297cecbb9099937dde342c0db093179ce3d650f89c12ce3cfb"
+    },
+    {
+      "path": "L257-personal-goals/article.pdf",
+      "bytes": 488311,
+      "sha256": "1a67947262ba52aabac1d7b1c38bf1883e13fd143870b8a1baa2a6107462808e"
+    },
+    {
+      "path": "L257-personal-goals/article.txt",
+      "bytes": 47643,
+      "sha256": "3cd1cb05e21f6d8aaa74c873bcf9e5899683748fbb0d8ff28cba4493ad86c677"
+    },
+    {
+      "path": "L258-shelved-goals/article.html",
+      "bytes": 479307,
+      "sha256": "8a73ece3bd7a4a2e6469cd07bb66ec4b25f6b59bcce333de6b35e6bfe59904fb"
+    },
+    {
+      "path": "L258-shelved-goals/osf/1_describe_diary.R",
+      "bytes": 1100,
+      "sha256": "19f6fc79c5b37a6f10c05487ab1e5426487dd152da9b1ae8e4cf1b88fbc31a0a"
+    },
+    {
+      "path": "L258-shelved-goals/osf/4_mlm_trajectories.R",
+      "bytes": 53982,
+      "sha256": "f6935c869f6e0829d8e661b820184b924ebcf64f6ea3c4e30d35ea909e78f60c"
+    },
+    {
+      "path": "L258-shelved-goals/osf/Codebook_Diarydata.xlsx",
+      "bytes": 11138,
+      "sha256": "525a9aba1594d3fa5ec812362e4d4187a2bf3f2fef8292630df019a57dc916ed"
+    },
+    {
+      "path": "L258-shelved-goals/osf/diarydt.RData",
+      "bytes": 262214,
+      "sha256": "6fa166fe8da15732c142e089333e73c27f85418afd2236c747dac8af082abb12"
+    },
+    {
+      "path": "L258-shelved-goals/osf/diarydtsubset.RData",
+      "bytes": 93942,
+      "sha256": "fe3b24323f16ea21ac90e0c0c38d75e00bc99a1e6501107cb68c660988899bb0"
+    },
+    {
+      "path": "L258-shelved-goals/osf/Item_Documentation_Diarystudy.docx",
+      "bytes": 76644,
+      "sha256": "bf2da73cfeb85210a5ddd09776a38c03e650a243cabe9db920f61b24e4e0be77"
+    },
+    {
+      "path": "L258-shelved-goals/osf/readme.txt",
+      "bytes": 588,
+      "sha256": "cc14d2bbf9c66d710f4a7a8a0e2a05ef52750b942dd965bdb2d19a7d5e337138"
+    },
+    {
+      "path": "L259-physics-class/article.pdf",
+      "bytes": 687550,
+      "sha256": "97ea82962a1a6ffd8b69e965a3d9180443ea67dadb7cd8bd6a01d440adfce008"
+    },
+    {
+      "path": "L259-physics-class/article.txt",
+      "bytes": 68022,
+      "sha256": "3f8ffc5f04bd8b96a57495d536f562e8e03dde9fa3aa1b3c9309151e0b7dcdc3"
+    },
+    {
+      "path": "L260-advance-choice/article.pdf",
+      "bytes": 177644,
+      "sha256": "dc497c0ee9ab64f708e71c4e1b12ffb44cd1e419f77507970430279092fe1482"
+    },
+    {
+      "path": "L260-advance-choice/article.txt",
+      "bytes": 49449,
+      "sha256": "3a80313d1584e8e108b310d66f5b80132541f5f5e9036f82332cbb461b994e58"
+    },
+    {
+      "path": "L261-bound/article.pdf",
+      "bytes": 720777,
+      "sha256": "734ba01999d95c51c6c3ba4e7ac8f4825dbfe99b8955275bcf1758cdfef79b06"
+    },
+    {
+      "path": "L261-bound/article.txt",
+      "bytes": 47471,
+      "sha256": "1ec34243b71304562fc87d499c590c3770d4db9bdc5fad3bfda52f2c84f34a94"
+    },
+    {
+      "path": "L261-bound/corrigendum.html",
+      "bytes": 76987,
+      "sha256": "699eb6ff0f79dd0878d4fbaad6f1a1a9d1c2b307eef185ba57440448dfb56add"
+    },
+    {
+      "path": "L261-bound/report.pdf",
+      "bytes": 204414,
+      "sha256": "4a1f617222641b5051ca3abb32e1adf2d35c326268c27c848ad50a1698a0e899"
+    },
+    {
+      "path": "L261-bound/report.txt",
+      "bytes": 4472,
+      "sha256": "ea8bf34b901d6db54d6b784b902dc81aa6a36013d9ef05f8a14e2f3a3cdfcbff"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 4470,
+      "sha256": "adee1f667a9a254e8dd6171394b2e7c7bdbfc076596b389e1fb67208977df52a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3541,
+      "sha256": "b70736f4891e3bffa513dcd7f1c35a2b1c20e87392b2782f7deec199277ac819"
+    }
+  ]
+}

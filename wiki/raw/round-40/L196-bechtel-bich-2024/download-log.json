@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://hal.science/hal-04730150/document",
+    "time_utc": "2026-11-13T00:44:16.133836+00:00",
+    "target": "L196-bechtel-bich-2024/hal-copy.pdf",
+    "status": 200,
+    "final_url": "https://hal.science/hal-04730150/document",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 12507,
+    "error": "ValueError('Non-PDF response rejected')"
+  },
+  {
+    "url": "https://leonardobich.wordpress.com/wp-content/uploads/2024/10/bechtel-bich-2024-situating-homeostasis-in-organisms-maintaining-organization-through-time.pdf",
+    "time_utc": "2026-11-13T00:45:24.921550+00:00",
+    "target": "L196-bechtel-bich-2024/original.pdf",
+    "status": 200,
+    "final_url": "https://leonardobich.wordpress.com/wp-content/uploads/2024/10/bechtel-bich-2024-situating-homeostasis-in-organisms-maintaining-organization-through-time.pdf",
+    "content_type": "application/pdf",
+    "bytes": 962839,
+    "sha256": "8753f6085ed28c9047066cc676edf28cb6248d19eaed3b2ea06d0e9ce4fa3d4e",
+    "pdf_pages": 18
+  },
+  {
+    "url": "https://philarchive.org/archive/BECSHI",
+    "time_utc": "2026-11-13T00:43:30.561615+00:00",
+    "target": "L196-bechtel-bich-2024/philarchive-copy.pdf",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  }
+]

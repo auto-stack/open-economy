@@ -1,0 +1,81 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "status": "pass",
+  "checks": {
+    "raw39_manifest": {
+      "entries": 63,
+      "failures": []
+    },
+    "raw39_unlisted_files": [],
+    "raw39_missing_files": [],
+    "reused_sources": [
+      {
+        "id": "L03",
+        "sha_matches_record": true,
+        "sha_matches_prior_metadata": true
+      },
+      {
+        "id": "L05",
+        "sha_matches_record": true,
+        "sha_matches_prior_metadata": true
+      },
+      {
+        "id": "L06",
+        "sha_matches_record": true,
+        "sha_matches_prior_metadata": true
+      },
+      {
+        "id": "L14",
+        "sha_matches_record": true,
+        "sha_matches_prior_metadata": true
+      }
+    ],
+    "framework_tag": {
+      "commit": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d",
+      "unchanged": true
+    },
+    "theory_register": {
+      "sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+      "unchanged": true
+    },
+    "protocol01_snapshot": {
+      "sha256": "74335f0ed5663c993b9d175bec32fdeb51d59285e293bd6c5b17583b7206bb3b",
+      "equals_tag_bytes": true
+    },
+    "old_source_package": {
+      "manifest_unchanged": true,
+      "bytes_match": true,
+      "sha256_match": true,
+      "new_rounds_not_in_old_package": true
+    },
+    "counts": {
+      "occurrences": 86,
+      "deduplicated": 81,
+      "pilot_units": 6,
+      "exclusions": 23,
+      "awaiting": 58,
+      "formal_inclusions": 0
+    },
+    "local_links": {
+      "checked": 286,
+      "broken": []
+    },
+    "raw_payload_ignored_by_git": {
+      "wiki/raw/round-39/L195-conant-ashby-1970/journal-scan.pdf": true,
+      "wiki/raw/round-39/L195-conant-ashby-1970/original.pdf": true,
+      "wiki/raw/round-39/L197-cross-hohenberg-1993/original.pdf": true,
+      "wiki/raw/round-39/L198-eykhoff-1994/original.pdf": true
+    },
+    "tracked_changes": {
+      "paths": [
+        "README.md",
+        "research/README.md",
+        "research/surveys/01-organization-maintenance/protocol.md",
+        "wiki/raw/README.md"
+      ],
+      "only_expected": true
+    }
+  },
+  "failures": [],
+  "scope": "Archive/count/link/version integrity only; not independent scientific review, full eligibility, proof reproduction or novelty certification"
+}

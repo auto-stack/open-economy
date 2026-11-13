@@ -1,0 +1,327 @@
+[
+  {
+    "path": "discovery/acquisition-attempts-02.json",
+    "bytes": 1731,
+    "sha256": "ea0ca95437d510ab699b617b4bdba59bb32c2fa2038e3dd2b89c6fc6e014d076"
+  },
+  {
+    "path": "discovery/acquisition-attempts-03.json",
+    "bytes": 3324,
+    "sha256": "3b9d03a6c995cb09b3335373ab4630794f9a43f54edf17813ed25240a48f18c1"
+  },
+  {
+    "path": "discovery/acquisition-attempts-04.json",
+    "bytes": 2117,
+    "sha256": "f39104dd71e0a05d577796cce3429807c54d640e02b98b7b7e7fa0f5098e0907"
+  },
+  {
+    "path": "discovery/acquisition-attempts.json",
+    "bytes": 1080,
+    "sha256": "eb9d2cec4bc4ec91412a0e4e96e01a20177ce5e98b6189cc58238fb52ecf988a"
+  },
+  {
+    "path": "discovery/bich-publications-download-log.json",
+    "bytes": 287,
+    "sha256": "1cfedb0b6eb21721458fcb68277b382026acbffe61f58a6c781aa572acbc8b41"
+  },
+  {
+    "path": "discovery/bich-publications.html",
+    "bytes": 108746,
+    "sha256": "42abf12c2325bfa84f2fd27b7167d4fe9a36730734eca49a0d4864e3aa1b494d"
+  },
+  {
+    "path": "discovery/initial-query-notes.json",
+    "bytes": 757,
+    "sha256": "4b293706d6cf46d99dfcd70e76363f624a8e4792a5442f6e0ff911cb61a15095"
+  },
+  {
+    "path": "discovery/L196-citing-openalex.json",
+    "bytes": 780699,
+    "sha256": "a18ea31f1b70335b4658c1d4cdd83764f567fe8456f3d327fd013a7b94817053"
+  },
+  {
+    "path": "discovery/L196-crossref.json",
+    "bytes": 14934,
+    "sha256": "890b5ec18a697448f3b0ae2fcbce5b1f7292f9d2fce8b138e17ed7635c2fa3b7"
+  },
+  {
+    "path": "discovery/L196-hal-metadata.json",
+    "bytes": 558,
+    "sha256": "f69beadff15451965ba6323684854f4b5dfede522dd2b18b7fd0c0b2a8425eee"
+  },
+  {
+    "path": "discovery/L196-openalex.json",
+    "bytes": 23331,
+    "sha256": "4398050e55efe763ba4d42ba93b7abcc9d24db97a65ee6491c70691b1a384f34"
+  },
+  {
+    "path": "discovery/L200-crossref.json",
+    "bytes": 33963,
+    "sha256": "2f2f9519d4cfb2751cb7a250fe970b6a1538da6568ef1c46fea6eb0b62c432c0"
+  },
+  {
+    "path": "discovery/L201-crossref.json",
+    "bytes": 18530,
+    "sha256": "e2794f70882553a6064f95e383239dfb475b5d3c0739da43ee3bbcba48e60cd7"
+  },
+  {
+    "path": "discovery/L202-openalex.json",
+    "bytes": 25026,
+    "sha256": "5e656a254346061b05a3999342fb271470f1a641727238f11daa1a7183a02bd3"
+  },
+  {
+    "path": "discovery/metadata.json",
+    "bytes": 903,
+    "sha256": "1849531613252e6936050bdc30c02832b0dbef49dc297c2ac38c60d9336d6a10"
+  },
+  {
+    "path": "discovery/open-01.txt",
+    "bytes": 14777,
+    "sha256": "0c51a1a41240f8592c21ee2c17e5932c489c7d9bace89763e1d26510cefaa990"
+  },
+  {
+    "path": "discovery/open-02.txt",
+    "bytes": 498,
+    "sha256": "317947ac33d772958a8762ee2676935c1dfef93acd9a9be4da42e823232595f9"
+  },
+  {
+    "path": "discovery/partridge-pubmed.xml",
+    "bytes": 4009,
+    "sha256": "475941b402a4badd4f576a88f14838bf2b11d8b8cf5280c0c768b567dc7be6ec"
+  },
+  {
+    "path": "discovery/search-01.txt",
+    "bytes": 16178,
+    "sha256": "2bb3a28276f7fb1a85f7fe12ff15720dc0c9c48ee702fb19e8cfe0e0892dab15"
+  },
+  {
+    "path": "discovery/search-02.txt",
+    "bytes": 16297,
+    "sha256": "77bb1f46f71877a271baeca227cbe6fbb5560f579c1810b684661ba51f969fcd"
+  },
+  {
+    "path": "discovery/search-03.txt",
+    "bytes": 37468,
+    "sha256": "905e738468295f079ba584f28a00e04d866f6ffb4181fddff999059f304144f3"
+  },
+  {
+    "path": "inspection/L196-bechtel-bich-2024-1.png",
+    "bytes": 179789,
+    "sha256": "3714789537f39745ddea3ec380b04b34800eea9fcd64834f5b4187637e00fbb8"
+  },
+  {
+    "path": "inspection/L196-bechtel-bich-2024-12.png",
+    "bytes": 140905,
+    "sha256": "bf3d77f62dcf6e4e85a622dff3f06d0fb04c4c26f6505cd7c96f0cda38fda8c3"
+  },
+  {
+    "path": "inspection/L196-bechtel-bich-2024-14.png",
+    "bytes": 159084,
+    "sha256": "f4606dddc0d54349f84832b746d459520537ba2eb4a9ebb38f4b167972886cc7"
+  },
+  {
+    "path": "inspection/L196-bechtel-bich-2024-15.png",
+    "bytes": 150525,
+    "sha256": "0b3fd5d9c3d93df89e5e3762e49c87d3529bc618a001b46b6e359c0cfc31207e"
+  },
+  {
+    "path": "inspection/L196-bechtel-bich-2024-8.png",
+    "bytes": 140367,
+    "sha256": "59be106b874d27aa98247e9b4b7a2ea7486bdd9c8759d9f3478c44c5fb07c5f4"
+  },
+  {
+    "path": "inspection/L200-bich-menatti-health-1.png",
+    "bytes": 119191,
+    "sha256": "d167b1c0b4ce276fbe01d484b0c3d6a8a87da15ec120e08b07edb77557f1daea"
+  },
+  {
+    "path": "inspection/L200-bich-menatti-health-10.png",
+    "bytes": 158861,
+    "sha256": "c9b4a2649bf3383ceee8aad62f65f78082083a750d7e033ce396be52fc895f96"
+  },
+  {
+    "path": "inspection/L200-bich-menatti-health-7.png",
+    "bytes": 169546,
+    "sha256": "1b7bdf03fea7fd808259f4cb5e6207a685a084f597e945005e091df9c80e2fca"
+  },
+  {
+    "path": "inspection/L201-horseman-2025-13.png",
+    "bytes": 258841,
+    "sha256": "3183ef30fcf0a2c9ac5eaebd04b840cee8c9e7d447c0e6444d918108cec0f6ec"
+  },
+  {
+    "path": "inspection/L202-farnsworth-2025-12.png",
+    "bytes": 198640,
+    "sha256": "7fd6070568f6deb654494d25fc60a1e58b21f2dada8bd6ef0c0f9495e9b445d4"
+  },
+  {
+    "path": "inspection/L202-farnsworth-2025-2.png",
+    "bytes": 151778,
+    "sha256": "a25be6de52bc82eaa90cafcc234ee7e35160d7c6131173989ba039fb2fbb3376"
+  },
+  {
+    "path": "inspection/L202-farnsworth-2025-3.png",
+    "bytes": 211972,
+    "sha256": "431cf0aa5ccc0cf26796fc650194161f34d111ca29bab060d5d49dc16eeb9883"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/download-log.json",
+    "bytes": 1268,
+    "sha256": "498ac9c9d3058b7d13d7b21f3c1f32f1390edc37d7042a9b640910a1c94a4ed1"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/metadata.json",
+    "bytes": 1606,
+    "sha256": "0379801a11a377b23567cc8633e1e7240371bb001f5663254b1b7052572f39cf"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/original.pdf",
+    "bytes": 962839,
+    "sha256": "8753f6085ed28c9047066cc676edf28cb6248d19eaed3b2ea06d0e9ce4fa3d4e"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/original.txt",
+    "bytes": 99330,
+    "sha256": "b3e25cb0eb96507dce74000f6f2ad5a60526a629cb5c871cf2fbfbc510f280e3"
+  },
+  {
+    "path": "L196-bechtel-bich-2024/read-scope-extension.json",
+    "bytes": 467,
+    "sha256": "a8963035e5dc38d7aea04907b33389837359df77c6a610a5bec9bd8f869d569e"
+  },
+  {
+    "path": "L199-billman-2020/download-log.json",
+    "bytes": 513,
+    "sha256": "bbf165231f064a19b7a3dedfcbf8bcec28508946103b9fc7d5726c86d4ea8fb5"
+  },
+  {
+    "path": "L199-billman-2020/metadata.json",
+    "bytes": 1313,
+    "sha256": "e63f41f10035efb81f1f3afba7a06fe8c8af89a87800e56f7da79c0d9aefeaef"
+  },
+  {
+    "path": "L199-billman-2020/original.pdf",
+    "bytes": 1877662,
+    "sha256": "0e51166123f81d17d0e9cf4bd021d7cd110c97e9d6d8dd08d3267afb1719bc4e"
+  },
+  {
+    "path": "L199-billman-2020/original.txt",
+    "bytes": 65712,
+    "sha256": "3f2e1346d430f85f66f4e5169d66945a804b8e9adc1b806de3953a05703e3888"
+  },
+  {
+    "path": "L199-billman-2020/read-scope-extension.json",
+    "bytes": 290,
+    "sha256": "85f6a3c0758806f24aeefac7bc9aac641a0debe8dd15079876e4c4cf82a0b617"
+  },
+  {
+    "path": "L200-bich-menatti-health/download-log.json",
+    "bytes": 607,
+    "sha256": "4f4fcb5fe35beabe07a534f2723e26a7e0c7ab314666a739c62954a9f92e4313"
+  },
+  {
+    "path": "L200-bich-menatti-health/metadata.json",
+    "bytes": 1543,
+    "sha256": "9d60fb754ea70af100d022d9c0ce60f7756a3edcb97ec8b17ee5ff31d169e285"
+  },
+  {
+    "path": "L200-bich-menatti-health/original.pdf",
+    "bytes": 919835,
+    "sha256": "9c97b63ed43af0a92becee0828fb6200dee72c759f34fb4ab8961fe275201b4d"
+  },
+  {
+    "path": "L200-bich-menatti-health/original.txt",
+    "bytes": 80386,
+    "sha256": "0a591aecd86c9f86eedacec4db43e7b1cc814f2cdf013304434bc65b3a82858f"
+  },
+  {
+    "path": "L200-bich-menatti-health/read-scope-extension.json",
+    "bytes": 442,
+    "sha256": "e9bd6fab429d315759dca6ca0957ce5dc324f8a4f429c99659c2b894c3f49aa2"
+  },
+  {
+    "path": "L201-horseman-2025/download-log.json",
+    "bytes": 519,
+    "sha256": "cb8d080dd1c2088e1753c53f7ca9ef46ec59852db2b9596f6199772acff6a456"
+  },
+  {
+    "path": "L201-horseman-2025/metadata.json",
+    "bytes": 1426,
+    "sha256": "5e63deb1cd294e78b4f6ff1de1a43f9e1dd655c17c41da02b880e4570486225b"
+  },
+  {
+    "path": "L201-horseman-2025/original.pdf",
+    "bytes": 24606978,
+    "sha256": "d986a3d929830ce520d4860aa04db4aadb1e4ac30a042981e2d47829159a2526"
+  },
+  {
+    "path": "L201-horseman-2025/original.txt",
+    "bytes": 87172,
+    "sha256": "ebd6974b885c9109834a253109f433f17c2b371094d8ca91bf3dcc0fdc548fca"
+  },
+  {
+    "path": "L201-horseman-2025/read-scope-extension.json",
+    "bytes": 343,
+    "sha256": "4148048e4621be722ac7cb20f59a8a33260967a5ac70cd75b5142555456db32b"
+  },
+  {
+    "path": "L202-farnsworth-2025/download-log.json",
+    "bytes": 594,
+    "sha256": "50bca70c4258be4ddfd8a5d9b23d99129992c40037ef09b785b74746966da2ae"
+  },
+  {
+    "path": "L202-farnsworth-2025/metadata.json",
+    "bytes": 1612,
+    "sha256": "8c9e7fcdda28a8c49641148dc83a234045de432f49a9919729bb7dd5f51f24d1"
+  },
+  {
+    "path": "L202-farnsworth-2025/original.pdf",
+    "bytes": 1765011,
+    "sha256": "895fad282bab9b52685d8fb9dc5421f82504e4ab7555656c02dd1006aad0007d"
+  },
+  {
+    "path": "L202-farnsworth-2025/original.txt",
+    "bytes": 145050,
+    "sha256": "850d728813f99b901d154458dc9c0e8bcfa236041c22ed579f613d1c33c07954"
+  },
+  {
+    "path": "L202-farnsworth-2025/read-scope-extension.json",
+    "bytes": 500,
+    "sha256": "5119f871e4c943ccd937c62f4feaecf47a09bc7fef86fc34cb0ba217925eb255"
+  },
+  {
+    "path": "L203-bechtel-bich-history/download-log.json",
+    "bytes": 735,
+    "sha256": "73d7241021ce704022b9fff771b2bd849348f1867373fbaf31f7808639764a1d"
+  },
+  {
+    "path": "L203-bechtel-bich-history/metadata.json",
+    "bytes": 1690,
+    "sha256": "1d4c7bfb20b724e65bbf14a48cf8a25f7460a1cd1973982863ea239616cec3ab"
+  },
+  {
+    "path": "L203-bechtel-bich-history/original.pdf",
+    "bytes": 1174139,
+    "sha256": "535ea906b4132d5e4279ddc56b19b9830861714a6c8e92e29af613f4b07109fc"
+  },
+  {
+    "path": "L203-bechtel-bich-history/original.txt",
+    "bytes": 77361,
+    "sha256": "1d84e8d488ff6a1cf0afaa29e09a16d9d09bcfcc54dfe7cbda4d4ceafdf0ae00"
+  },
+  {
+    "path": "L203-bechtel-bich-history/read-scope-extension.json",
+    "bytes": 400,
+    "sha256": "7fb681690db93c64f97554fff6bded80e382c264f9da5e1a12cd1372c018ded0"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5121,
+    "sha256": "d45e4ae4f4268b1bafc2bb96d7ce1a52e6efb98fd50aa1f4052be76b60b1d52d"
+  },
+  {
+    "path": "source-reuse.json",
+    "bytes": 845,
+    "sha256": "0666b6197ffe7802a402b57a21fc123d6d61e2e6e5407fc12a36a76fce350f80"
+  }
+]

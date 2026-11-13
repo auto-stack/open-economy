@@ -1,0 +1,11 @@
+{
+  "url": "https://jbi.global/sites/default/files/2024-04/1BL_The%20Decision%20Tree.pdf",
+  "attempted_utc": "2026-11-12T15:15:32.988529+00:00",
+  "status": 200,
+  "final_url": "https://jbi.global/sites/default/files/2024-04/1BL_The%20Decision%20Tree.pdf",
+  "content_type": "application/pdf",
+  "file": "original.pdf",
+  "bytes": 263974,
+  "sha256": "69c340ca94fdf14f9f71eccaa1c994d00845ae3bdeddb06f443a1e7d92c14933",
+  "payload_status": "pdf_original_obtained"
+}

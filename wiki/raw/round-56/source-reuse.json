@@ -1,0 +1,25 @@
+{
+  "source_id": "L240",
+  "doi": "10.1016/j.cognition.2019.03.016",
+  "source_metadata": "../round-55/L240-wisdom-dyads/metadata.json",
+  "files": [
+    {
+      "path": "../round-55/L240-wisdom-dyads/mmc2.xlsx",
+      "scope": "Experiment1、Experiment2、Experiment3a、Experiment3b的字段及逐次记录；ID仅作设计计数",
+      "bytes": 3078309,
+      "sha256": "2bd19b101608ebd2d212327f2809f404bd960191bbb393f2e930c90f2d2d6842"
+    },
+    {
+      "path": "../round-55/L240-wisdom-dyads/article.jats.xml",
+      "scope": "Models for multi-dimensional information integration和四组实验方法、总讨论",
+      "bytes": 161370,
+      "sha256": "c9faf1643608f95477f636e41b2ff9b1b59f35a24a1ec66e9b2357c960cf331d"
+    },
+    {
+      "path": "../round-55/L240-wisdom-dyads/original.txt",
+      "scope": "本地BioC文本定位段31–39、49–55、56–71、87–95、119–121和143",
+      "bytes": 81577,
+      "sha256": "16207ffe15e15601ea8595a790d021a85576b32646cb7b755bfb60202fae4442"
+    }
+  ]
+}

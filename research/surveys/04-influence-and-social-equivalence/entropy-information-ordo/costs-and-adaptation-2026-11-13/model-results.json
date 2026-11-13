@@ -1,0 +1,1358 @@
+{
+  "kind": "analytical finite examples, no empirical calibration or author-simulation replication",
+  "memory_work_unit": "kBT; quasistatic equal-probability memory example",
+  "memory": [
+    {
+      "volume_fraction": 0.5,
+      "measurement_over_kBT": 0.0,
+      "erasure_over_kBT": 0.6931471805599453,
+      "total_over_kBT": 0.6931471805599453
+    },
+    {
+      "volume_fraction": 0.8,
+      "measurement_over_kBT": 0.6931471805599454,
+      "erasure_over_kBT": -1.1102230246251565e-16,
+      "total_over_kBT": 0.6931471805599453
+    },
+    {
+      "volume_fraction": 0.95,
+      "measurement_over_kBT": 1.4722194895832197,
+      "erasure_over_kBT": -0.7790723090232744,
+      "total_over_kBT": 0.6931471805599453
+    }
+  ],
+  "cost_cases": [
+    {
+      "cue_match_probability": 0.5,
+      "mutual_information_nats": 0.0,
+      "implementation_penalty_per_step": 0,
+      "net_log_growth": 0.0
+    },
+    {
+      "cue_match_probability": 0.9,
+      "mutual_information_nats": 0.3680642071684971,
+      "implementation_penalty_per_step": 0.05,
+      "net_log_growth": 0.3180642071684971
+    },
+    {
+      "cue_match_probability": 0.99,
+      "mutual_information_nats": 0.637145646205098,
+      "implementation_penalty_per_step": 0.75,
+      "net_log_growth": -0.11285435379490205
+    }
+  ],
+  "growth_unit": "natural-log population multiplier per chosen time step, not joules",
+  "parameters": {
+    "before": 0.9,
+    "after": 0.1,
+    "pre_steps": 30,
+    "post_steps": 30,
+    "delay": 5,
+    "implementation_penalty": 0.05,
+    "one_off_revision_penalty": 0.5
+  },
+  "information_before_nats": 0.3680642071684971,
+  "information_after_nats": 0.3680642071684971,
+  "mismatch_loss_per_step": 1.7577796618689758,
+  "final_expected_log_size": {
+    "no_cue": 8.326672684688674e-16,
+    "frozen": -33.64953742595946,
+    "revised_after_delay": 9.794954120764947
+  },
+  "revision_advantage_over_frozen": 43.44449154672439,
+  "revision_delay_sensitivity": [
+    {
+      "delay": 0,
+      "remaining_post_change_steps": 30,
+      "advantage_over_frozen": 52.23338985606927
+    },
+    {
+      "delay": 5,
+      "remaining_post_change_steps": 25,
+      "advantage_over_frozen": 43.44449154672439
+    },
+    {
+      "delay": 15,
+      "remaining_post_change_steps": 15,
+      "advantage_over_frozen": 25.866694928034637
+    },
+    {
+      "delay": 29,
+      "remaining_post_change_steps": 1,
+      "advantage_over_frozen": 1.2577796618689758
+    },
+    {
+      "delay": 30,
+      "remaining_post_change_steps": 0,
+      "advantage_over_frozen": 0.0
+    }
+  ],
+  "trajectories": {
+    "no_cue": [
+      {
+        "step": 1,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 2.7755575615628914e-17
+      },
+      {
+        "step": 2,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 5.551115123125783e-17
+      },
+      {
+        "step": 3,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 8.326672684688674e-17
+      },
+      {
+        "step": 4,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 1.1102230246251565e-16
+      },
+      {
+        "step": 5,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 1.3877787807814457e-16
+      },
+      {
+        "step": 6,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 1.6653345369377348e-16
+      },
+      {
+        "step": 7,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 1.942890293094024e-16
+      },
+      {
+        "step": 8,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 2.220446049250313e-16
+      },
+      {
+        "step": 9,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 2.498001805406602e-16
+      },
+      {
+        "step": 10,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 2.7755575615628914e-16
+      },
+      {
+        "step": 11,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 3.0531133177191805e-16
+      },
+      {
+        "step": 12,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 3.3306690738754696e-16
+      },
+      {
+        "step": 13,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 3.608224830031759e-16
+      },
+      {
+        "step": 14,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 3.885780586188048e-16
+      },
+      {
+        "step": 15,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 4.163336342344337e-16
+      },
+      {
+        "step": 16,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 4.440892098500626e-16
+      },
+      {
+        "step": 17,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 4.718447854656915e-16
+      },
+      {
+        "step": 18,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 4.996003610813204e-16
+      },
+      {
+        "step": 19,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 5.273559366969494e-16
+      },
+      {
+        "step": 20,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 5.551115123125783e-16
+      },
+      {
+        "step": 21,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 5.828670879282072e-16
+      },
+      {
+        "step": 22,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 6.106226635438361e-16
+      },
+      {
+        "step": 23,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 6.38378239159465e-16
+      },
+      {
+        "step": 24,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 6.661338147750939e-16
+      },
+      {
+        "step": 25,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 6.938893903907228e-16
+      },
+      {
+        "step": 26,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 7.216449660063518e-16
+      },
+      {
+        "step": 27,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 7.494005416219807e-16
+      },
+      {
+        "step": 28,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 7.771561172376096e-16
+      },
+      {
+        "step": 29,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 8.049116928532385e-16
+      },
+      {
+        "step": 30,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 2.7755575615628914e-17,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 31,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 32,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 33,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 34,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 35,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 36,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 37,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 38,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 39,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 40,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 41,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 42,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 43,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 44,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 45,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 46,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 47,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 48,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 49,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 50,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 51,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 52,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 53,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 54,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 55,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 56,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 57,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 58,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 59,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      },
+      {
+        "step": 60,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.5,
+        "expected_log_increment": 0.0,
+        "cumulative_expected_log_size": 8.326672684688674e-16
+      }
+    ],
+    "frozen": [
+      {
+        "step": 1,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 0.3180642071684971
+      },
+      {
+        "step": 2,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 0.6361284143369942
+      },
+      {
+        "step": 3,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 0.9541926215054912
+      },
+      {
+        "step": 4,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 1.2722568286739884
+      },
+      {
+        "step": 5,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 1.5903210358424855
+      },
+      {
+        "step": 6,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 1.9083852430109827
+      },
+      {
+        "step": 7,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 2.2264494501794796
+      },
+      {
+        "step": 8,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 2.5445136573479767
+      },
+      {
+        "step": 9,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 2.862577864516474
+      },
+      {
+        "step": 10,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.180642071684971
+      },
+      {
+        "step": 11,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.498706278853468
+      },
+      {
+        "step": 12,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.8167704860219653
+      },
+      {
+        "step": 13,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.134834693190462
+      },
+      {
+        "step": 14,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.452898900358959
+      },
+      {
+        "step": 15,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.770963107527456
+      },
+      {
+        "step": 16,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.0890273146959535
+      },
+      {
+        "step": 17,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.407091521864451
+      },
+      {
+        "step": 18,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.725155729032948
+      },
+      {
+        "step": 19,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.043219936201445
+      },
+      {
+        "step": 20,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.361284143369942
+      },
+      {
+        "step": 21,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.679348350538439
+      },
+      {
+        "step": 22,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.997412557706936
+      },
+      {
+        "step": 23,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.3154767648754335
+      },
+      {
+        "step": 24,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.633540972043931
+      },
+      {
+        "step": 25,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.951605179212428
+      },
+      {
+        "step": 26,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.269669386380924
+      },
+      {
+        "step": 27,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.587733593549421
+      },
+      {
+        "step": 28,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.905797800717918
+      },
+      {
+        "step": 29,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 9.223862007886416
+      },
+      {
+        "step": 30,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 9.541926215054913
+      },
+      {
+        "step": 31,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 8.102210760354433
+      },
+      {
+        "step": 32,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 6.662495305653954
+      },
+      {
+        "step": 33,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 5.222779850953476
+      },
+      {
+        "step": 34,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 3.783064396252997
+      },
+      {
+        "step": 35,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 2.3433489415525184
+      },
+      {
+        "step": 36,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 0.9036334868520395
+      },
+      {
+        "step": 37,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -0.5360819678484394
+      },
+      {
+        "step": 38,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -1.9757974225489183
+      },
+      {
+        "step": 39,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -3.4155128772493972
+      },
+      {
+        "step": 40,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -4.855228331949876
+      },
+      {
+        "step": 41,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -6.294943786650355
+      },
+      {
+        "step": 42,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -7.734659241350833
+      },
+      {
+        "step": 43,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -9.174374696051313
+      },
+      {
+        "step": 44,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -10.614090150751792
+      },
+      {
+        "step": 45,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -12.053805605452272
+      },
+      {
+        "step": 46,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -13.493521060152752
+      },
+      {
+        "step": 47,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -14.933236514853231
+      },
+      {
+        "step": 48,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -16.37295196955371
+      },
+      {
+        "step": 49,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -17.81266742425419
+      },
+      {
+        "step": 50,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -19.25238287895467
+      },
+      {
+        "step": 51,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -20.69209833365515
+      },
+      {
+        "step": 52,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -22.13181378835563
+      },
+      {
+        "step": 53,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -23.57152924305611
+      },
+      {
+        "step": 54,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -25.011244697756588
+      },
+      {
+        "step": 55,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -26.450960152457068
+      },
+      {
+        "step": 56,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -27.890675607157547
+      },
+      {
+        "step": 57,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -29.330391061858027
+      },
+      {
+        "step": 58,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -30.770106516558506
+      },
+      {
+        "step": 59,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -32.20982197125898
+      },
+      {
+        "step": 60,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": -33.64953742595946
+      }
+    ],
+    "revised_after_delay": [
+      {
+        "step": 1,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 0.3180642071684971
+      },
+      {
+        "step": 2,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 0.6361284143369942
+      },
+      {
+        "step": 3,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 0.9541926215054912
+      },
+      {
+        "step": 4,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 1.2722568286739884
+      },
+      {
+        "step": 5,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 1.5903210358424855
+      },
+      {
+        "step": 6,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 1.9083852430109827
+      },
+      {
+        "step": 7,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 2.2264494501794796
+      },
+      {
+        "step": 8,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 2.5445136573479767
+      },
+      {
+        "step": 9,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 2.862577864516474
+      },
+      {
+        "step": 10,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.180642071684971
+      },
+      {
+        "step": 11,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.498706278853468
+      },
+      {
+        "step": 12,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.8167704860219653
+      },
+      {
+        "step": 13,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.134834693190462
+      },
+      {
+        "step": 14,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.452898900358959
+      },
+      {
+        "step": 15,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.770963107527456
+      },
+      {
+        "step": 16,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.0890273146959535
+      },
+      {
+        "step": 17,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.407091521864451
+      },
+      {
+        "step": 18,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.725155729032948
+      },
+      {
+        "step": 19,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.043219936201445
+      },
+      {
+        "step": 20,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.361284143369942
+      },
+      {
+        "step": 21,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.679348350538439
+      },
+      {
+        "step": 22,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.997412557706936
+      },
+      {
+        "step": 23,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.3154767648754335
+      },
+      {
+        "step": 24,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.633540972043931
+      },
+      {
+        "step": 25,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.951605179212428
+      },
+      {
+        "step": 26,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.269669386380924
+      },
+      {
+        "step": 27,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.587733593549421
+      },
+      {
+        "step": 28,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.905797800717918
+      },
+      {
+        "step": 29,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 9.223862007886416
+      },
+      {
+        "step": 30,
+        "environment_cue_match": 0.9,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 9.541926215054913
+      },
+      {
+        "step": 31,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 8.102210760354433
+      },
+      {
+        "step": 32,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 6.662495305653954
+      },
+      {
+        "step": 33,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 5.222779850953476
+      },
+      {
+        "step": 34,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 3.783064396252997
+      },
+      {
+        "step": 35,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.9,
+        "expected_log_increment": -1.439715454700479,
+        "cumulative_expected_log_size": 2.3433489415525184
+      },
+      {
+        "step": 36,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": -0.1819357928315029,
+        "cumulative_expected_log_size": 2.1614131487210155
+      },
+      {
+        "step": 37,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 2.4794773558895127
+      },
+      {
+        "step": 38,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 2.79754156305801
+      },
+      {
+        "step": 39,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.115605770226507
+      },
+      {
+        "step": 40,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.433669977395004
+      },
+      {
+        "step": 41,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 3.7517341845635013
+      },
+      {
+        "step": 42,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.069798391731998
+      },
+      {
+        "step": 43,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.387862598900496
+      },
+      {
+        "step": 44,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 4.705926806068993
+      },
+      {
+        "step": 45,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.02399101323749
+      },
+      {
+        "step": 46,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.342055220405987
+      },
+      {
+        "step": 47,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.660119427574484
+      },
+      {
+        "step": 48,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 5.978183634742981
+      },
+      {
+        "step": 49,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.2962478419114785
+      },
+      {
+        "step": 50,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.614312049079976
+      },
+      {
+        "step": 51,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 6.932376256248473
+      },
+      {
+        "step": 52,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.25044046341697
+      },
+      {
+        "step": 53,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.568504670585467
+      },
+      {
+        "step": 54,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 7.886568877753964
+      },
+      {
+        "step": 55,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.204633084922461
+      },
+      {
+        "step": 56,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.522697292090958
+      },
+      {
+        "step": 57,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 8.840761499259456
+      },
+      {
+        "step": 58,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 9.158825706427953
+      },
+      {
+        "step": 59,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 9.47688991359645
+      },
+      {
+        "step": 60,
+        "environment_cue_match": 0.1,
+        "fraction_matching_cue": 0.1,
+        "expected_log_increment": 0.3180642071684971,
+        "cumulative_expected_log_size": 9.794954120764947
+      }
+    ]
+  }
+}

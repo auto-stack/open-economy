@@ -1,0 +1,26 @@
+{
+  "round": 54,
+  "date_local": "2026-11-13",
+  "purpose": "Chapter synthesis of round-52 and round-53 archived sources",
+  "source_families": 10,
+  "source_files": 14,
+  "formats": {
+    "complete_pdf": 4,
+    "complete_html": 9,
+    "selected_paper_text": 1
+  },
+  "new_external_downloads": 0,
+  "chapter_outputs": [
+    {
+      "path": "../../../book/part-01/05-how-organizations-evolve.md",
+      "bytes": 14906,
+      "sha256": "4cef4b4a451e6d75718d436a2878a1680f796c6b242951477aaf9e7e712843aa"
+    },
+    {
+      "path": "../../../book/argument-cards/part-01-05-how-organizations-evolve.md",
+      "bytes": 10254,
+      "sha256": "bba76b349baa65cfc82bead64924ba2b2e94b46b5ea1094d399270bc28a53512"
+    }
+  ],
+  "scope_note": "L233 selected passages only. L234 five documents of one event, L238 2016 working paper."
+}

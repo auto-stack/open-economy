@@ -1,0 +1,161 @@
+{
+  "algorithm": "sha256",
+  "excludes": "manifest.json itself",
+  "files": [
+    {
+      "path": "discovery/search-and-version-records.json",
+      "bytes": 244436,
+      "sha256": "55e9ce070714676042f622038f9ecf877f8b3e0a47630c7eafc4ef72d90875b3"
+    },
+    {
+      "path": "discovery/supplemental-searches.json",
+      "bytes": 36211,
+      "sha256": "991cf6e8e692ca21548cc2f86879ecc5ead9a9972f4af5c0eca9ca1b0570d190"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 7192,
+      "sha256": "b312051940b9eb9f4611c988592bf2f59923e2479c264410949fe0325571f933"
+    },
+    {
+      "path": "L233-lewis-2007/metadata.json",
+      "bytes": 892,
+      "sha256": "a254df52afe41fa343e745f9006bf48ba904b0ae227c5d3720944539e8130ed4"
+    },
+    {
+      "path": "L233-lewis-2007/original-selected.partial.txt",
+      "bytes": 30167,
+      "sha256": "5adcf8e6e0387fc152b24793fcaa15450c5cae179640cb30c28385e85769b5b9"
+    },
+    {
+      "path": "L233-lewis-2007/retrieval-context.txt",
+      "bytes": 284,
+      "sha256": "399dc8bc5e791ecf7c684a095a4fad7b7ec84d0970786ddb20873fcbab2ab855"
+    },
+    {
+      "path": "L234-python-succession/acceptance.html",
+      "bytes": 110938,
+      "sha256": "c83f6e7b049af1947300ee50c3a381b6e78e61d8397ba758b9bedf90036eaba6"
+    },
+    {
+      "path": "L234-python-succession/acceptance.txt",
+      "bytes": 29620,
+      "sha256": "877ae6d3c2d9d84655366b5ef66fde9e5c3d8bff10488ce1e6741ac9a7c39693"
+    },
+    {
+      "path": "L234-python-succession/metadata.json",
+      "bytes": 1843,
+      "sha256": "5041af9021ac5942230660df224c344b57d9ba8a04163ef8b1c4875b21cb1f30"
+    },
+    {
+      "path": "L234-python-succession/pep-13.html",
+      "bytes": 30593,
+      "sha256": "38d8a7c482ef9c68ac8af2885200bb783a82f2098d28685b213e45568a8aff3b"
+    },
+    {
+      "path": "L234-python-succession/pep-13.txt",
+      "bytes": 13095,
+      "sha256": "ada9e8c59446001a5be6431a9013bd89d89896a4cde12f2042089deaae6c7ac3"
+    },
+    {
+      "path": "L234-python-succession/pep-602.html",
+      "bytes": 30845,
+      "sha256": "2c4a77f686e3dcb304436b78bf303a9e7859ca118aab327feced8289ca81db1f"
+    },
+    {
+      "path": "L234-python-succession/pep-602.txt",
+      "bytes": 12272,
+      "sha256": "76af89db0fc7baa4d73584cfaa537530ed6d592d738c8ec657524982f96fd0f6"
+    },
+    {
+      "path": "L234-python-succession/pep-8016.html",
+      "bytes": 28127,
+      "sha256": "ccb6626e56295a26a8ac3855ea739e8f4521276613f88ff3d246b9073fdead5e"
+    },
+    {
+      "path": "L234-python-succession/pep-8016.txt",
+      "bytes": 13019,
+      "sha256": "cc03a2f7d94bcc245384d965e1dc00c3a3f92a0e89e64ffd09bcee3e338ed846"
+    },
+    {
+      "path": "L234-python-succession/pep-8100.html",
+      "bytes": 27738,
+      "sha256": "082e01ed92c867936ec8f93e22884218fc96d0eb58e5509ea0dce4be4b568c1d"
+    },
+    {
+      "path": "L234-python-succession/pep-8100.txt",
+      "bytes": 5661,
+      "sha256": "ebf41faca67ad312e508e929caa33a9352b078b698edac7589bcb8fdc1f0c8cb"
+    },
+    {
+      "path": "L235-teaching-complexity-2020/metadata.json",
+      "bytes": 821,
+      "sha256": "1654b2a578578bca428744b22816bf467976fb87bec92cdb94958b50a1e2faa5"
+    },
+    {
+      "path": "L235-teaching-complexity-2020/original.html",
+      "bytes": 197447,
+      "sha256": "873320cc367ffd7f85e5b6928151b6bfbbf9e909becb70f900dc1ff91500dd32"
+    },
+    {
+      "path": "L235-teaching-complexity-2020/original.txt",
+      "bytes": 54395,
+      "sha256": "27f79e7f83918ab6449258aade751a4832963578068edc69471ae57df1c1568a"
+    },
+    {
+      "path": "L236-morgan-2015/metadata.json",
+      "bytes": 780,
+      "sha256": "371348d2c87b24a228e37850eb6b8e7efdc152cd20e5826c346046e64d9e986e"
+    },
+    {
+      "path": "L236-morgan-2015/original.html",
+      "bytes": 442702,
+      "sha256": "2fbeb5e4cdcc532eeebb70f05f1825a185753790b8247d8f4cd3641c855e036d"
+    },
+    {
+      "path": "L236-morgan-2015/original.txt",
+      "bytes": 52820,
+      "sha256": "7949cd0fa299dad553d78df35da6cf9a831de777a88b1bcd3ed3e2889a9494c6"
+    },
+    {
+      "path": "L237-brown-2021/metadata.json",
+      "bytes": 872,
+      "sha256": "c663598b34c81ee89a747170dcf6ac6c4a024590dbb4b51b6f21d802b5b74e47"
+    },
+    {
+      "path": "L237-brown-2021/original.html",
+      "bytes": 158558,
+      "sha256": "8bf02836d2345cc79a62aa4ce7a02fabc40693b50ff85d9c60fe9bcdba290d90"
+    },
+    {
+      "path": "L237-brown-2021/original.txt",
+      "bytes": 41655,
+      "sha256": "a8f7e0894904ed5c33d1668ca2375ecf0a392fb5afb9006e02e1ce9a3f275d45"
+    },
+    {
+      "path": "L238-song-turnover/metadata.json",
+      "bytes": 1015,
+      "sha256": "dc558422f2aa2b16d4245dad250f4019a436a16bfaaf812892078f81de5cf3c3"
+    },
+    {
+      "path": "L238-song-turnover/working-paper.pdf",
+      "bytes": 707622,
+      "sha256": "e1c56c65d45e63e2b25b3df5a517f3bd05f45a459213496ac6f2f3190235eb7d"
+    },
+    {
+      "path": "L238-song-turnover/working-paper.txt",
+      "bytes": 107254,
+      "sha256": "635604a881be5381eb16a2e351c3f66e41efc797b753a5b9b450e2425f237707"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 683,
+      "sha256": "aa84a4a3fd8edd1cd018117e5e071ce89cc4213ee129a3fa5c3d8a4df9f0c837"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2052,
+      "sha256": "e935e80ebfcd26caddcac515a1d572cadda223f37b00e08e1d9332ce781099e6"
+    }
+  ]
+}

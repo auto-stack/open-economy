@@ -1,0 +1,10 @@
+{
+  "L204": {
+    "prior_payload": "wiki/raw/round-40/discovery/partridge-pubmed.xml",
+    "prior_sha256": "475941b402a4badd4f576a88f14838bf2b11d8b8cf5280c0c768b567dc7be6ec",
+    "current_payload": "L204-partridge-1982/pubmed.xml",
+    "same_bytes": true,
+    "meaning": "same original abstract now registered under stable work ID, not a new independent study"
+  },
+  "prior_source_files_modified": false
+}

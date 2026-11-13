@@ -1,0 +1,24 @@
+{
+  "date_local": "2026-11-13",
+  "role": "Search/query responses and discovery, not all adopted full texts",
+  "seed_doi": "10.1113/JP286883",
+  "seed_openalex_id": "W4403274118",
+  "backward_reference_export": {
+    "file": "L196-crossref.json",
+    "record_count": 88,
+    "type": "publisher-deposited references, not originals read"
+  },
+  "forward_citation_export": {
+    "file": "L196-citing-openalex.json",
+    "cutoff": "2026-11-13",
+    "returned": 34,
+    "display_count": 34,
+    "per_page": 100,
+    "page": 1,
+    "sort": "publication_date:asc",
+    "query": "filter=cites:W4403274118,to_publication_date:2026-11-13",
+    "limitations": "single-index snapshot; versions/withdrawals/citation links need validation"
+  },
+  "author_catalog": "bich-publications.html",
+  "initial_web_capture_gap": "See initial-query-notes.json; first web response not saved verbatim"
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "C01",
+    "text": "样本S1中三个值的算术均值为6U；没有声称总体或未来均值。",
+    "declared_scope": {
+      "task": "sample-mean",
+      "context": "sample-S1",
+      "unit": "U"
+    },
+    "reported_value": 6
+  },
+  {
+    "id": "C02",
+    "text": "样本S1中三个值的算术均值为6U；没有声称总体或未来均值。",
+    "declared_scope": {
+      "task": "sample-mean",
+      "context": "sample-S1",
+      "unit": "U"
+    },
+    "reported_value": 6
+  },
+  {
+    "id": "C03",
+    "text": "样本S1中三个值的算术均值为4U；没有声称总体或未来均值。",
+    "declared_scope": {
+      "task": "sample-mean",
+      "context": "sample-S1",
+      "unit": "U"
+    },
+    "reported_value": 4
+  },
+  {
+    "id": "C04",
+    "text": "环境A、范围[0,1]内已检验点0、0.5、0.75、1的记录支持y=x²，容限0.1U；未保证其他点。",
+    "declared_scope": {
+      "task": "bounded-curve",
+      "context": "A",
+      "x_range": [
+        0,
+        1
+      ],
+      "unit": "U",
+      "tolerance": 0.1
+    },
+    "reported_value": null
+  },
+  {
+    "id": "C05",
+    "text": "环境A、范围[0,1]内已检验点0、0.5、0.75、1的记录支持y=x²，容限0.1U；未保证其他点。",
+    "declared_scope": {
+      "task": "bounded-curve",
+      "context": "A",
+      "x_range": [
+        0,
+        1
+      ],
+      "unit": "U",
+      "tolerance": 0.1
+    },
+    "reported_value": null
+  },
+  {
+    "id": "C06",
+    "text": "样本S1中三个值的算术均值为4U；没有声称总体或未来均值。",
+    "declared_scope": {
+      "task": "sample-mean",
+      "context": "sample-S1",
+      "unit": "U"
+    },
+    "reported_value": 4
+  },
+  {
+    "id": "C07",
+    "text": "环境A、范围[0,1]内已检验点0、0.5、0.75、1的记录支持y=x²，容限0.1U；未保证其他点。",
+    "declared_scope": {
+      "task": "bounded-curve",
+      "context": "A",
+      "x_range": [
+        0,
+        1
+      ],
+      "unit": "U",
+      "tolerance": 0.1
+    },
+    "reported_value": null
+  }
+]

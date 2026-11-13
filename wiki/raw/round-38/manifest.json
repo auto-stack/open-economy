@@ -1,0 +1,57 @@
+[
+  {
+    "path": "discovery/open-tool-results.txt",
+    "bytes": 584,
+    "sha256": "26d4de2b1d50fb0db5500405a55dd0345629f7f9bf75b59cd20ff1a5bc9bea44"
+  },
+  {
+    "path": "discovery/search-tool-results.txt",
+    "bytes": 38263,
+    "sha256": "20be075fdf270a7a97a0df2c8fe6d9930ab8879dc1c5077ebea86a7fd98f3b1d"
+  },
+  {
+    "path": "L193-jbi-scoping-decision-tree/download-log.json",
+    "bytes": 477,
+    "sha256": "404c17a3e63af7a5b97ce86e2a64da6480c2b16d767495a496ff12ec52984dea"
+  },
+  {
+    "path": "L193-jbi-scoping-decision-tree/extracted.txt",
+    "bytes": 1904,
+    "sha256": "097a2ad53f95b9ae784b9bf5f01e8f93d9101c66665d624f82a636f7022276f3"
+  },
+  {
+    "path": "L193-jbi-scoping-decision-tree/metadata.json",
+    "bytes": 900,
+    "sha256": "ce955a62f8937936e2a8de6fd75a9c2b96f7dee2660bc978e9c609d1b49096aa"
+  },
+  {
+    "path": "L193-jbi-scoping-decision-tree/original.pdf",
+    "bytes": 263974,
+    "sha256": "69c340ca94fdf14f9f71eccaa1c994d00845ae3bdeddb06f443a1e7d92c14933"
+  },
+  {
+    "path": "L193-jbi-scoping-decision-tree/page-01.png",
+    "bytes": 262812,
+    "sha256": "383322e9c00da2a649e1aeee7bc7939b16ebb1c01f36b3f203419082e3cc7e28"
+  },
+  {
+    "path": "L194-prisma-2020/download-log.json",
+    "bytes": 224,
+    "sha256": "221c19e3071a5892b7ed38a603525cd3c60d7027481337098fdeafb619ebdfb8"
+  },
+  {
+    "path": "L194-prisma-2020/metadata.json",
+    "bytes": 864,
+    "sha256": "83e5f69eb191ca22c162a9353b856371434a4750fa53bd046c434d98dc206c03"
+  },
+  {
+    "path": "L194-prisma-2020/partial-tool-text.txt",
+    "bytes": 29670,
+    "sha256": "63f59262314d3054a91b2d8c0bfcfc786a5356a655b0a69263cb466865de8f87"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1566,
+    "sha256": "a6421bfe46d46428c24e10e0af85653ec9d7755c62ed052fc5bc5312d750a61e"
+  }
+]

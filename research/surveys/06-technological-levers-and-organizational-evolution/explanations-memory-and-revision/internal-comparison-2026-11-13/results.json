@@ -1,0 +1,3426 @@
+{
+  "kind": "scripted internal comparison, synthetic records, no human timing or population accuracy",
+  "layout_seed": 20261113,
+  "scenarios": [
+    {
+      "unrelated_records": 0,
+      "auxiliary_records": 30,
+      "B_C_same_material_sha256": "8152c1f0ad9c1d5b7b1d00690af0db25fb1cb56f83c059ff73ba3b1d1bc2ec68",
+      "C_index_build": {
+        "record_inspections": 30,
+        "index_entries_written": 30,
+        "read_bytes": 3291
+      },
+      "C_initialization": {
+        "index_file_bytes_loaded_once": 2861,
+        "snapshot_bytes_verified_once": 3291,
+        "not_included_in_per_question_record_counts": true
+      },
+      "storage_bytes": {
+        "A_conclusions": 2080,
+        "B_conclusions_plus_materials": 5371,
+        "C_conclusions_materials_index": 8232
+      },
+      "unlimited": {
+        "A": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 2,
+            "exact_error_locations": 0,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 5,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 0,
+              "evidence_bytes_read": 0,
+              "index_lookups": 0
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C02",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C06",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C07",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            }
+          ]
+        },
+        "B": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 7,
+            "exact_error_locations": 3,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 0,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 150,
+              "evidence_bytes_read": 16455,
+              "index_lookups": 0
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "procedure-error",
+              "locations": [
+                "C01-procedure"
+              ],
+              "replay": 6.0,
+              "intended": 4.0,
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 30,
+                "evidence_bytes_read": 3291,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-scope",
+                "C06-procedure",
+                "C04-procedure",
+                "C05-run",
+                "C06-data",
+                "C02-run",
+                "C07-observation",
+                "C03-run",
+                "C02-scope",
+                "C07-data",
+                "C06-run",
+                "C05-scope",
+                "C03-procedure",
+                "C04-scope",
+                "C03-data",
+                "C05-procedure",
+                "C04-data",
+                "C01-procedure",
+                "C01-scope",
+                "C07-run",
+                "C05-data",
+                "C01-run",
+                "C04-run",
+                "C07-scope",
+                "C05-observation",
+                "C03-scope",
+                "C02-data",
+                "C07-procedure",
+                "C01-data",
+                "C02-procedure"
+              ]
+            },
+            {
+              "claim_id": "C02",
+              "status": "claim-run-mismatch",
+              "locations": [
+                "C02",
+                "C02-run"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 30,
+                "evidence_bytes_read": 3291,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-scope",
+                "C06-procedure",
+                "C04-procedure",
+                "C05-run",
+                "C06-data",
+                "C02-run",
+                "C07-observation",
+                "C03-run",
+                "C02-scope",
+                "C07-data",
+                "C06-run",
+                "C05-scope",
+                "C03-procedure",
+                "C04-scope",
+                "C03-data",
+                "C05-procedure",
+                "C04-data",
+                "C01-procedure",
+                "C01-scope",
+                "C07-run",
+                "C05-data",
+                "C01-run",
+                "C04-run",
+                "C07-scope",
+                "C05-observation",
+                "C03-scope",
+                "C02-data",
+                "C07-procedure",
+                "C01-data",
+                "C02-procedure"
+              ]
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "conflicting-evidence",
+              "locations": [
+                "C05-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 30,
+                "evidence_bytes_read": 3291,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-scope",
+                "C06-procedure",
+                "C04-procedure",
+                "C05-run",
+                "C06-data",
+                "C02-run",
+                "C07-observation",
+                "C03-run",
+                "C02-scope",
+                "C07-data",
+                "C06-run",
+                "C05-scope",
+                "C03-procedure",
+                "C04-scope",
+                "C03-data",
+                "C05-procedure",
+                "C04-data",
+                "C01-procedure",
+                "C01-scope",
+                "C07-run",
+                "C05-data",
+                "C01-run",
+                "C04-run",
+                "C07-scope",
+                "C05-observation",
+                "C03-scope",
+                "C02-data",
+                "C07-procedure",
+                "C01-data",
+                "C02-procedure"
+              ]
+            },
+            {
+              "claim_id": "C06",
+              "status": "usable-in-finite-task",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 30,
+                "evidence_bytes_read": 3291,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-scope",
+                "C06-procedure",
+                "C04-procedure",
+                "C05-run",
+                "C06-data",
+                "C02-run",
+                "C07-observation",
+                "C03-run",
+                "C02-scope",
+                "C07-data",
+                "C06-run",
+                "C05-scope",
+                "C03-procedure",
+                "C04-scope",
+                "C03-data",
+                "C05-procedure",
+                "C04-data",
+                "C01-procedure",
+                "C01-scope",
+                "C07-run",
+                "C05-data",
+                "C01-run",
+                "C04-run",
+                "C07-scope",
+                "C05-observation",
+                "C03-scope",
+                "C02-data",
+                "C07-procedure",
+                "C01-data",
+                "C02-procedure"
+              ]
+            },
+            {
+              "claim_id": "C07",
+              "status": "usable-with-other-context-anomaly",
+              "locations": [
+                "C07-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 30,
+                "evidence_bytes_read": 3291,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-scope",
+                "C06-procedure",
+                "C04-procedure",
+                "C05-run",
+                "C06-data",
+                "C02-run",
+                "C07-observation",
+                "C03-run",
+                "C02-scope",
+                "C07-data",
+                "C06-run",
+                "C05-scope",
+                "C03-procedure",
+                "C04-scope",
+                "C03-data",
+                "C05-procedure",
+                "C04-data",
+                "C01-procedure",
+                "C01-scope",
+                "C07-run",
+                "C05-data",
+                "C01-run",
+                "C04-run",
+                "C07-scope",
+                "C05-observation",
+                "C03-scope",
+                "C02-data",
+                "C07-procedure",
+                "C01-data",
+                "C02-procedure"
+              ]
+            }
+          ]
+        },
+        "C": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 7,
+            "exact_error_locations": 3,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 0,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 22,
+              "evidence_bytes_read": 2402,
+              "index_lookups": 5
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "procedure-error",
+              "locations": [
+                "C01-procedure"
+              ],
+              "replay": 6.0,
+              "intended": 4.0,
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 422,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C01-procedure",
+                "C01-scope",
+                "C01-run",
+                "C01-data"
+              ]
+            },
+            {
+              "claim_id": "C02",
+              "status": "claim-run-mismatch",
+              "locations": [
+                "C02",
+                "C02-run"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 418,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C02-run",
+                "C02-scope",
+                "C02-data",
+                "C02-procedure"
+              ]
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "conflicting-evidence",
+              "locations": [
+                "C05-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 5,
+                "evidence_bytes_read": 572,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C05-run",
+                "C05-scope",
+                "C05-procedure",
+                "C05-data",
+                "C05-observation"
+              ]
+            },
+            {
+              "claim_id": "C06",
+              "status": "usable-in-finite-task",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 418,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C06-scope",
+                "C06-procedure",
+                "C06-data",
+                "C06-run"
+              ]
+            },
+            {
+              "claim_id": "C07",
+              "status": "usable-with-other-context-anomaly",
+              "locations": [
+                "C07-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 5,
+                "evidence_bytes_read": 572,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C07-observation",
+                "C07-data",
+                "C07-run",
+                "C07-scope",
+                "C07-procedure"
+              ]
+            }
+          ]
+        }
+      },
+      "budgets": [
+        {
+          "auxiliary_record_budget_per_question": 2,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 10,
+                "evidence_bytes_read": 890,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 10,
+                "evidence_bytes_read": 1081,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 4,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 20,
+                "evidence_bytes_read": 1910,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 5,
+              "exact_error_locations": 2,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 2,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 20,
+                "evidence_bytes_read": 2224,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 5,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 25,
+                "evidence_bytes_read": 2490,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 10,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 50,
+                "evidence_bytes_read": 5440,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 30,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 150,
+                "evidence_bytes_read": 16455,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 50,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 150,
+                "evidence_bytes_read": 16455,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 130,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 150,
+                "evidence_bytes_read": 16455,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        }
+      ],
+      "B_builds_once": {
+        "build": {
+          "record_inspections": 30,
+          "index_entries_written": 30,
+          "read_bytes": 3291
+        },
+        "summary": {
+          "questions": 7,
+          "reference_decisions_resolved": 7,
+          "exact_error_locations": 3,
+          "error_location_tasks": 3,
+          "unsafe_acceptances_in_fixture": 0,
+          "abstentions_or_budget_stops": 0,
+          "cost": {
+            "conclusion_records": 7,
+            "evidence_records_read": 22,
+            "evidence_bytes_read": 2402,
+            "index_lookups": 5
+          }
+        },
+        "same_index_as_C": true,
+        "same_persisted_index_initialization_if_shared": {
+          "index_file_bytes_loaded_once": 2861,
+          "snapshot_bytes_verified_once": 3291,
+          "not_included_in_per_question_record_counts": true
+        }
+      }
+    },
+    {
+      "unrelated_records": 20,
+      "auxiliary_records": 50,
+      "B_C_same_material_sha256": "c495c4056aaaa364cccf1c9db272965a288d5d47b475a4d6a72b1d4753156a75",
+      "C_index_build": {
+        "record_inspections": 50,
+        "index_entries_written": 50,
+        "read_bytes": 5471
+      },
+      "C_initialization": {
+        "index_file_bytes_loaded_once": 4405,
+        "snapshot_bytes_verified_once": 5471,
+        "not_included_in_per_question_record_counts": true
+      },
+      "storage_bytes": {
+        "A_conclusions": 2080,
+        "B_conclusions_plus_materials": 7551,
+        "C_conclusions_materials_index": 11956
+      },
+      "unlimited": {
+        "A": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 2,
+            "exact_error_locations": 0,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 5,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 0,
+              "evidence_bytes_read": 0,
+              "index_lookups": 0
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C02",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C06",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C07",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            }
+          ]
+        },
+        "B": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 7,
+            "exact_error_locations": 3,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 0,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 250,
+              "evidence_bytes_read": 27355,
+              "index_lookups": 0
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "procedure-error",
+              "locations": [
+                "C01-procedure"
+              ],
+              "replay": 6.0,
+              "intended": 4.0,
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 50,
+                "evidence_bytes_read": 5471,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-procedure",
+                "Z019",
+                "C05-run",
+                "Z000",
+                "C06-scope",
+                "Z006",
+                "C07-run",
+                "Z012",
+                "Z009",
+                "Z004",
+                "C02-procedure",
+                "Z001",
+                "C04-run",
+                "C05-procedure",
+                "C01-run",
+                "Z007",
+                "C03-run",
+                "C04-data",
+                "Z013",
+                "Z011",
+                "Z015",
+                "C04-procedure",
+                "C05-data",
+                "C03-procedure",
+                "C07-procedure",
+                "Z016",
+                "C06-data",
+                "C05-observation",
+                "Z014",
+                "C04-scope",
+                "C07-scope",
+                "Z003",
+                "Z018",
+                "C05-scope",
+                "C02-scope",
+                "Z005",
+                "Z008",
+                "C07-data",
+                "C01-scope",
+                "C02-run",
+                "Z017",
+                "Z002",
+                "C02-data",
+                "C07-observation",
+                "C01-data",
+                "Z010",
+                "C06-run",
+                "C03-data",
+                "C01-procedure",
+                "C03-scope"
+              ]
+            },
+            {
+              "claim_id": "C02",
+              "status": "claim-run-mismatch",
+              "locations": [
+                "C02",
+                "C02-run"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 50,
+                "evidence_bytes_read": 5471,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-procedure",
+                "Z019",
+                "C05-run",
+                "Z000",
+                "C06-scope",
+                "Z006",
+                "C07-run",
+                "Z012",
+                "Z009",
+                "Z004",
+                "C02-procedure",
+                "Z001",
+                "C04-run",
+                "C05-procedure",
+                "C01-run",
+                "Z007",
+                "C03-run",
+                "C04-data",
+                "Z013",
+                "Z011",
+                "Z015",
+                "C04-procedure",
+                "C05-data",
+                "C03-procedure",
+                "C07-procedure",
+                "Z016",
+                "C06-data",
+                "C05-observation",
+                "Z014",
+                "C04-scope",
+                "C07-scope",
+                "Z003",
+                "Z018",
+                "C05-scope",
+                "C02-scope",
+                "Z005",
+                "Z008",
+                "C07-data",
+                "C01-scope",
+                "C02-run",
+                "Z017",
+                "Z002",
+                "C02-data",
+                "C07-observation",
+                "C01-data",
+                "Z010",
+                "C06-run",
+                "C03-data",
+                "C01-procedure",
+                "C03-scope"
+              ]
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "conflicting-evidence",
+              "locations": [
+                "C05-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 50,
+                "evidence_bytes_read": 5471,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-procedure",
+                "Z019",
+                "C05-run",
+                "Z000",
+                "C06-scope",
+                "Z006",
+                "C07-run",
+                "Z012",
+                "Z009",
+                "Z004",
+                "C02-procedure",
+                "Z001",
+                "C04-run",
+                "C05-procedure",
+                "C01-run",
+                "Z007",
+                "C03-run",
+                "C04-data",
+                "Z013",
+                "Z011",
+                "Z015",
+                "C04-procedure",
+                "C05-data",
+                "C03-procedure",
+                "C07-procedure",
+                "Z016",
+                "C06-data",
+                "C05-observation",
+                "Z014",
+                "C04-scope",
+                "C07-scope",
+                "Z003",
+                "Z018",
+                "C05-scope",
+                "C02-scope",
+                "Z005",
+                "Z008",
+                "C07-data",
+                "C01-scope",
+                "C02-run",
+                "Z017",
+                "Z002",
+                "C02-data",
+                "C07-observation",
+                "C01-data",
+                "Z010",
+                "C06-run",
+                "C03-data",
+                "C01-procedure",
+                "C03-scope"
+              ]
+            },
+            {
+              "claim_id": "C06",
+              "status": "usable-in-finite-task",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 50,
+                "evidence_bytes_read": 5471,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-procedure",
+                "Z019",
+                "C05-run",
+                "Z000",
+                "C06-scope",
+                "Z006",
+                "C07-run",
+                "Z012",
+                "Z009",
+                "Z004",
+                "C02-procedure",
+                "Z001",
+                "C04-run",
+                "C05-procedure",
+                "C01-run",
+                "Z007",
+                "C03-run",
+                "C04-data",
+                "Z013",
+                "Z011",
+                "Z015",
+                "C04-procedure",
+                "C05-data",
+                "C03-procedure",
+                "C07-procedure",
+                "Z016",
+                "C06-data",
+                "C05-observation",
+                "Z014",
+                "C04-scope",
+                "C07-scope",
+                "Z003",
+                "Z018",
+                "C05-scope",
+                "C02-scope",
+                "Z005",
+                "Z008",
+                "C07-data",
+                "C01-scope",
+                "C02-run",
+                "Z017",
+                "Z002",
+                "C02-data",
+                "C07-observation",
+                "C01-data",
+                "Z010",
+                "C06-run",
+                "C03-data",
+                "C01-procedure",
+                "C03-scope"
+              ]
+            },
+            {
+              "claim_id": "C07",
+              "status": "usable-with-other-context-anomaly",
+              "locations": [
+                "C07-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 50,
+                "evidence_bytes_read": 5471,
+                "index_lookups": 0
+              },
+              "trace": [
+                "C06-procedure",
+                "Z019",
+                "C05-run",
+                "Z000",
+                "C06-scope",
+                "Z006",
+                "C07-run",
+                "Z012",
+                "Z009",
+                "Z004",
+                "C02-procedure",
+                "Z001",
+                "C04-run",
+                "C05-procedure",
+                "C01-run",
+                "Z007",
+                "C03-run",
+                "C04-data",
+                "Z013",
+                "Z011",
+                "Z015",
+                "C04-procedure",
+                "C05-data",
+                "C03-procedure",
+                "C07-procedure",
+                "Z016",
+                "C06-data",
+                "C05-observation",
+                "Z014",
+                "C04-scope",
+                "C07-scope",
+                "Z003",
+                "Z018",
+                "C05-scope",
+                "C02-scope",
+                "Z005",
+                "Z008",
+                "C07-data",
+                "C01-scope",
+                "C02-run",
+                "Z017",
+                "Z002",
+                "C02-data",
+                "C07-observation",
+                "C01-data",
+                "Z010",
+                "C06-run",
+                "C03-data",
+                "C01-procedure",
+                "C03-scope"
+              ]
+            }
+          ]
+        },
+        "C": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 7,
+            "exact_error_locations": 3,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 0,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 22,
+              "evidence_bytes_read": 2402,
+              "index_lookups": 5
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "procedure-error",
+              "locations": [
+                "C01-procedure"
+              ],
+              "replay": 6.0,
+              "intended": 4.0,
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 422,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C01-run",
+                "C01-scope",
+                "C01-data",
+                "C01-procedure"
+              ]
+            },
+            {
+              "claim_id": "C02",
+              "status": "claim-run-mismatch",
+              "locations": [
+                "C02",
+                "C02-run"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 418,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C02-procedure",
+                "C02-scope",
+                "C02-run",
+                "C02-data"
+              ]
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "conflicting-evidence",
+              "locations": [
+                "C05-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 5,
+                "evidence_bytes_read": 572,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C05-run",
+                "C05-procedure",
+                "C05-data",
+                "C05-observation",
+                "C05-scope"
+              ]
+            },
+            {
+              "claim_id": "C06",
+              "status": "usable-in-finite-task",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 418,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C06-procedure",
+                "C06-scope",
+                "C06-data",
+                "C06-run"
+              ]
+            },
+            {
+              "claim_id": "C07",
+              "status": "usable-with-other-context-anomaly",
+              "locations": [
+                "C07-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 5,
+                "evidence_bytes_read": 572,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C07-run",
+                "C07-procedure",
+                "C07-scope",
+                "C07-data",
+                "C07-observation"
+              ]
+            }
+          ]
+        }
+      },
+      "budgets": [
+        {
+          "auxiliary_record_budget_per_question": 2,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 10,
+                "evidence_bytes_read": 925,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 10,
+                "evidence_bytes_read": 990,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 4,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 20,
+                "evidence_bytes_read": 2105,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 5,
+              "exact_error_locations": 2,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 2,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 20,
+                "evidence_bytes_read": 2173,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 5,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 25,
+                "evidence_bytes_read": 2615,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 10,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 50,
+                "evidence_bytes_read": 5430,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 30,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 150,
+                "evidence_bytes_read": 16150,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 50,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 250,
+                "evidence_bytes_read": 27355,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 130,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 250,
+                "evidence_bytes_read": 27355,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        }
+      ],
+      "B_builds_once": {
+        "build": {
+          "record_inspections": 50,
+          "index_entries_written": 50,
+          "read_bytes": 5471
+        },
+        "summary": {
+          "questions": 7,
+          "reference_decisions_resolved": 7,
+          "exact_error_locations": 3,
+          "error_location_tasks": 3,
+          "unsafe_acceptances_in_fixture": 0,
+          "abstentions_or_budget_stops": 0,
+          "cost": {
+            "conclusion_records": 7,
+            "evidence_records_read": 22,
+            "evidence_bytes_read": 2402,
+            "index_lookups": 5
+          }
+        },
+        "same_index_as_C": true,
+        "same_persisted_index_initialization_if_shared": {
+          "index_file_bytes_loaded_once": 4405,
+          "snapshot_bytes_verified_once": 5471,
+          "not_included_in_per_question_record_counts": true
+        }
+      }
+    },
+    {
+      "unrelated_records": 100,
+      "auxiliary_records": 130,
+      "B_C_same_material_sha256": "e60eefa2d3d08c7508b7e3cda9f481001e9e063f754789a8920382de96bd2640",
+      "C_index_build": {
+        "record_inspections": 130,
+        "index_entries_written": 130,
+        "read_bytes": 14191
+      },
+      "C_initialization": {
+        "index_file_bytes_loaded_once": 10524,
+        "snapshot_bytes_verified_once": 14191,
+        "not_included_in_per_question_record_counts": true
+      },
+      "storage_bytes": {
+        "A_conclusions": 2080,
+        "B_conclusions_plus_materials": 16271,
+        "C_conclusions_materials_index": 26795
+      },
+      "unlimited": {
+        "A": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 2,
+            "exact_error_locations": 0,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 5,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 0,
+              "evidence_bytes_read": 0,
+              "index_lookups": 0
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C02",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C06",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C07",
+              "status": "insufficient-evidence",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            }
+          ]
+        },
+        "B": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 7,
+            "exact_error_locations": 3,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 0,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 650,
+              "evidence_bytes_read": 70955,
+              "index_lookups": 0
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "procedure-error",
+              "locations": [
+                "C01-procedure"
+              ],
+              "replay": 6.0,
+              "intended": 4.0,
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 130,
+                "evidence_bytes_read": 14191,
+                "index_lookups": 0
+              },
+              "trace": [
+                "Z096",
+                "Z082",
+                "Z019",
+                "C06-run",
+                "C07-data",
+                "C02-scope",
+                "Z048",
+                "Z077",
+                "C01-run",
+                "Z083",
+                "Z054",
+                "Z014",
+                "Z052",
+                "C05-scope",
+                "Z091",
+                "Z063",
+                "Z069",
+                "Z049",
+                "Z075",
+                "Z043",
+                "Z050",
+                "C05-run",
+                "C06-procedure",
+                "Z042",
+                "Z000",
+                "Z060",
+                "C07-observation",
+                "Z081",
+                "C07-scope",
+                "Z022",
+                "Z074",
+                "Z001",
+                "Z024",
+                "Z011",
+                "Z047",
+                "C03-scope",
+                "Z045",
+                "Z041",
+                "Z076",
+                "Z090",
+                "Z098",
+                "Z080",
+                "C07-run",
+                "Z070",
+                "Z068",
+                "Z071",
+                "C03-run",
+                "Z067",
+                "Z021",
+                "Z018",
+                "Z007",
+                "C02-procedure",
+                "Z027",
+                "C07-procedure",
+                "Z044",
+                "C04-scope",
+                "Z013",
+                "Z094",
+                "C06-scope",
+                "C04-procedure",
+                "Z002",
+                "Z089",
+                "Z073",
+                "Z017",
+                "Z030",
+                "Z058",
+                "Z088",
+                "Z038",
+                "C05-observation",
+                "C01-data",
+                "Z079",
+                "Z005",
+                "Z061",
+                "Z095",
+                "Z029",
+                "Z039",
+                "Z062",
+                "Z023",
+                "Z026",
+                "Z036",
+                "Z066",
+                "Z037",
+                "Z010",
+                "Z055",
+                "Z004",
+                "Z064",
+                "Z031",
+                "Z099",
+                "C03-procedure",
+                "C06-data",
+                "C05-procedure",
+                "Z006",
+                "Z072",
+                "Z012",
+                "Z085",
+                "Z032",
+                "Z084",
+                "Z097",
+                "Z025",
+                "Z059",
+                "Z034",
+                "Z078",
+                "Z057",
+                "Z065",
+                "Z056",
+                "Z053",
+                "Z092",
+                "Z033",
+                "Z008",
+                "C01-scope",
+                "Z009",
+                "Z046",
+                "C04-run",
+                "Z040",
+                "Z093",
+                "Z020",
+                "C02-run",
+                "C04-data",
+                "C05-data",
+                "Z035",
+                "C03-data",
+                "Z028",
+                "C01-procedure",
+                "Z086",
+                "Z051",
+                "Z087",
+                "Z016",
+                "Z003",
+                "C02-data",
+                "Z015"
+              ]
+            },
+            {
+              "claim_id": "C02",
+              "status": "claim-run-mismatch",
+              "locations": [
+                "C02",
+                "C02-run"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 130,
+                "evidence_bytes_read": 14191,
+                "index_lookups": 0
+              },
+              "trace": [
+                "Z096",
+                "Z082",
+                "Z019",
+                "C06-run",
+                "C07-data",
+                "C02-scope",
+                "Z048",
+                "Z077",
+                "C01-run",
+                "Z083",
+                "Z054",
+                "Z014",
+                "Z052",
+                "C05-scope",
+                "Z091",
+                "Z063",
+                "Z069",
+                "Z049",
+                "Z075",
+                "Z043",
+                "Z050",
+                "C05-run",
+                "C06-procedure",
+                "Z042",
+                "Z000",
+                "Z060",
+                "C07-observation",
+                "Z081",
+                "C07-scope",
+                "Z022",
+                "Z074",
+                "Z001",
+                "Z024",
+                "Z011",
+                "Z047",
+                "C03-scope",
+                "Z045",
+                "Z041",
+                "Z076",
+                "Z090",
+                "Z098",
+                "Z080",
+                "C07-run",
+                "Z070",
+                "Z068",
+                "Z071",
+                "C03-run",
+                "Z067",
+                "Z021",
+                "Z018",
+                "Z007",
+                "C02-procedure",
+                "Z027",
+                "C07-procedure",
+                "Z044",
+                "C04-scope",
+                "Z013",
+                "Z094",
+                "C06-scope",
+                "C04-procedure",
+                "Z002",
+                "Z089",
+                "Z073",
+                "Z017",
+                "Z030",
+                "Z058",
+                "Z088",
+                "Z038",
+                "C05-observation",
+                "C01-data",
+                "Z079",
+                "Z005",
+                "Z061",
+                "Z095",
+                "Z029",
+                "Z039",
+                "Z062",
+                "Z023",
+                "Z026",
+                "Z036",
+                "Z066",
+                "Z037",
+                "Z010",
+                "Z055",
+                "Z004",
+                "Z064",
+                "Z031",
+                "Z099",
+                "C03-procedure",
+                "C06-data",
+                "C05-procedure",
+                "Z006",
+                "Z072",
+                "Z012",
+                "Z085",
+                "Z032",
+                "Z084",
+                "Z097",
+                "Z025",
+                "Z059",
+                "Z034",
+                "Z078",
+                "Z057",
+                "Z065",
+                "Z056",
+                "Z053",
+                "Z092",
+                "Z033",
+                "Z008",
+                "C01-scope",
+                "Z009",
+                "Z046",
+                "C04-run",
+                "Z040",
+                "Z093",
+                "Z020",
+                "C02-run",
+                "C04-data",
+                "C05-data",
+                "Z035",
+                "C03-data",
+                "Z028",
+                "C01-procedure",
+                "Z086",
+                "Z051",
+                "Z087",
+                "Z016",
+                "Z003",
+                "C02-data",
+                "Z015"
+              ]
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "conflicting-evidence",
+              "locations": [
+                "C05-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 130,
+                "evidence_bytes_read": 14191,
+                "index_lookups": 0
+              },
+              "trace": [
+                "Z096",
+                "Z082",
+                "Z019",
+                "C06-run",
+                "C07-data",
+                "C02-scope",
+                "Z048",
+                "Z077",
+                "C01-run",
+                "Z083",
+                "Z054",
+                "Z014",
+                "Z052",
+                "C05-scope",
+                "Z091",
+                "Z063",
+                "Z069",
+                "Z049",
+                "Z075",
+                "Z043",
+                "Z050",
+                "C05-run",
+                "C06-procedure",
+                "Z042",
+                "Z000",
+                "Z060",
+                "C07-observation",
+                "Z081",
+                "C07-scope",
+                "Z022",
+                "Z074",
+                "Z001",
+                "Z024",
+                "Z011",
+                "Z047",
+                "C03-scope",
+                "Z045",
+                "Z041",
+                "Z076",
+                "Z090",
+                "Z098",
+                "Z080",
+                "C07-run",
+                "Z070",
+                "Z068",
+                "Z071",
+                "C03-run",
+                "Z067",
+                "Z021",
+                "Z018",
+                "Z007",
+                "C02-procedure",
+                "Z027",
+                "C07-procedure",
+                "Z044",
+                "C04-scope",
+                "Z013",
+                "Z094",
+                "C06-scope",
+                "C04-procedure",
+                "Z002",
+                "Z089",
+                "Z073",
+                "Z017",
+                "Z030",
+                "Z058",
+                "Z088",
+                "Z038",
+                "C05-observation",
+                "C01-data",
+                "Z079",
+                "Z005",
+                "Z061",
+                "Z095",
+                "Z029",
+                "Z039",
+                "Z062",
+                "Z023",
+                "Z026",
+                "Z036",
+                "Z066",
+                "Z037",
+                "Z010",
+                "Z055",
+                "Z004",
+                "Z064",
+                "Z031",
+                "Z099",
+                "C03-procedure",
+                "C06-data",
+                "C05-procedure",
+                "Z006",
+                "Z072",
+                "Z012",
+                "Z085",
+                "Z032",
+                "Z084",
+                "Z097",
+                "Z025",
+                "Z059",
+                "Z034",
+                "Z078",
+                "Z057",
+                "Z065",
+                "Z056",
+                "Z053",
+                "Z092",
+                "Z033",
+                "Z008",
+                "C01-scope",
+                "Z009",
+                "Z046",
+                "C04-run",
+                "Z040",
+                "Z093",
+                "Z020",
+                "C02-run",
+                "C04-data",
+                "C05-data",
+                "Z035",
+                "C03-data",
+                "Z028",
+                "C01-procedure",
+                "Z086",
+                "Z051",
+                "Z087",
+                "Z016",
+                "Z003",
+                "C02-data",
+                "Z015"
+              ]
+            },
+            {
+              "claim_id": "C06",
+              "status": "usable-in-finite-task",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 130,
+                "evidence_bytes_read": 14191,
+                "index_lookups": 0
+              },
+              "trace": [
+                "Z096",
+                "Z082",
+                "Z019",
+                "C06-run",
+                "C07-data",
+                "C02-scope",
+                "Z048",
+                "Z077",
+                "C01-run",
+                "Z083",
+                "Z054",
+                "Z014",
+                "Z052",
+                "C05-scope",
+                "Z091",
+                "Z063",
+                "Z069",
+                "Z049",
+                "Z075",
+                "Z043",
+                "Z050",
+                "C05-run",
+                "C06-procedure",
+                "Z042",
+                "Z000",
+                "Z060",
+                "C07-observation",
+                "Z081",
+                "C07-scope",
+                "Z022",
+                "Z074",
+                "Z001",
+                "Z024",
+                "Z011",
+                "Z047",
+                "C03-scope",
+                "Z045",
+                "Z041",
+                "Z076",
+                "Z090",
+                "Z098",
+                "Z080",
+                "C07-run",
+                "Z070",
+                "Z068",
+                "Z071",
+                "C03-run",
+                "Z067",
+                "Z021",
+                "Z018",
+                "Z007",
+                "C02-procedure",
+                "Z027",
+                "C07-procedure",
+                "Z044",
+                "C04-scope",
+                "Z013",
+                "Z094",
+                "C06-scope",
+                "C04-procedure",
+                "Z002",
+                "Z089",
+                "Z073",
+                "Z017",
+                "Z030",
+                "Z058",
+                "Z088",
+                "Z038",
+                "C05-observation",
+                "C01-data",
+                "Z079",
+                "Z005",
+                "Z061",
+                "Z095",
+                "Z029",
+                "Z039",
+                "Z062",
+                "Z023",
+                "Z026",
+                "Z036",
+                "Z066",
+                "Z037",
+                "Z010",
+                "Z055",
+                "Z004",
+                "Z064",
+                "Z031",
+                "Z099",
+                "C03-procedure",
+                "C06-data",
+                "C05-procedure",
+                "Z006",
+                "Z072",
+                "Z012",
+                "Z085",
+                "Z032",
+                "Z084",
+                "Z097",
+                "Z025",
+                "Z059",
+                "Z034",
+                "Z078",
+                "Z057",
+                "Z065",
+                "Z056",
+                "Z053",
+                "Z092",
+                "Z033",
+                "Z008",
+                "C01-scope",
+                "Z009",
+                "Z046",
+                "C04-run",
+                "Z040",
+                "Z093",
+                "Z020",
+                "C02-run",
+                "C04-data",
+                "C05-data",
+                "Z035",
+                "C03-data",
+                "Z028",
+                "C01-procedure",
+                "Z086",
+                "Z051",
+                "Z087",
+                "Z016",
+                "Z003",
+                "C02-data",
+                "Z015"
+              ]
+            },
+            {
+              "claim_id": "C07",
+              "status": "usable-with-other-context-anomaly",
+              "locations": [
+                "C07-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 130,
+                "evidence_bytes_read": 14191,
+                "index_lookups": 0
+              },
+              "trace": [
+                "Z096",
+                "Z082",
+                "Z019",
+                "C06-run",
+                "C07-data",
+                "C02-scope",
+                "Z048",
+                "Z077",
+                "C01-run",
+                "Z083",
+                "Z054",
+                "Z014",
+                "Z052",
+                "C05-scope",
+                "Z091",
+                "Z063",
+                "Z069",
+                "Z049",
+                "Z075",
+                "Z043",
+                "Z050",
+                "C05-run",
+                "C06-procedure",
+                "Z042",
+                "Z000",
+                "Z060",
+                "C07-observation",
+                "Z081",
+                "C07-scope",
+                "Z022",
+                "Z074",
+                "Z001",
+                "Z024",
+                "Z011",
+                "Z047",
+                "C03-scope",
+                "Z045",
+                "Z041",
+                "Z076",
+                "Z090",
+                "Z098",
+                "Z080",
+                "C07-run",
+                "Z070",
+                "Z068",
+                "Z071",
+                "C03-run",
+                "Z067",
+                "Z021",
+                "Z018",
+                "Z007",
+                "C02-procedure",
+                "Z027",
+                "C07-procedure",
+                "Z044",
+                "C04-scope",
+                "Z013",
+                "Z094",
+                "C06-scope",
+                "C04-procedure",
+                "Z002",
+                "Z089",
+                "Z073",
+                "Z017",
+                "Z030",
+                "Z058",
+                "Z088",
+                "Z038",
+                "C05-observation",
+                "C01-data",
+                "Z079",
+                "Z005",
+                "Z061",
+                "Z095",
+                "Z029",
+                "Z039",
+                "Z062",
+                "Z023",
+                "Z026",
+                "Z036",
+                "Z066",
+                "Z037",
+                "Z010",
+                "Z055",
+                "Z004",
+                "Z064",
+                "Z031",
+                "Z099",
+                "C03-procedure",
+                "C06-data",
+                "C05-procedure",
+                "Z006",
+                "Z072",
+                "Z012",
+                "Z085",
+                "Z032",
+                "Z084",
+                "Z097",
+                "Z025",
+                "Z059",
+                "Z034",
+                "Z078",
+                "Z057",
+                "Z065",
+                "Z056",
+                "Z053",
+                "Z092",
+                "Z033",
+                "Z008",
+                "C01-scope",
+                "Z009",
+                "Z046",
+                "C04-run",
+                "Z040",
+                "Z093",
+                "Z020",
+                "C02-run",
+                "C04-data",
+                "C05-data",
+                "Z035",
+                "C03-data",
+                "Z028",
+                "C01-procedure",
+                "Z086",
+                "Z051",
+                "Z087",
+                "Z016",
+                "Z003",
+                "C02-data",
+                "Z015"
+              ]
+            }
+          ]
+        },
+        "C": {
+          "summary": {
+            "questions": 7,
+            "reference_decisions_resolved": 7,
+            "exact_error_locations": 3,
+            "error_location_tasks": 3,
+            "unsafe_acceptances_in_fixture": 0,
+            "abstentions_or_budget_stops": 0,
+            "cost": {
+              "conclusion_records": 7,
+              "evidence_records_read": 22,
+              "evidence_bytes_read": 2402,
+              "index_lookups": 5
+            }
+          },
+          "answers": [
+            {
+              "claim_id": "C01",
+              "status": "procedure-error",
+              "locations": [
+                "C01-procedure"
+              ],
+              "replay": 6.0,
+              "intended": 4.0,
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 422,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C01-run",
+                "C01-data",
+                "C01-scope",
+                "C01-procedure"
+              ]
+            },
+            {
+              "claim_id": "C02",
+              "status": "claim-run-mismatch",
+              "locations": [
+                "C02",
+                "C02-run"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 418,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C02-scope",
+                "C02-procedure",
+                "C02-run",
+                "C02-data"
+              ]
+            },
+            {
+              "claim_id": "C03",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C03"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C04",
+              "status": "outside-declared-scope",
+              "locations": [
+                "C04"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              },
+              "trace": []
+            },
+            {
+              "claim_id": "C05",
+              "status": "conflicting-evidence",
+              "locations": [
+                "C05-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 5,
+                "evidence_bytes_read": 572,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C05-scope",
+                "C05-run",
+                "C05-observation",
+                "C05-procedure",
+                "C05-data"
+              ]
+            },
+            {
+              "claim_id": "C06",
+              "status": "usable-in-finite-task",
+              "locations": [],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 4,
+                "evidence_bytes_read": 418,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C06-run",
+                "C06-procedure",
+                "C06-scope",
+                "C06-data"
+              ]
+            },
+            {
+              "claim_id": "C07",
+              "status": "usable-with-other-context-anomaly",
+              "locations": [
+                "C07-observation"
+              ],
+              "cost": {
+                "conclusion_records": 1,
+                "evidence_records_read": 5,
+                "evidence_bytes_read": 572,
+                "index_lookups": 1
+              },
+              "trace": [
+                "C07-data",
+                "C07-observation",
+                "C07-scope",
+                "C07-run",
+                "C07-procedure"
+              ]
+            }
+          ]
+        }
+      },
+      "budgets": [
+        {
+          "auxiliary_record_budget_per_question": 2,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 10,
+                "evidence_bytes_read": 1090,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 10,
+                "evidence_bytes_read": 1113,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 4,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 20,
+                "evidence_bytes_read": 2255,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 5,
+              "exact_error_locations": 2,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 2,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 20,
+                "evidence_bytes_read": 2186,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 5,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 25,
+                "evidence_bytes_read": 2950,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 10,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 50,
+                "evidence_bytes_read": 5715,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 30,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 150,
+                "evidence_bytes_read": 16690,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 50,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 250,
+                "evidence_bytes_read": 27720,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        },
+        {
+          "auxiliary_record_budget_per_question": 130,
+          "conditions": {
+            "A": {
+              "questions": 7,
+              "reference_decisions_resolved": 2,
+              "exact_error_locations": 0,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 5,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 0,
+                "evidence_bytes_read": 0,
+                "index_lookups": 0
+              }
+            },
+            "B": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 650,
+                "evidence_bytes_read": 70955,
+                "index_lookups": 0
+              }
+            },
+            "C": {
+              "questions": 7,
+              "reference_decisions_resolved": 7,
+              "exact_error_locations": 3,
+              "error_location_tasks": 3,
+              "unsafe_acceptances_in_fixture": 0,
+              "abstentions_or_budget_stops": 0,
+              "cost": {
+                "conclusion_records": 7,
+                "evidence_records_read": 22,
+                "evidence_bytes_read": 2402,
+                "index_lookups": 5
+              }
+            }
+          }
+        }
+      ],
+      "B_builds_once": {
+        "build": {
+          "record_inspections": 130,
+          "index_entries_written": 130,
+          "read_bytes": 14191
+        },
+        "summary": {
+          "questions": 7,
+          "reference_decisions_resolved": 7,
+          "exact_error_locations": 3,
+          "error_location_tasks": 3,
+          "unsafe_acceptances_in_fixture": 0,
+          "abstentions_or_budget_stops": 0,
+          "cost": {
+            "conclusion_records": 7,
+            "evidence_records_read": 22,
+            "evidence_bytes_read": 2402,
+            "index_lookups": 5
+          }
+        },
+        "same_index_as_C": true,
+        "same_persisted_index_initialization_if_shared": {
+          "index_file_bytes_loaded_once": 10524,
+          "snapshot_bytes_verified_once": 14191,
+          "not_included_in_per_question_record_counts": true
+        }
+      }
+    }
+  ],
+  "faults": {
+    "misassigned_relation": {
+      "all_original_files_unchanged": true,
+      "all_ids_still_indexed_once": true,
+      "C05_verdict": {
+        "status": "usable-in-finite-task",
+        "locations": [],
+        "cost": {
+          "conclusion_records": 1,
+          "evidence_records_read": 4,
+          "evidence_bytes_read": 471,
+          "index_lookups": 1
+        },
+        "trace": [
+          "C05-run",
+          "C05-procedure",
+          "C05-data",
+          "C05-scope"
+        ]
+      },
+      "C06_verdict": {
+        "status": "index-requires-review",
+        "locations": [
+          "C05-observation"
+        ],
+        "cost": {
+          "conclusion_records": 1,
+          "evidence_records_read": 5,
+          "evidence_bytes_read": 519,
+          "index_lookups": 1
+        },
+        "trace": [
+          "C06-procedure",
+          "C06-scope",
+          "C06-data",
+          "C06-run",
+          "C05-observation"
+        ]
+      },
+      "gold_C05": {
+        "status": "conflicting-evidence",
+        "locations": [
+          "C05-observation"
+        ]
+      },
+      "fresh_index_differs": true,
+      "full_refresh_cost": {
+        "record_inspections": 50,
+        "index_entries_written": 50,
+        "read_bytes": 5471
+      },
+      "after_refresh_C05": {
+        "status": "conflicting-evidence",
+        "locations": [
+          "C05-observation"
+        ],
+        "cost": {
+          "conclusion_records": 1,
+          "evidence_records_read": 5,
+          "evidence_bytes_read": 572,
+          "index_lookups": 1
+        },
+        "trace": [
+          "C05-run",
+          "C05-procedure",
+          "C05-data",
+          "C05-observation",
+          "C05-scope"
+        ]
+      }
+    },
+    "stale_snapshot": {
+      "changed_snapshot_detected": true,
+      "action": "stop before indexed lookup; no application verdict",
+      "verification_bytes": 5573,
+      "lookup_not_executed": true
+    },
+    "integrity_check_cost": {
+      "read_full_snapshot_bytes_once": 5471,
+      "reason": "hash comparison requires a previously verified snapshot or a byte pass; not charged as zero human work"
+    }
+  },
+  "cost_sensitivity": [
+    {
+      "scope": "one C06 request repeated; record-read and lookup each1 hypothetical unit",
+      "index_entry_write_weight": 0,
+      "B_cold_per_request": 51,
+      "indexed_per_request": 6,
+      "index_preparation": 50,
+      "first_strict_saving_request": 2,
+      "B_self_index_and_C_same_cost": true,
+      "full_rebuild_on_update_repeats_preparation": true
+    },
+    {
+      "scope": "one C06 request repeated; record-read and lookup each1 hypothetical unit",
+      "index_entry_write_weight": 1,
+      "B_cold_per_request": 51,
+      "indexed_per_request": 6,
+      "index_preparation": 100,
+      "first_strict_saving_request": 3,
+      "B_self_index_and_C_same_cost": true,
+      "full_rebuild_on_update_repeats_preparation": true
+    },
+    {
+      "scope": "one C06 request repeated; record-read and lookup each1 hypothetical unit",
+      "index_entry_write_weight": 5,
+      "B_cold_per_request": 51,
+      "indexed_per_request": 6,
+      "index_preparation": 300,
+      "first_strict_saving_request": 7,
+      "B_self_index_and_C_same_cost": true,
+      "full_rebuild_on_update_repeats_preparation": true
+    }
+  ]
+}

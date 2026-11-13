@@ -1,0 +1,26 @@
+{
+  "id": "L213",
+  "title": "Minimal Energy Cost for Thermodynamic Information Processing: Measurement and Information Erasure",
+  "authors": [
+    "Takahiro Sagawa",
+    "Masahito Ueda"
+  ],
+  "doi": "10.1103/PhysRevLett.102.250602",
+  "publication_year": 2009,
+  "adopted_file": "original.pdf",
+  "sha256": "d317e8b6e34397d7b93f09c4afd7f8ca6fb7eba05e5f91fadb5d6157d669849f",
+  "bytes": 419901,
+  "source_url": "https://arxiv.org/pdf/0809.4098",
+  "final_url": "https://arxiv.org/pdf/0809.4098",
+  "retrieved_at_utc": "2026-11-13T01:40:16.264177+00:00",
+  "version": "arXiv0809.4098v3; margin2009-05-30; internal Dated2018-10-23; actual PDF title uses of, journal title uses for",
+  "reading_scope": "PDF1–4 setup, Eqs2–5, memory example and proof; PDF2 key equations visually checked; original proof used only together with2011 erratum",
+  "content_status": "full_text_targeted_reading",
+  "full_document_read": false,
+  "independent_replication": false,
+  "formal_systematic_inclusion": false,
+  "correction_retraction_search": "targeted linked2011 erratum checked for L213; comprehensive screening not completed",
+  "pdf_pages": 5,
+  "assumption_correction_doi": "10.1103/PhysRevLett.106.189901",
+  "uses_corrected_measurement_scope_only": true
+}

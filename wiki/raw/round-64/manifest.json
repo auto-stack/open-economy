@@ -1,0 +1,124 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 2532,
+      "sha256": "b08e18b9e2e94e3e203362891b145036f5d5cfa752e089e2ba7590236b96a6dc"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 4994,
+      "sha256": "3c5efeabe08805b13e31e5da59b9aac4f3ad43399a23fafe00781db1ea35fee1"
+    },
+    {
+      "path": "L272-trust/appendix.pdf",
+      "bytes": 549763,
+      "sha256": "bbf1661c17d712d00c9e57b64ee72cbd9914c478393e3048de79a8282df9c624"
+    },
+    {
+      "path": "L272-trust/appendix.txt",
+      "bytes": 13652,
+      "sha256": "9283ae630ed9e5bac2f8f9abfa03241f8b6b1f87beaf3ddb90bae899a0f1ca14"
+    },
+    {
+      "path": "L272-trust/article.pdf",
+      "bytes": 656055,
+      "sha256": "2340cd58ea4284b1ab21e9deffa7e931c190df49e5dd985b9a457b4e56e0abc7"
+    },
+    {
+      "path": "L272-trust/article.txt",
+      "bytes": 57359,
+      "sha256": "18e199639b7976969ff6c01376aeaa58abb4453e87d83e8ba3224a336fab1326"
+    },
+    {
+      "path": "L272-trust/package-metadata.json",
+      "bytes": 8214,
+      "sha256": "52f40db6cbce1f4a1f37559d6b732de829cdc7879e46ca4600370209a0614c52"
+    },
+    {
+      "path": "L273-renegotiation/article.pdf",
+      "bytes": 1139604,
+      "sha256": "988ed9b72fa34db05b0964041d5cdd0bc97e7347e34613b0b9b014e1a36d44a1"
+    },
+    {
+      "path": "L273-renegotiation/article.txt",
+      "bytes": 103768,
+      "sha256": "debdf98ee0c2a4de7e07eff7a9d9e462515b0b7d1e100a1f54a87f2a0d806bbf"
+    },
+    {
+      "path": "L274-notice/article.html",
+      "bytes": 448310,
+      "sha256": "c565c5e6d3a9836543ad0f69f996dc7e035980d0570891b5fabeb13d2f16de9a"
+    },
+    {
+      "path": "L274-notice/article.txt",
+      "bytes": 39110,
+      "sha256": "592a228ea5cfbccf971c5ff0b66e22ed14e1bc89661320b3a8f850e00464a7ae"
+    },
+    {
+      "path": "L275-rebooking/article.txt",
+      "bytes": 44631,
+      "sha256": "c7428981a8ec3532f5207bae1c1dac9f04cfd2e4b3760ee594efc2b074a3ad89"
+    },
+    {
+      "path": "L275-rebooking/article.xml",
+      "bytes": 89924,
+      "sha256": "0c8960784f6dabff9784856922bdcbb6c1bfb0b8e253d3a7ff4412c6494f8121"
+    },
+    {
+      "path": "L275-rebooking/call-script.docx",
+      "bytes": 16567,
+      "sha256": "955e601836f34210f813a958a2a73c0e139e5185bb469c0d5a62f551e13af581"
+    },
+    {
+      "path": "L275-rebooking/publisher.pdf",
+      "bytes": 1275463,
+      "sha256": "7c08560d715fa189253367ba07de74be023f6183fe216889d9a064a245b0f919"
+    },
+    {
+      "path": "L275-rebooking/publisher.txt",
+      "bytes": 58916,
+      "sha256": "d5d7dd34a174e238b250a728b4c82477ce5a5581654300d20be47d7562b94461"
+    },
+    {
+      "path": "L275-rebooking/supplement-table.pdf",
+      "bytes": 202104,
+      "sha256": "dd199b612dd8baf61306b664f42b92613edf2fd485b72637152657af1210d51a"
+    },
+    {
+      "path": "L275-rebooking/supplement-table.txt",
+      "bytes": 3123,
+      "sha256": "5981f6cd8e1168768b7edcf4661d7f42294b009055ea1b7427342a8555413170"
+    },
+    {
+      "path": "L276-handover/article.html",
+      "bytes": 154437,
+      "sha256": "b4ad977bb7a9fddc9341b5a359c176c2836a2fe9ea812e6fd50d2beef87b41bb"
+    },
+    {
+      "path": "L276-handover/article.txt",
+      "bytes": 27546,
+      "sha256": "f7f189fbc808495fac983aad05ebc1f2a5a61d69e538ee3dbbcaeed91a1f9421"
+    },
+    {
+      "path": "L277-dissolving/article.pdf",
+      "bytes": 843119,
+      "sha256": "7af6bd82dbeb4d53205e7c0c18b2964b54e854ce9bbe4f0782e9f4a16b92202d"
+    },
+    {
+      "path": "L277-dissolving/article.txt",
+      "bytes": 46314,
+      "sha256": "aa11a7920f0342c485795d3797d971d634c94ba68554e578103b659f54a71f2f"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 6402,
+      "sha256": "bcce91fac97f384dade8b0047409c99279b80c6ff7b92a12507befc78bb21b25"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4402,
+      "sha256": "987263c60745dfa7759912de651ead126a18b6df47e97590e18b8247281cce1e"
+    }
+  ]
+}

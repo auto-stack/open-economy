@@ -80,3 +80,7 @@ Douglas S. Ramsay、Stephen C. Woods，*Clarifying the Roles of Homeostasis and 
 L51 Nowak 2006、L52 Ohtsuki等2006沿用[第十批记录](../../wiki/raw/round-10/README.md)及原有阅读范围。本轮没有把既有材料重复统计为新增全文；SuperCooperators仅核过出版方书目，未取得或通读整本书。
 
 本轮没有新增现实社会数据或AutoOS运行数据。[两个模型](12-human-cooperation-models.md)是条件推导和指定行为核算；其数值不得当作文献实验结果、人的普遍参数或道德测量。
+
+## 2026年11月13日轻量核查试用
+
+L58的目标文章、Binmore评论和作者答复现按[六项核查案例](../surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/case-01-preferences-and-beliefs.md)分开说话者及理论对象。本轮回看原已读段，不扩大该PDF读段；不把同文件的不同声音计成独立经验支持。

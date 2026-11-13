@@ -1,0 +1,82 @@
+{
+  "date_local": "2026-11-13",
+  "method": "已发表表格与正文的描述性复核；非逐人资料复算。",
+  "checks": [
+    {
+      "source": "L273",
+      "input": "L273-renegotiation/article.pdf",
+      "publisher_page": 277,
+      "pdf_page": 16,
+      "table": 3,
+      "scope": "仅金钱赔偿六种处理中卖方初步决定导致事后可改进的局，表3列1–3；排除持平或初步有效的局，不加计括号内子集。",
+      "rows": [
+        {
+          "treatment": "LI-Low",
+          "agree": 16,
+          "disagree": 5,
+          "no_renegotiation": 5
+        },
+        {
+          "treatment": "LI-High",
+          "agree": 20,
+          "disagree": 0,
+          "no_renegotiation": 5
+        },
+        {
+          "treatment": "EX-Low",
+          "agree": 1,
+          "disagree": 0,
+          "no_renegotiation": 6
+        },
+        {
+          "treatment": "EX-High",
+          "agree": 7,
+          "disagree": 1,
+          "no_renegotiation": 5
+        },
+        {
+          "treatment": "RE-Low",
+          "agree": 43,
+          "disagree": 1,
+          "no_renegotiation": 0
+        },
+        {
+          "treatment": "RE-High",
+          "agree": 36,
+          "disagree": 6,
+          "no_renegotiation": 7
+        }
+      ],
+      "initially_inefficient": 164,
+      "entered_renegotiation": 136,
+      "agreed": 123,
+      "entered_without_agreement": 13,
+      "did_not_enter": 28,
+      "agreement_among_entered": 0.9044117647058824,
+      "agreement_among_eligible": 0.75
+    },
+    {
+      "source": "L275",
+      "input": "L275-rebooking/article.xml",
+      "location": "Phase 3 telephone results, Fig. 2; supplementary table 1 footnote",
+      "appointments": 360,
+      "reached": 286,
+      "confirmed": 251,
+      "requested_another_day": 35,
+      "slots_reused": 20,
+      "slots_unused": 15,
+      "proportion_reused_among_released": 0.5714285714285714,
+      "scope": "20+15=35，251+35=286。释放后的去向不是原患者再次就诊的结果。"
+    },
+    {
+      "source": "L276",
+      "input": "L276-handover/article.html",
+      "location": "Abstract; shift gap analysis and self-reported completion rates; Discussion",
+      "task_parcels": 11071,
+      "marked_complete": 9900,
+      "other_status": 1171,
+      "percent_marked_complete": 89.4,
+      "scope": "剩余量为相减所得，不解释为实际未做；认领和报完均是登记状态。"
+    }
+  ]
+}

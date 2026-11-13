@@ -1,0 +1,64 @@
+[
+  {
+    "requested": "L284-care-bank/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6250642/fullTextXML",
+    "error": "HTTPError 500 Server Error:  for url: https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6250642/fullTextXML"
+  },
+  {
+    "path": "L284-care-bank/accepted.pdf",
+    "url": "https://cris.vub.be/ws/portalfiles/portal/75911096/Accepted_version_Dynamics_in_motivations_and_reasons_to_quit_in_a_Care_Bank.pdf",
+    "bytes": 519114,
+    "sha256": "5e35a301c29ab8d793191902915e0e44e946bff5d5ac20293d7424fbd1685509",
+    "retrieved_utc": "2026-11-13T14:08:44.117751+00:00"
+  },
+  {
+    "requested": "L285-helpline/article.html",
+    "url": "https://www.cambridge.org/core/journals/voluntas/article/volunteer-engagement-and-retention-among-new-and-past-uk-mental-health-charity-helpline-volunteers-a-longitudinal-qualitative-study/C99D672D5FB5FB168154DE0B8F305AD7",
+    "error": "AssertionError "
+  },
+  {
+    "path": "L286-star/report.pdf",
+    "url": "https://www.ojp.gov/pdffiles1/ojjdp/grants/251463.pdf",
+    "bytes": 1655803,
+    "sha256": "5a82a6e081cc2787ef04a0449395564ba9420e4eddb19d4ecce26a982497054b",
+    "retrieved_utc": "2026-11-13T14:08:47.581801+00:00"
+  },
+  {
+    "path": "L285-helpline/article.pdf",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C99D672D5FB5FB168154DE0B8F305AD7/S0957876526000719a.pdf/div-class-title-volunteer-engagement-and-retention-among-new-and-past-uk-mental-health-charity-helpline-volunteers-a-longitudinal-qualitative-study-div.pdf",
+    "bytes": 308470,
+    "sha256": "78ff562beffb06cdb3db96202e74252647b9421eb1f43a9b6efec680afc2fe12",
+    "retrieved_utc": "2026-11-13T14:10:26.341410+00:00"
+  },
+  {
+    "path": "L287-bbbs/impact.pdf",
+    "url": "https://www.issuelab.org/resources/11972/11972.pdf",
+    "bytes": 942906,
+    "sha256": "a6f740ead348d067a0589a83a8ab74eb1d2389d4ca426e378f63c596524f3de9",
+    "retrieved_utc": "2026-11-13T14:10:26.321820+00:00"
+  },
+  {
+    "path": "L285-helpline/supplement.docx",
+    "url": "https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0957876526000719/resource/name/S0957876526000719sup001.docx",
+    "bytes": 38379,
+    "sha256": "7e26a9525c0c3470d39658ee63ded5a9e7ef06d62da1d9afe110e82cf48a2b08",
+    "retrieved_utc": "2026-11-13T14:12:13.849602+00:00"
+  },
+  {
+    "requested": "L288-freedom-summer/recruitment.pdf",
+    "url": "https://web.colby.edu/go227/files/2021/01/McAdam-1986.pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://web.colby.edu/go227/files/2021/01/McAdam-1986.pdf"
+  },
+  {
+    "path": "L288-freedom-summer/follow-up.pdf",
+    "url": "https://mrtno.com/soc3/doc/10a-McAdam-BiographicalConsequences-ASR-89.pdf",
+    "bytes": 908118,
+    "sha256": "b157f7e2b2427a58a34cdab6272fa683e80179940f8ca2953838d0b8274c52a6",
+    "retrieved_utc": "2026-11-13T14:13:40.979346+00:00"
+  },
+  {
+    "requested": "L288-freedom-summer/alternative.pdf",
+    "url": "https://citeseerx.ist.psu.edu/document?doi=f1df6efd52a81db2b8a08df238eb0076d1310665&repid=rep1&type=pdf",
+    "error": "ConnectTimeout HTTPSConnectionPool(host='citeseerx.ist.psu.edu', port=443): Max retries exceeded with url: /document?doi=f1df6efd52a81db2b8a08df238eb0076d1310665&repid=rep1&type=pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='citeseerx.ist.psu.edu', port=443) at 0x26e17159090>, 'Connection to citeseerx.ist.psu.edu timed out. (connect timeout=6)'))"
+  }
+]

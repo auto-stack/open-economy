@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-13",
+  "searches": [
+    "semantic information resource gathering paper",
+    "Sagawa Ueda 2010 Generalized Jarzynski equality nonequilibrium feedback control pdf",
+    "semantic information 2025 viability physics review"
+  ],
+  "method": "purposeful primary-source followup, not exhaustive systematic search",
+  "new_full_pdfs": 2,
+  "reused_full_pdfs": 1,
+  "new_source_ids": [
+    "L211",
+    "L212"
+  ],
+  "adopted_2026_publications": 0,
+  "raw_web_response": "search-01.txt",
+  "crossref_record": "L212-crossref.json",
+  "old_source_package_updated": false
+}

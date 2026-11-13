@@ -1,0 +1,27 @@
+{
+  "round": 58,
+  "research_round": 63,
+  "date_local": "2026-11-13",
+  "purpose": "《从集合到组织》讨论稿、关键主张核查与第一部分五章通读",
+  "source_families": 5,
+  "source_files": 32,
+  "new_external_downloads": 0,
+  "chapter_outputs": [
+    {
+      "path": "../../../book/part-01/01-from-collection-to-organization.md",
+      "bytes": 11970,
+      "sha256": "8c283a878bf6aff5c68ee06ea32bf8de9dda25dfc63392ce767f6fec457f71cd"
+    },
+    {
+      "path": "../../../book/argument-cards/part-01-01-from-collection-to-organization.md",
+      "bytes": 11077,
+      "sha256": "83aa10670a596199424ed0b44bbda1b641a142a34d4cf6c6946db4c7907dac33"
+    },
+    {
+      "path": "../../../research/reviews/63-from-collection-to-organization-chapter.md",
+      "bytes": 3591,
+      "sha256": "4e654a48b93bbc51f84b5f7663cef14e4114e20eb36d49be58c1193a62103348"
+    }
+  ],
+  "scope_note": "项目模型、两类再分析与视觉回放实验方案另列为项目材料。已归档的原件不重复复制。"
+}

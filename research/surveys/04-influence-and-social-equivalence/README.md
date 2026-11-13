@@ -1,5 +1,11 @@
 # 影响力与社会资源换算研究
 
+2026年11月13日文化来源复核：[足球认同／冲突的轻量记录](../06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/disputed-sources-2026-11-13/case-02-football-and-conflict.md)区分原文、更正、复核与回应；新增指定段及AEA版本语境见[第50批](../../../wiki/raw/round-50/README.md)。不作体育普遍减少冲突或统一Ordo效应的证明。
+
+书稿交付：[熵、信息与Ordo讨论稿](../../../book/part-01/02-entropy-information-and-ordo.md)及[论证卡](../../../book/argument-cards/part-01-02-entropy-information-and-ordo.md)已形成，研究概念与社会应用的跨层条件继续分开；专题综述仍为0.4。
+
+2026年11月13日进入[熵、信息与Ordo基础专题](entropy-information-ordo/README.md)：形成[2026资料综述0.4](entropy-information-ordo/review-2026.md)，追读反馈做功、语义信息及信息杠杆，供第一部分第二章与本单元社会影响研究共用。基础指标与行动动员不预设为同一量。
+
 日期：2026年11月12日。首轮问题导向survey。结论是：**这条路线值得深入，尤其适合连接组织能力、人际关系与非货币协调；影响力能否进一步成为跨领域共同尺度，应作为独立的度量与验证问题。** 当前资料支持有条件的影响度量和资源转换研究，尚未建立影响力、财富、权力与名声的通用换算体系，也没有从热力学推导出它们的自然等价关系。
 
 同日用户进一步明确影响力指“可以调动他人产生新行为的能力”。研究核心现据此收窄为[目标导向的行动动员](mobilization-definition.md)，优先比较目标、他人响应、动员资源与时间；信息容量保留为辅助候选。补充[累积优势与增长形式的演算](mobilization-models.md)及[来源说明](mobilization-reading-notes.md)，下文首轮概念地图保留作背景，不将知名度或一般预测信息当成用户定义。

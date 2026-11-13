@@ -1,0 +1,47 @@
+[
+  {
+    "id": "L20",
+    "original_path": "wiki/raw/round-04/L20-kolchinsky-wolpert-2018/original.pdf",
+    "sha256": "96ec1360b30771bbd6dd54ce2e80f833072a9e40d9a74d3ee7bf27a2c9673e80",
+    "bytes": 613384,
+    "new_download": false,
+    "old_metadata_modified": false,
+    "reading_scope": "Context from prior round42 reading, no expanded reading this round"
+  },
+  {
+    "id": "L30",
+    "original_path": "wiki/raw/round-06/L30-rivoire-leibler-2011/original.pdf",
+    "sha256": "0778270a6185bda574f9ea72d84510dae3c1f3566dc0226b3c5779e9dc8fe05a",
+    "bytes": 974794,
+    "new_download": false,
+    "old_metadata_modified": false,
+    "reading_scope": "Rechecked existing PDF10–12 growth/strategy expressions and PDF20 implementation costs; no new reading scope"
+  },
+  {
+    "id": "L31",
+    "original_path": "wiki/raw/round-06/L31-still-et-al-2012/original.pdf",
+    "sha256": "feb70cf23efa7d99087aa462fe914e0993f73d5a380b04068cdc67a2f2babedb",
+    "bytes": 341536,
+    "new_download": false,
+    "old_metadata_modified": false,
+    "reading_scope": "Rechecked existing PDF2–4, Eqs11–18 and discussion; no new reading scope"
+  },
+  {
+    "id": "L211",
+    "original_path": "wiki/raw/round-42/L211-sagawa-ueda-2010/original.pdf",
+    "sha256": "ef3bf9a2f6c65c612bf175af8b5399d9d4561903b0b067450e431fd2bc587c53",
+    "bytes": 146038,
+    "new_download": false,
+    "old_metadata_modified": false,
+    "reading_scope": "Reuse prior feedback-bound reading, controller boundary compared with L213"
+  },
+  {
+    "id": "L212",
+    "original_path": "wiki/raw/round-42/L212-sowinski-et-al-2023/original.pdf",
+    "sha256": "d11f45757144458bdd73c01c872198128397d446ca681a3b8a946eb82fbfe233",
+    "bytes": 1927028,
+    "new_download": false,
+    "old_metadata_modified": false,
+    "reading_scope": "Reuse prior forager model and limitations; model not reproduced this round"
+  }
+]

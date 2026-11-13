@@ -1,0 +1,67 @@
+{
+  "date_local": "2026-11-13 Asia/Shanghai",
+  "status": "passed",
+  "review_version": "0.3",
+  "review_sha256": "aab2007cbdf93d40f4d48252344beca2359af7c44642a7e46c269b12fb0b75da",
+  "previous_review_snapshot_matches_prior_receipt": true,
+  "drafts": 12,
+  "argument_cards": 12,
+  "remaining_units": 16,
+  "checked_markdown_files": 18,
+  "broken_links": [],
+  "raw_manifests_verified": {
+    "round-38": 11,
+    "round-39": 63,
+    "round-40": 65,
+    "round-41": 71,
+    "round-42": 18,
+    "round-43": 34,
+    "round-44": 31
+  },
+  "source_ids": [
+    "L217",
+    "L218",
+    "L219",
+    "L220"
+  ],
+  "new_pdfs": 2,
+  "BioC_fulltext_exports": 2,
+  "original_JATS": 0,
+  "pdf_pages": {
+    "L217": 7,
+    "L220": 13
+  },
+  "BioC_fields": {
+    "L218": {
+      "raw_year": "2011",
+      "publication_year": 2010,
+      "passages": 135
+    },
+    "L219": {
+      "raw_year": "2017",
+      "publication_year": 2014,
+      "passages": 90
+    }
+  },
+  "publication_dates_crosschecked": true,
+  "visual_checks": [
+    "L217 PDF3 Algorithm1",
+    "L220 PDF8 resource-rational comparison"
+  ],
+  "model_calculations_checked": true,
+  "source_and_reuse_hashes_verified": true,
+  "formal_register_sha256": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+  "charter_equals_tag": true,
+  "tag_commit": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d",
+  "old_source_package_sha256": "f0c5d85ff3b17254fca988964c47585a1e5ccd89a1016e30dc35a919b24fa8b6",
+  "ignore_boundaries_verified": true,
+  "git_diff_check": "passed",
+  "no_commit_tag_or_push_performed": true,
+  "limits": [
+    "purposeful synthesis, not exhaustive coverage",
+    "BioC math conversion gaps remain",
+    "inference in a given model library, not invention of arbitrary rules",
+    "finite chosen-parameter models, no empirical calibration or author-study replication",
+    "unknown model families, causal diagnosis and safe exploration still require research"
+  ]
+}

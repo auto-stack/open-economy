@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://cat.phys.s.u-tokyo.ac.jp/~ueda/SagawaPRL104.pdf",
+    "target": "L211-sagawa-ueda-2010/original.pdf",
+    "time_utc": "2026-11-13T01:26:12.810406+00:00",
+    "error": "URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1081)'))"
+  },
+  {
+    "url": "https://artemyk.github.io/assets/pdf/papers/Sowinski-SemanticInformationInAModelOfResourceGatheringAgents.pdf",
+    "target": "L212-sowinski-et-al-2023/original.pdf",
+    "time_utc": "2026-11-13T01:26:12.810844+00:00",
+    "status": 200,
+    "final_url": "https://artemyk.github.io/assets/pdf/papers/Sowinski-SemanticInformationInAModelOfResourceGatheringAgents.pdf",
+    "content_type": "application/pdf",
+    "bytes": 1927028,
+    "sha256": "d11f45757144458bdd73c01c872198128397d446ca681a3b8a946eb82fbfe233",
+    "pdf_pages": 14
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1103%2FPRXLife.1.023003",
+    "target": "discovery/L212-crossref.json",
+    "time_utc": "2026-11-13T01:26:12.811166+00:00",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1103%2FPRXLife.1.023003",
+    "content_type": "application/json",
+    "bytes": 10420,
+    "sha256": "1d081473130b770ba6c2a1c3cfd79f53ddbedf73e0931250cc3e38cebcb12aaa"
+  },
+  {
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/PhysRevLett.104.090602/fulltext",
+    "target": "L211-sagawa-ueda-2010/original.pdf",
+    "time_utc": "2026-11-13T01:26:36.588793+00:00",
+    "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  {
+    "url": "https://arxiv.org/pdf/0907.4914",
+    "target": "L211-sagawa-ueda-2010/original.pdf",
+    "time_utc": "2026-11-13T01:26:37.465649+00:00",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/0907.4914",
+    "content_type": "application/pdf",
+    "bytes": 146038,
+    "sha256": "ef3bf9a2f6c65c612bf175af8b5399d9d4561903b0b067450e431fd2bc587c53",
+    "pdf_pages": 4
+  }
+]

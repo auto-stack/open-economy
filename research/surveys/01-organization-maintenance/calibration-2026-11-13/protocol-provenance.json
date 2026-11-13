@@ -1,0 +1,6 @@
+{
+  "previous_protocol": "../protocol-v0.1.snapshot.md",
+  "sha256": "74335f0ed5663c993b9d175bec32fdeb51d59285e293bd6c5b17583b7206bb3b",
+  "same_directory_reason": "Preserve bytes and relative links; current protocol will become0.2",
+  "formal_preregistration": false
+}

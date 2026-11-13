@@ -1,0 +1,46 @@
+{
+  "source_id": "L234",
+  "title": "Python governance transition and first council decision example",
+  "authors_or_creator": "Python core developers and steering council, 2018–2019",
+  "doi": null,
+  "research_date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "pep-13.html",
+      "sha256": "38d8a7c482ef9c68ac8af2885200bb783a82f2098d28685b213e45568a8aff3b",
+      "bytes": 30593,
+      "source_url": "https://peps.python.org/pep-0013/",
+      "format": "html"
+    },
+    {
+      "file": "pep-8016.html",
+      "sha256": "ccb6626e56295a26a8ac3855ea739e8f4521276613f88ff3d246b9073fdead5e",
+      "bytes": 28127,
+      "source_url": "https://peps.python.org/pep-8016/",
+      "format": "html"
+    },
+    {
+      "file": "pep-8100.html",
+      "sha256": "082e01ed92c867936ec8f93e22884218fc96d0eb58e5509ea0dce4be4b568c1d",
+      "bytes": 27738,
+      "source_url": "https://peps.python.org/pep-8100/",
+      "format": "html"
+    },
+    {
+      "file": "pep-602.html",
+      "sha256": "2c4a77f686e3dcb304436b78bf303a9e7859ca118aab327feced8289ca81db1f",
+      "bytes": 30845,
+      "source_url": "https://peps.python.org/pep-0602/",
+      "format": "html"
+    },
+    {
+      "file": "acceptance.html",
+      "sha256": "c83f6e7b049af1947300ee50c3a381b6e78e61d8397ba758b9bedf90036eaba6",
+      "bytes": 110938,
+      "source_url": "https://mail.python.org/archives/list/python-dev@python.org/thread/KE7OS4PZASZMFTW2FP2MWZU5R4Q2QZKU/",
+      "format": "html"
+    }
+  ],
+  "read_scope": "同一项目的五份文书。PEP 13历史、8016接受和构成、8100选举结果、602摘要及Resolution、接受公告首封信。",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md"
+}

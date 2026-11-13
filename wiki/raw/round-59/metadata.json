@@ -1,0 +1,45 @@
+{
+  "round": 59,
+  "research_round": 64,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L246",
+      "doi": "10.1073/pnas.96.5.2532",
+      "read_scope": "Denton等，1999。PMC期刊全文，实验方法、结果、图1和图说。采用生理与感受的时间进程，未按个体数据复算。",
+      "files": [
+        "L246-denton/fulltext.html"
+      ]
+    },
+    {
+      "source_id": "L247",
+      "doi": "10.1371/journal.pone.0162261",
+      "read_scope": "Peyrot des Gachons等，2016。期刊XML及S1工作簿。定向读方法、图1A、1D及讨论。直接复核图1A续饮量。",
+      "files": [
+        "L247-peyrot-des-gachons/fulltext.xml",
+        "L247-peyrot-des-gachons/s1-data.xlsx"
+      ]
+    },
+    {
+      "source_id": "L248",
+      "doi": "10.1371/journal.pone.0352203",
+      "read_scope": "Zhao等，2026。期刊XML，采用正式正文中的设计、三次24小时测量、饮水结果及局限。未将附带的审稿往来计作第二份证据。",
+      "files": [
+        "L248-intentional-water/fulltext.xml"
+      ]
+    }
+  ],
+  "L247_figure_1A_check": {
+    "sheet": "Water RT,CD",
+    "participants": "rows 3–22; per-participant means of columns B,E (room temperature) and C,D (cold), then equal participant weights",
+    "n": 20,
+    "room_temp_extra_ml": 239.5,
+    "cold_extra_ml": 181,
+    "mean_paired_difference_room_minus_cold_ml": 58.5,
+    "positive": 16,
+    "negative": 4,
+    "zeros": 0,
+    "scope": "描述量复核，未重现原文全部显著性检验或其他工作表。"
+  },
+  "acquisition_note": "Europe PMC fullTextXML for PMC26819 returned HTTP 500. NIH PMC full HTML subsequently downloaded and checked for Methods, Figure 1 and Results."
+}

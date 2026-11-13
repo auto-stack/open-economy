@@ -1,0 +1,88 @@
+[
+  {
+    "target": "L213-sagawa-ueda-2009/original.pdf",
+    "url": "https://arxiv.org/pdf/0809.4098",
+    "time_utc": "2026-11-13T01:40:16.264177+00:00",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/0809.4098",
+    "content_type": "application/pdf",
+    "bytes": 419901,
+    "sha256": "d317e8b6e34397d7b93f09c4afd7f8ca6fb7eba05e5f91fadb5d6157d669849f",
+    "pdf_pages": 5
+  },
+  {
+    "target": "L213-sagawa-ueda-2009/arxiv-record.html",
+    "url": "https://arxiv.org/abs/0809.4098",
+    "time_utc": "2026-11-13T01:40:16.264724+00:00",
+    "status": 200,
+    "final_url": "https://arxiv.org/abs/0809.4098",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 42211,
+    "sha256": "ef03031de0da0e9c8cf6ae61469768c630782a93f546403306332ed0eae972d9"
+  },
+  {
+    "target": "L213-sagawa-ueda-2009/erratum.pdf",
+    "url": "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.106.189901",
+    "time_utc": "2026-11-13T01:40:16.265006+00:00",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "target": "L214-lan-et-al-2012/original.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3378065/fullTextXML",
+    "time_utc": "2026-11-13T01:40:16.265236+00:00",
+    "status": 200,
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3378065/fullTextXML",
+    "content_type": "application/xml",
+    "bytes": 114425,
+    "sha256": "f9f614f74200dc5e0e8b5cca65a6f3ebf7f9e6c2e5da9026b4b23a3bf388b1fe"
+  },
+  {
+    "target": "L215-govern-tenwolde-2014/original.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4267345/fullTextXML",
+    "time_utc": "2026-11-13T01:40:16.686918+00:00",
+    "error": "<HTTPError 500: ''>"
+  },
+  {
+    "target": "L215-govern-tenwolde-2014/original.pdf",
+    "url": "https://ir.amolf.nl/pub/6320/15816OA.pdf",
+    "time_utc": "2026-11-13T01:41:50.341742+00:00",
+    "status": 200,
+    "final_url": "https://ir.amolf.nl/pub/6320/15816OA.pdf",
+    "content_type": "application/pdf",
+    "bytes": 1002267,
+    "sha256": "beb9a8aafbc3ef2cbf6cdd889b820c47cb0254d30d43dbad947cb6c9642ecdcd",
+    "pdf_pages": 14
+  },
+  {
+    "target": "L215-govern-tenwolde-2014/original.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4267345/fullTextXML",
+    "time_utc": "2026-11-13T01:41:50.342066+00:00",
+    "error": "<HTTPError 500: ''>"
+  },
+  {
+    "target": "L213-sagawa-ueda-2009/erratum.pdf",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/PhysRevLett.106.189901/fulltext",
+    "time_utc": "2026-11-13T01:41:50.342632+00:00",
+    "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  {
+    "url": "https://www.nature.com/articles/nature03842.pdf",
+    "target": "L216-dekel-alon-2005/original.pdf",
+    "time_utc": "2026-11-13T01:53:16.191448+00:00",
+    "status": 200,
+    "final_url": "https://www.nature.com/articles/nature03842?error=cookies_not_supported&code=aa938aed-24fe-4447-aba3-80f845d4f1a2",
+    "content_type": "text/html; charset=utf-8",
+    "error": "ValueError('not PDF')"
+  },
+  {
+    "url": "https://metabolic-economics.de/pages/seminar_regulationsnetze_2005/literatur/Dekel_Optimality.pdf",
+    "target": "L216-dekel-alon-2005/original.pdf",
+    "time_utc": "2026-11-13T01:53:22.495764+00:00",
+    "status": 200,
+    "final_url": "https://metabolic-economics.de/pages/seminar_regulationsnetze_2005/literatur/Dekel_Optimality.pdf",
+    "content_type": "application/pdf",
+    "bytes": 291585,
+    "sha256": "777a6b5082875deba2501cdc93c68b898356a659e2ba6cb17776090d40a6c444",
+    "pdf_pages": 5
+  }
+]

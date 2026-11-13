@@ -1,0 +1,111 @@
+[
+  {
+    "target": "L217-adams-mackay-2007/original.pdf",
+    "url": "https://www.cs.princeton.edu/~rpa/pubs/adams2007changepoint.pdf",
+    "time_utc": "2026-11-13T01:58:52.406384+00:00",
+    "status": 200,
+    "final_url": "https://www.cs.princeton.edu/~rpa/pubs/adams2007changepoint.pdf",
+    "content_type": "application/pdf",
+    "bytes": 478625,
+    "sha256": "f7ea09e5b7b1e92d4dba8c67aea19ea17d1aaee6a34ace977c7fba821d06657c",
+    "pdf_pages": 7
+  },
+  {
+    "target": "L219-wilson-et-al-2014/original.pdf",
+    "url": "https://oar.princeton.edu/bitstream/88435/pr17x6v/1/Humans_Use_Directed_Random_Exploration_2014.pdf",
+    "time_utc": "2026-11-13T01:58:52.406877+00:00",
+    "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  {
+    "target": "L218-nassar-et-al-2010/original.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2945906/fullTextXML",
+    "time_utc": "2026-11-13T01:59:20.124182+00:00",
+    "error": "<HTTPError 500: ''>"
+  },
+  {
+    "target": "L219-wilson-et-al-2014/original.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5635655/fullTextXML",
+    "time_utc": "2026-11-13T01:59:20.124747+00:00",
+    "error": "<HTTPError 500: ''>"
+  },
+  {
+    "target": "L220-griffiths-et-al-2015/original.pdf",
+    "url": "https://perception.jhu.edu/chaz/teaching/courses/tp/files/readings/8/Griffiths_Goodman_2015_Topics_in_Cognitive_Science_Rational_Use_of_Cognitive_Resources_Levels_of_Analysis_Between_the_Computational_and_the_Algorithmic.pdf",
+    "time_utc": "2026-11-13T01:59:20.125055+00:00",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "target": "L218-nassar-et-al-2010/original.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2945906/",
+    "time_utc": "2026-11-13T02:00:55.690749+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2945906/",
+    "content_type": "text/html; charset=utf-8",
+    "error": "ValueError('not validated article fullHTML')"
+  },
+  {
+    "target": "L219-wilson-et-al-2014/original.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5635655/",
+    "time_utc": "2026-11-13T02:00:55.691160+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5635655/",
+    "content_type": "text/html; charset=utf-8",
+    "error": "ValueError('not validated article fullHTML')"
+  },
+  {
+    "url": "https://cocosci.princeton.edu/tom/papers/RationalUseOfCognitiveResources.pdf",
+    "target": "L220-griffiths-et-al-2015/original.pdf",
+    "time_utc": "2026-11-13T02:01:16.496828+00:00",
+    "status": 200,
+    "final_url": "https://cocosci.princeton.edu/tom/papers/RationalUseOfCognitiveResources.pdf",
+    "content_type": "application/pdf",
+    "bytes": 241895,
+    "sha256": "7d0ee042d87035db4d7d8fa14f811d3fccde192e57c44372ef31389b375f5ea4",
+    "pdf_pages": 13
+  },
+  {
+    "target": "L218-nassar-et-al-2010/original.pdf",
+    "url": "https://www.jneurosci.org/content/jneuro/30/37/12366.full.pdf",
+    "time_utc": "2026-11-13T02:01:56.773510+00:00",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "target": "L218-nassar-et-al-2010/bioc.xml",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC2945906/unicode",
+    "time_utc": "2026-11-13T02:01:56.774294+00:00",
+    "status": 200,
+    "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC2945906/unicode",
+    "content_type": "text/xml",
+    "bytes": 102629,
+    "sha256": "76e627683eae6fd185eb1138f5627071e4e1ba011b14134436760f018f942f3a"
+  },
+  {
+    "target": "L219-wilson-et-al-2014/original.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5635655/pdf/nihms875891.pdf",
+    "time_utc": "2026-11-13T02:01:56.774738+00:00",
+    "status": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5635655/pdf/nihms875891.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "error": "ValueError('notPDF')"
+  },
+  {
+    "target": "L219-wilson-et-al-2014/bioc.xml",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC5635655/unicode",
+    "time_utc": "2026-11-13T02:01:56.775159+00:00",
+    "status": 200,
+    "final_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC5635655/unicode",
+    "content_type": "text/xml",
+    "bytes": 56422,
+    "sha256": "fa1564f8aacdd623bf4d8ea682fa0179b796c7e23e4ec1c43da98be070f2493e"
+  },
+  {
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=20844132,25347535&retmode=xml",
+    "target": "discovery/pubmed-records.xml",
+    "time_utc": "2026-11-13T02:05:36.678824+00:00",
+    "status": 200,
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=20844132,25347535&retmode=xml",
+    "content_type": "text/xml; charset=UTF-8",
+    "bytes": 31736,
+    "sha256": "605d2a58462cf465d4470ace94d7668bbfe946a8d81cb502da16002e979f229c"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "date_local": "2026-11-13",
+  "purpose": "targeted original-source follow-up and 2026 candidate retrieval, not systematic search",
+  "seed_reference_batch": "round40",
+  "work_ids": [
+    "L204",
+    "L205",
+    "L206",
+    "L207",
+    "L208",
+    "L209",
+    "L210"
+  ],
+  "full_text_work_ids": [
+    "L206",
+    "L207",
+    "L208"
+  ],
+  "abstract_preview_work_ids": [
+    "L204",
+    "L205",
+    "L209",
+    "L210"
+  ],
+  "search_results": [
+    "search-01.txt",
+    "search-02.txt",
+    "search-03.txt",
+    "search-04.txt"
+  ],
+  "open_results": [
+    "open-01.txt"
+  ],
+  "retrieval_attempts": [
+    "download-attempts-01.json",
+    "download-attempts-02.json",
+    "download-attempts-03.json",
+    "download-attempts-04.json"
+  ],
+  "rejected_bioc": "rejected-bioc-error.html"
+}

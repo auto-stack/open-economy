@@ -1,0 +1,34 @@
+{
+  "date_local": "2026-11-13",
+  "adopted_study_families": 4,
+  "adopted_main_materials": {
+    "PDF": 2,
+    "BioC_full_text_export": 1,
+    "PMC_full_text_HTML": 1
+  },
+  "additional_same_family_pdf": 1,
+  "additional_same_family_pdf_role": "L226 addendum updating a living-document URL",
+  "unadopted_attempts": [
+    {
+      "path": "L228-nosek-et-al-2018/bioc.xml",
+      "classification": "Non-BioC error response; not full text",
+      "status_code": 200
+    },
+    {
+      "path": "L228-nosek-et-al-2018/original.pdf",
+      "classification": "HTTP error body; not article PDF",
+      "status_code": 403
+    },
+    {
+      "path": "L228-nosek-et-al-2018/publisher.pdf",
+      "classification": "HTTP error body; not article PDF",
+      "status_code": 403
+    }
+  ],
+  "linked_records_only": [
+    "L228 author reply PMID30341224",
+    "L228 Ledgerwood commentary PMID30341225"
+  ],
+  "not_adopted_discovery": "PMID30322903 exploratory URL was irrelevant/unusable and not evidence",
+  "complete_document_not_equal_full_reading": true
+}

@@ -1,0 +1,34 @@
+{
+  "new_main_studies": 4,
+  "new_full_pdfs": 2,
+  "new_BioC_fulltext_exports": 2,
+  "new_original_JATS": 0,
+  "new_source_ids": [
+    "L217",
+    "L218",
+    "L219",
+    "L220"
+  ],
+  "BioC_formulas": "some missing; no invented formula verification or PDF page map",
+  "date_conflicts": {
+    "L218": {
+      "raw_BioC_year": "2011",
+      "journal_year": 2010
+    },
+    "L219": {
+      "raw_BioC_year": "2017",
+      "journal_year": 2014
+    }
+  },
+  "date_authority": "official PubMed efetch XML",
+  "failures_not_fulltext": [
+    "EuropePMC500",
+    "PDF401/403",
+    "HTML failed article or PDF format checks"
+  ],
+  "unread_leads": [
+    "Page1954 bibliographic entry",
+    "The Rational Use of Cognitive Resources2026 publisher introduction"
+  ],
+  "authors_simulations_reproduced": false
+}

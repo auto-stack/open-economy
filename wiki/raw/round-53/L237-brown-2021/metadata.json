@@ -1,0 +1,18 @@
+{
+  "source_id": "L237",
+  "title": "Surgical safety checklist audits may be misleading! Improving the implementation and adherence of the surgical safety checklist: a quality improvement project",
+  "authors_or_creator": "Brown et al. (2021)",
+  "doi": "10.1136/bmjoq-2021-001593",
+  "research_date_local": "2026-11-13",
+  "artifacts": [
+    {
+      "file": "original.html",
+      "sha256": "8bf02836d2345cc79a62aa4ce7a02fabc40693b50ff85d9c60fe9bcdba290d90",
+      "bytes": 158558,
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8572456/",
+      "format": "html"
+    }
+  ],
+  "read_scope": "Measurement、Design、四轮改进、Results、图3、Lessons and limitations。",
+  "reading_notes": "../../../../research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md"
+}

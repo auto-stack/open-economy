@@ -1,0 +1,155 @@
+{
+  "round": 64,
+  "research_round": 69,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L272",
+      "authors": "Ederer & Schneider",
+      "title": "Trust and Promises over Time",
+      "year": 2022,
+      "doi": "10.1257/mic.20200049",
+      "source_url": "https://doi.org/10.1257/mic.20200049",
+      "version_and_read_scope": "期刊图1、2，表1、3；在线附录的消息编码与指令。",
+      "role": "先发消息、对方选择是否放弃确定收益、后续伙伴回应；预定三周时差。",
+      "files": [
+        "L272-trust/appendix.pdf",
+        "L272-trust/appendix.txt",
+        "L272-trust/article.pdf",
+        "L272-trust/article.txt",
+        "L272-trust/package-metadata.json"
+      ],
+      "original_downloads": [
+        {
+          "path": "L272-trust/article.pdf",
+          "url": "https://cowles.yale.edu/sites/default/files/2023-02/mic.20200049.pdf"
+        },
+        {
+          "path": "L272-trust/package-metadata.json",
+          "url": "https://api.datacite.org/dois/10.3886/E118729V1"
+        },
+        {
+          "path": "L272-trust/appendix.pdf",
+          "url": "https://www.aeaweb.org/articles/materials/17103"
+        }
+      ]
+    },
+    {
+      "source_id": "L273",
+      "authors": "Sloof, Oosterbeek, Riedl & Sonnemans",
+      "title": "Breach remedies, reliance and renegotiation",
+      "year": 2006,
+      "doi": "10.1016/j.irle.2006.11.002",
+      "source_url": "https://doi.org/10.1016/j.irle.2006.11.002",
+      "version_and_read_scope": "大学存档期刊版，纸本268–269页与表2、3、4，表3位于PDF第16页。",
+      "role": "预定合同下先期支出、外部报价、改变决定与双方议价。",
+      "files": [
+        "L273-renegotiation/article.pdf",
+        "L273-renegotiation/article.txt"
+      ],
+      "original_downloads": [
+        {
+          "path": "L273-renegotiation/article.pdf",
+          "url": "https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/72449826/riedl_2006_breach_remedies_reliance_and_renegotiation.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L274",
+      "authors": "Shah et al.",
+      "title": "Targeted Reminder Phone Calls to Patients at High Risk of No-Show for Primary Care Appointment: A Randomized Trial",
+      "year": 2016,
+      "doi": "10.1007/s11606-016-3813-0",
+      "source_url": "https://doi.org/10.1007/s11606-016-3813-0",
+      "version_and_read_scope": "期刊HTML全文，方法、表2及图2附近结果。",
+      "role": "随机分配追加人工电话和具体规划，观察实际取消或改期的提前量。",
+      "files": [
+        "L274-notice/article.html",
+        "L274-notice/article.txt"
+      ],
+      "original_downloads": [
+        {
+          "path": "L274-notice/article.html",
+          "url": "https://link.springer.com/article/10.1007/s11606-016-3813-0"
+        }
+      ]
+    },
+    {
+      "source_id": "L275",
+      "authors": "Siriwardana et al.",
+      "title": "Enhancing resource utilisation in outpatient clinics: impact of telephone and text reminders on did not attend and short notice cancellation",
+      "year": 2026,
+      "doi": "10.1136/bmjoq-2025-003774",
+      "source_url": "https://doi.org/10.1136/bmjoq-2025-003774",
+      "version_and_read_scope": "期刊JATS、PDF，电话阶段方法、结果与图2，补充表1及附录3空白脚本。",
+      "role": "分阶段改进的真实排班记录，区分提出改日、释放及实际补排。",
+      "files": [
+        "L275-rebooking/article.txt",
+        "L275-rebooking/article.xml",
+        "L275-rebooking/call-script.docx",
+        "L275-rebooking/publisher.pdf",
+        "L275-rebooking/publisher.txt",
+        "L275-rebooking/supplement-table.pdf",
+        "L275-rebooking/supplement-table.txt"
+      ],
+      "original_downloads": [
+        {
+          "path": "L275-rebooking/article.xml",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13422818/fullTextXML"
+        },
+        {
+          "path": "L275-rebooking/publisher.pdf",
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13422818.1/PMC13422818.1.pdf"
+        },
+        {
+          "path": "L275-rebooking/supplement-table.pdf",
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13422818.1/bmjoq-15-3-s001.pdf"
+        },
+        {
+          "path": "L275-rebooking/call-script.docx",
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13422818.1/bmjoq-15-3-s004.docx"
+        }
+      ]
+    },
+    {
+      "source_id": "L276",
+      "authors": "Choudhury et al.",
+      "title": "Medical handovers across shifts within a five-day-working model: results from an electronic handover system in an acute NHS trust",
+      "year": 2014,
+      "doi": "10.7861/futurehosp.14.023",
+      "source_url": "https://doi.org/10.7861/futurehosp.14.023",
+      "version_and_read_scope": "期刊PMC全文HTML，分配和完成定义、交班间隔、结果与局限。",
+      "role": "电子任务包及接收方报完，自报与实际履行分开。",
+      "files": [
+        "L276-handover/article.html",
+        "L276-handover/article.txt"
+      ],
+      "original_downloads": [
+        {
+          "path": "L276-handover/article.html",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6438229/?report=xml"
+        }
+      ]
+    },
+    {
+      "source_id": "L277",
+      "authors": "Kachel, Svetlova & Tomasello",
+      "title": "Three- and 5-year-old children’s understanding of how to dissolve a joint commitment",
+      "year": 2019,
+      "doi": "10.1016/j.jecp.2019.03.008",
+      "source_url": "https://doi.org/10.1016/j.jecp.2019.03.008",
+      "version_and_read_scope": "作者机构存档期刊版，方法、图3、附录表A1及抗议样本。",
+      "role": "已击掌且开始举筒，比较三种离开方式及儿童转入单人行动的等待；注明拒绝和未切换者。",
+      "files": [
+        "L277-dissolving/article.pdf",
+        "L277-dissolving/article.txt"
+      ],
+      "original_downloads": [
+        {
+          "path": "L277-dissolving/article.pdf",
+          "url": "https://sites.duke.edu/tomasellolabduke/files/2019/05/Kachel-U.-Svetlova-M.-Tomasello-M.-2019.pdf"
+        }
+      ]
+    }
+  ]
+}

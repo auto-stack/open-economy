@@ -1,0 +1,166 @@
+{
+  "date_local": "2026-11-13",
+  "scope": "All retained round52 files except this manifest itself",
+  "files": [
+    {
+      "path": "discovery/derex-pubmed.xml",
+      "bytes": 16365,
+      "sha256": "eb228658a754813b18e93d8cdeafbce26a8474bdc05253dcd4712326c69ed937"
+    },
+    {
+      "path": "discovery/open-01.json",
+      "bytes": 38057,
+      "sha256": "7df2bfc84dbe8f62c50882431620c9c2cd9eb40fe690495ac0d18a168748f729"
+    },
+    {
+      "path": "discovery/open-02.json",
+      "bytes": 15589,
+      "sha256": "fc7d0e1bf477348006b6c1f1b22c868bac50463c140f72d9e7de203444b2f082"
+    },
+    {
+      "path": "discovery/ostrom-native-attempt.json",
+      "bytes": 230,
+      "sha256": "301cc73decbe47ce3cf6e290277779fa6bf59f08e546d93554d3600402e1a714"
+    },
+    {
+      "path": "discovery/pubmed-records.xml",
+      "bytes": 48985,
+      "sha256": "3a03e370135028350ef0d6dfd0a89720a95ee18378a8744fbd07289aafe62cf0"
+    },
+    {
+      "path": "discovery/search-01.json",
+      "bytes": 34823,
+      "sha256": "76da5b7648092f3011f3b1fc25e5cd88e13b15cb52692ff00df82bbf71e99838"
+    },
+    {
+      "path": "discovery/search-02.json",
+      "bytes": 36365,
+      "sha256": "8fec7d3485b8b8502c84a20ca524a8200851bdeaf5bb19d35bdef6c11b4790b1"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 4806,
+      "sha256": "21bd1ec6a784370b45e61eed6d85679abeb6c94cbbe5e82563ed9dacd28a3ac7"
+    },
+    {
+      "path": "inspection/L229-lewontin-1970-p2.png",
+      "bytes": 176288,
+      "sha256": "943f8116894c1e2bb4a47a60467ea3b9bb3638f404abb3ac0945bfc40148e977"
+    },
+    {
+      "path": "inspection/L230-mesoudi-thornton-2018-p2.png",
+      "bytes": 204521,
+      "sha256": "01e42cfb1f6de54e3b038714a22aaad60fc5d5e60cab66590578ea415acc0f7b"
+    },
+    {
+      "path": "inspection/L232-ostrom-basurto-2011-p19.png",
+      "bytes": 110499,
+      "sha256": "d0761ac89959773b80aafd87ede535fd65895aa609b182bc5b6af95ab5e8abf1"
+    },
+    {
+      "path": "inspection/L232-ostrom-basurto-2011-p9.png",
+      "bytes": 115308,
+      "sha256": "2de8d0ec37ed431eff89522989467866a480d094e647466b919dd6c55101bcc8"
+    },
+    {
+      "path": "L179-boyd-richerson-henrich-2011/metadata.json",
+      "bytes": 1874,
+      "sha256": "e3637fd17df68ca587f4f176e6aa6604975ab9203de4f640d8976ffb24d99315"
+    },
+    {
+      "path": "L179-boyd-richerson-henrich-2011/original.html",
+      "bytes": 195759,
+      "sha256": "f97c0bee26319610a92a5c2c6ec636a1ac3fcb3bbf4945f6bd45305951acb77d"
+    },
+    {
+      "path": "L179-boyd-richerson-henrich-2011/original.txt",
+      "bytes": 63571,
+      "sha256": "3137536faac95491fc157202347bf87a8f9b7bd341735c38e87fcb1021d67d50"
+    },
+    {
+      "path": "L229-lewontin-1970/metadata.json",
+      "bytes": 1571,
+      "sha256": "4f540820497be9067370e6138ac2faa5912517d3aa215efc8aed9c1686245530"
+    },
+    {
+      "path": "L229-lewontin-1970/original.pdf",
+      "bytes": 656067,
+      "sha256": "d22118b64fd36839a1ae4ced0e022b9da29f5fdb44d6276537f7c9ea698861f2"
+    },
+    {
+      "path": "L229-lewontin-1970/original.txt",
+      "bytes": 57324,
+      "sha256": "5eebeb6f9514375459e233ab1ddb3199ba65b78968c91503269f921d9aa2ea3d"
+    },
+    {
+      "path": "L230-mesoudi-thornton-2018/metadata.json",
+      "bytes": 1663,
+      "sha256": "786d8e4147dafedfcea355f526fa9dcc50f1df00b30bb137beed183eafa2f9b2"
+    },
+    {
+      "path": "L230-mesoudi-thornton-2018/original.pdf",
+      "bytes": 347569,
+      "sha256": "167a10836751ab0365ca4374a61b737fab93ca0b8cad8e30b43ceef44b8838ff"
+    },
+    {
+      "path": "L230-mesoudi-thornton-2018/original.txt",
+      "bytes": 53444,
+      "sha256": "571ec2a3d990c49f9751f60f902098c4f5cbbe0f145a58ba653fe07fa1697bd5"
+    },
+    {
+      "path": "L231-derex-boyd-2016/metadata.json",
+      "bytes": 1810,
+      "sha256": "d36cba7091bf978abc83b61e067c12e3d87b5ec75a6c688b83b4598542014118"
+    },
+    {
+      "path": "L231-derex-boyd-2016/original.html",
+      "bytes": 163653,
+      "sha256": "6ab5a9b9508638cfe3f217ecead7376aab1af96a44fa212b49855acffcf78ff4"
+    },
+    {
+      "path": "L231-derex-boyd-2016/original.txt",
+      "bytes": 41731,
+      "sha256": "d533799fa7a4d561ebf8f8d0fa01feed28eeaf23ea191c21152246393e1a6ea3"
+    },
+    {
+      "path": "L232-ostrom-basurto-2011/metadata.json",
+      "bytes": 1682,
+      "sha256": "bf6adb9091f8d5095c7a64eb240143153c202d8e55af523396294b09a946828d"
+    },
+    {
+      "path": "L232-ostrom-basurto-2011/original.pdf",
+      "bytes": 230142,
+      "sha256": "536eaf160b2718b09609fc55efbb62ba13c0f6e95630e6ea6ccdbbf437b48bb0"
+    },
+    {
+      "path": "L232-ostrom-basurto-2011/original.txt",
+      "bytes": 88186,
+      "sha256": "c651f0bc9eb23c374c9633e3a7bae1a5ab53c1c212b547ce2445f6ee0a881b72"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 763,
+      "sha256": "d6703b6bd26fee48a0d8b365d5d4105afce574cdbee50baeb9cd934e8130f74b"
+    },
+    {
+      "path": "read-scope-extension.json",
+      "bytes": 774,
+      "sha256": "ac46db38b0fdcc4d4618595254c924a90bcbcb9c7a7be439eca493bc1f257432"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2718,
+      "sha256": "293e82e29f81222d4d1dc0f888a2c9ae7fc05643e528fd0bcdb7188360eb2c03"
+    },
+    {
+      "path": "response-classification.json",
+      "bytes": 3300,
+      "sha256": "9d6bfe648ed594579466921860cd937cc82c173f5cb5600182936839a822f765"
+    },
+    {
+      "path": "source-reuse.json",
+      "bytes": 1654,
+      "sha256": "777736990cdf904f6ef340babfd21cd5746c143b8097174c5b5673a4747174e2"
+    }
+  ]
+}

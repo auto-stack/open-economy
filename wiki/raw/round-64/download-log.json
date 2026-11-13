@@ -1,0 +1,109 @@
+[
+  {
+    "path": "L272-trust/article.pdf",
+    "url": "https://cowles.yale.edu/sites/default/files/2023-02/mic.20200049.pdf",
+    "bytes": 656055,
+    "sha256": "2340cd58ea4284b1ab21e9deffa7e931c190df49e5dd985b9a457b4e56e0abc7",
+    "retrieved_utc": "2026-11-13T13:04:39.167856+00:00"
+  },
+  {
+    "requested": "L273-renegotiation/article.pdf",
+    "url": "https://cris.maastrichtuniversity.nl/files/72449826/riedl_2006_breach_remedies_reliance_and_renegotiation.pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://cris.maastrichtuniversity.nl/files/72449826/riedl_2006_breach_remedies_reliance_and_renegotiation.pdf"
+  },
+  {
+    "requested": "L274-notice/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5130951/fullTextXML",
+    "error": "HTTPError 500 Server Error:  for url: https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5130951/fullTextXML"
+  },
+  {
+    "path": "L275-rebooking/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13422818/fullTextXML",
+    "bytes": 89924,
+    "sha256": "0c8960784f6dabff9784856922bdcbb6c1bfb0b8e253d3a7ff4412c6494f8121",
+    "retrieved_utc": "2026-11-13T13:04:43.158730+00:00"
+  },
+  {
+    "requested": "L276-handover/article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6438229/fullTextXML",
+    "error": "HTTPError 500 Server Error:  for url: https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6438229/fullTextXML"
+  },
+  {
+    "requested": "L275-rebooking/article.pdf",
+    "url": "https://bmjopenquality.bmj.com/content/bmjqir/15/3/e003774.full.pdf",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://bmjopenquality.bmj.com/content/bmjqir/15/3/e003774.full.pdf"
+  },
+  {
+    "path": "L277-dissolving/article.pdf",
+    "url": "https://sites.duke.edu/tomasellolabduke/files/2019/05/Kachel-U.-Svetlova-M.-Tomasello-M.-2019.pdf",
+    "bytes": 843119,
+    "sha256": "7af6bd82dbeb4d53205e7c0c18b2964b54e854ce9bbe4f0782e9f4a16b92202d",
+    "retrieved_utc": "2026-11-13T13:04:53.155603+00:00"
+  },
+  {
+    "path": "L273-renegotiation/article.pdf",
+    "url": "https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/72449826/riedl_2006_breach_remedies_reliance_and_renegotiation.pdf",
+    "bytes": 1139604,
+    "sha256": "988ed9b72fa34db05b0964041d5cdd0bc97e7347e34613b0b9b014e1a36d44a1",
+    "retrieved_utc": "2026-11-13T13:06:56.810334+00:00"
+  },
+  {
+    "path": "L274-notice/article.html",
+    "url": "https://link.springer.com/article/10.1007/s11606-016-3813-0",
+    "bytes": 448310,
+    "sha256": "c565c5e6d3a9836543ad0f69f996dc7e035980d0570891b5fabeb13d2f16de9a",
+    "retrieved_utc": "2026-11-13T13:06:46.049553+00:00"
+  },
+  {
+    "requested": "L276-handover/article.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6438229/",
+    "error": "AssertionError "
+  },
+  {
+    "path": "L272-trust/package-metadata.json",
+    "url": "https://api.datacite.org/dois/10.3886/E118729V1",
+    "bytes": 8214,
+    "sha256": "52f40db6cbce1f4a1f37559d6b732de829cdc7879e46ca4600370209a0614c52",
+    "retrieved_utc": "2026-11-13T13:06:44.559661+00:00"
+  },
+  {
+    "requested": "L272-trust/replication.zip",
+    "url": "https://www.openicpsr.org/openicpsr/project/118729/version/V1/download/project",
+    "error": "HTTPError 403 Client Error: Forbidden for url: https://www.openicpsr.org/openicpsr/project/118729/version/V1/download/project"
+  },
+  {
+    "path": "L272-trust/appendix.pdf",
+    "url": "https://www.aeaweb.org/articles/materials/17103",
+    "bytes": 549763,
+    "sha256": "bbf1661c17d712d00c9e57b64ee72cbd9914c478393e3048de79a8282df9c624",
+    "retrieved_utc": "2026-11-13T13:07:14.544544+00:00"
+  },
+  {
+    "path": "L275-rebooking/publisher.pdf",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13422818.1/PMC13422818.1.pdf",
+    "bytes": 1275463,
+    "sha256": "7c08560d715fa189253367ba07de74be023f6183fe216889d9a064a245b0f919",
+    "retrieved_utc": "2026-11-13T13:08:24.403576+00:00"
+  },
+  {
+    "path": "L276-handover/article.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6438229/?report=xml",
+    "bytes": 154437,
+    "sha256": "b4ad977bb7a9fddc9341b5a359c176c2836a2fe9ea812e6fd50d2beef87b41bb",
+    "retrieved_utc": "2026-11-13T13:10:19.887612+00:00"
+  },
+  {
+    "path": "L275-rebooking/supplement-table.pdf",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13422818.1/bmjoq-15-3-s001.pdf",
+    "bytes": 202104,
+    "sha256": "dd199b612dd8baf61306b664f42b92613edf2fd485b72637152657af1210d51a",
+    "retrieved_utc": "2026-11-13T13:12:24.228364+00:00"
+  },
+  {
+    "path": "L275-rebooking/call-script.docx",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13422818.1/bmjoq-15-3-s004.docx",
+    "bytes": 16567,
+    "sha256": "955e601836f34210f813a958a2a73c0e139e5185bb469c0d5a62f551e13af581",
+    "retrieved_utc": "2026-11-13T13:12:10.473824+00:00"
+  }
+]

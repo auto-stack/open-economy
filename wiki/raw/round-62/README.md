@@ -1,0 +1,13 @@
+# 第62批　原计划落空之后
+
+2026年11月13日。五项原始研究对应第二部分第4章。此处保存实际采用的版本、作者开放数据与复核口径。个人目标与日记按作者原有字段读取，研究整理仅列汇总和书中使用的去身份化实例。[2026资料综述第四版](../../../research/surveys/01-organization-maintenance/human-regulation-and-action/review-2026.md#原计划与后续行动的同人追踪) · [书章](../../../book/part-02/04-goal-conflict-and-revision.md) · [六项核查](../../../book/argument-cards/part-02-04-goal-conflict-and-revision.md) · [来源元数据](metadata.json) · [下载记录](download-log.json) · [文件校验](manifest.json)
+
+| 来源、读取范围 | 本地原件与补充材料 | 采用与限制 |
+|---|---|---|
+| L262 Thorne等，2025。《Exploring goal change in everyday life》程序、图1–3、目标变化分类。期刊排印本页5–8 | [排印本文字](L262-goal-change/article-extracted.txt) · [双周随访问卷](L262-goal-change/osf/follow-up.pdf) · [旧目标与新目标配对表](L262-goal-change/osf/changed-goals.xlsx) · [作者分析输出](L262-goal-change/osf/results.html) · [期刊](https://doi.org/10.1177/27000710251347134) · [作者项目](https://osf.io/eab4m/) | 直接下载期刊PDF未成功。本地文字完整取自期刊PDF的可检索文本视图，另存基线及随访问卷原版PDF、分析计划、清理后数据与编码。图表版式可回看期刊。逐项复核改写类型与当事人对旧目标的陈述。 |
+| L263 Haas等，2026年6月5日在线。方法中Intention Diary、结果及表1 | [期刊全文](L263-intention-diary/article.html) · [表1](L263-intention-diary/table1.html) · [数据及字典](L263-intention-diary/osf/reasons.xlsx) · [作者分析脚本](L263-intention-diary/osf/analysis.R) · [期刊](https://doi.org/10.1186/s41235-026-00737-7) · [作者项目](https://osf.io/tu2dx/) | 表中每行是一项计划。对照完成标记、单选主因与独立的改期问题，按匿名标识汇总跨事项原因类别。缺少改期后再次执行的记录。 |
+| L264 Larcom、Rauch与Willems，2017。剑桥大学接受稿，第12–13、18–19页，框1、表IV | [全文](L264-london-strike/article.pdf) · [按页文字](L264-london-strike/article.txt) · [作者复核包](L264-london-strike/replication.zip) · [数据目录](L264-london-strike/dataverse.json) · [期刊](https://doi.org/10.1093/qje/qjx020) · [Harvard Dataverse](https://doi.org/10.7910/DVN/1HUQRM) | 复核包提供从交通卡资料加工而成的中间表与程序。按表IV脚本使用T4.dta；两种分组的换站差值可复现。接受稿同表列出的受影响者占比分别为0.42及0.22，与中间数据对应的55.6%及60.6%不同（依次按站点关闭、行为偏离排列）。无依据解释差异，书章不采用这两个占比。 |
+| L265 Stewart等，2021。方法中Google Calendar、Analysis，结果及图2 | [期刊全文XML](L265-planned-activity/article.xml) · [正文检索文字](L265-planned-activity/article-body.txt) · [Europe PMC记录](L265-planned-activity/epmc.json) · [期刊](https://doi.org/10.2196/17581) | 全文采用Europe PMC保存的JATS版本。123个合格观察日，核对30、12、3、9各自的窗口及分母。按论文结果取数，无腕部监测逐人数据复算。 |
+| L266 Friedman、Voichek与Dhar，2025年11月在线，2026年10月卷期。研究1A、表2，期刊页563–564、574 | [期刊排印PDF](L266-road-not-taken/article.pdf) · [按页文字](L266-road-not-taken/article.txt) · [研究1A数据](L266-road-not-taken/osf/study1a.xlsx) · [分析脚本](L266-road-not-taken/osf/study1a.R) · [期刊](https://doi.org/10.1093/jcr/ucaf063) · [作者项目](https://osf.io/qzgs5/) | 实际选择、两分钟任务与计酬来自研究1A。依作者规则统计两组换题人数。本轮没有将后续各子实验的意向或假想选择混入这一计数。 |
+
+[四组数据的字段、筛选及复核结果](crosscheck-metadata.json)分别记录L262已变化的目标对、L263次日事项、L264末日换站、L266单次任务选择。四个分母不可互换。全文可在本地阅读，具体复用和公开传播条件以各来源的许可为准。

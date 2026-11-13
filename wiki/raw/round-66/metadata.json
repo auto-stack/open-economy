@@ -1,0 +1,113 @@
+{
+  "round": 66,
+  "research_round": 71,
+  "date_local": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "L284",
+      "title": "Dynamics in motivations and reasons to quit in a Care Bank: a qualitative study in Belgium",
+      "authors": "Sarah Dury",
+      "year": "2018 (volume)",
+      "record_url": "https://doi.org/10.1007/s10433-017-0455-y",
+      "version": "University repository, accepted author manuscript",
+      "read_scope": "PDF 4–5, 8–16, 26 (Table 1)",
+      "role": "照护时间积分、出席与分期理由；表1不是个人积分或受益者结果。",
+      "files": [
+        "L284-care-bank/accepted.pdf",
+        "L284-care-bank/accepted.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L284-care-bank/accepted.pdf",
+          "url": "https://cris.vub.be/ws/portalfiles/portal/75911096/Accepted_version_Dynamics_in_motivations_and_reasons_to_quit_in_a_Care_Bank.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L285",
+      "title": "Volunteer Engagement and Retention among New and Past UK Mental Health Charity Helpline Volunteers: A Longitudinal Qualitative Study",
+      "authors": "Rosanna May Maletta, Victoria Vass, Eric Robinson",
+      "year": "2026",
+      "record_url": "https://doi.org/10.1017/S0957876526000719",
+      "version": "Publisher PDF and original supplementary tables",
+      "read_scope": "pp. 556–560; supplement S2–S5",
+      "role": "同人职业意向、工作方法与可行性变化；另一组离任者回顾转岗、排班。",
+      "files": [
+        "L285-helpline/article.pdf",
+        "L285-helpline/article.txt",
+        "L285-helpline/supplement.docx",
+        "L285-helpline/supplement.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L285-helpline/article.pdf",
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C99D672D5FB5FB168154DE0B8F305AD7/S0957876526000719a.pdf/div-class-title-volunteer-engagement-and-retention-among-new-and-past-uk-mental-health-charity-helpline-volunteers-a-longitudinal-qualitative-study-div.pdf"
+        },
+        {
+          "path": "L285-helpline/supplement.docx",
+          "url": "https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0957876526000719/resource/name/S0957876526000719sup001.docx"
+        }
+      ]
+    },
+    {
+      "source_id": "L286",
+      "title": "Prediction and Prevention of Premature Closures of Mentoring Relationships: The Study To Analyze Relationships (STAR Project)",
+      "authors": "Thomas E. Keller, Renée Spencer",
+      "year": "2017 (final report); 2018 (OJP receipt)",
+      "record_url": "https://www.ojp.gov/pdffiles1/ojjdp/grants/251463.pdf",
+      "version": "Final research report, 28 Nov 2017, NCJ 251463",
+      "read_scope": "printed pp. 23–25, 37–46, 47, 53–54",
+      "role": "一年承诺的不同理解、谁参加结案调查、谁作评价；不将专员预计的联系视为实现。",
+      "files": [
+        "L286-star/report.pdf",
+        "L286-star/report.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L286-star/report.pdf",
+          "url": "https://www.ojp.gov/pdffiles1/ojjdp/grants/251463.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L287",
+      "title": "Making a Difference: An Impact Study of Big Brothers Big Sisters",
+      "authors": "Joseph P. Tierney, Jean Baldwin Grossman, with Nancy L. Resch",
+      "year": "1995; September 2000 reissue",
+      "record_url": "https://www.ojp.gov/library/publications/making-difference-impact-study-big-brothersbig-sisters",
+      "version": "Public/Private Ventures reissue distributed via IssueLab",
+      "read_scope": "printed pp. 8–11, 18–19, 23–24, 29; Tables 2 and 11",
+      "role": "另一批青少年随机获得配对机会与候补；核青少年结果、个案员表的对象及随访。",
+      "files": [
+        "L287-bbbs/impact.pdf",
+        "L287-bbbs/impact.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L287-bbbs/impact.pdf",
+          "url": "https://www.issuelab.org/resources/11972/11972.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "L288",
+      "title": "The Biographical Consequences of Activism",
+      "authors": "Doug McAdam",
+      "year": "1989",
+      "record_url": "https://doi.org/10.2307/2117751",
+      "version": "Scan of American Sociological Review 54(5), pp. 744–760, with bibliographic cover; local OCR derivative",
+      "read_scope": "printed pp. 748–752; Table 2, p. 750 (PDF 8)",
+      "role": "申请、成行与事前撤回的长期去向；对照并非随机。",
+      "files": [
+        "L288-freedom-summer/follow-up.pdf",
+        "L288-freedom-summer/follow-up.txt"
+      ],
+      "downloads": [
+        {
+          "path": "L288-freedom-summer/follow-up.pdf",
+          "url": "https://mrtno.com/soc3/doc/10a-McAdam-BiographicalConsequences-ASR-89.pdf"
+        }
+      ]
+    }
+  ]
+}

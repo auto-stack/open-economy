@@ -1,0 +1,244 @@
+{
+  "date_local": "2026-11-13",
+  "scope": "Internal comparison of three structured explanation-recording conditions",
+  "passed": true,
+  "checks": [
+    {
+      "check": "Deterministic rerun in separate scratch directory matches final results",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "B/C use identical evidence bytes; index only reorganizes existing owner fields",
+      "passed": true,
+      "evidence": [
+        {
+          "noise": 0,
+          "B_C_byte_equal": true,
+          "same_semantic_index": true,
+          "auxiliary_records": 30,
+          "record_hash_matches": true
+        },
+        {
+          "noise": 20,
+          "B_C_byte_equal": true,
+          "same_semantic_index": true,
+          "auxiliary_records": 50,
+          "record_hash_matches": true
+        },
+        {
+          "noise": 100,
+          "B_C_byte_equal": true,
+          "same_semantic_index": true,
+          "auxiliary_records": 130,
+          "record_hash_matches": true
+        }
+      ]
+    },
+    {
+      "check": "No oracle labels embedded in conclusions/index or consulted by reader functions",
+      "passed": true,
+      "evidence": {
+        "author_blind": false,
+        "human_participants": 0,
+        "reader_uses_reference_answers": false
+      }
+    },
+    {
+      "check": "Seven questions: A2 resolved/5 abstentions; B/C7 resolved; exact locations0/3/3",
+      "passed": true,
+      "evidence": {
+        "A": {
+          "questions": 7,
+          "reference_decisions_resolved": 2,
+          "exact_error_locations": 0,
+          "error_location_tasks": 3,
+          "unsafe_acceptances_in_fixture": 0,
+          "abstentions_or_budget_stops": 5,
+          "cost": {
+            "conclusion_records": 7,
+            "evidence_records_read": 0,
+            "evidence_bytes_read": 0,
+            "index_lookups": 0
+          }
+        },
+        "B": {
+          "questions": 7,
+          "reference_decisions_resolved": 7,
+          "exact_error_locations": 3,
+          "error_location_tasks": 3,
+          "unsafe_acceptances_in_fixture": 0,
+          "abstentions_or_budget_stops": 0,
+          "cost": {
+            "conclusion_records": 7,
+            "evidence_records_read": 250,
+            "evidence_bytes_read": 27355,
+            "index_lookups": 0
+          }
+        },
+        "C": {
+          "questions": 7,
+          "reference_decisions_resolved": 7,
+          "exact_error_locations": 3,
+          "error_location_tasks": 3,
+          "unsafe_acceptances_in_fixture": 0,
+          "abstentions_or_budget_stops": 0,
+          "cost": {
+            "conclusion_records": 7,
+            "evidence_records_read": 22,
+            "evidence_bytes_read": 2402,
+            "index_lookups": 5
+          }
+        }
+      }
+    },
+    {
+      "check": "Reported read costs include separate index preparation and initialization",
+      "passed": true,
+      "evidence": {
+        "preparation": {
+          "record_inspections": 50,
+          "index_entries_written": 50,
+          "read_bytes": 5471
+        },
+        "initialization": {
+          "index_file_bytes_loaded_once": 4405,
+          "snapshot_bytes_verified_once": 5471,
+          "not_included_in_per_question_record_counts": true
+        },
+        "storage": {
+          "A_conclusions": 2080,
+          "B_conclusions_plus_materials": 7551,
+          "C_conclusions_materials_index": 11956
+        }
+      }
+    },
+    {
+      "check": "B can self-organize the same index and achieve the same subsequent costs",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Read-budget and hypothetical write-cost sensitivity claims match output",
+      "passed": true,
+      "evidence": {
+        "weights_are_assumptions": true,
+        "human_time_measured": false
+      }
+    },
+    {
+      "check": "Misassigned relation can hide conflict despite intact files and complete ID coverage",
+      "passed": true,
+      "evidence": {
+        "injected_error": true,
+        "frequency_estimated": false,
+        "refresh_cost": {
+          "record_inspections": 50,
+          "index_entries_written": 50,
+          "read_bytes": 5471
+        }
+      }
+    },
+    {
+      "check": "Actual changed snapshot rejected before any indexed application verdict",
+      "passed": true,
+      "evidence": {
+        "changed_snapshot_detected": true,
+        "action": "stop before indexed lookup; no application verdict",
+        "verification_bytes": 5573,
+        "lookup_not_executed": true
+      }
+    },
+    {
+      "check": "Corrected curve check does not extrapolate to an uninspected point",
+      "passed": true,
+      "evidence": "uninspected-point"
+    },
+    {
+      "check": "Initial protocol/run preserved; questions and reference decisions not changed after first run",
+      "passed": true,
+      "evidence": {
+        "post_run_scope_and_cost_amendment": true,
+        "amendment_disclosed": true
+      }
+    },
+    {
+      "check": "Round48 manifest matches exact archive bytes and complete file coverage",
+      "passed": true,
+      "evidence": {
+        "files": 26,
+        "errors": []
+      }
+    },
+    {
+      "check": "Frozen internal materials match research artifacts exactly",
+      "passed": true,
+      "evidence": {
+        "files": 22
+      }
+    },
+    {
+      "check": "Six existing literature sources / seven originals reused, no new network requests or IDs",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Review0.1 preserved exactly;0.2 provenance matches current document",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Authored document links resolve; frozen originals retain source-relative context",
+      "passed": true,
+      "evidence": {
+        "links": 963,
+        "errors": []
+      }
+    },
+    {
+      "check": "13 drafted units and13 cards; remaining15 unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Earlier chapter bodies unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Formal79 register, earlier information review and source ZIP preserved",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Framework tag remains unchanged",
+      "passed": true,
+      "evidence": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d"
+    },
+    {
+      "check": "Historical baseline preserved: docs/charter.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Historical baseline preserved: wiki/archive/source-package-manifest.json",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "current_output_sha256": {
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13/compare.py": "4ee383f89aaa4085659bca2ed9ac711de6b3bef394fcee0f50e026de4e9736fe",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13/results.json": "cc004e83fa14526366f4395f9259f3192fef9989c9baa50182f1212daf4188d1",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13/protocol.md": "e494844cdf6cd12688ae4106f1ba2fdf2dbdedd64bc3fc12b5d3943990881d23",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/internal-comparison-2026-11-13/amendment.md": "f55e426538cc3899ec8526d29a0a1474d78d754ee6d602bd728f3f98dcd9efc3",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md": "901d1e12658f00db109d630425646e1f1feef5550f70706ffaa0218d8fdd8bdc",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/version-provenance.json": "e7f136e8d8c408a81f5455cda35d6fc2a8ca5be00931f24416239eab685956f8",
+    "wiki/raw/round-48/manifest.json": "4eb1a69849508ef6f086fa248863db0644045b6b5f3e9374a0e8b041a8f461bf"
+  },
+  "limitations": [
+    "Synthetic tasks, explicit semantic rules, known reference decisions; no independent human test.",
+    "Record and byte accounting is a conditional model; no measured human labor, fees or productivity.",
+    "Association creation from natural language was not measured; B and C already share owner metadata.",
+    "Old revision-bound audit receipts not rerun or rewritten. No Git commit, tag, push or ZIP rebuild."
+  ]
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "path": "after/research/reviews/12-reading-notes.md",
+    "bytes": 10227,
+    "sha256": "ea29d424d72c9a4961083f820b6b083d3222bc82f659c665909be34b491ba214"
+  },
+  {
+    "path": "after/research/surveys/04-influence-and-social-equivalence/art-sport-and-cultural-influence.md",
+    "bytes": 11872,
+    "sha256": "07f2e06d74c739f4028dc74e06b4d18055f654919c90fa1b378c8b0881f7765c"
+  },
+  {
+    "path": "after/research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+    "bytes": 5519,
+    "sha256": "2632a33dfe8c5b404e7c5aa446bb1bffbcbb90a97cf27d1f3f6f98b85d5fb101"
+  },
+  {
+    "path": "before/research/reviews/12-reading-notes.md",
+    "bytes": 9808,
+    "sha256": "0e94e475a93bb6ab834e3f4f7151679b71e19e2bb00558a271f4fa77d71eb159"
+  },
+  {
+    "path": "before/research/surveys/04-influence-and-social-equivalence/art-sport-and-cultural-influence.md",
+    "bytes": 11410,
+    "sha256": "71c6f6416cba437dc67caf0cdafc45c9f3344ceb5d1496f888de7c251147c660"
+  },
+  {
+    "path": "before/research/surveys/04-influence-and-social-equivalence/cultural-reading-notes.md",
+    "bytes": 4887,
+    "sha256": "cb872dd68f7de57eb2686b7adaed70091b324f8c9fdc3017b38c429a11efafdf"
+  },
+  {
+    "path": "before-state.json",
+    "bytes": 887,
+    "sha256": "6aa6302c90ffc7d0fad7729ab1cd5056f1c7d6c3da987388587530aed6feb2fc"
+  },
+  {
+    "path": "discovery/open-01.json",
+    "bytes": 10184,
+    "sha256": "df5c81cf68a5a280b3b5b67a2d829d17e0421f00e0f37dcd85826ee8030cd976"
+  },
+  {
+    "path": "discovery/search-01.json",
+    "bytes": 32602,
+    "sha256": "8d42e5f363902610dfe61210ad70b9bbd9a05d9e69776414daab89b4fd462d53"
+  },
+  {
+    "path": "download-log.json",
+    "bytes": 1326,
+    "sha256": "0cdff15ec62e1ca84bbd91b40a555437782736a267bcc8444760101f4e8210ec"
+  },
+  {
+    "path": "format/source-check-format.md",
+    "bytes": 2710,
+    "sha256": "43571ca7e687dfb111a916b8ba951c90610dacbe127a1a331b20a6048edf032f"
+  },
+  {
+    "path": "inspection/L160-pdf2.png",
+    "bytes": 83387,
+    "sha256": "3822b48692c65e939c962153bd439b4e59d9aa136c147703a3b2d4f3a2104821"
+  },
+  {
+    "path": "inspection/L161-pdf16.png",
+    "bytes": 107641,
+    "sha256": "6cc86aed850412c45a3088ae2010664219db06a56acd04b8fbfc89774c4c914d"
+  },
+  {
+    "path": "inspection/L162-pdf10.png",
+    "bytes": 133563,
+    "sha256": "a7c060d11ff871ce81c0153d5b638c5d5026ab64a48deeaec292d36419d165dd"
+  },
+  {
+    "path": "inspection/L162-pdf17.png",
+    "bytes": 115637,
+    "sha256": "a9c920e5843f8e5ee9b78b6744c73bfa23d05fb8bc42d6168c91edf3912dd17b"
+  },
+  {
+    "path": "inspection/L58-pdf23.png",
+    "bytes": 193423,
+    "sha256": "dcffd5cf04c94bcfed49c417ebcfac24f27ccc6cadca1e04dce199232427f125"
+  },
+  {
+    "path": "inspection/L58-pdf45.png",
+    "bytes": 177591,
+    "sha256": "b4b1f04bcb6e4c728221ac48474d20f8b6816eb6d66ec98f2c0dacc6169d280c"
+  },
+  {
+    "path": "metadata.json",
+    "bytes": 2831,
+    "sha256": "aa2d28f445dcf1b29344397f760efec4f2af84c94c4a20adcd1ec4d8f37d82fe"
+  },
+  {
+    "path": "read-scope-extension.json",
+    "bytes": 1033,
+    "sha256": "62b2f55858c8e26046cdf6d4c7e9750a0458198a2fc9cc6b3f1d25338d138189"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2046,
+    "sha256": "874a240e0c6c8e35b2e45e252a7eacbd7eb095fd2b9fd1a50b1b347f9f64d469"
+  },
+  {
+    "path": "records/aea-article.html",
+    "bytes": 31363,
+    "sha256": "48bf6a58af14ee1bd662743366abe45d605c5b91a57d23434b724326dfae0014"
+  },
+  {
+    "path": "records/econstor-193.html",
+    "bytes": 7874,
+    "sha256": "9da98a52504b62f564e0caec11a95088f56b88b7c131822bfdc87aa5a929a667"
+  },
+  {
+    "path": "records/econstor-194.html",
+    "bytes": 7874,
+    "sha256": "ad385a6c8b9c6715cc25a884047b3807eb4dbf1225ff42109266df36f2033891"
+  },
+  {
+    "path": "records/metadata.json",
+    "bytes": 490,
+    "sha256": "c3c6ba4f615e2dfdcf0a9441a7caca7bf7942ae9cc4d63efdff1200b7736ef19"
+  },
+  {
+    "path": "response-classification.json",
+    "bytes": 1247,
+    "sha256": "aa73fb9df17db93dc2f8fd54bd2f4618d979ffdc329753451cc5a556ea7e1efe"
+  },
+  {
+    "path": "source-reuse.json",
+    "bytes": 4466,
+    "sha256": "f8f86e2c2db3fdf6dbc6d38d7d9f344e1777e03e08f1505bc65981449ad492d6"
+  },
+  {
+    "path": "trial-records/case-01-preferences-and-beliefs.md",
+    "bytes": 3374,
+    "sha256": "718cf36cb3b04cd191ab4d7c7f300e157ae971b6711f47e0df2128db7c4ced43"
+  },
+  {
+    "path": "trial-records/case-02-football-and-conflict.md",
+    "bytes": 4389,
+    "sha256": "7cd8c886671349bca07c46c4984b69ced9e92fc481d628e29144c800cbd92546"
+  },
+  {
+    "path": "trial-records/cases.json",
+    "bytes": 9132,
+    "sha256": "8e45e9b5a58a42e082421dedcbf4fa471b1f99515ab0bb964579398b065cc5e3"
+  },
+  {
+    "path": "trial-records/protocol.md",
+    "bytes": 1458,
+    "sha256": "b1a2ee667bda33c9d3525598f0b41802ddb1fcbf3391fe25aeed1f22698db782"
+  },
+  {
+    "path": "trial-records/README.md",
+    "bytes": 1929,
+    "sha256": "119ad57f5e06031dde3e7c3727a9ecb3206b5e0c93b4906ceb4097b2cd4ecdfc"
+  }
+]

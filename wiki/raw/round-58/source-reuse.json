@@ -1,0 +1,269 @@
+{
+  "path_base": "wiki/raw/round-58",
+  "sources": [
+    {
+      "source_id": "L09",
+      "claim_groups": [
+        "C1"
+      ],
+      "read_scope": "PDF第4、15–17页",
+      "source_metadata": "../round-02/L09-wimsatt/metadata-uchicago.json",
+      "artifacts": [
+        {
+          "path": "../round-02/L09-wimsatt/original-uchicago.pdf",
+          "bytes": 303557,
+          "sha256": "67556a39f49e0b7d042bbc8fc050a77f9ba22875780e44818877f05f5898d4a0"
+        }
+      ]
+    },
+    {
+      "source_id": "L234",
+      "claim_groups": [
+        "C3"
+      ],
+      "read_scope": "职权、2019年首届选举、受委托者接受PEP 602的首封公告",
+      "source_metadata": "../round-53/L234-python-succession/metadata.json",
+      "artifacts": [
+        {
+          "path": "../round-53/L234-python-succession/pep-8016.html",
+          "bytes": 28127,
+          "sha256": "ccb6626e56295a26a8ac3855ea739e8f4521276613f88ff3d246b9073fdead5e"
+        },
+        {
+          "path": "../round-53/L234-python-succession/pep-8100.html",
+          "bytes": 27738,
+          "sha256": "082e01ed92c867936ec8f93e22884218fc96d0eb58e5509ea0dce4be4b568c1d"
+        },
+        {
+          "path": "../round-53/L234-python-succession/acceptance.html",
+          "bytes": 110938,
+          "sha256": "c83f6e7b049af1947300ee50c3a381b6e78e61d8397ba758b9bedf90036eaba6"
+        }
+      ]
+    },
+    {
+      "source_id": "L240",
+      "claim_groups": [
+        "C4",
+        "C5"
+      ],
+      "read_scope": "实验1、2及总讨论、图3A、补充表S2四张实验表",
+      "source_metadata": "../round-55/L240-wisdom-dyads/metadata.json",
+      "artifacts": [
+        {
+          "path": "../round-55/L240-wisdom-dyads/article.jats.xml",
+          "bytes": 161370,
+          "sha256": "c9faf1643608f95477f636e41b2ff9b1b59f35a24a1ec66e9b2357c960cf331d"
+        },
+        {
+          "path": "../round-55/L240-wisdom-dyads/gr3.jpg",
+          "bytes": 36508,
+          "sha256": "fd0ba60a12b412a30667cb129ef8f186882e25d729ff6bc754496aa87409ddf9"
+        },
+        {
+          "path": "../round-55/L240-wisdom-dyads/mmc2.xlsx",
+          "bytes": 3078309,
+          "sha256": "2bd19b101608ebd2d212327f2809f404bd960191bbb393f2e930c90f2d2d6842"
+        }
+      ]
+    },
+    {
+      "source_id": "L243",
+      "claim_groups": [
+        "C6",
+        "C7"
+      ],
+      "read_scope": "独立与共控设计、图2b源数据、20对搭档行为数据及控制规则",
+      "source_metadata": "../round-57/L243-painter/metadata.json",
+      "artifacts": [
+        {
+          "path": "../round-57/L243-painter/article.jats.xml",
+          "bytes": 171858,
+          "sha256": "2d29bdcb362e9fe6c6a32040a3986232ea3395a9c0be393dbea790a7d612d60a"
+        },
+        {
+          "path": "../round-57/L243-painter/joint_action.m",
+          "bytes": 44206,
+          "sha256": "9c95d22972cd6d5bf64b18f252a7e30b96d9fc13337a9da16c071ff6d3debc24"
+        },
+        {
+          "path": "../round-57/L243-painter/Fig. 2b.csv",
+          "bytes": 4514,
+          "sha256": "4367bf88c191d74e1700839c9cfb7629484022f7d1947bbd1a64013ff23e8710"
+        },
+        {
+          "path": "../round-57/L243-painter/S10-behave.mat",
+          "bytes": 10910260,
+          "sha256": "ca18d8e860850af558db32f3e6cf371dbc35cc2d331681ae361ebe3016913420"
+        },
+        {
+          "path": "../round-57/L243-painter/S11-behave.mat",
+          "bytes": 10704109,
+          "sha256": "bc5cd2d8c0166397c3d8a25e65a4adf1621c0981d755f7ed46bf58dedd8f5b0b"
+        },
+        {
+          "path": "../round-57/L243-painter/S12-behave.mat",
+          "bytes": 11268140,
+          "sha256": "e0bd53738fc000e8c0c07178e5a74f66a29e93e6559276bfc762c837099b51f2"
+        },
+        {
+          "path": "../round-57/L243-painter/S13-behave.mat",
+          "bytes": 11348067,
+          "sha256": "239611cd83fe05bf8924411069e0f756706334f1212a9185a4d23a3a565b4295"
+        },
+        {
+          "path": "../round-57/L243-painter/S14-behave.mat",
+          "bytes": 12256262,
+          "sha256": "3ea689526df41681a60d7b399b346d18fb96c12d76bb51ee62bd74a1550fc781"
+        },
+        {
+          "path": "../round-57/L243-painter/S15-behave.mat",
+          "bytes": 11520540,
+          "sha256": "ebe61d9dc97059d4d89e49fdf08e62deb8ee57ab34f70d9c829d68369c7759c2"
+        },
+        {
+          "path": "../round-57/L243-painter/S16-behave.mat",
+          "bytes": 11929429,
+          "sha256": "36f989bd7eb977eea46b5d70dc69731b81597cc6832d027414197afcd5cb4aed"
+        },
+        {
+          "path": "../round-57/L243-painter/S17-behave.mat",
+          "bytes": 11661210,
+          "sha256": "2e9764ef9e00c6a66dcb6a9eead977e0136bbe668db11286c3551eedbb7e1008"
+        },
+        {
+          "path": "../round-57/L243-painter/S18-behave.mat",
+          "bytes": 11453078,
+          "sha256": "32c2f2848fe207d93eaf61df4fa08c17ca90054815efc8f9d3ad22798768a190"
+        },
+        {
+          "path": "../round-57/L243-painter/S19-behave.mat",
+          "bytes": 11334961,
+          "sha256": "8cc1a60e76ddc068c6851a26c597ebfd0ea8368a8fe55bbfdf3f88c758bbb656"
+        },
+        {
+          "path": "../round-57/L243-painter/S2-behave.mat",
+          "bytes": 10407523,
+          "sha256": "cc73171296f9bbd67ad7b7f077bf7a2bdfe6bedc9cc6506d14ffc9e39592d2ca"
+        },
+        {
+          "path": "../round-57/L243-painter/S21-behave.mat",
+          "bytes": 11463372,
+          "sha256": "21f926b4ec5ce19dec88bdcace7a39cbb0886b07aa1ba6444c8095727376dd55"
+        },
+        {
+          "path": "../round-57/L243-painter/S22-behave.mat",
+          "bytes": 11235908,
+          "sha256": "63eeaa9105da4e1d64550f3e938f03089f577a66741ce5fbccc180249318343f"
+        },
+        {
+          "path": "../round-57/L243-painter/S23-behave.mat",
+          "bytes": 10268665,
+          "sha256": "b02c0d83cf4130da9f4393b195ea8be237fba8569d7e44965f31f28d86c966aa"
+        },
+        {
+          "path": "../round-57/L243-painter/S3-behave.mat",
+          "bytes": 10641686,
+          "sha256": "81cdeb87eb6fb89a52fe902669a20dd9e75f3c753da3c4f62399facb4e3f696e"
+        },
+        {
+          "path": "../round-57/L243-painter/S5-behave.mat",
+          "bytes": 10690621,
+          "sha256": "6ec5cc3f89c2d85b2714033b1581a363af1502166cc23609ffe54c49074ce48c"
+        },
+        {
+          "path": "../round-57/L243-painter/S6-behave.mat",
+          "bytes": 11992226,
+          "sha256": "af56bff8b9cdeb734d27f3e4f59c9b84a2c2c64b9b8730df35f3a97e4c14563b"
+        },
+        {
+          "path": "../round-57/L243-painter/S7-behave.mat",
+          "bytes": 12892547,
+          "sha256": "118214307b7492f9ea235d21cd44732a28336deda9602a39eea7ffc0a02f3a36"
+        },
+        {
+          "path": "../round-57/L243-painter/S8-behave.mat",
+          "bytes": 11399946,
+          "sha256": "eba307f1c46144cc9196db15193f1f0406be94b85b57e0502ec2c78c0bf3438e"
+        },
+        {
+          "path": "../round-57/L243-painter/S9-behave.mat",
+          "bytes": 10853054,
+          "sha256": "c3fed48e361bbdfaeae388fc578c15341f6f1dd123df5d7379ecb997518c0d46"
+        }
+      ]
+    },
+    {
+      "source_id": "L242",
+      "claim_groups": [
+        "C8"
+      ],
+      "read_scope": "触觉实时、轨迹和力回放的设计，表1、图2及补充图",
+      "source_metadata": "../round-57/L242-ganesh/metadata.json",
+      "artifacts": [
+        {
+          "path": "../round-57/L242-ganesh/article.jats.xml",
+          "bytes": 86425,
+          "sha256": "d846c7481784273fc72f340977230e6148a68e7dd95aa9cf877df197c30252a5"
+        },
+        {
+          "path": "../round-57/L242-ganesh/supplement.pdf",
+          "bytes": 473737,
+          "sha256": "d9092de321399775f2ba31178beb5b307ae766ac0c7802c00348045261953cd6"
+        }
+      ]
+    }
+  ],
+  "project_materials": [
+    {
+      "claim_groups": [
+        "C2"
+      ],
+      "path": "../../../research/examples/organization-relays.json",
+      "bytes": 2741,
+      "sha256": "1f8f29639412f3ce60d7f3b287ac236feb3be3bd61c3a03702aaf03f8b938dd8"
+    },
+    {
+      "claim_groups": [
+        "C5"
+      ],
+      "path": "../../../research/surveys/01-organization-maintenance/relational-organization-and-boundaries/dyad-comparison-protocol.md",
+      "bytes": 3291,
+      "sha256": "020900636af8a2f886f24aee57f7518ad11e4fd1149b3b774d9bcb593626f4ac"
+    },
+    {
+      "claim_groups": [
+        "C5"
+      ],
+      "path": "../round-56/trial-pairing.tsv",
+      "bytes": 279147,
+      "sha256": "7a440d07395acddfd3c53bb33151778275e8ee52bba5e05ad2a5a02aee92a29a"
+    },
+    {
+      "claim_groups": [
+        "C5"
+      ],
+      "path": "../round-56/comparison-results.json",
+      "bytes": 90374,
+      "sha256": "f61df63aec31223e2313cd84d48062b27bd006123408c6ab5e89aea60f89817f"
+    },
+    {
+      "claim_groups": [
+        "C6",
+        "C7"
+      ],
+      "path": "../round-57/painter-comparison.json",
+      "bytes": 45456,
+      "sha256": "ec56a676fe9fddca3917ff5ed9d9ed1d0f709206ee6f1c1cb1984eaa63383145"
+    },
+    {
+      "claim_groups": [
+        "C7",
+        "C8"
+      ],
+      "path": "../../../research/surveys/01-organization-maintenance/relational-organization-and-boundaries/live-control-and-replay.md",
+      "bytes": 12095,
+      "sha256": "2785aa0eaee0accdc2748b663f32ffb5d9bf73e5ad1eb72cb3c5bf0e0b09857a"
+    }
+  ]
+}

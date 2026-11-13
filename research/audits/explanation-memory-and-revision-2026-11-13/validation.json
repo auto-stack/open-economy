@@ -1,0 +1,179 @@
+{
+  "date_local": "2026-11-13",
+  "scope": "First research round for manuscript unitP1.4",
+  "passed": true,
+  "checks": [
+    {
+      "check": "Round47 manifest covers all archived files and exact bytes",
+      "passed": true,
+      "evidence": {
+        "files": 35,
+        "errors": []
+      }
+    },
+    {
+      "check": "13 acquisition requests; 10 expected responses; 3 failures retained and not adopted",
+      "passed": true,
+      "evidence": [
+        {
+          "path": "L228-nosek-et-al-2018/bioc.xml",
+          "http_status": 200,
+          "expected_content": false
+        },
+        {
+          "path": "L228-nosek-et-al-2018/original.pdf",
+          "http_status": 403,
+          "expected_content": false
+        },
+        {
+          "path": "L228-nosek-et-al-2018/publisher.pdf",
+          "http_status": 403,
+          "expected_content": false
+        }
+      ]
+    },
+    {
+      "check": "Four adopted primary documents match metadata and targeted reading scopes",
+      "passed": true,
+      "evidence": [
+        {
+          "source_id": "L225",
+          "material": "original.pdf",
+          "sha256": "35648a3880bdd8bf30e8212a3847b7bd35f504ee5ccbd1ad3856d206acd181db",
+          "read_scope": "PDF1–3 targeted main text; focus rules1–5,7–10; PDF3 visually checked"
+        },
+        {
+          "source_id": "L226",
+          "material": "original.pdf",
+          "sha256": "cdddd9f4808f7e3e1f013139c3915ef4d7cdccb008fa947ef5f72b4c7b6ffde7",
+          "read_scope": "PDF1 introduction,3–4 machine actionability and principles,5 principles before implementation; examples only located; PDF4 visually checked"
+        },
+        {
+          "source_id": "L227",
+          "material": "bioc.xml",
+          "sha256": "30cbd23238a0f4e55dd1915243b8fe51f1c50855e2aa540c8c2181966a605237",
+          "read_scope": "Zero-based passages1,9,11,13–25,29,38–49 selected,53,55–58,63–78,82selected,97–103; formulas and external supplementary reports not independently checked"
+        },
+        {
+          "source_id": "L228",
+          "material": "original.html",
+          "sha256": "bee53e018b1ec7a9feb52ce8ac01894ed2baf09692573f1119ef4b1f09ecb7da",
+          "read_scope": "Abstract/introduction and HTML#s3,#s6,#s7,#s12,#s13,#s14,#s20; cited studies not independently reread"
+        }
+      ]
+    },
+    {
+      "check": "Two primary PDFs and one same-family addendum have correct page counts",
+      "passed": true,
+      "evidence": {
+        "L225-sandve-et-al-2013/original.pdf": 4,
+        "L226-wilkinson-et-al-2016/original.pdf": 9,
+        "L226-wilkinson-et-al-2016/addendum.pdf": 2
+      }
+    },
+    {
+      "check": "BioC and HTML are article bodies; failed BioC not counted as a full text",
+      "passed": true,
+      "evidence": {
+        "hardwicke_passages": 184,
+        "nosek_adopted": "PMC HTML"
+      }
+    },
+    {
+      "check": "Publication records distinguish FAIR addendum from Nosek comments/reply",
+      "passed": true,
+      "evidence": {
+        "nosek_link_types": {
+          "30341224": "CommentIn",
+          "30341225": "CommentIn"
+        }
+      }
+    },
+    {
+      "check": "L23/L47 reuse preserves originals and records L47 reading extension separately",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Finite example output reproducible and demonstrates the stated distinction",
+      "passed": true,
+      "evidence": {
+        "saved_result_sha256": "5a7a00ba9f92a37715afcbb00a1da22611498c03e9bafe9715a08fb2ee29aad7",
+        "empirical_data": false
+      }
+    },
+    {
+      "check": "Changed research/book navigation and reading-note links resolve",
+      "passed": true,
+      "evidence": {
+        "links": 950,
+        "errors": []
+      }
+    },
+    {
+      "check": "Research adds no complete manuscript or argument-card unit",
+      "passed": true,
+      "evidence": {
+        "drafts": 13,
+        "cards": 13,
+        "not_drafted": 15
+      }
+    },
+    {
+      "check": "Prior drafted chapters unchanged by this research round",
+      "passed": true,
+      "evidence": {
+        "book/part-01/02-entropy-information-and-ordo.md": "c09613d6a50285132b2c63706d5a14a16e6a2bb0446ae5bba3470abf51653c1b",
+        "book/part-01/03-inputs-maintenance-and-continuity.md": "e3d7af5cd79c32c3e4fcea2896636bffbed3eb69a9b0d192722c95f3e32de109",
+        "book/part-02/01-human-as-organization.md": "0846b0eb4f8d1eab7447054615e8b92019e311913a5cf9f76dfd2aa80b233a0f",
+        "book/part-02/04-goal-conflict-and-revision.md": "fb0b005ef21d6dd6c2eb9ec21791c0fd9c06776cc0f147c174f3f5c74e316bcd",
+        "book/part-03/02-revisable-shared-commitments.md": "952da1b5a180def63cb2a023b53a357d3a2a9b86f88c3ec73b40bb1f7bd05549"
+      }
+    },
+    {
+      "check": "Formal register, prior0.4 review and source package unchanged",
+      "passed": true,
+      "evidence": {
+        "shared/theory-register.md": "1fb0bfa5774904d09011e651f500f85b9ca8c632eeb52b4969a539d910f971e5",
+        "research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md": "eda4f4053413f6956c46f21559e93c99a5b9fa70864e84db92d84d7aaccd35af",
+        ".local-artifacts/open-economy-source-pack-2026-11-12.zip": "f0c5d85ff3b17254fca988964c47585a1e5ccd89a1016e30dc35a919b24fa8b6"
+      }
+    },
+    {
+      "check": "Historical framework tag unchanged",
+      "passed": true,
+      "evidence": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d"
+    },
+    {
+      "check": "Historical baseline unchanged: docs/charter.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Historical baseline unchanged: wiki/archive/source-package-manifest.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Archive descriptors trackable; original full texts and inspection images ignored",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "research_outputs_sha256": {
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/acquire.py": "83ad4dc269c9d177152d75791ecb7d9c9ae29ecb44628500af33eadf80d72b79",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/chapter-evidence.md": "30cefd6638b0d92a3d1c3e757beb744452f5fac83aa6cb736e6b44ebc5eea27b",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/example-results.json": "5a7a00ba9f92a37715afcbb00a1da22611498c03e9bafe9715a08fb2ee29aad7",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/examples.py": "e1213e0ea42e1c8ffae049ed09bd7760577261de7e04aacdbb650091ff1554aa",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/models.md": "7944acbacccc21bd51daf71640762f23955859a404ab388d1205e16796351a18",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/reading-notes.md": "c8034280cc53a458b6f4dee4727f2b51cdc1abbe16f3f978cfb979b604daeef1",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/README.md": "e295112f5a012a9d07103650e21f314bb1a3349369bb489b1317fc85581e1b6b",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md": "8c3af53c8adbccf77a544ed7258501498023bf695fa1d1a9380351ca96633f6e"
+  },
+  "limitations": [
+    "Targeted literature reading, not an exhaustive systematic survey or2026 publication review.",
+    "Finite synthetic example, not independent replication of the cited empirical study.",
+    "Record structure and revision process remain project proposals; net benefit and governance effects untested.",
+    "Prior audit receipts preserved as revision-bound historical records; no old receipt rerun or rewritten."
+  ]
+}

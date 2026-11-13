@@ -1,5 +1,35 @@
 # 开放经济学 Open Economy
 
+第三部分《人际合作、规范与意义》四章已完成本轮讨论稿。从合作怎样带来共同能力，写到人们怎样作出和修订承诺、遇到分歧时由谁解释规则，最后回到一个人为什么愿意把时间放在共同生活上。四章均有配套论证卡与研究出处。[第三部分目录](book/README.md#第三部分-人际合作-规范与意义) · [第四章《人的意义与共同生活》](book/part-03/04-human-meaning-and-common-life.md)
+
+第一部分五章已有讨论稿和论证卡。第1章《从集合到组织》用四节点中继、Python治理记录和双人视觉实验追问关系怎样产生共同能力。全书28个候选单元中已有16章讨论稿，余12个单元待起草。[第1章](book/part-01/01-from-collection-to-organization.md) · [八组主张的六项核查](book/argument-cards/part-01-01-from-collection-to-organization.md) · [五章通读记录](research/reviews/63-from-collection-to-organization-chapter.md)
+
+第59轮写成第一部分第5章《组织怎样演进》，从接任者的行动进入第二部分关于人的问题。[章节讨论稿](book/part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](book/argument-cards/part-01-05-how-organizations-evolve.md)
+
+第58轮已补入团队换人、开源项目继任、技能再传和现场规则修订的过程证据。[组织怎样演进 · 综述0.2](research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/review-2026.md) · [六组来源与六项核查](research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/handover-evidence.md)
+
+第57轮研究：[组织怎样演进：2026资料综述0.1](research/surveys/06-technological-levers-and-organizational-evolution/variation-transmission-and-selection/review-2026-v0.1.snapshot.md)区分主体内学习、群体传播、成员流动与跨代演化，比较竞争和合作的过程条件。[第57轮](research/reviews/57-variation-transmission-and-organizational-evolution.md)及[第52批归档](wiki/raw/round-52/README.md)记录来源与边界；仍14章讨论稿，P1.5尚未新增完整正文。
+
+第56轮成稿：[接口、记忆与技术杠杆](book/part-01/04-interfaces-memory-and-technological-levers.md)及[论证卡](book/argument-cards/part-01-04-interfaces-memory-and-technological-levers.md)已完成讨论稿，八组关键主张按六项格式核查。该轮14章讨论稿、14张卡，余14单元；衔接与来源见[第56轮](research/reviews/56-interfaces-memory-and-levers-chapter.md)及[第51批](wiki/raw/round-51/README.md)。
+
+本轮成果：[六项来源核查格式](shared/source-check-format.md)及[两个实质争议案例](research/reviews/55-lightweight-source-check-and-disputed-cases.md)已试用，分别记录说话者、作用、争点对象、版本和未知项；[专题综述0.4](research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)与[第50批归档](wiki/raw/round-50/README.md)保留材料，没有扩大为全仓库工程。
+
+本轮真实资料核查：[三张论证卡的六项主张](research/reviews/54-real-card-evidence-and-boundary-audit.md)已回查，更正、适用条件、替代解释、项目推导与直接验证缺口分开记录。所选章稿未发现需更改科学结论的直接冲突，三张卡补定位及来源用途；[专题综述0.3](research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)和[第49批归档](wiki/raw/round-49/README.md)保存过程。
+
+本轮内部对照：[三种解释保存方式](research/reviews/53-internal-comparison-of-explanation-records.md)比较结论、完整资料与关联索引。充分资料与正确索引都能完成七项固定检查；索引的检索收益需连同建立、校验和维护成本计算。专题综述升为[0.2](research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)，材料见[第48批](wiki/raw/round-48/README.md)。未新增完整书章。
+
+本轮研究：[解释的记忆、接口与共同修订](research/reviews/52-explanation-memory-interfaces-and-revision.md)进入第一部分第4单元，形成[2026资料综述0.1](research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md)。区分开放、可重跑、证据审查与新场景适用，整理反向证据、误差、边界和修订程序；采用资料见[第47批](wiki/raw/round-47/README.md)。当前仍13章讨论稿。
+
+第51轮书稿记录：[熵、信息与Ordo](book/part-01/02-entropy-information-and-ordo.md)及[论证卡](book/argument-cards/part-01-02-entropy-information-and-ordo.md)已形成，将“异常—扩展解释—有限试验—检验与修订”接到投入维护、个人目标和共同承诺。当时13章讨论稿、13张卡、15单元待起草；[第51轮整合](research/reviews/51-information-ordo-chapter-and-handoffs.md)及[第46批来源复用](wiki/raw/round-46/README.md)保留论证与资料边界。
+
+最新研究：[新解释与有限安全试验](research/reviews/50-new-explanations-and-safe-tests.md)已补入[熵、信息与Ordo综述0.4](research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)，增加情境与关系结构扩展、辨别性证据和条件安全认证；采用资料见[第45批](wiki/raw/round-45/README.md)。
+
+最新研究：[发现规则失效与有限成本学习](research/reviews/49-failure-detection-and-affordable-learning.md)已补入[熵、信息与Ordo综述0.3](research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)，比较变化推断、逐次更新、探索和计算成本；[第44批](wiki/raw/round-44/README.md)保留采用资料及格式、日期差异。
+
+最新研究：[控制器成本、信息净收益与适应](research/reviews/48-controller-costs-net-benefits-and-adaptation.md)已补入[熵、信息与Ordo综述0.2](research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)，区分物理成本、任务收益、反馈恢复和策略修订，新增资料见[第43批](wiki/raw/round-43/README.md)。
+
+第47轮已完成[输入、维护与持续讨论稿及熵信息专题首轮](research/reviews/47-maintenance-draft-and-information-research.md)：当时12章讨论稿、16单元待起草；[熵、信息与Ordo的2026资料综述](research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)已启动，新增原件见[第42批](wiki/raw/round-42/README.md)。这一进展不改变下述框架标签的历史基线。
+
 本项目研究复杂群体如何形成、维持、协调和改变其组织，并以此理解经济活动，探索 Open Business 在 AutoOS 中的应用。
 
 仓库沿两条路线推进：书籍路线面向读者组织问题与解释；理论路线通过文献综述、形式化模型和经验研究，逐步建立通用理论基础。两条路线共享概念、命题与证据，具有各自的成果与进度。
@@ -7,6 +37,8 @@
 框架基线为`framework-v0.1`：六部分、28候选单元、11章讨论稿，纲领0.4。书稿、原创研究、模型和来源描述由Git管理；原始论文、完整OCR和扫描等位于可选[独立来源包](wiki/archive/README.md)，不随公开仓库分发。检出后可按[版本验证说明](docs/repository-validation.md)检查必需文件与可选资料的状态。
 
 ## 阅读入口
+
+- [年度综述与资料研究](research/survey-and-paper-program.md)：以写书为目标，利用已有综述收集、比较和持续更新资料；首篇[组织持续与自维持2026年综述](research/surveys/01-organization-maintenance/review-2026.md)已开始整理，后续按年度保留版本。
 
 - [Git基线与本地来源包](research/reviews/42-git-baseline-and-source-package.md)：落实忽略范围、精确字节保留与两种资料环境的检查；原件完整留本地，标签以Git对象为准，没有远端推送。
 - [全书框架内容收束](research/reviews/41-framework-closure.md)：完成[理论最小核心](shared/minimal-theory-core.md)、跨组织边界和AI经济闭环，逐项落实[28单元承接](book/chapter-interfaces.md)与范围；纲领0.4保留六部分、11章稿和79条总表。内容达到框架基线候选，Git纳管和来源包仍待实施，尚未打标签。

@@ -1,0 +1,144 @@
+{
+  "files": [
+    {
+      "path": "crosscheck-metadata.json",
+      "bytes": 2425,
+      "sha256": "302a2da91109022329988afa99a919f711264eacfe5ca48faf955e7cc04be6e2"
+    },
+    {
+      "path": "download-log.json",
+      "bytes": 8822,
+      "sha256": "ea65e30e662d8ee078496911df270640cb8cfce960a192eb62f7bc1c231c7b92"
+    },
+    {
+      "path": "L267-rope/author.pdf",
+      "bytes": 783161,
+      "sha256": "fbee9e2b8369c1ce96a7c010ab466725c56316623cabf29c4fda8e274ee75cb4"
+    },
+    {
+      "path": "L267-rope/author.txt",
+      "bytes": 51961,
+      "sha256": "d0e62ec1b64d6a46ef4354f43966b16edd11ce073a3ba5869fb11eb4de737b8f"
+    },
+    {
+      "path": "L267-rope/dryad.json",
+      "bytes": 171,
+      "sha256": "416ce80cd8d769545c9441aa2d0f760aef9e8f600ba9a3d8b006657027f99696"
+    },
+    {
+      "path": "L267-rope/preprint.pdf",
+      "bytes": 241253,
+      "sha256": "48b79a9daf5b1780daf6bd5c1c7ae4c3f99d7c54b57af50fb4f5fcce902c059d"
+    },
+    {
+      "path": "L267-rope/preprint.txt",
+      "bytes": 50310,
+      "sha256": "4844a9b6c6408e21835f0f07da5297534528e46b6b7f5db74dc919d529d566fa"
+    },
+    {
+      "path": "L268-deliberation/article.txt",
+      "bytes": 88607,
+      "sha256": "9f02e369b3a3c6101fc83e1ffeffb7f8643dc31436cb65d2c150c839b201b623"
+    },
+    {
+      "path": "L268-deliberation/article.xml",
+      "bytes": 180440,
+      "sha256": "4b33516d1b85582c7e9680fe11fb3d7a09a2197203a622453d6e76f9514bb9ad"
+    },
+    {
+      "path": "L268-deliberation/code-files.json",
+      "bytes": 5263,
+      "sha256": "9b3238bff539bb2224bef21f474a1c673ba2252d7dc9e1a57ddbc806c5e020ce"
+    },
+    {
+      "path": "L268-deliberation/osf/data_experiment_1__by_participant.csv",
+      "bytes": 165046,
+      "sha256": "7c8b6438cc4a336c56729611626b774c9e09f59afb14fe55bd9a9758299754f6"
+    },
+    {
+      "path": "L268-deliberation/osf/data_experiment_1__with_features.csv",
+      "bytes": 71207,
+      "sha256": "126e5e8e643218bc26458cdc0ac015e7a73be9274c7b24356db92932eb5e9f48"
+    },
+    {
+      "path": "L268-deliberation/osf/data_experiment_3__by_participant.csv",
+      "bytes": 40255,
+      "sha256": "94e7c9d16b7b30fe8aea9e9f54889e1f05d72fdae216d47fb6f148268e770bd9"
+    },
+    {
+      "path": "L268-deliberation/osf/data_experiment_3__with_features.csv",
+      "bytes": 43850,
+      "sha256": "a45040a77a1a6e51b651e3ac9933016439a36699d1f64d1421b819ddd4e15a24"
+    },
+    {
+      "path": "L268-deliberation/osf/figure_1.m",
+      "bytes": 10696,
+      "sha256": "effe05d771f2f59b605b41828a72cfc6f77a819c18fd6afb63f64db634d31a00"
+    },
+    {
+      "path": "L268-deliberation/osf/figure_4.m",
+      "bytes": 7186,
+      "sha256": "38705d565c6c96238da52a561b875455549a02c34dfeed81495f77cd026c3e41"
+    },
+    {
+      "path": "L268-deliberation/osf/figure_6.m",
+      "bytes": 10045,
+      "sha256": "5341993b662590b459fc9654e3f54063c51b9260376d8be7035bf96780d259f5"
+    },
+    {
+      "path": "L268-deliberation/osf/output_exp2__by_participant.csv",
+      "bytes": 73278,
+      "sha256": "3d905aedb5016128aa304c22de502e62986395f046f0f2c4095e16a2ff5137ca"
+    },
+    {
+      "path": "L268-deliberation/osf/output_exp2__with_features.csv",
+      "bytes": 25794,
+      "sha256": "1e51f8c943e06b5b15ebb83443e726729a3501c8b1dcfadc6cf82846462264fb"
+    },
+    {
+      "path": "L268-deliberation/osf-files.json",
+      "bytes": 8735,
+      "sha256": "91ffe4c6db2d8b3119f4acda7d6fd561babf59b9e8a89633f190b5007cb247fe"
+    },
+    {
+      "path": "L269-hidden-profiles/article.pdf",
+      "bytes": 292786,
+      "sha256": "602638e52efada9bcc5a52fdebab474b12b79b0f98eec040c03e3a26bdbbd328"
+    },
+    {
+      "path": "L269-hidden-profiles/article.txt",
+      "bytes": 75827,
+      "sha256": "e751a3681ce79394056c271ee8324dab56ff89d96619bfbbca68eca940f199a3"
+    },
+    {
+      "path": "L270-basketball/article.pdf",
+      "bytes": 884310,
+      "sha256": "d13e1dd2134907435e6a3e199ce87e2f3c0f598fb21f1b351415ea2141917447"
+    },
+    {
+      "path": "L270-basketball/article.txt",
+      "bytes": 71194,
+      "sha256": "e59ff11f7487fed4a5bb1d15cfcce03bbb961f7b253f22c4a079826d8d89399a"
+    },
+    {
+      "path": "L271-dyads/article.pdf",
+      "bytes": 983862,
+      "sha256": "b430636d7dd596b2df707597972b92caa27c4dfc01c4a6418b9adeee2dcc2f57"
+    },
+    {
+      "path": "L271-dyads/article.txt",
+      "bytes": 84873,
+      "sha256": "f4956906272de2d8810a40335890b840352e97bc87891aecfe2f8120744498b2"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 4463,
+      "sha256": "9793cb8c858889a7822fde7e3d8c540eadc3185e7395a2a6d5ddff578f16fcc8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4642,
+      "sha256": "95f7b39bb7dce547824777eb68e4e954a11e53b5d346f440d311358b2f4f1d9b"
+    }
+  ]
+}

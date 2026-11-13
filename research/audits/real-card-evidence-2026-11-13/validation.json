@@ -1,0 +1,133 @@
+{
+  "date_local": "2026-11-13",
+  "scope": "Six selected real claims in three argument cards",
+  "passed": true,
+  "checks": [
+    {
+      "check": "Purposeful sample fixed to6 claims in3 existing cards",
+      "passed": true,
+      "evidence": {
+        "random_sample": false,
+        "blind_assessment": false,
+        "population_rates_estimated": false
+      }
+    },
+    {
+      "check": "Exact claim wording retained; before/after line locators and source hashes valid",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Reported pre-repair routes really existed; they are not claimed to be shortest",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Case classification distinguishes locator refinements, adequate trace and effect gap",
+      "passed": true,
+      "evidence": {
+        "R01": "locator_and_role_clarification",
+        "R02": "locator_and_role_clarification",
+        "R03": "trace_already_adequate",
+        "R04": "direct_effect_evidence_still_missing",
+        "R05": "locator_and_role_clarification",
+        "R06": "locator_and_role_clarification"
+      }
+    },
+    {
+      "check": "Evidence-gap claim remains a hypothesis; source is motivation rather than validation",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Corrections, theorem limits, alternatives and analytic boundaries kept distinct",
+      "passed": true,
+      "evidence": {
+        "note": "Manual appraisal of the six reviewed claims, not a guarantee of truth or exhaustive absence of contrary evidence."
+      }
+    },
+    {
+      "check": "Four original literature families/six artifacts reused without new acquisition",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Before/after cards, project bases, context records and current audit frozen exactly",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Round49 manifest covers every archived file with exact bytes",
+      "passed": true,
+      "evidence": {
+        "files": 25,
+        "errors": []
+      }
+    },
+    {
+      "check": "Review0.2 is preserved exactly;0.1/0.2/0.3 version receipts match",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Changed authored-document links resolve; copied originals retain origin context",
+      "passed": true,
+      "evidence": {
+        "links": 1013,
+        "errors": []
+      }
+    },
+    {
+      "check": "New card Markdown section anchors match actual headings",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Manuscript bodies unchanged while three card repairs get new hashes",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Draft/card counts stay13/13, leaving15 candidate units undrafted",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Formal79 register, information review and original source ZIP preserved",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Original framework tag unchanged",
+      "passed": true,
+      "evidence": "40e0f4c5f3ea19d4bdfd9313f1b95192c50c182d"
+    },
+    {
+      "check": "Historical baseline preserved: docs/charter.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Historical baseline preserved: wiki/archive/source-package-manifest.json",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "current_output_sha256": {
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/case-register.json": "8f34c1e3e845832560cedeee34ed873a1ce75cee91a1a64d20991f5f283f69f7",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/reading-notes.md": "f030cd4094a2894001232fda8113971360950882afb025f6ccd9b6bec8b9c898",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/real-card-audit-2026-11-13/README.md": "06e962955ec9b688bd3ac1bc30957abee01aac6dc16baaa8315b033f525d0e4b",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/review-2026.md": "619ae4fcee9feb063081f54926e73df8409d20908cbb05f96f10ebe8a56ba025",
+    "research/surveys/06-technological-levers-and-organizational-evolution/explanations-memory-and-revision/version-provenance.json": "b1f658bb175961953560a86a7a591fe20bd48b00fc46d9e7e5a102c3bbdedaa2",
+    "wiki/raw/round-49/manifest.json": "11e25982d71c08d4165d1a991245b470b3b958ffb564c3a26e0556e08f0226a9",
+    "book/argument-cards/part-01-02-entropy-information-and-ordo.md": "b53efb6b2b92daf7c551137d8f6fb1543ab21be67960feb4757a6dc12934d8ac",
+    "book/argument-cards/part-01-03-inputs-maintenance-and-continuity.md": "29eb9626bfb00e9776a31386b94a2f248d58d6d5473ed5e384c79d2ad5a811c6",
+    "book/argument-cards/part-03-02-revisable-shared-commitments.md": "ff7c7a404dda7a6109d0613d49f65d4a5b6986a921cf71711c53eb1db995bc59"
+  },
+  "limitations": [
+    "Human source appraisal by the same author; automated checks cover provenance, links and retained wording only.",
+    "No exhaustive counterevidence search, representative defect rate, reader timing or causal effect estimate.",
+    "Direct-effect evidence remains missing in the reviewed maintenance-hypothesis trace.",
+    "Earlier revision-bound receipts not rerun or rewritten; no Git commit/tag/push or ZIP rebuild."
+  ]
+}

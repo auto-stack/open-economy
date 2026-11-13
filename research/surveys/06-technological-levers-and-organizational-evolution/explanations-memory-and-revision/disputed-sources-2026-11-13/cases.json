@@ -1,0 +1,203 @@
+{
+  "format_version": "0.1",
+  "date_local": "2026-11-13",
+  "required_fields": [
+    "claim",
+    "sources",
+    "opposing",
+    "boundaries",
+    "coverage",
+    "use"
+  ],
+  "cases": [
+    {
+      "case_id": "D01",
+      "claim": {
+        "text": "跨社会博弈行为差异可挑战金钱自利预测，但不能直接否定一般理性分析或唯一识别偏好机制。",
+        "status": "有限经验入口及解释争议",
+        "use_location": "人的动机与合作研究；并非新增正式理论命题"
+      },
+      "sources": [
+        {
+          "key": "target",
+          "source_id": "L58",
+          "path": "wiki/raw/round-11/L58-henrich-et-al-2005/original.pdf",
+          "sha256": "5c86cda9f12ddfccac52cc166f5edead5683e0b884eef7600b186e7b38271558",
+          "speaker": "Henrich等／目标文章",
+          "role": "original_empirical_report",
+          "target": "跨社会博弈行为与自利预测",
+          "locator": "PDF1摘要；原有选读段",
+          "is_original_empirical_report": true
+        },
+        {
+          "key": "comment",
+          "source_id": "L58",
+          "path": "wiki/raw/round-11/L58-henrich-et-al-2005/original.pdf",
+          "sha256": "5c86cda9f12ddfccac52cc166f5edead5683e0b884eef7600b186e7b38271558",
+          "speaker": "Ken Binmore／独立评论",
+          "role": "methodological_critique",
+          "target": "一般理论与金钱自利的区别、学习和规范线索解释",
+          "locator": "PDF23及PDF24开头结语",
+          "is_original_empirical_report": false
+        },
+        {
+          "key": "reply",
+          "source_id": "L58",
+          "path": "wiki/raw/round-11/L58-henrich-et-al-2005/original.pdf",
+          "sha256": "5c86cda9f12ddfccac52cc166f5edead5683e0b884eef7600b186e7b38271558",
+          "speaker": "Henrich等／作者答复",
+          "role": "author_reply",
+          "target": "偏好、信念与理性；竞争解释的保留",
+          "locator": "PDF45–46 R1.1–R1.2",
+          "is_original_empirical_report": false
+        }
+      ],
+      "opposing": {
+        "types": [
+          "theory_target_disagreement",
+          "alternative_interpretation"
+        ],
+        "target": "对数据含义与理论对象的解释，不是对整份数据的直接撤回",
+        "reply_status": "作者回应已定向读；对偏好与信念的唯一识别仍未完成",
+        "exhaustive_search": false
+      },
+      "boundaries": [
+        "15个小规模社会的给定博弈和说明条件",
+        "一般理性／一致性不等于收入最大化",
+        "不能由此证明先天善恶、文化因果或某个最终演化解释"
+      ],
+      "coverage": {
+        "document_version": "62页作者校样，含目标文、独立评论和答复；不直接换算最终刊物页码",
+        "actually_read_this_round": "主PDF1摘要、23和24开头、45–46指定段；23与45页图核对",
+        "new_pdf_read_scope": false,
+        "unverified": [
+          "全部评论和原始数据",
+          "不同偏好／信念模型的独立比较",
+          "本轮检索命中的较长Binmore文本未采用正文"
+        ]
+      },
+      "use": {
+        "decision": "limited_use_with_unresolved_interpretation",
+        "what_to_write": "区分金钱自利、一般理性、偏好和信念；保留竞争解释",
+        "what_not_to_write": "所有行为利他，或实验已使一般博弈分析失效",
+        "review_trigger": "采用更强机制或跨文化因果主张时补独立识别资料",
+        "reviewer": "Codex协助整理，非独立同行评审",
+        "date": "2026-11-13"
+      }
+    },
+    {
+      "case_id": "D02",
+      "claim": {
+        "text": "足球共同体验的个体认同结果与国家冲突结果应分开，原摘要须连同更正、复核和答复使用。",
+        "status": "有限经验入口与未裁决识别争议",
+        "use_location": "文化影响与共同认同研究；不作通用Ordo效果证明"
+      },
+      "sources": [
+        {
+          "key": "original",
+          "source_id": "L158",
+          "path": "wiki/raw/round-29/L158-depetris-chauvin-et-al-2020/original.pdf",
+          "sha256": "7a8fc341edb4d33a41194cff485480cf1bf9331fce3b66614ba657d920285840",
+          "speaker": "Depetris-Chauvin、Durante、Campante／2020原文",
+          "role": "original_empirical_report",
+          "target": "个体认同／信任与国家冲突两层结果",
+          "locator": "沿旧PDF1–2和28选读",
+          "is_original_empirical_report": true
+        },
+        {
+          "key": "correction",
+          "source_id": "L160",
+          "path": "wiki/raw/round-29/L160-campante-et-al-correction-2024/original.pdf",
+          "sha256": "a96322f1de4a524e296517c04138e7f15448fa339caade1dc27d65fa15a44071",
+          "speaker": "Campante、Depetris-Chauvin、Durante／2024更正",
+          "role": "author_correction",
+          "target": "数据、样本说明和修订估计",
+          "locator": "PDF1–3复核，新增PDF4样本算法及排除情况",
+          "is_original_empirical_report": false
+        },
+        {
+          "key": "critique",
+          "source_id": "L161",
+          "path": "wiki/raw/round-29/L161-delpeyrou-bertoli-2024/original.pdf",
+          "sha256": "87df2a6d5965ec8e873242bf1bbc484b46d93d3ec35c303b931594b4d8bc8bc6",
+          "speaker": "Delpeyrou、Bertoli／I4R193复核",
+          "role": "replication_and_identification_critique",
+          "target": "国家样本及识别、安慰剂检验",
+          "locator": "PDF4–6；新增PDF16指定段",
+          "is_original_empirical_report": false
+        },
+        {
+          "key": "reply",
+          "source_id": "L162",
+          "path": "wiki/raw/round-29/L162-campante-et-al-reply-2024/original.pdf",
+          "sha256": "b456e146271422ecc02cee7bb99edd1a1a0b149d2a30c72f914fe64dc89497d4",
+          "speaker": "Campante等／I4R194答复",
+          "role": "author_reply",
+          "target": "数据承认、接近晋级定义及识别批评",
+          "locator": "PDF4–6；新增PDF9–10及17指定段",
+          "is_original_empirical_report": false
+        },
+        {
+          "key": "publication-record",
+          "source_id": "L158",
+          "path": "wiki/raw/round-50/records/aea-article.html",
+          "sha256": "48bf6a58af14ee1bd662743366abe45d605c5b91a57d23434b724326dfae0014",
+          "speaker": "AEA期刊页面／本轮抓取",
+          "role": "publication_version_context",
+          "target": "原摘要与更正／修订附录入口并存",
+          "locator": "标题、摘要与Additional Materials；不是复算证据",
+          "is_original_empirical_report": false
+        }
+      ],
+      "opposing": {
+        "types": [
+          "direct_author_correction",
+          "sample_definition_disagreement",
+          "identification_objection"
+        ],
+        "target": "原数据和样本说明有承认的更正；国家层面识别是否稳健仍有双方分歧",
+        "reply_status": "定向补读样本及安慰剂回应段；并未裁决全部往返",
+        "exhaustive_search": false
+      },
+      "boundaries": [
+        "个体调查并非同人面板或随机观看实验",
+        "认同量表不等于已观察到长期行为改变",
+        "国家层面依赖样本与识别条件，不能由个体结果自动推出",
+        "期刊页仍可见原摘要；不得只凭官方URL采用旧幅度"
+      ],
+      "coverage": {
+        "document_versions": "L158为2020原文；L160题页November2024、期刊页Dec3；L161系列December2024；L162系列December2024而正文题页August2024，不臆测最后回应次序",
+        "actually_read_this_round": "沿旧读段及上述明确新增页；L160PDF2、L161PDF16、L162PDF10／17看图",
+        "new_pdf_read_scope": true,
+        "unverified": [
+          "更正表格与双方代码未复算",
+          "全部方法、附录及全部往返未读完",
+          "不声称已覆盖2026年的最新争论结论",
+          "两项EconStor本轮HTML为机器人检查响应，非采用记录"
+        ]
+      },
+      "use": {
+        "decision": "separate_outcomes_and_withhold_unsettled_quantitative_claim",
+        "outcomes": [
+          {
+            "target": "认同／信任",
+            "decision": "有限研究入口，按更正语境，不采用原摘要幅度作参数"
+          },
+          {
+            "target": "国家冲突",
+            "decision": "保留争议，暂不作已确立的普遍效果"
+          }
+        ],
+        "numerical_estimate_adopted_as_book_parameter": false,
+        "review_trigger": "采用幅度或冲突机制前复算样本、识别检验并检查更新版本",
+        "reviewer": "Codex协助整理，非独立同行评审",
+        "date": "2026-11-13"
+      }
+    }
+  ],
+  "notes": [
+    "Six fields are a writing aid, not a truth score or a mandatory implementation schema.",
+    "Multiple voices in one file are not independent datasets.",
+    "Empirical independence is not inferred automatically from a source role."
+  ]
+}

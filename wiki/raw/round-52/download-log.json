@@ -1,0 +1,110 @@
+[
+  {
+    "path": "L229-lewontin-1970/original.pdf",
+    "requested_url": "https://www.zoology.ubc.ca/let/pdfs/Lewontin1970.pdf",
+    "expected": "PDF",
+    "retrieved_at_utc": "2026-11-13T05:20:50.890381+00:00",
+    "status_code": 200,
+    "final_url": "https://www.zoology.ubc.ca/let/pdfs/Lewontin1970.pdf",
+    "content_type": "application/pdf",
+    "saved": true,
+    "bytes": 656067,
+    "sha256": "d22118b64fd36839a1ae4ced0e022b9da29f5fdb44d6276537f7c9ea698861f2",
+    "valid_document": true
+  },
+  {
+    "path": "L230-mesoudi-thornton-2018/original.pdf",
+    "requested_url": "https://www.alexmesoudi.com/publication/mesoudi-what-2018/Mesoudi_Thornton_ProcB_2018.pdf",
+    "expected": "PDF",
+    "retrieved_at_utc": "2026-11-13T05:20:50.890608+00:00",
+    "status_code": 200,
+    "final_url": "https://www.alexmesoudi.com/publication/mesoudi-what-2018/Mesoudi_Thornton_ProcB_2018.pdf",
+    "content_type": "application/pdf",
+    "saved": true,
+    "bytes": 347569,
+    "sha256": "167a10836751ab0365ca4374a61b737fab93ca0b8cad8e30b43ceef44b8838ff",
+    "valid_document": true
+  },
+  {
+    "path": "L231-derex-boyd-2016/original.html",
+    "requested_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4801235/",
+    "expected": "HTML",
+    "retrieved_at_utc": "2026-11-13T05:20:50.891249+00:00",
+    "status_code": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4801235/",
+    "content_type": "text/html; charset=utf-8",
+    "saved": true,
+    "bytes": 163653,
+    "sha256": "6ab5a9b9508638cfe3f217ecead7376aab1af96a44fa212b49855acffcf78ff4",
+    "title": "Partial connectivity increases cultural accumulation within groups - PMC",
+    "valid_document": true
+  },
+  {
+    "path": "L232-ostrom-basurto-2011/original.pdf",
+    "requested_url": "https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CraftingAnalyticalToolsInstitutionalChange.LOstrom2011.pdf",
+    "expected": "PDF",
+    "retrieved_at_utc": "2026-11-13T05:20:50.891456+00:00",
+    "saved": false,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  {
+    "path": "L179-boyd-richerson-henrich-2011/original.html",
+    "requested_url": "https://pmc.ncbi.nlm.nih.gov/articles/3131818/",
+    "expected": "HTML",
+    "retrieved_at_utc": "2026-11-13T05:20:51.898290+00:00",
+    "status_code": 200,
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3131818/",
+    "content_type": "text/html; charset=utf-8",
+    "saved": true,
+    "bytes": 195759,
+    "sha256": "f97c0bee26319610a92a5c2c6ec636a1ac3fcb3bbf4945f6bd45305951acb77d",
+    "title": "The cultural niche: Why social learning is essential for human adaptation - PMC",
+    "valid_document": true
+  },
+  {
+    "path": "discovery/pubmed-records.xml",
+    "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29899071,21690340&retmode=xml",
+    "expected": "PubMed XML",
+    "retrieved_at_utc": "2026-11-13T05:20:52.006314+00:00",
+    "status_code": 200,
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29899071,21690340&retmode=xml",
+    "content_type": "text/xml; charset=UTF-8",
+    "saved": true,
+    "bytes": 48985,
+    "sha256": "3a03e370135028350ef0d6dfd0a89720a95ee18378a8744fbd07289aafe62cf0",
+    "valid_document": true
+  },
+  {
+    "path": "L232-ostrom-basurto-2011/original.pdf",
+    "requested_url": "https://dlc.dlib.indiana.edu/dlc/bitstreams/4e2e96f7-fc9f-4fc0-bf0c-9b9a047d7a8b/download",
+    "expected": "PDF",
+    "retrieved_at_utc": "2026-11-13T05:22:52.810031+00:00",
+    "saved": false,
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "path": "L232-ostrom-basurto-2011/original.pdf",
+    "requested_url": "https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CraftingAnalyticalToolsInstitutionalChange.LOstrom2011.pdf",
+    "method": "PowerShell system certificate validation",
+    "status_code": 200,
+    "saved": true,
+    "valid_document": true,
+    "expected": "PDF",
+    "bytes": 230142,
+    "sha256": "536eaf160b2718b09609fc55efbb62ba13c0f6e95630e6ea6ccdbbf437b48bb0",
+    "attempt_record": "discovery/ostrom-native-attempt.json"
+  },
+  {
+    "path": "discovery/derex-pubmed.xml",
+    "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26929364&retmode=xml",
+    "expected": "PubMed XML",
+    "retrieved_at_utc": "2026-11-13T05:25:00.308238+00:00",
+    "status_code": 200,
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26929364&retmode=xml",
+    "content_type": "text/xml; charset=UTF-8",
+    "saved": true,
+    "bytes": 16365,
+    "sha256": "eb228658a754813b18e93d8cdeafbce26a8474bdc05253dcd4712326c69ed937",
+    "valid_document": true
+  }
+]
