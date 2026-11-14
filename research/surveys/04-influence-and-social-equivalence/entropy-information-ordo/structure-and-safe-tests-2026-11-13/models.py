@@ -53,18 +53,25 @@ def structure_example():
     old_error = abs(evaluate(original, diagnostic_x) - diagnostic_y)
     threshold = 0.1
     rows = history + [(diagnostic_x, diagnostic_y)]
-    # Only after mismatch, permit multiplication of available x with x to add a feature.
-    grammar = ['1', 'x']
-    if old_error > threshold:
-        grammar.append('x*x')
-    expanded = fit_polynomial(rows, len(grammar) - 1)
     affine_refit = fit_polynomial(rows, 1)
     affine_error = max(abs(evaluate(affine_refit, x) - y) for x, y in rows)
+    # At the midpoint a line predicts the average of its endpoint predictions.
+    # If all three errors are at most E, the endpoint-to-midpoint gap is at most 2E.
+    assert diagnostic_x == (history[0][0] + history[1][0]) / 2
+    midpoint_gap = evaluate(original, diagnostic_x) - diagnostic_y
+    minimax_error = abs(midpoint_gap) / 2
+    minimax_line = [original[0] - midpoint_gap / 2, original[1]]
+    assert all(math.isclose(abs(evaluate(minimax_line, x) - y), minimax_error)
+               for x, y in rows)
+    grammar = ['1', 'x']
+    if minimax_error > threshold:
+        grammar.append('x*x')
+    expanded = fit_polynomial(rows, len(grammar) - 1)
     validation_x = 0.75  # Not used to fit or generate the expanded model.
     validation_prediction = evaluate(expanded, validation_x)
     validation_y = fixture.query(validation_x)
     assert fixture.query(0.25) is None  # Finite budget has been exhausted.
-    assert old_error > threshold and affine_error > threshold
+    assert old_error > threshold and affine_error >= minimax_error > threshold
     assert all(math.isclose(c, target, abs_tol=1e-10) for c, target in zip(expanded, [0, 0, 1]))
     assert math.isclose(validation_prediction, validation_y, abs_tol=1e-10)
 
@@ -75,7 +82,9 @@ def structure_example():
     assert not math.isclose(alternate(0.25), 0.25 ** 2)
     return dict(initial_features=['1', 'x'], generated_features=grammar, threshold=threshold,
                 initial_coefficients=original, diagnostic_error=old_error,
-                refitted_affine_max_training_error=affine_error, expanded_coefficients=expanded,
+                refitted_affine_max_training_error=affine_error,
+                affine_minimax_coefficients=minimax_line, affine_minimax_max_error=minimax_error,
+                expanded_coefficients=expanded,
                 new_observations=fixture.observations, incremental_query_budget=2,
                 budget_remaining=fixture.budget, validation_x=validation_x,
                 validation_prediction=validation_prediction, validation_observed=validation_y,

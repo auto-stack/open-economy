@@ -15,13 +15,20 @@
 | 异常需区分噪声、执行与环境变化 | 文献方法及工作分析 | L217 PDF1–4、L218 BioC正文；给定模型族，r_t=0概率的时序限制保留；行为拟合不证明实际脑算法 |
 | 新解释可经增加潜在情境或重组表达部件形成 | 文献模型与计算研究 | L221 PDF1–4、11，L222 PDF2–7；给定特征、先验、变量、算子和复杂度；非任意概念生成 |
 | 探索与计算有期限、成本；辨别证据不等于已学对因果 | 行为结果与规范分析分开 | L219 BioC主文，L220 PDF2–10，L223提交稿PDF4–9、13；不补认未读SI或未检验的学习结果 |
-| 两次查询可扩展结构并作预留检验 | 项目条件推论 | [既有模型](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/models.md)，仿射最大残差1/6，增加x*x；范围／预算外拒绝；有限数据不唯一识别关系 |
+| 两次查询可扩展结构并作预留检验 | 项目条件推论 | [三点推导与模型](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/models.md)。最小二乘直线最大绝对误差 1/6；全体直线可达的最小最大绝对误差 1/8，仍超过容限 0.1。增加 x*x 后作留出检验，有限数据不能唯一识别关系 |
 | 安全探索的保证限于指定对象和可认证区域 | 文献条件定理 | L224[主PDF5](../../wiki/raw/round-45/L224-sui-et-al-2015/original.pdf#page=5)的Lemma1／Theorem1及[扩展PDF12](../../wiki/raw/round-45/L224-sui-et-al-2015/extended.pdf#page=12)指定证明段；静态f、有限候选集、可信种子、函数约束、对历史条件零均值且一致有界的噪声及相应置信条件；f的高概率保证不等于逐次观测无损或社会正当性 |
 | 异常—扩展解释—有限试验—检验与修订 | 本书综合的工作机制 | 以上各研究的有限衔接；不是由物理定律推出的普遍算法，不升级为基本公设 |
 | 阈值／平台、修订净收益、多解释适应优势 | 待验证假说 | 延续综述A、B、C；需共同任务、预算、期限、对照、成本与反例，不增加正式编号 |
 | 保护谁、允许什么损失、如何分担责任 | 价值与制度问题 | 风险阈值是外部选择；物理可行性不独自证明正当性或Open Business必要性 |
 
 ## 证据入口与交付
+
+第二版第一轮对以下两项采用六项核查，日期为 2026 年 11 月 14 日。
+
+| 主张与地位 | 来源及作用 | 反向材料或竞争解释 | 适用边界 | 已核与未知 | 修订条件或下一步 |
+|---|---|---|---|---|---|
+| 三点逐点容限 0.1 可排除所有直线〔条件推论〕 | [二阶差分下界与达到下界的直线](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/models.md) | 最小二乘解只优化平方和，单看它的最大误差会误拒其他直线 | 三个指定等间距的无噪声点，可调截距与斜率 | 两种准则分别得到 1/6 与 1/8；三点以外的函数未知 | 容限若放宽至 1/8，则不能再据这三点排除所有直线 |
+| 熟手缺席时，交接关系可比供水率与替班人数更准地预测哪班先恢复〔待验证〕 | L233 换人装配研究提供专长依赖线索；[本章综述](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)给出配对演练及比较规则 | 人数已足以预测、临时授权可替代原路径、设备故障支配时长 | 同级故障、相同资源和截止时间，用从未参与定规则的班组与故障检验 | 已定主要终点及求援、超时口径，尚无泵房数据或统一 Ordo 分数 | 先冻结三种预测，再按同一组结果比较；若无额外命中或取得信息过贵，收窄用途 |
 
 基础资料见[Q3阅读记录](../../research/reviews/04-reading-notes.md)与[深化阅读](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/reading-notes.md)；后续依次见[成本](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/costs-and-adaptation-2026-11-13/reading-notes.md)、[检测](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/detection-and-learning-2026-11-13/reading-notes.md)、[结构与试验](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md)。实际原件及哈希由[第46批复用清单](../../wiki/raw/round-46/source-reuse.json)指向既有本地材料，没有新增检索或下载。
 

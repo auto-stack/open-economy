@@ -1,6 +1,6 @@
 # 熵、信息与Ordo
 
-书稿交付：[第一部分第2章讨论稿](../../../../book/part-01/02-entropy-information-and-ordo.md)与[论证卡](../../../../book/argument-cards/part-01-02-entropy-information-and-ordo.md)现已形成，[第51轮](../../../reviews/51-information-ordo-chapter-and-handoffs.md)记录与维护、个人目标及共同承诺的衔接。本次只整合既有证据，综述0.4正文和先前阅读范围保持原状。
+书稿交付：[第一部分第2章讨论稿](../../../../book/part-01/02-entropy-information-and-ordo.md)与[论证卡](../../../../book/argument-cards/part-01-02-entropy-information-and-ordo.md)对应[第51轮](../../../reviews/51-information-ordo-chapter-and-handoffs.md)的维护、个人目标及共同承诺讨论。2026 年 11 月 14 日第二版书稿在原综述上补入三点逐点误差的下界及熟手缺席时的交接预测，复用既有研究，新增的是数学核算与研究设计。
 
 2026年11月13日启动深入研究，属于共享研究单元4的基础专题，承接[Q3初步比较](../../../reviews/04-measures-and-bridges.md)。本专题服务第一部分第二章，并为人的维护、技术杠杆、社会影响与组织协调提供共同的度量条件。它不要求每章各写一篇论文。
 
