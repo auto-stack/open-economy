@@ -1,6 +1,8 @@
 # 开放经济学 Open Economy
 
-全书六部分 28 章已形成首轮完整讨论稿。后八章从中国药品集采、纸币与融资，写到共享维护、AI 和机器人，再以同一项资料服务比较 AutoOS 的资金、权利及失败条件。[逐章阅读](book/outline.md) · [后八章综述与归档](wiki/raw/round-74/README.md) · [终章](book/part-06/04-testing-failure-and-revision.md)
+第二版七轮修订已完成。读两次世界大战、中国增长与 AI，也可从金融危机入手，追一笔损失怎样从房贷传到工厂，再看今天谁为算力垫钱。[修订清单与五组候选开场](docs/second-edition-revision-plan.md) · [2008 年的九十七美分](book/part-05/07-after-the-boom.md#一美元怎么只剩九十七美分) · [算力的账单最后寄给谁](book/part-05/07-after-the-boom.md#算力的账单最后寄给谁)
+
+全书六部分 29 章均有讨论稿。第五、六部分从中国药品集采、纸币与融资，写到共享维护、AI 和机器人，再以同一项资料服务比较 AutoOS 的资金、权利及失败条件。[卷首导言](book/introduction.md) · [逐章阅读](book/outline.md) · [后八章综述与归档](wiki/raw/round-74/README.md) · [终章](book/part-06/04-testing-failure-and-revision.md)
 
 第五部分第 3 章[《权利、控制与分配》](book/part-05/03-rights-control-and-distribution.md)接着问谁可以让列车重新开动，谁能决定下一季怎样插秧，节下的费用又怎样进入工钱、佣金和分红。[中国案例综述](research/surveys/03-competition-cooperation-distribution/decision-rights-costs-and-returns-china-2026.md) · [本地资料](wiki/raw/round-73/README.md)
 
@@ -16,7 +18,7 @@
 
 第三部分《人际合作、规范与意义》四章已完成本轮讨论稿。从合作怎样带来共同能力，写到人们怎样作出和修订承诺、遇到分歧时由谁解释规则，最后回到一个人为什么愿意把时间放在共同生活上。四章均有配套论证卡与研究出处。[第三部分目录](book/README.md#第三部分-人际合作-规范与意义) · [第四章《人的意义与共同生活》](book/part-03/04-human-meaning-and-common-life.md)
 
-第一部分五章已有讨论稿和论证卡。第1章《从集合到组织》用四节点中继、Python治理记录和双人视觉实验追问关系怎样产生共同能力。全书六部分 28 章已有讨论稿与论证卡。[第1章](book/part-01/01-from-collection-to-organization.md) · [八组主张的六项核查](book/argument-cards/part-01-01-from-collection-to-organization.md) · [五章通读记录](research/reviews/63-from-collection-to-organization-chapter.md)
+第一部分五章已有讨论稿和论证卡。第1章《从集合到组织》用四节点中继、Python治理记录和双人视觉实验追问关系怎样产生共同能力。全书六部分 29 章已有讨论稿与论证卡。[第1章](book/part-01/01-from-collection-to-organization.md) · [八组主张的六项核查](book/argument-cards/part-01-01-from-collection-to-organization.md) · [五章通读记录](research/reviews/63-from-collection-to-organization-chapter.md)
 
 第59轮写成第一部分第5章《组织怎样演进》，从接任者的行动进入第二部分关于人的问题。[章节讨论稿](book/part-01/05-how-organizations-evolve.md) · [十组关键主张的六项核查](book/argument-cards/part-01-05-how-organizations-evolve.md)
 

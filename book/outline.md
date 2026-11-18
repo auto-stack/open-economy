@@ -1,8 +1,10 @@
 # 《开放经济学》候选逐章提纲
 
-框架于2026年11月12日整理，起草状态更新至11月14日。全书六部分、28个候选单元，28 章讨论稿与论证卡均已形成。第五部分七章、第六部分四章现可连续阅读。[论证地图](argument-map.md) · [术语与共同接口](../shared/concept-interfaces.md)
+卷首　[导言：十年以后，谁还用得上这张图？](introduction.md)
 
-第41轮框架收束保留六部分及28单元，不再新增题材章。[逐章承接表](chapter-interfaces.md)逐项列明新增条件、有限结论及证据地位；[范围说明](framework-scope.md)明确公共权力、保障、物质边界和后续论文的责任。第42轮落实Git及来源包，标签`framework-v0.1`以Git记录的修订为准；不代表全部章节已经成稿。
+第二版目录更新于 2026 年 11 月 18 日。全书六部分、29 章，均有讨论稿和论证卡。第五部分八章、第六部分四章现可连续阅读。[论证地图](argument-map.md) · [术语与共同接口](../shared/concept-interfaces.md)
+
+第41轮框架收束保留六部分及28单元，第二版另将金融危机与技术投资独立成章。[逐章承接表](chapter-interfaces.md)逐项列明新增条件、有限结论及证据地位；[范围说明](framework-scope.md)明确公共权力、保障、物质边界和后续论文的责任。第42轮落实Git及来源包，标签`framework-v0.1`以Git记录的修订为准；不代表全部章节已经成稿。
 
 全书主问：复杂组织怎样形成、维持和改变共同能力；在人类社会中，怎样使生产、交互、人的机会、持续投入与共同责任相容？Open Business是进入经济领域后需要比较、检验的一类应用。
 
@@ -59,7 +61,8 @@
 | 五4 [交易、价格与市场规则](part-05/04-transactions-prices-and-market-rules.md) | 合作交换、竞争、讨价还价及传播怎样共同影响价格和配置？ | 需求、支付能力、替代机会、信息、执行与公平的接口 | [专题综述](../research/surveys/08-price-income-and-reinvestment/procurement-and-platform-options-2026.md)、[论证卡](argument-cards/part-05-04-transactions-prices-and-market-rules.md)。集采降价、履约及排他限制各有比较基准。 |
 | 五5 [记账、信用与货币的多种历史](part-05/05-accounts-credit-and-money.md) | 不同社会怎样使承诺、计价、支付与清偿可依赖？ | 交易、债务、公共收支、认证与货币的多路径解释 | [专题综述](../research/surveys/02-wealth-money-history/objects-promises-and-settlement-2026.md)、[论证卡](argument-cards/part-05-05-accounts-credit-and-money.md)。史料、器物与实际清偿分开。 |
 | 五6 [投资、收入、风险与再投入](part-05/06-investment-income-and-reinvestment.md) | 今天的投入怎样获得支付，明天谁有购买力？ | 可承诺回款、投资时点、逐期用途现金、偿付和维护；收入需求、公共预算、保险保障与下一期投入的接口 | [专题综述](../research/surveys/08-price-income-and-reinvestment/daqin-funding-and-use-2026.md)、[论证卡](argument-cards/part-05-06-investment-income-and-reinvestment.md)。资金用途和生产结果分别追踪。 |
-| 五7 [共享成果怎样获得持续支持](part-05/07-sustaining-shared-work.md) | 开放复用怎样与经营、竞争、维护和贡献回报相容？ | 公共上游与稀缺服务的区分；多种资金／治理机制的可行性比较 | [专题综述](../research/surveys/03-competition-cooperation-distribution/support-for-shared-maintenance-2026.md)、[论证卡](argument-cards/part-05-07-sustaining-shared-work.md)。实际投入和净新增维护需另核。 |
+| 五7 [繁荣之后，谁来付账？](part-05/07-after-the-boom.md) | 为什么有些投资损失会使行业外的人停工？退潮之后谁接手设备，谁获得收入和工作？ | 比较房贷、光纤和算力投资的融资期限、损失传导与资产再利用 | [章节论证卡](argument-cards/part-05-07-after-the-boom.md)。最终净敞口及跨行业收入效应仍待观察。 |
+| 五8 [共享成果怎样获得持续支持](part-05/08-sustaining-shared-work.md) | 开放复用怎样与经营、竞争、维护和贡献回报相容？ | 公共上游与稀缺服务的区分；多种资金／治理机制的可行性比较 | [专题综述](../research/surveys/03-competition-cooperation-distribution/support-for-shared-maintenance-2026.md)、[论证卡](argument-cards/part-05-08-sustaining-shared-work.md)。实际投入和净新增维护需另核。 |
 
 这些单元是解释经济条件的顺序，不是无制度生产→产权→市场→货币的普遍历史。权利、需求、收入和金融安排持续反馈到生产与技术采用；历史来源按原版本保留。
 
@@ -74,7 +77,7 @@
 
 ## 各章共同的写作约束
 
-起草前用同一张论证卡列出本章承接的问题、新增前提、推导或证据、竞争解释和失败情形、价值前提及向后交付的有限结论。全书 28 张卡随章更新，每项证据的适用条件在卡中单列。
+起草前用同一张论证卡列出本章承接的问题、新增前提、推导或证据、竞争解释和失败情形、价值前提及向后交付的有限结论。全书 29 张卡随章更新，每项证据的适用条件在卡中单列。
 
 附录承载术语、模型条件、关键证据与原始归档索引；正式文献筛选、完整度量讨论和研究设计进入论文路线。正文保留理解关键论证所需的条件，避免只用“详见论文”遮蔽推导缺口。
 

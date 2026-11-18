@@ -2,6 +2,8 @@
 
 对应第一部分第5章。正文用交接双方、传承前后的作品和同一次操作的不同记录观察组织演进。前接共同记忆与接口，后接人的身体、学习和目标形成。C1至C10定位本章主张，记录人均为本项目研究助手，记录日期为2026年11月13日。[章稿](../part-01/05-how-organizations-evolve.md) · [六项核查格式](../../shared/source-check-format.md) · [资料归档与读段](../../wiki/raw/round-54/README.md)
 
+第二版交接段复用 C1 的观察，将专长表更新与限时授权区分。电话装配实验没有操纵签发安排；新增推论及对照见[一2综述](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md#交接预测的强对照)。
+
 <a id="c1"></a>
 ## 换人后如何重新找到专长（C1）
 

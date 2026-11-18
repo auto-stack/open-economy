@@ -28,7 +28,7 @@
 | 主张与地位 | 来源及作用 | 反向材料或竞争解释 | 适用边界 | 已核与未知 | 修订条件或下一步 |
 |---|---|---|---|---|---|
 | 三点逐点容限 0.1 可排除所有直线〔条件推论〕 | [二阶差分下界与达到下界的直线](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/models.md) | 最小二乘解只优化平方和，单看它的最大误差会误拒其他直线 | 三个指定等间距的无噪声点，可调截距与斜率 | 两种准则分别得到 1/6 与 1/8；三点以外的函数未知 | 容限若放宽至 1/8，则不能再据这三点排除所有直线 |
-| 熟手缺席时，交接关系可比供水率与替班人数更准地预测哪班先恢复〔待验证〕 | L233 换人装配研究提供专长依赖线索；[本章综述](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md)给出配对演练及比较规则 | 人数已足以预测、临时授权可替代原路径、设备故障支配时长 | 同级故障、相同资源和截止时间，用从未参与定规则的班组与故障检验 | 已定主要终点及求援、超时口径，尚无泵房数据或统一 Ordo 分数 | 先冻结三种预测，再按同一组结果比较；若无额外命中或取得信息过贵，收窄用途 |
+| 限时内实际可用的交接路径能否改善恢复预测〔假说〕 | Lewis 的团队量表、L233 换人实验、Jones 的单点与共因分析；[比较设计](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/review-2026.md#交接预测的强对照) | 岗位依赖已能辨认共享签发点；既有模型也可能用同一份记录得到相同改进 | 同级任务、相同预算与时限；演练前记录，留出新班组和新题 | 无泵房实测，无跨领域标量；排序并列、超时与求援均保留 | 分别比较新增资料和等资料下的方法差别，同时记录采集成本 |
 
 基础资料见[Q3阅读记录](../../research/reviews/04-reading-notes.md)与[深化阅读](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/reading-notes.md)；后续依次见[成本](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/costs-and-adaptation-2026-11-13/reading-notes.md)、[检测](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/detection-and-learning-2026-11-13/reading-notes.md)、[结构与试验](../../research/surveys/04-influence-and-social-equivalence/entropy-information-ordo/structure-and-safe-tests-2026-11-13/reading-notes.md)。实际原件及哈希由[第46批复用清单](../../wiki/raw/round-46/source-reuse.json)指向既有本地材料，没有新增检索或下载。
 

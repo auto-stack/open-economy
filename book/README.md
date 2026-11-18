@@ -1,6 +1,8 @@
 # 开放经济学书籍路线
 
-第一部分五章已有讨论稿和论证卡，全书六部分 28 章均已形成讨论稿与论证卡。[从集合到组织](part-01/01-from-collection-to-organization.md) · [第1章论证卡](argument-cards/part-01-01-from-collection-to-organization.md) · [五章通读记录](../research/reviews/63-from-collection-to-organization-chapter.md)
+从[卷首导言《十年以后，谁还用得上这张图？》](introduction.md)开始阅读。
+
+第一部分五章已有讨论稿和论证卡，全书六部分 29 章均已形成讨论稿与论证卡。[从集合到组织](part-01/01-from-collection-to-organization.md) · [第1章论证卡](argument-cards/part-01-01-from-collection-to-organization.md) · [五章通读记录](../research/reviews/63-from-collection-to-organization-chapter.md)
 
 全书正文采用轻松、明快的叙事科普笔调，面向对人和社会好奇、未必学过物理或经济学的读者。[正文怎样讲故事和证据](#正文怎样讲故事和证据)
 
@@ -26,11 +28,11 @@
 
 同日[第46轮](../research/reviews/46-primary-regulation-and-2026.md)继续追读原始概念分析和2026年研究，补充共同设定点的阈值判据、维持的时间尺度及间歇性；对应[综述0.3](../research/surveys/01-organization-maintenance/review-2026.md)和[本轮章节表](../research/surveys/01-organization-maintenance/primary-followup-2026-11-13/chapter-mapping.md)。间歇节能、发育理论等保留各自的待检验或未读状态。
 
-当前采用[纲领0.4](../docs/charter.md)和[第41轮框架收束](../research/reviews/41-framework-closure.md)。六部分和28候选单元保留；框架标签时11章稿，当前28章稿，三项接口已形成[理论核心](../shared/minimal-theory-core.md)、[组织边界](../research/surveys/07-organization-formation/organization-comparison-and-boundaries.md)及[AI经济闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)。[逐章承接](chapter-interfaces.md)和[范围说明](framework-scope.md)是后续起草入口；Git基线及来源包按[第42轮](../research/reviews/42-git-baseline-and-source-package.md)落实。
+当前采用[纲领0.4](../docs/charter.md)和[第41轮框架收束](../research/reviews/41-framework-closure.md)。框架标签时为六部分、28 个候选单元、11 章稿。第二版新增危机章，当前共 29 章，三项接口已形成[理论核心](../shared/minimal-theory-core.md)、[组织边界](../research/surveys/07-organization-formation/organization-comparison-and-boundaries.md)及[AI经济闭环](../research/surveys/08-price-income-and-reinvestment/ai-production-income-and-maintenance-loop.md)。[逐章承接](chapter-interfaces.md)和[范围说明](framework-scope.md)是后续起草入口；Git基线及来源包按[第42轮](../research/reviews/42-git-baseline-and-source-package.md)落实。
 
-写作查阅已有[来源编号与实际读页目录](../wiki/index/SOURCES.md)。本轮[内部资料质量基线](../research/reviews/37-internal-knowledge-service-baseline.md)盘点资料、核查范围并记录维护事项，没有新增章节或把资料质量检查当作理论／制度验证；该次基线为十一章；当前28章、28候选单元。
+写作查阅已有[来源编号与实际读页目录](../wiki/index/SOURCES.md)。本轮[内部资料质量基线](../research/reviews/37-internal-knowledge-service-baseline.md)盘点资料、核查范围并记录维护事项，没有新增章节或把资料质量检查当作理论／制度验证；该次基线为十一章；第二版现有 29 章。
 
-当前统一入口：[候选逐章提纲](outline.md)、[六部分论证地图](argument-map.md)与[信用／投资及回流维护研究](../research/reviews/36-credit-investment-feedback-and-maintenance.md)。第五部分七章和第六部分四章均已写成，形成从交易与清偿到制度比较及检验的连续讨论稿；此前形成、价格与术语研究保留，不把题材有位置当作已经成稿。
+当前统一入口：[候选逐章提纲](outline.md)、[六部分论证地图](argument-map.md)与[信用／投资及回流维护研究](../research/reviews/36-credit-investment-feedback-and-maintenance.md)。第五部分八章和第六部分四章均已写成，形成从交易与清偿到制度比较及检验的连续讨论稿；此前形成、价格与术语研究保留，不把题材有位置当作已经成稿。
 
 2026年11月12日此前的结构修订按用户要求将“人作为组织—共同承诺—人的意义”整理为第二、第三部分共八章讨论稿，并建立相应论证卡。该阶段采用[原纲领0.3](../docs/history/charter-v0.3-2026-11-12.md)的六部分结构；[纲领0.2](../docs/history/charter-v0.2-2026-11-12.md)与[原开篇](history/part-02-01-human-as-organization-before-restructure-2026-11-12.md)保留历史。八章进入书稿，不代表全部命题已经确立，也不代表其余部分已经成稿。
 
@@ -42,7 +44,7 @@
 | 二 作为组织的人 | 身体与支持、维持与发展、感受与目标、目标冲突与修订；生命组织怎样获得行动能力并形成和改变目标？ | 四章讨论稿 |
 | 三 人际合作 规范与意义 | 合作与竞争、共同承诺、规则与权力、共同目的与人的意义；可改变目标的人怎样共同生活并评价共同目的？ | 四章讨论稿 |
 | 四 多种人群组织 | 家庭、社区、村落、城市、学校、公司、职场、行业、市场、社会、阶层、阶级与国家；成员、依赖、权力、退出、维护与外部影响怎样不同？公司另比较内部治理、员工参与与授权 | 四章均有讨论稿与论证卡，继续检验个体结果、跨组织接手和费用归属 |
-| 五 经济与开放合作 | 财富怎样由资源、知识、劳动、工具与组织形成和积累，再进入交换、价格、产权、资本、分配及开放合作；技术杠杆、生产力、投资维护、企业领导和传播怎样连接，AI怎样改变条件？ | 七章均有讨论稿与论证卡；货币多路径、真实融资用途及共享维护已有专题综述 |
+| 五 经济与开放合作 | 财富怎样由资源、知识、劳动、工具与组织形成和积累，再进入交换、价格、产权、资本、分配及开放合作；技术杠杆、生产力、投资维护、企业领导和传播怎样连接，AI怎样改变条件？ | 八章均有讨论稿与论证卡；货币多路径、真实融资用途及共享维护已有专题综述 |
 | 六 Open Business 的应用 | AutoOS角色、资源与交易本金、公共回馈、贡献回报、维护、治理与交接；候选机制何时可持续，怎样检验其效果？ | 四章均有讨论稿与论证卡；Q8 的角色与费率候选接受替代制度和失败判据的检验 |
 
 第一部分保留原有组织基础与能力机制的范围。第二至第三部分增加人的连接，第四部分比较领域差异，第五至第六部分研究经济机制和应用。Open Business继续作为候选应用，不预设为所有组织问题的答案。
@@ -105,7 +107,9 @@
 
 第 6 章　[投资、收入、风险与再投入](part-05/06-investment-income-and-reinvestment.md) · [专题综述](../research/surveys/08-price-income-and-reinvestment/daqin-funding-and-use-2026.md) · [论证卡](argument-cards/part-05-06-investment-income-and-reinvestment.md)
 
-第 7 章　[共享成果怎样获得持续支持](part-05/07-sustaining-shared-work.md) · [专题综述](../research/surveys/03-competition-cooperation-distribution/support-for-shared-maintenance-2026.md) · [论证卡](argument-cards/part-05-07-sustaining-shared-work.md)
+第 7 章　[繁荣之后，谁来付账？——从美国房贷危机到 AI 投资热潮](part-05/07-after-the-boom.md) · [论证卡](argument-cards/part-05-07-after-the-boom.md)
+
+第 8 章　[共享成果怎样获得持续支持](part-05/08-sustaining-shared-work.md) · [专题综述](../research/surveys/03-competition-cooperation-distribution/support-for-shared-maintenance-2026.md) · [论证卡](argument-cards/part-05-08-sustaining-shared-work.md)
 
 ## 第六部分 Open Business 的应用
 
@@ -192,4 +196,4 @@
 
 经济部分仍可追踪免费知识的创作、保留、发现、使用、交易关联与维护。意义与使命不能替代必要报酬或维护预算。
 
-后续按[28单元承接表](chapter-interfaces.md)对六部分 28 章作跨章审阅。第四部分需要比较成员资格、权力和退出条件不同的案例。理论路线补竞争解释与有限机制，见[研究依赖](../docs/research-dependencies.md)。Open Business的技术可行性、预算、参与、激励、履约、分配及规范理由各有待核查的前提。
+后续按[逐章承接表](chapter-interfaces.md)对六部分 29 章作跨章审阅。第四部分需要比较成员资格、权力和退出条件不同的案例。理论路线补竞争解释与有限机制，见[研究依赖](../docs/research-dependencies.md)。Open Business的技术可行性、预算、参与、激励、履约、分配及规范理由各有待核查的前提。

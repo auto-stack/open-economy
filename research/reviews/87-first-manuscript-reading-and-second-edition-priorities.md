@@ -40,7 +40,7 @@
 
 ## 两处可以合并的讲解
 
-- **把完整的分账和维护责任留给六3。** 五6的后半已讲两种公共预算、平台外使用、用途受限和接替。五7又列出多种支持机制，六2、六3再各讲一遍。建议五6在“全期够用，中途可能断款”收束，五7保留 curl 两人六个月和 SQLite 的真实承诺，六2集中比较同一服务的替代制度。六3由一次退款加一次维护续约完整展开责任，六4只追结果。这样每次回到同一个维护者，他面对的都是一个新决定。[五6](../../book/part-05/06-investment-income-and-reinvestment.md) · [五7](../../book/part-05/07-sustaining-shared-work.md) · [六2](../../book/part-06/02-organizing-the-same-service.md) · [六3](../../book/part-06/03-autoos-roles-funds-and-responsibilities.md)
+- **把完整的分账和维护责任留给六3。** 五6的后半已讲两种公共预算、平台外使用、用途受限和接替。五7又列出多种支持机制，六2、六3再各讲一遍。建议五6在“全期够用，中途可能断款”收束，五7保留 curl 两人六个月和 SQLite 的真实承诺，六2集中比较同一服务的替代制度。六3由一次退款加一次维护续约完整展开责任，六4只追结果。这样每次回到同一个维护者，他面对的都是一个新决定。[五6](../../book/part-05/06-investment-income-and-reinvestment.md) · [五7](../../book/part-05/08-sustaining-shared-work.md) · [六2](../../book/part-06/02-organizing-the-same-service.md) · [六3](../../book/part-06/03-autoos-roles-funds-and-responsibilities.md)
 - **五4章末保留一处通往货币的转场。** 目前一段把读者直接送往五6，还说货币史“另行起草”，下一段却已引出五5的明代宝钞。删前一段的起草进度，把买家递出票、卖家怎样确定债已清偿留作章末问题。相反，二2与五1两次写中国配镜值得保留，前者回答个人能否使用工具，后者增加家庭路费、实际佩戴与社会成本，第二次确实向前走了一步。[五4章末](../../book/part-05/04-transactions-prices-and-market-rules.md) · [五5开头](../../book/part-05/05-accounts-credit-and-money.md)
 
 ## 一处已复算的勘误

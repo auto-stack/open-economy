@@ -1,6 +1,6 @@
 # 共享成果怎样获得持续支持的章节论证卡
 
-第 82 轮。对应[章节](../part-05/07-sustaining-shared-work.md)、[定向综述](../../research/surveys/03-competition-cooperation-distribution/support-for-shared-maintenance-2026.md)与[一手材料及读段](../../wiki/raw/round-74/README.md)。
+第 82 轮。对应[章节](../part-05/08-sustaining-shared-work.md)、[定向综述](../../research/surveys/03-competition-cooperation-distribution/support-for-shared-maintenance-2026.md)与[一手材料及读段](../../wiki/raw/round-74/README.md)。
 
 | 主张与地位 | 来源及作用 | 反向材料或竞争解释 | 适用边界 | 已核与未知 | 修订条件或下一步 |
 |---|---|---|---|---|---|
@@ -9,3 +9,6 @@
 | 公告、修复和用户已部署是不同数量〔记录〕 | L344 openEuler 2023年12月报告 | 一次修复可涉多发行版本 | 社区月度口径 | 117条公告、88个漏洞，未见全部用户部署 | 按漏洞、版本、下游部署逐项关联 |
 | 上游获得额外支持取决于新增投入〔条件／假说〕 | L343–345 与既有采购比较 | 新钱可替代原有预算，志愿工时也有成本 | 固定质量、服务期与接手者 | 尚无各制度同口径比较 | 查实际新完成、被挤出的投入及未承接项 |
 | 未来值守须获同意和报酬〔价值〕 | Q8及合同边界 | 追责过宽会使人退出 | 过去奖项、未来委托分开 | 无永久义务的经验推定 | 订期限、转交条件与退出保障 |
+| 专项审查可追至交付〔项目记录〕 | 2014 年 CII 公告与 2016 年 OpenSSL 项目回顾 | 同期开发和其他捐赠也影响项目 | 2015 年分两阶段审查开发中代码 | 两份报告可定位，未测避免损失数 | 分开复核委托、交付及下游部署 |
+
+第二版新增材料与定位见[第 77 批资料](../../wiki/raw/round-77/README.md)，三项结果的比较口径见[观察协议](../../research/surveys/03-competition-cooperation-distribution/shared-service-institution-protocol.md#7-沿同一处错页追三种结果)。

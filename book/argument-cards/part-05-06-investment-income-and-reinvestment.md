@@ -33,6 +33,14 @@
 
 自建例子见[模型说明](../../research/surveys/08-price-income-and-reinvestment/credit-models.md)。它们借鉴既有激励与等待思路，不是理论原创声明；费率、比例、概率、金额与未来收入全部假定，无实际AutoOS收支或政策效果。
 
+农机预约例以万元计，可支配 2 减检修 0.5，距首付 3 仍差 1.5；订单总额 2 固定。预收获准使用的 1.5 后可付首期，作业及以后机款仍须履行。两种合同均属设定；[五3](../part-05/03-rights-control-and-distribution.md#明年春天谁来订机器)的崇州采访只提供主体和分配依据。
+
 未增加正式79条总表编号或通用Ordo量。待检验应用是[回流与维护设计](../../research/surveys/03-competition-cooperation-distribution/open-business-finance-and-maintenance.md)的合同、资金、连续性和退出效果；财政、金融体系风险及宏观动态仍有独立研究任务。
 
 本轮新增[合作收益到开放商业的论证表](../../research/surveys/08-price-income-and-reinvestment/financing-argument-map.md)与[五种组织比较](../../research/surveys/03-competition-cooperation-distribution/institutional-financing-comparison.md)：给定正成本与支持不足时，需要持续资源与履约安排；由此不能唯一推出Open Business。AI影响列为待测条件，贡献归因、激励与正当回报分别论证。
+
+本章的逐期现金问题在[下一章论证卡](part-05-07-after-the-boom.md)延伸到短债续借与行业外信用。
+
+## 第二版补记　老厂添设备与新厂进入
+
+行业投资率、就业与资本存量分别观察。既有企业样本会漏掉新厂；即使风险暴露较高的行业相对扩张，也没有跟踪每笔订单对应的设备付款。模具情景用以说明等待的代价，未作实际企业访谈。[研究比较与适用边界](../../research/surveys/02-wealth-money-history/production-specialization-and-accumulation-china-2026.md#从入世追到生产与家庭) · [原文定位](../../wiki/raw/round-78/README.md)

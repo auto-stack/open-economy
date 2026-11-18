@@ -1,6 +1,6 @@
 # 共享成果怎样获得持续支持的证据与识别边界（2026）
 
-2026 年 11 月 14 日，第 82 轮。对应[章节讨论稿](../../../book/part-05/07-sustaining-shared-work.md)及[六项核查](../../../book/argument-cards/part-05-07-sustaining-shared-work.md)。原件的取得方式与读段见[本批目录](../../../wiki/raw/round-74/README.md)。
+2026 年 11 月 14 日，第 82 轮。对应[章节讨论稿](../../../book/part-05/08-sustaining-shared-work.md)及[六项核查](../../../book/argument-cards/part-05-08-sustaining-shared-work.md)。原件的取得方式与读段见[本批目录](../../../wiki/raw/round-74/README.md)。
 
 ## 同一项目里，谁付哪一种钱
 
